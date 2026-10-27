@@ -41,7 +41,20 @@ def main():
             failures.append({"path": row["path"], "error": "content_mismatch"})
     actual = {str(p.relative_to(archive)) for p in archive.rglob("*") if p.is_file()}
     unexpected = sorted(actual - expected)
-    missing_directories = [d for d in manifest["directories"] if not (archive / d).is_dir()]
+    # Git represents files and their parents, but cannot represent empty directories.
+    # Keep the complete historical directory inventory without treating an absent
+    # empty directory as lost evidence in a fresh checkout.
+    required_directories = {
+        str(parent)
+        for name in expected
+        for parent in Path(name).parents
+        if str(parent) != "."
+    }
+    missing_directories = [d for d in sorted(required_directories) if not (archive / d).is_dir()]
+    absent_empty_directories = [
+        d for d in manifest["directories"]
+        if d not in required_directories and not (archive / d).is_dir()
+    ]
     passed = not failures and not unexpected and not missing_directories
     passed = passed and len(expected) == manifest["file_count"]
     passed = passed and total_bytes == manifest["bytes"]
@@ -53,6 +66,7 @@ def main():
         "failures": failures,
         "unexpected_files": unexpected,
         "missing_directories": missing_directories,
+        "unrepresented_empty_directories": absent_empty_directories,
         "scientific_producers_executed": 0,
         "scope": "Relocated record identity only; no mathematical or interval-trajectory regeneration.",
     }
