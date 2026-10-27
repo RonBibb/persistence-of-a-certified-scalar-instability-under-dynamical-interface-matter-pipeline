@@ -1,0 +1,23 @@
+{
+  "utc": "2026-10-19T14:20:25.998623+00:00",
+  "status": "SEALED_INDEPENDENTLY_ACCEPTED_SCOPED_RESULT_FULL_SIGN_HELD",
+  "classification": "EXACT_RESTRICTED_CANONICAL_PP_AND_FINITE_MIDPOINT_DIAGNOSTIC_PASS__FULL_CONTINUUM_AND_CHARGED_SIGN_HELD",
+  "manifest_sha256": "d12f6e7c2fbfa9065820d9b49baa22a899680631106b6faf203d4866afb3e39e",
+  "file_count": 1531,
+  "scientific_acceptance_sha256": "1d7452bf53cd35d261c22117f0507332aed9b215c347349724a5fc7f494ad145",
+  "terminal_acceptance_sha256": "84a6aa87c351cf6141a64729d6c644fd1010670be2c8e5627a890a065fc49298",
+  "report_sha256": "4b5fc551e965a0e49625c6b58d6ac5f02512d92764d5fe5ab9c8b2637d47ac3c",
+  "independent_prelaunch_reviews": 3,
+  "independent_full_scientific_audits": 3,
+  "terminal_scope_reviews": 3,
+  "unique_numerical_response_cases": 36,
+  "actual_numerical_response_evaluations": 37,
+  "background_package_builds": 1,
+  "background_coordinate_IVP_integrations": 2,
+  "new_background_root_solves": 0,
+  "numerical_CAS_cases_outside_frozen_plan": 0,
+  "successor_launched": false,
+  "all_reviewer_writes_complete": true,
+  "operational_maximum": "2026-10-19T15:19:50Z",
+  "closed_before_maximum": true
+}

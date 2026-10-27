@@ -1,0 +1,43 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Author-only material belongs outside this repository
+/.agents/
+/.codex/
+/AGENTS.md
+/agents/
+/private/
+/editor_only/
+/journal/
+/working-data/
+# Generated files; curated evidence is deliberately NOT ignored
+/build/
+/output/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Editable manuscript sources remain in the private parent.
+*.tex
+*.bib
+*.cls
+*.sty
+/manuscript/*
+!/manuscript/*.pdf
+!/manuscript/README.md
+
+# Scientific evidence logs and outputs are data, not build products.
+!/data/**/*.log
+!/data/**/*.out

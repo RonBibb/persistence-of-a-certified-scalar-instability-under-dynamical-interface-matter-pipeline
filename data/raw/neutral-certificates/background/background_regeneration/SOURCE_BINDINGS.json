@@ -1,0 +1,18 @@
+{
+  "primary/confirm_32768.py": {
+    "donor": "/Users/ronbibb/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/academic2-event-horizon/lin-d1-high-resolution-confirmation-20261002T015100Z/confirm_32768.py",
+    "sha256": "98d17ad555c7012266debe9e406fab02eae6db6b57dbe41c53dc635c66e7fe09"
+  },
+  "primary/validated_sensitivity_newton.py": {
+    "donor": "/Users/ronbibb/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/academic2-event-horizon/lin-d1-validated-sensitivity-newton-20261002T012953Z/validated_sensitivity_newton.py",
+    "sha256": "9c711da262d49a58e23e51b84bd30efce3e5c2a8730ebbc44034ac1ec546f653"
+  },
+  "independent/independent_d1_replay_r1.py": {
+    "donor": "/Users/ronbibb/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/academic2-event-horizon/lin-d1-independent-ode-replay-20261002T225837Z/independent_d1_replay_r1.py",
+    "sha256": "25e90b9b881787f8fd3d7f4e93bf2fb05ea64e2e30534f511c99b9911bdfe043"
+  },
+  "independent/independent_d1_replay.py": {
+    "donor": "/Users/ronbibb/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/academic2-event-horizon/lin-d1-independent-ode-replay-20261002T225837Z/independent_d1_replay.py",
+    "sha256": "d198c6e98d949190d479a33b3c5aadaee2021982e03141d0c1d252a0c370e044"
+  }
+}

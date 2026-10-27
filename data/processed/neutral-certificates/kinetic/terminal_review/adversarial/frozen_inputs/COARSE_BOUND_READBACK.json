@@ -1,0 +1,14 @@
+{
+  "operation": "Exact rational saved-bound comparisons only; no new IVP",
+  "all_strict_display_bounds_pass": true,
+  "comparisons": {
+    "Ewarp_upper_below_7_402": true,
+    "warp_a_lower_above_0_1351": true,
+    "mPhi_squared_upper_below_0_00402": true,
+    "h_squared_lower_above_0_000326841334": true,
+    "h_squared_upper_below_0_000326841341": true,
+    "event_width_lower_above_6_3797": true,
+    "event_width_upper_below_6_3807": true
+  },
+  "bound_interpretation": "Uniform full-parameter-box state/coefficient bounds; h_squared is background curvature, not tangential Fourier frequency"
+}

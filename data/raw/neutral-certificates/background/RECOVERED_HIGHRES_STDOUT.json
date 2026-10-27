@@ -1,0 +1,425 @@
+{
+  "all_predeclared_newton_images_strict_self_maps": true,
+  "all_results": [
+    {
+      "box_decimal_labels": [
+        "0.09901086289880687",
+        "0.09901086889880687"
+      ],
+      "box_event": {
+        "Dprime_bounds": [
+          1285.0210646390915,
+          1440.4044419527054
+        ],
+        "Ga_bounds": [
+          23.016844865378914,
+          25.777635992017565
+        ],
+        "Gs_bounds": [
+          -0.017911647850505676,
+          -0.01789610984236332
+        ],
+        "Gs_strictly_negative": true,
+        "event_bracket": [
+          "32727/16384",
+          "32729/16384"
+        ],
+        "event_bracket_decimal": [
+          1.99749755859375,
+          1.99761962890625
+        ],
+        "event_bracket_width": 0.0001220703125,
+        "event_cell_indices": [
+          32727,
+          32728
+        ],
+        "event_validated": true,
+        "h_bounds": [
+          -0.00047141250379034597,
+          0.00046563842134084274
+        ],
+        "ha_bounds": [
+          123677.68740395253,
+          123746.32828668301
+        ],
+        "hprime_bounds": [
+          124112.3318109777,
+          124237.17064812446
+        ],
+        "hprime_excludes_zero": true,
+        "hs_bounds": [
+          0.33761128360078435,
+          0.34152426619715986
+        ],
+        "max_picard_iterations": 2,
+        "negative_after": true,
+        "positive_before": true,
+        "zero_cells_contiguous": true
+      },
+      "box_exact_dyadic_bounds": [
+        "3567242282053583/36028797018963968",
+        "3567242498226365/36028797018963968"
+      ],
+      "box_name": "wide",
+      "center_event": {
+        "Dprime_bounds": [
+          1358.0602531433105,
+          1364.1160678863525
+        ],
+        "Ga_bounds": [
+          24.31815238338328,
+          24.422554421302777
+        ],
+        "Gs_bounds": [
+          -0.017906534172057696,
+          -0.0179035751572574
+        ],
+        "Gs_strictly_negative": true,
+        "event_bracket": [
+          "4091/2048",
+          "32729/16384"
+        ],
+        "event_bracket_decimal": [
+          1.99755859375,
+          1.99761962890625
+        ],
+        "event_bracket_width": 6.103515625e-05,
+        "event_cell_indices": [
+          32728,
+          32728
+        ],
+        "event_validated": true,
+        "h_bounds": [
+          -5.167388221252797e-06,
+          2.0002689896500495e-05
+        ],
+        "ha_bounds": [
+          123708.86627445518,
+          123746.30600635111
+        ],
+        "hprime_bounds": [
+          124170.00377118155,
+          124209.67599015996
+        ],
+        "hprime_excludes_zero": true,
+        "hs_bounds": [
+          0.33955627957760104,
+          0.3396851592616992
+        ],
+        "max_picard_iterations": 2,
+        "negative_after": true,
+        "positive_before": true,
+        "zero_cells_contiguous": true
+      },
+      "interval_newton_image": {
+        "decimal_bounds": [
+          0.09901086573764085,
+          0.09901086594044163
+        ],
+        "exact_bounds": [
+          "228303512597334807/2305843009213693952",
+          "456607026129923153/4611686018427387904"
+        ],
+        "width": 2.028007837617113e-10
+      },
+      "qualified_newton_inclusion": true,
+      "steps": 32768,
+      "strict_self_map": true
+    },
+    {
+      "box_decimal_labels": [
+        "0.09901086489880687",
+        "0.09901086689880687"
+      ],
+      "box_event": {
+        "Dprime_bounds": [
+          1333.7095679938793,
+          1391.6871242821217
+        ],
+        "Ga_bounds": [
+          23.884383690522046,
+          24.910533904076548
+        ],
+        "Gs_bounds": [
+          -0.017908234441645222,
+          -0.017899521804775477
+        ],
+        "Gs_strictly_negative": true,
+        "event_bracket": [
+          "32727/16384",
+          "32729/16384"
+        ],
+        "event_bracket_decimal": [
+          1.99749755859375,
+          1.99761962890625
+        ],
+        "event_bracket_width": 0.0001220703125,
+        "event_cell_indices": [
+          32727,
+          32728
+        ],
+        "event_validated": true,
+        "h_bounds": [
+          -0.00017439671662167238,
+          0.00016854780754194072
+        ],
+        "ha_bounds": [
+          123677.70226015692,
+          123746.3134211505
+        ],
+        "hprime_bounds": [
+          124130.66976980511,
+          124218.80928782765
+        ],
+        "hprime_excludes_zero": true,
+        "hs_bounds": [
+          0.33883704560179756,
+          0.34029819442043224
+        ],
+        "max_picard_iterations": 2,
+        "negative_after": true,
+        "positive_before": true,
+        "zero_cells_contiguous": true
+      },
+      "box_exact_dyadic_bounds": [
+        "3567242354111177/36028797018963968",
+        "3567242426168771/36028797018963968"
+      ],
+      "box_name": "narrow",
+      "center_event": {
+        "Dprime_bounds": [
+          1358.0602531433105,
+          1364.1160678863525
+        ],
+        "Ga_bounds": [
+          24.31815238338328,
+          24.422554421302777
+        ],
+        "Gs_bounds": [
+          -0.017906534172057696,
+          -0.0179035751572574
+        ],
+        "Gs_strictly_negative": true,
+        "event_bracket": [
+          "4091/2048",
+          "32729/16384"
+        ],
+        "event_bracket_decimal": [
+          1.99755859375,
+          1.99761962890625
+        ],
+        "event_bracket_width": 6.103515625e-05,
+        "event_cell_indices": [
+          32728,
+          32728
+        ],
+        "event_validated": true,
+        "h_bounds": [
+          -5.167388221252797e-06,
+          2.0002689896500495e-05
+        ],
+        "ha_bounds": [
+          123708.86627445518,
+          123746.30600635111
+        ],
+        "hprime_bounds": [
+          124170.00377118155,
+          124209.67599015996
+        ],
+        "hprime_excludes_zero": true,
+        "hs_bounds": [
+          0.33955627957760104,
+          0.3396851592616992
+        ],
+        "max_picard_iterations": 2,
+        "negative_after": true,
+        "positive_before": true,
+        "zero_cells_contiguous": true
+      },
+      "interval_newton_image": {
+        "decimal_bounds": [
+          0.09901086573766466,
+          0.09901086594043548
+        ],
+        "exact_bounds": [
+          "456607025194779413/4611686018427387904",
+          "114151756532473697/1152921504606846976"
+        ],
+        "width": 2.0277082421991943e-10
+      },
+      "qualified_newton_inclusion": true,
+      "steps": 32768,
+      "strict_self_map": true
+    }
+  ],
+  "authority": "RIGOROUS_ONE_DIMENSIONAL_SHOOTING_ROOT_CONDITIONAL_ON_THE_DECLARED_ODE_AND_WALL_MAP",
+  "claim_boundary": [
+    "This proves only a root of the reduced proper-distance shooting problem if the classification passes.",
+    "An independent checker and derived-quantity enclosure remain separate before final D1 closure.",
+    "No collapse-line matching, stability, event horizon, or D2 bridge follows."
+  ],
+  "classification": "RIGOROUS_CURVED_BACKGROUND_SHOOTING_ROOT_EXISTS",
+  "dual_algebra_controls": {
+    "exp_rule_contains_reference": true,
+    "product_rule": true,
+    "quotient_derivative_contains_reference": true,
+    "quotient_value_contains_reference": true,
+    "square_rule": true
+  },
+  "error": null,
+  "finest_narrow_result": {
+    "box_decimal_labels": [
+      "0.09901086489880687",
+      "0.09901086689880687"
+    ],
+    "box_event": {
+      "Dprime_bounds": [
+        1333.7095679938793,
+        1391.6871242821217
+      ],
+      "Ga_bounds": [
+        23.884383690522046,
+        24.910533904076548
+      ],
+      "Gs_bounds": [
+        -0.017908234441645222,
+        -0.017899521804775477
+      ],
+      "Gs_strictly_negative": true,
+      "event_bracket": [
+        "32727/16384",
+        "32729/16384"
+      ],
+      "event_bracket_decimal": [
+        1.99749755859375,
+        1.99761962890625
+      ],
+      "event_bracket_width": 0.0001220703125,
+      "event_cell_indices": [
+        32727,
+        32728
+      ],
+      "event_validated": true,
+      "h_bounds": [
+        -0.00017439671662167238,
+        0.00016854780754194072
+      ],
+      "ha_bounds": [
+        123677.70226015692,
+        123746.3134211505
+      ],
+      "hprime_bounds": [
+        124130.66976980511,
+        124218.80928782765
+      ],
+      "hprime_excludes_zero": true,
+      "hs_bounds": [
+        0.33883704560179756,
+        0.34029819442043224
+      ],
+      "max_picard_iterations": 2,
+      "negative_after": true,
+      "positive_before": true,
+      "zero_cells_contiguous": true
+    },
+    "box_exact_dyadic_bounds": [
+      "3567242354111177/36028797018963968",
+      "3567242426168771/36028797018963968"
+    ],
+    "box_name": "narrow",
+    "center_event": {
+      "Dprime_bounds": [
+        1358.0602531433105,
+        1364.1160678863525
+      ],
+      "Ga_bounds": [
+        24.31815238338328,
+        24.422554421302777
+      ],
+      "Gs_bounds": [
+        -0.017906534172057696,
+        -0.0179035751572574
+      ],
+      "Gs_strictly_negative": true,
+      "event_bracket": [
+        "4091/2048",
+        "32729/16384"
+      ],
+      "event_bracket_decimal": [
+        1.99755859375,
+        1.99761962890625
+      ],
+      "event_bracket_width": 6.103515625e-05,
+      "event_cell_indices": [
+        32728,
+        32728
+      ],
+      "event_validated": true,
+      "h_bounds": [
+        -5.167388221252797e-06,
+        2.0002689896500495e-05
+      ],
+      "ha_bounds": [
+        123708.86627445518,
+        123746.30600635111
+      ],
+      "hprime_bounds": [
+        124170.00377118155,
+        124209.67599015996
+      ],
+      "hprime_excludes_zero": true,
+      "hs_bounds": [
+        0.33955627957760104,
+        0.3396851592616992
+      ],
+      "max_picard_iterations": 2,
+      "negative_after": true,
+      "positive_before": true,
+      "zero_cells_contiguous": true
+    },
+    "interval_newton_image": {
+      "decimal_bounds": [
+        0.09901086573766466,
+        0.09901086594043548
+      ],
+      "exact_bounds": [
+        "456607025194779413/4611686018427387904",
+        "114151756532473697/1152921504606846976"
+      ],
+      "width": 2.0277082421991943e-10
+    },
+    "qualified_newton_inclusion": true,
+    "steps": 32768,
+    "strict_self_map": true
+  },
+  "frozen_design": {
+    "full_shooting_bracket": [
+      "0.09901076956670637",
+      "0.09901087894170638"
+    ],
+    "proper_distance_endpoint": 2,
+    "root_boxes": {
+      "narrow": [
+        "0.09901086489880687",
+        "0.09901086689880687"
+      ],
+      "wide": [
+        "0.09901086289880687",
+        "0.09901086889880687"
+      ]
+    },
+    "root_center": "0.09901086589880687",
+    "step_counts": [
+      32768
+    ]
+  },
+  "runtime": {
+    "arb_precision_bits": 768,
+    "platform": "Linux-6.8.0-139-generic-aarch64-with-glibc2.39",
+    "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+    "python_flint": "0.9.0",
+    "wall_seconds": 70.2075723670423
+  },
+  "schema": "d1-validated-sensitivity-newton-result-v1",
+  "status": "COMPLETE"
+}

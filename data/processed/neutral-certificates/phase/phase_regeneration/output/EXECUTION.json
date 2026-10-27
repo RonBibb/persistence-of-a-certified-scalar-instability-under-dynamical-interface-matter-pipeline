@@ -1,0 +1,31 @@
+{
+  "status": "FRESH_TWO_ENGINE_PHASE_COMPLETE_PENDING_INDEPENDENT_AUDIT",
+  "started_utc": "2026-10-18T18:19:11.331888+00:00",
+  "cutoff_utc": "2026-10-18T19:14:12+00:00",
+  "hard_limit_seconds": 300,
+  "cases": [
+    {
+      "name": "phase",
+      "entry": "test1_phase_v3.py",
+      "started_utc": "2026-10-18T18:19:11.340999+00:00",
+      "pid": 232672,
+      "exit_code": 0,
+      "elapsed_seconds": 15.19166892299836,
+      "completed_utc": "2026-10-18T18:19:26.532683+00:00",
+      "producer_status": "COMPLETE_PENDING_INDEPENDENT_AUDIT",
+      "producer_classification": null
+    }
+  ],
+  "retries": 0,
+  "phase_output_absent_before_launch": true,
+  "source_bindings_sha256": "92ef780ee87f048a28f629e676062ac33345955686f4798e6778b1c8fea80144",
+  "harness_sha256": {
+    "run_leased.py": "d96dbe47aed9c93d4988880f2ae6565c3a3f67dd216b03fc105b85ffdc280c8b",
+    "bootstrap.py": "4178952be202c1ef014a60e40b4e599561ba3b7e8d4bd2ea133a394e2186de3b"
+  },
+  "active_science_at_admission": [],
+  "cpu": 0,
+  "completed_utc": "2026-10-18T18:19:26.532902+00:00",
+  "elapsed_seconds": 15.201019006999559,
+  "lease_released": true
+}

@@ -1,0 +1,27 @@
+{
+  "utc": "2026-10-19T14:53:53.932952+00:00",
+  "admitted": true,
+  "scope": "Fixed whole-background-box interval enclosure and conditional all-mode certificate execution ONLY; gate/result acceptance requires postrun proof review",
+  "candidate": "PRELAUNCH_CANDIDATE_v2.json",
+  "candidate_sha256": "67f05e595460f603d9c98e08c79b86b2cdf121a4e0f4b7911f20c3bf7bb0a083",
+  "review_receipts": {
+    "adversarial_review/prelaunch_v2/PRELAUNCH_RECEIPT.json": "225aa8abbf89124936cfae3aed9500cdc99bd176bb3bb7e8054a98fb3e0cfc7a",
+    "action_review/prelaunch_v2/PRELAUNCH_RECEIPT.json": "7064422fab53fece475c71d6c5c34ac6acde2dbabafac299279096852abb34dc",
+    "independent_review/prelaunch/PRELAUNCH_RECEIPT.json": "801fa8474161de2b086c3c1d7aec59cfa42f4e754a978853ee9675858ea70c4e"
+  },
+  "executable_bindings": {
+    "certificate_runner_v2.py": "3bf9326fdc664d975e0962a1ecefa10017d78dbccacde97b39731b7d2103d859",
+    "certificate_harness_v2.py": "bee8f4bd9cafa9cf698cdb3427cdfee0c91ba5a5edfd0912a2222686b4e6b307",
+    "dyadic_interval.py": "c40444a1fb2eb80d59ab41561b381c398c5151057803d9a1e4d641f15d42a6c6",
+    "background_engine.py": "b88453bcec16c6c3fa4961abbfcb2453dac0ebbf83dfcd3ac1235dae7c315cbe",
+    "CHECK_PLAN.md": "36893eda883353cf541bf5a2ca92edd3ae46141184cfb7efdb40e1d8dabef30b",
+    "INPUTS.json": "de4a5d26bada35f69a4da9996b4e93b626b52bf2ec0cc1785d0b0e96a4ddfa41",
+    "INTERVAL_CERTIFICATE_PLAN.md": "7be53e76c949333a32ada8f44744d385ebbcd3091dcbba2d008453c6ca69d009",
+    "WEIGHTED_ALL_MODE_PROOF.md": "fa5239344637664a2661239662d505700ec9b60ca7f756227de79c26866467a5",
+    "RECOVERY_INTEGRITY_ADDENDUM.md": "6760f2fd1b26a9c933b3deaf257409a335deaed6be348a1c1d343f20a5885c97"
+  },
+  "required_launcher": "certificate_harness_v2.py",
+  "active_runner": "certificate_runner_v2.py",
+  "scientific_acceptance": false,
+  "deadline": "2026-10-19T16:03:42Z"
+}

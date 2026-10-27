@@ -1,0 +1,17 @@
+{
+  "absolute_deadline": "2026-10-19T16:03:42+00:00",
+  "command": [
+    "/opt/homebrew/opt/python@3.14/bin/python3.14",
+    "-B",
+    "/Users/ronbibb/Research/papers/ab-bridge-feasibility/20261019_continuum_kinetic_143342/certificate_runner_v2.py",
+    "--output",
+    "/Users/ronbibb/Research/papers/ab-bridge-feasibility/20261019_continuum_kinetic_143342/recovery_corrupt",
+    "--max-chunks",
+    "1"
+  ],
+  "finished_utc": "2026-10-19T14:53:54.850895+00:00",
+  "returncode": 1,
+  "started_utc": "2026-10-19T14:53:54.761930+00:00",
+  "status": "PASS",
+  "tag": "04_committed_chunk_corruption"
+}

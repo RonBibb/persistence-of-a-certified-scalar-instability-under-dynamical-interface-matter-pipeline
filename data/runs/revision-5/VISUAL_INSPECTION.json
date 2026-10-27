@@ -1,0 +1,24 @@
+{
+  "scope": "Visual inspection of rendered page montages for the full article and individual changed pages; layout only.",
+  "pages": 77,
+  "montages_inspected": 7,
+  "changed_pages_inspected": [
+    24,
+    25,
+    26,
+    44,
+    45
+  ],
+  "equation_destinations": {
+    "Q9": 25,
+    "Q10": 25,
+    "G1": 44,
+    "G2": 44,
+    "G3": 45
+  },
+  "main_pages_before_appendices": 17,
+  "visible_clipping_or_overlap": false,
+  "lemma_start_and_definition_kept_together": true,
+  "G3_intro_and_equation_kept_together": true,
+  "pdf_sha256": "2cfa23806f2689a6292966e1d81ad6540e10805d428765536e6285581e9b1bbf"
+}

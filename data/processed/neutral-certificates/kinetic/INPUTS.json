@@ -1,0 +1,90 @@
+{
+  "predecessor": "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950",
+  "files": [
+    {
+      "source": "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/FINAL_MANIFEST.json",
+      "snapshot": "inputs/00_FINAL_MANIFEST.json",
+      "sha256": "d12f6e7c2fbfa9065820d9b49baa22a899680631106b6faf203d4866afb3e39e"
+    },
+    {
+      "source": "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/FINAL_SEAL.json",
+      "snapshot": "inputs/01_FINAL_SEAL.json",
+      "sha256": "72fda975284ab404c9533dd5fe005c3d2a01b1c064f7aef07ef79015b27ba0b3"
+    },
+    {
+      "source": "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/AUDIT_ACCEPTANCE.json",
+      "snapshot": "inputs/02_AUDIT_ACCEPTANCE.json",
+      "sha256": "1d7452bf53cd35d261c22117f0507332aed9b215c347349724a5fc7f494ad145"
+    },
+    {
+      "source": "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/KINETIC_SIGN_RESULT.md",
+      "snapshot": "inputs/03_KINETIC_SIGN_RESULT.md",
+      "sha256": "4b5fc551e965a0e49625c6b58d6ac5f02512d92764d5fe5ab9c8b2637d47ac3c"
+    },
+    {
+      "source": "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/K1_PHYSICAL_MEAN_FORM_AND_EXACT_CONTROL.md",
+      "snapshot": "inputs/04_K1_PHYSICAL_MEAN_FORM_AND_EXACT_CONTROL.md",
+      "sha256": "74cb384a800c95f3f81c8d4ce01dad14e01d3c7003725c0ee6ffdda0f1c20392"
+    },
+    {
+      "source": "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/K1_RESTRICTED_EXTENSION_AND_REMAINING_COMPLEMENT.md",
+      "snapshot": "inputs/05_K1_RESTRICTED_EXTENSION_AND_REMAINING_COMPLEMENT.md",
+      "sha256": "c4719ce0e2ac91b1550213d2a2fc72adf1cb399ef1e163af1edbf0ec6bb24132"
+    },
+    {
+      "source": "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/FORM_DOMAIN_SCOPE.md",
+      "snapshot": "inputs/06_FORM_DOMAIN_SCOPE.md",
+      "sha256": "d9d51ae136a8507c9d70b168e2b7f340d52ecf810faa900b9197805d3a18e4d5"
+    },
+    {
+      "source": "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/NEXT_GATE.md",
+      "snapshot": "inputs/07_NEXT_GATE.md",
+      "sha256": "66265c4843dc88f5933f8938964dbcf197e8ad6515fba2b2277ed6d4093e13f5"
+    },
+    {
+      "source": "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/independent_review/preproducer/GENERAL_Y_COMPLETION_AND_SUFFICIENT_CERTIFICATE.md",
+      "snapshot": "inputs/08_GENERAL_Y_COMPLETION_AND_SUFFICIENT_CERTIFICATE.md",
+      "sha256": "3b603a1bd8bc63b4d7b250c737a68982412a7d1c5fc2a1663856caabbd453b7a"
+    },
+    {
+      "source": "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/independent_review/preproducer/SHIFTED_SCALAR_ONE_NEGATIVE_DIRECTION.md",
+      "snapshot": "inputs/09_SHIFTED_SCALAR_ONE_NEGATIVE_DIRECTION.md",
+      "sha256": "1225bc4d86a3dea11cc952fad2555fdc235d3428c34b51a6c8e1187dc4ae2d18"
+    },
+    {
+      "source": "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/inputs/05_UNIT_C8_CANONICAL_KINETIC_FORM_AND_UV_BOUND.md",
+      "snapshot": "inputs/10_05_UNIT_C8_CANONICAL_KINETIC_FORM_AND_UV_BOUND.md",
+      "sha256": "9383cb15531c0d5b56b16f563209b3b577e41d21d7be530470635977f71f6fba"
+    },
+    {
+      "source": "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/inputs/12_UNIT_C5_ALL_NONZERO_FREQUENCY_CONSTRAINT_INVERSE.md",
+      "snapshot": "inputs/11_12_UNIT_C5_ALL_NONZERO_FREQUENCY_CONSTRAINT_INVERSE.md",
+      "sha256": "7a0dbe4b7a57d25ee23c3f1be35dd0dd325962bf93b90863f1710cf698d435b3"
+    },
+    {
+      "source": "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/inputs/10_UNIT_C1_ZERO_CHARGE_TENSOR_GAP.md",
+      "snapshot": "inputs/12_10_UNIT_C1_ZERO_CHARGE_TENSOR_GAP.md",
+      "sha256": "1bf2dc6879782be7649d4364cf44f07e3be3c2261d9e97b1e3e35317cf4d63a4"
+    },
+    {
+      "source": "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/inputs/16_R2_PHYSICAL_MEAN_SOURCE_ADJOINT_AND_WIDTH.md",
+      "snapshot": "inputs/13_16_R2_PHYSICAL_MEAN_SOURCE_ADJOINT_AND_WIDTH.md",
+      "sha256": "0a9f1af65abe445a8ac7933982c92d31a19b188d9e555b1fe7c43a0c9d0e7d65"
+    },
+    {
+      "source": "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/inputs/21_14_04_MODEL.json",
+      "snapshot": "inputs/14_21_14_04_MODEL.json",
+      "sha256": "eb0505e2f404759c6d2e0ea4fd6f174d2e3a6b6cd4787ecf8361d5ea90bfb50c"
+    },
+    {
+      "source": "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/inputs/22_primary_interval.py",
+      "snapshot": "inputs/15_22_primary_interval.py",
+      "sha256": "b4201caa2934905b0a2de198cd6eba2c2d08131a0d496d8da76ac3dc3c8c92d2"
+    },
+    {
+      "source": "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_fixed_response_retry_002301/analytic_inputs/accepted_baseline/independent_interval.py",
+      "snapshot": "inputs/16_independent_interval.py",
+      "sha256": "260150e6371209bc3eac1834e7be2c97b4d7e582338cd567c82843a4f44efbeb"
+    }
+  ]
+}

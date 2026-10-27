@@ -1,0 +1,19 @@
+{
+  "operation": "Transcription of saved command stdout; no producer or checker executed",
+  "source_transcript": "/Users/ronbibb/.codex/sessions/2026/09/01/rollout-2026-09-01T19-56-16-01a0543c-b99b-72e2-b0c2-ca518a4dd5d1_01a05f66-ee84-7991-998a-fa0acac11eed.jsonl",
+  "source_line": 56261,
+  "timestamp": "2026-10-02T01:57:14.792Z",
+  "ordinal": 78553,
+  "command_item_id": "exec-a99105d7-4f03-4d08-a669-612b74aabc10",
+  "command": [
+    "/bin/zsh",
+    "-lc",
+    "chmod 0444 branches/02-event-horizon/lin-d1-high-resolution-confirmation-20261002T015100Z/CONTRACT.md branches/02-event-horizon/lin-d1-high-resolution-confirmation-20261002T015100Z/confirm_32768.py branches/02-event-horizon/lin-d1-independent-audit-20261002T014828Z/RESULT.json && ssh parallels@linux.vm 'cd /media/psf/Home/Library/CloudStorage/OneDrive-Personal/Academic2/collapse-horizon-research/branches/02-event-horizon/lin-d1-high-resolution-confirmation-20261002T015100Z && env PYTHONDONTWRITEBYTECODE=1 PYTHONHASHSEED=0 PYTHONNOUSERSITE=1 OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 PYTHONPATH=/home/parallels/research-runs/cap-interval-arb-2026-09-12:/media/psf/Home/Library/CloudStorage/OneDrive-Personal/Academic2/collapse-horizon-research/branches/02-event-horizon/lin-d1-validated-sensitivity-newton-20261002T012953Z /home/parallels/codex-precision-noble-py312-20260830/bin/python -B confirm_32768.py'"
+  ],
+  "exit_code": 0,
+  "duration": {
+    "secs": 70,
+    "nanos": 412452666
+  },
+  "source_stdout_characters": 10997
+}

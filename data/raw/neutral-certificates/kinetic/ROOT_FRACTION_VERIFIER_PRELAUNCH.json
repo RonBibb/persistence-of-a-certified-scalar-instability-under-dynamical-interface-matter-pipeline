@@ -1,0 +1,36 @@
+{
+  "utc": "2026-10-19T14:59:03.804340+00:00",
+  "reviewer": "root",
+  "decision": "PASS_STATIC_CHECKER_PRELAUNCH",
+  "candidate": "action_review/fraction_verifier/FRACTION_VERIFIER_CANDIDATE_v1.json",
+  "candidate_sha256": "9dd49f179d069b7df7cbdfc3628ff23320a637875628e8d5cb2c21ebf5698364",
+  "bindings_verified": 23,
+  "source_sha256": "4fb8bad4ef5f197074f6fc5709fe023753a523185c26f26546de64c62d7284f7",
+  "checks": [
+    "Exact Fraction endpoints; reciprocal sign/square and zero crossing correct",
+    "Full exact initial A launch and curvature interval coverage",
+    "Independent normalized Taylor recurrence matches six polynomial ODEs",
+    "Each saved endpoint becomes next inductively certified start; strict Picard and whole-cell/final/event containment checked",
+    "Every ordered chunk/cell, exact final short step and D event included",
+    "All gates and derived bounds checked without tolerances; root upper laws remain inherited subset premises",
+    "No coefficient digest equality required for differently rounded arithmetic",
+    "Immutable full state pointer frozen explicitly, guard and final pointer checked",
+    "Supervisor and worker retain original deadline, failures preserved"
+  ],
+  "allowed_imports_observed": [
+    "argparse",
+    "datetime",
+    "fractions",
+    "gzip",
+    "hashlib",
+    "json",
+    "os",
+    "pathlib",
+    "signal",
+    "subprocess",
+    "sys",
+    "traceback"
+  ],
+  "checker_executions": 0,
+  "scientific_acceptance": false
+}

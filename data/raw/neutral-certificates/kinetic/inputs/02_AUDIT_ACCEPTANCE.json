@@ -1,0 +1,20 @@
+{
+  "utc": "2026-10-19T14:18:10.200440+00:00",
+  "accepted": true,
+  "classification": "EXACT_RESTRICTED_CANONICAL_PP_AND_FINITE_MIDPOINT_DIAGNOSTIC_PASS__FULL_CONTINUUM_AND_CHARGED_SIGN_HELD",
+  "candidate_sha256": "c58eb4993ed0a4cc527334f9c6d279da7fc9a36feb1a9595bc569e465a2ac4df",
+  "report_sha256": "4b5fc551e965a0e49625c6b58d6ac5f02512d92764d5fe5ab9c8b2637d47ac3c",
+  "review_receipts": {
+    "adversarial_review/postrun/SCIENTIFIC_RECEIPT.json": "c4cdc0016a08380997e16727d84c20f042214bea300ac5f3158a6d128f6d3ad3",
+    "action_review/postrun/SCIENTIFIC_RECEIPT.json": "e78f1eb5383ea48a202cbc9de878a56ab8e55afc1126d1668e0132680e2ae120",
+    "independent_review/SCIENTIFIC_RECEIPT.json": "8f2a6c686d349ec017de7783eab6d1eb7d2ee30d7bb9256bf37621331b990e43"
+  },
+  "independent_scientific_reviews": 3,
+  "exact_general_y_inequality": "PASS_SUFFICIENT_ONLY_DELTA_UNEVALUATED",
+  "whole_domain_canonical_sign": "HELD",
+  "full_charged_sign": "HELD",
+  "numeric_response_cases": 36,
+  "numeric_response_evaluations": 37,
+  "background_IVP_integrations": 2,
+  "successor_launched": false
+}

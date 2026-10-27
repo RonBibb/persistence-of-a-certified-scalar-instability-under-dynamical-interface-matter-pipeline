@@ -1,0 +1,27 @@
+{
+  "utc": "2026-10-19T15:07:12.253268+00:00",
+  "unique_primary_cells": 16365,
+  "recovery_duplicate_cells": 256,
+  "total_physical_cell_evaluations": 16621,
+  "synthetic_vacuum_steps": 1,
+  "synthetic_control_checks": 138,
+  "independent_exact_fraction_cell_validations": 16365,
+  "independent_verifier_new_IVPs": 0,
+  "new_background_root_solves": 0,
+  "new_charge_profiles": 0,
+  "full_parameter_domain": "entire inherited A launch and D event boxes",
+  "production_completed_utc": "2026-10-19T14:54:22.012509+00:00",
+  "independent_verification_completed_utc": "2026-10-19T15:05:25.064595+00:00",
+  "execution_receipts": {
+    "execution_logs/01_initial_256_cell_checkpoint.json": "ea3bf71c9457416498694f947742da2f88b975356a4693b16bb3b2ab788f4c68",
+    "execution_logs/02_fresh_resume_A.json": "1bda2145af9c126ac8ff95197c9b147cea104f0c81445b42a1177a9283976c3b",
+    "execution_logs/03_fresh_resume_B_partial_orphan.json": "f04c30a2ad0c0aa065a5734ec1e3e751bcf1b4e8dc37834acc1417c7d205b963",
+    "execution_logs/04_committed_chunk_corruption.json": "cae9fe6beccc845677f8d0f16d2b41009927edc84ca47bf99d610ef738f3ba0c",
+    "execution_logs/05_immutable_payload_corruption.json": "c768e00e68416fbada33dac3fb7f7c7fcac556d7e9145d95e2c7fbfb31ec939b",
+    "execution_logs/06_changed_source_rejection.json": "a42571a51cb651720115c2fac02da7e17abb54c1f846f30cef6feaf4f9693c5b",
+    "execution_logs/07_full_background_continuation.json": "0bef60ceab77d4c373759fcac2b317802c8b6604a5c3a2ef71718962e272bb69"
+  },
+  "independent_verification_result_sha256": "3338d44d50988675751b580475f5f0e64b844b0345775f27d546245ed11bf345",
+  "recovery_result_sha256": "ad615dff8d1162a51e23618d37af11e49d2da6d3287234af560d16ca414458a5",
+  "successor_launched": false
+}

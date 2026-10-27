@@ -1,0 +1,260 @@
+{
+  "witness": "after",
+  "utc": "2026-10-18T18:19:26.417619+00:00",
+  "monotonic_seconds": 90441.025363541,
+  "pid": 232672,
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "executable": "/usr/bin/python3.12",
+  "platform": "Linux-6.8.0-147-generic-aarch64-with-glibc2.39",
+  "python_flint": "0.9.0",
+  "flint_module": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/__init__.py",
+  "precision_bits": 768,
+  "arithmetic_threads": 1,
+  "affinity": [
+    0
+  ],
+  "phase_output_exists": true,
+  "mapped_binary_sha256": {
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/flint_base/flint_base.abi3.so": "25aa2a1491b84a0217ebb20372a7ec017d919d2d5ffda25b6c240e72f66a5723",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/flint_base/flint_context.abi3.so": "834ef633e41aab69915171adb076a1960bf5b12cf752910ffed84b50e33eefe9",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/functions/showgood.abi3.so": "54c21f24b406c6e69924d6009ea07f1548f0c8da6183df3a35295ac355793aa0",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/pyflint.abi3.so": "89eb3b81193009a4ae8d713a215d617a69c47d33ee951b4025052dd3ac8c5867",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/acb.abi3.so": "3923d411f85652a526d7fb0b34fabf5c51bcddcb45768fc3b6800fefd6b4c514",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/acb_mat.abi3.so": "aea5279e084de0d62744f9ac2d264dc71ba2644175cbac857a249d644afb289b",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/acb_poly.abi3.so": "b2ff9c50b3fbee51f083db8427aea7ed3b90a0b1cbb062f99917f648df378244",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/acb_series.abi3.so": "c49b0f3153336c2a6a436bd1d8229ed4eff2ba650bbc04aad688ded69d1de597",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/acb_theta.abi3.so": "66df674eda8d6e928d8666bcc6b13be5c0249f6a07cd75970547820d372ec8f7",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/arb.abi3.so": "6abaed2e09f6b60e4b26d9c6eb71345ae5e69fc9162fc42e5ff232ef8be75145",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/arb_mat.abi3.so": "c504da264880008ea0df16739191b111a4f050a08b910f6464fafae001a3f953",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/arb_poly.abi3.so": "b3067c3d35b19236e69edabb0fe01a1611424089f8dab08ad855a59467643349",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/arb_series.abi3.so": "fcba1264b61b9e8fd7ff42a5b57faa9efc73fee30e77a3d9429e2a62a90530df",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/arf.abi3.so": "c35d101d27d8b62fbf59fe1361ca0e719dc06859e985f2436cb10960a558222a",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/dirichlet.abi3.so": "6ddc0b58e0399c9bbc70300526f5d85cbfc7a9a9ee9055689329002bf06cfbfa",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpq.abi3.so": "7fa66bdf3b562ab68e4b8650e3aba9c2b8151b4544c5b1cf82e3eb8953ddaabd",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpq_mat.abi3.so": "2d070aa8700c9dc5d697a6c5eaf909de32fd63674180432a1f69ca2aa1dda38a",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpq_mpoly.abi3.so": "a29ac15180f7377572ada313fd35819b7ca39c17676d1ad5f1c1cca62ec3d669",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpq_poly.abi3.so": "c07d1dd46d2e8ed0ad5917c5cec8a441fdbc625258723e4f47fb3bebeaee8830",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpq_series.abi3.so": "51f24627fe8091069601685406afed4c11c005f751f3bd0b283faf3d1feaac4d",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpq_vec.abi3.so": "363f7d8d3e7543af1b35d8b40454aaad27f4162050ea888e62b69d2e82db5b4e",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz.abi3.so": "6b5ced4891d22589e7a3a81d42d7409542db8eef91657c883b30906095498c08",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz_mat.abi3.so": "5492dc613e7e7eba02156c475bc4552fd3946fe900881adf52a34d5200690a49",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz_mod.abi3.so": "18777b9ccc509dc47fca10de7a30e9532de851ffecbb6fa145ee5da47f44374b",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz_mod_mat.abi3.so": "3ca52ce3ee2edc4b2d4a00af27fc736458d35f6ed4243f60fc8bf073d761ca9a",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz_mod_mpoly.abi3.so": "faa73d1af99e4b638a5ab00144396691035d3e66f557ca9434e9251459729393",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz_mod_poly.abi3.so": "977ebdaf79d3bbd21f7d39712850805dd42f38a12a31794e4c376b9731a4dd17",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz_mpoly.abi3.so": "004fe5c68564895fc9b8888f4419789399218198b5de31bb465262856f773df4",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz_poly.abi3.so": "b27d481c410fa0332734cbd9ae414e064b6bec9306ca1aaf388e30520a132d6c",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz_series.abi3.so": "8bf6039cea9cac8c8df51df62d9b49749f9848af939e5567b75b55882a04dd66",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz_vec.abi3.so": "c6b8620288ca26a1d0b7f15d90feacb3a47e7ea093432d59901224990ff10475",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fq_default.abi3.so": "87a68f3edfb07aaba77e1356b93f93a0f5cf25a89d58323ea4adedbfb50ea384",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fq_default_poly.abi3.so": "5a451c1187c36ebc0c1ab98e5cb6054ed9f3d3bfcef14edd91b7c6389cb9afea",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/nmod.abi3.so": "bc913fe53bd8853666b1b9f310e912da3682c9b5010561a518c49bde5a471bb8",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/nmod_mat.abi3.so": "511836cd72ed0f3bb751b8f2ce55f8448b99f0b612e6d3d337fbbc1ca59afc50",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/nmod_mpoly.abi3.so": "53ce6cb60a37f2498f436dd7246b5bca0b84bb30d18f2cdb9aa78337c592479b",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/nmod_poly.abi3.so": "c0cd7dd1a4975687d41f9848b16d7ef97bd087041db840b450e1ae4ce7e087b1",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/nmod_series.abi3.so": "644bc3dfbef5b8e8168a438b4bdff5b94e2abae306326916df9af13b88bf2a6c",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/python_flint.libs/libflint-d65a3cb2.so.24.0.0": "30c9f1d62c2440d08e85a204a981082fc85bf9ada1aa5ae10de3675cb8b5ca50",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/python_flint.libs/libgmp-3cbbac3d.so.10.5.0": "51350668db18ff79d0563de8d51dd2a6a883be102de2ac9e60dc426eacd18fcc",
+    "/home/parallels/research-runs/cap-interval-arb-2026-09-12/python_flint.libs/libmpfr-ca442b60.so.6.2.2": "4293dbc6ac5ed89762f120f6b0b6bf2feb6d3de2a9038c64a839d61ee0449002",
+    "/usr/bin/python3.12": "c86f21d0da9290ece2d7d49a3f7ed52aed59cb029abdf0ea25c79634f6cbe960",
+    "/usr/lib/aarch64-linux-gnu/gconv/gconv-modules.cache": "c4c52c0df6f3809f1b85927a85f322d102cffebb6b517b44b37048f6fd620c01",
+    "/usr/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1": "390027e5f45f236bd1838bc54bf464c5ff01d260ab9f8b415ea8276641bce505",
+    "/usr/lib/aarch64-linux-gnu/libc.so.6": "0f1905dc27dbc6715875c70527bc8da846a10084c9c483e9d8ff76dce8d69d0e",
+    "/usr/lib/aarch64-linux-gnu/libcrypto.so.3": "b27a2396652ee28629c94d59d667c417dbffdf2dee84e5bf140bd17d3eedb7d9",
+    "/usr/lib/aarch64-linux-gnu/libexpat.so.1.9.1": "b4b445a092ad711e535cfa7241974f709b716194c58227abc75b05e3a3bec7f7",
+    "/usr/lib/aarch64-linux-gnu/libm.so.6": "5e0391562de36de323fb9cb0f2c1b6bd6d034c840b1dac018499f5fe4ded1b4a",
+    "/usr/lib/aarch64-linux-gnu/libpthread.so.0": "6f1ab9e7d7de142dc5e2feaf6d19faceff0a0f40d5e225c922899f5362b8c353",
+    "/usr/lib/aarch64-linux-gnu/libz.so.1.3": "e3bc90ee8cce46778c2f46c2a3e580d3b930f7b455910f25ea400a0b797fb9dc",
+    "/usr/lib/locale/C.utf8/LC_CTYPE": "59015993b1b671273461ef1167d7a9ad76dc090d521c91102e962217ed6b6dba",
+    "/usr/lib/locale/locale-archive": "7a31de159ded19d74c73126489d3f714c1684d5b9262cddae10bbe4fd8581a2b",
+    "/usr/lib/python3.12/lib-dynload/_decimal.cpython-312-aarch64-linux-gnu.so": "cefbd39248e53782e9a528a1b703d52b8ce41d35db7049b254c47169c2d83ad1",
+    "/usr/lib/python3.12/lib-dynload/_hashlib.cpython-312-aarch64-linux-gnu.so": "78b3d7125636432671441c642ff976df84361bb86ee302ede9ffdf3bed34b59f",
+    "/usr/lib/python3.12/lib-dynload/_json.cpython-312-aarch64-linux-gnu.so": "83dd464bb84ee42a1e1bf9598e88dd2d0fdd1a39cf2ca51b9e3d3e4d3243dd02"
+  },
+  "flint_imports": {
+    "flint.flint_base": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/flint_base/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "flint.flint_base.flint_context": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/flint_base/flint_context.abi3.so",
+      "sha256": "834ef633e41aab69915171adb076a1960bf5b12cf752910ffed84b50e33eefe9"
+    },
+    "flint.types": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "flint.utils": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/utils/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "flint.utils.flint_exceptions": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/utils/flint_exceptions.py",
+      "sha256": "4ee9e74f1529883e68eb7281ee219d5d338d83d81b5d4c81c4af5dc05a067401"
+    },
+    "flint.types.fmpz": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz.abi3.so",
+      "sha256": "6b5ced4891d22589e7a3a81d42d7409542db8eef91657c883b30906095498c08"
+    },
+    "flint.flint_base.flint_base": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/flint_base/flint_base.abi3.so",
+      "sha256": "25aa2a1491b84a0217ebb20372a7ec017d919d2d5ffda25b6c240e72f66a5723"
+    },
+    "flint.pyflint": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/pyflint.abi3.so",
+      "sha256": "89eb3b81193009a4ae8d713a215d617a69c47d33ee951b4025052dd3ac8c5867"
+    },
+    "flint.types.fmpq": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpq.abi3.so",
+      "sha256": "7fa66bdf3b562ab68e4b8650e3aba9c2b8151b4544c5b1cf82e3eb8953ddaabd"
+    },
+    "flint.types.fmpq_poly": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpq_poly.abi3.so",
+      "sha256": "c07d1dd46d2e8ed0ad5917c5cec8a441fdbc625258723e4f47fb3bebeaee8830"
+    },
+    "flint.types.arf": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/arf.abi3.so",
+      "sha256": "c35d101d27d8b62fbf59fe1361ca0e719dc06859e985f2436cb10960a558222a"
+    },
+    "flint.types.arb": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/arb.abi3.so",
+      "sha256": "6abaed2e09f6b60e4b26d9c6eb71345ae5e69fc9162fc42e5ff232ef8be75145"
+    },
+    "flint.types.dirichlet": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/dirichlet.abi3.so",
+      "sha256": "6ddc0b58e0399c9bbc70300526f5d85cbfc7a9a9ee9055689329002bf06cfbfa"
+    },
+    "flint.types.acb": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/acb.abi3.so",
+      "sha256": "3923d411f85652a526d7fb0b34fabf5c51bcddcb45768fc3b6800fefd6b4c514"
+    },
+    "flint.types.fmpz_poly": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz_poly.abi3.so",
+      "sha256": "b27d481c410fa0332734cbd9ae414e064b6bec9306ca1aaf388e30520a132d6c"
+    },
+    "flint.types.fmpq_mat": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpq_mat.abi3.so",
+      "sha256": "2d070aa8700c9dc5d697a6c5eaf909de32fd63674180432a1f69ca2aa1dda38a"
+    },
+    "flint.types.fmpz_mat": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz_mat.abi3.so",
+      "sha256": "5492dc613e7e7eba02156c475bc4552fd3946fe900881adf52a34d5200690a49"
+    },
+    "flint.types.acb_poly": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/acb_poly.abi3.so",
+      "sha256": "b2ff9c50b3fbee51f083db8427aea7ed3b90a0b1cbb062f99917f648df378244"
+    },
+    "flint.types.arb_poly": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/arb_poly.abi3.so",
+      "sha256": "b3067c3d35b19236e69edabb0fe01a1611424089f8dab08ad855a59467643349"
+    },
+    "flint.types.acb_series": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/acb_series.abi3.so",
+      "sha256": "c49b0f3153336c2a6a436bd1d8229ed4eff2ba650bbc04aad688ded69d1de597"
+    },
+    "flint.types.arb_series": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/arb_series.abi3.so",
+      "sha256": "fcba1264b61b9e8fd7ff42a5b57faa9efc73fee30e77a3d9429e2a62a90530df"
+    },
+    "flint.types.fmpq_series": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpq_series.abi3.so",
+      "sha256": "51f24627fe8091069601685406afed4c11c005f751f3bd0b283faf3d1feaac4d"
+    },
+    "flint.types.fmpz_series": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz_series.abi3.so",
+      "sha256": "8bf6039cea9cac8c8df51df62d9b49749f9848af939e5567b75b55882a04dd66"
+    },
+    "flint.types.fmpz_vec": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz_vec.abi3.so",
+      "sha256": "c6b8620288ca26a1d0b7f15d90feacb3a47e7ea093432d59901224990ff10475"
+    },
+    "flint.types.fmpq_vec": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpq_vec.abi3.so",
+      "sha256": "363f7d8d3e7543af1b35d8b40454aaad27f4162050ea888e62b69d2e82db5b4e"
+    },
+    "flint.types.nmod": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/nmod.abi3.so",
+      "sha256": "bc913fe53bd8853666b1b9f310e912da3682c9b5010561a518c49bde5a471bb8"
+    },
+    "flint.types.nmod_poly": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/nmod_poly.abi3.so",
+      "sha256": "c0cd7dd1a4975687d41f9848b16d7ef97bd087041db840b450e1ae4ce7e087b1"
+    },
+    "flint.types.fmpz_mod": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz_mod.abi3.so",
+      "sha256": "18777b9ccc509dc47fca10de7a30e9532de851ffecbb6fa145ee5da47f44374b"
+    },
+    "flint.types.nmod_mpoly": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/nmod_mpoly.abi3.so",
+      "sha256": "53ce6cb60a37f2498f436dd7246b5bca0b84bb30d18f2cdb9aa78337c592479b"
+    },
+    "flint.types.nmod_mat": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/nmod_mat.abi3.so",
+      "sha256": "511836cd72ed0f3bb751b8f2ce55f8448b99f0b612e6d3d337fbbc1ca59afc50"
+    },
+    "flint.types.nmod_series": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/nmod_series.abi3.so",
+      "sha256": "644bc3dfbef5b8e8168a438b4bdff5b94e2abae306326916df9af13b88bf2a6c"
+    },
+    "flint.types.fmpz_mpoly": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz_mpoly.abi3.so",
+      "sha256": "004fe5c68564895fc9b8888f4419789399218198b5de31bb465262856f773df4"
+    },
+    "flint.types.fmpz_mod_poly": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz_mod_poly.abi3.so",
+      "sha256": "977ebdaf79d3bbd21f7d39712850805dd42f38a12a31794e4c376b9731a4dd17"
+    },
+    "flint.types.fmpz_mod_mpoly": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz_mod_mpoly.abi3.so",
+      "sha256": "faa73d1af99e4b638a5ab00144396691035d3e66f557ca9434e9251459729393"
+    },
+    "flint.types.fmpz_mod_mat": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpz_mod_mat.abi3.so",
+      "sha256": "3ca52ce3ee2edc4b2d4a00af27fc736458d35f6ed4243f60fc8bf073d761ca9a"
+    },
+    "flint.types.fmpq_mpoly": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fmpq_mpoly.abi3.so",
+      "sha256": "a29ac15180f7377572ada313fd35819b7ca39c17676d1ad5f1c1cca62ec3d669"
+    },
+    "flint.types.fq_default": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fq_default.abi3.so",
+      "sha256": "87a68f3edfb07aaba77e1356b93f93a0f5cf25a89d58323ea4adedbfb50ea384"
+    },
+    "flint.types.fq_default_poly": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/fq_default_poly.abi3.so",
+      "sha256": "5a451c1187c36ebc0c1ab98e5cb6054ed9f3d3bfcef14edd91b7c6389cb9afea"
+    },
+    "flint.types.acb_theta": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/acb_theta.abi3.so",
+      "sha256": "66df674eda8d6e928d8666bcc6b13be5c0249f6a07cd75970547820d372ec8f7"
+    },
+    "flint.types.acb_mat": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/acb_mat.abi3.so",
+      "sha256": "aea5279e084de0d62744f9ac2d264dc71ba2644175cbac857a249d644afb289b"
+    },
+    "flint.types.arb_mat": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/types/arb_mat.abi3.so",
+      "sha256": "c504da264880008ea0df16739191b111a4f050a08b910f6464fafae001a3f953"
+    },
+    "flint.functions": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/functions/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "flint.functions.showgood": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/functions/showgood.abi3.so",
+      "sha256": "54c21f24b406c6e69924d6009ea07f1548f0c8da6183df3a35295ac355793aa0"
+    },
+    "flint": {
+      "path": "/home/parallels/research-runs/cap-interval-arb-2026-09-12/flint/__init__.py",
+      "sha256": "2e5f8f1768d14eccd7961353c635195bd557f297edff8b8de09e2d211f03ec2d"
+    }
+  },
+  "source_sha256": {
+    "test1_phase_v3.py": "3b294043d160bda97eb31de0ebf6ed0fda3734dce36d3ef6efc800efa9174894",
+    "engine/primary_interval.py": "b4201caa2934905b0a2de198cd6eba2c2d08131a0d496d8da76ac3dc3c8c92d2",
+    "engine/independent_interval.py": "260150e6371209bc3eac1834e7be2c97b4d7e582338cd567c82843a4f44efbeb",
+    "inputs/central_bindings.json": "e3061fbe20f11df19df9acc71d8869daaea78a99952dd4ef1baedd36a5c7c282",
+    "SOURCE_BINDINGS.json": "4d6113be2f79f40033fb16dea687b97f71e83c1ee3245e6e4c9f127e7b79f7ec"
+  },
+  "scope": "Same producer process at before/after boundaries; identity/provenance, not arithmetic validation or continuous load surveillance."
+}

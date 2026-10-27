@@ -1,0 +1,15 @@
+{
+  "utc": "2026-10-19T15:14:56.148687+00:00",
+  "accepted": true,
+  "scope": "Terminal accepted all-mode canonical pp exact-anchor certificate and existential finite-slab small-charge continuation; explicit charge radius/absolute constants uncomputed and stiffness retained",
+  "candidate_sha256": "dd54a4ef750861f847f6cb579739aa1f7c594d22b4003a85820bc84c1d802ba8",
+  "report_sha256": "ab352d63833d9ab7ae2692e3fdaa437def425e2f6ceda3437386a5069637c1ae",
+  "review_receipts": {
+    "terminal_review/adversarial/TERMINAL_RECEIPT.json": "fa0b103231f520b9dce51d736108b08f98b5406c31134b8d1cd6d2d20c490cc1",
+    "terminal_review/action/TERMINAL_RECEIPT.json": "d748055e4d4aa9db54e3379266cf80d6a8f1a3ec0b7b0cb358d461d3df5543ca",
+    "terminal_review/independent/TERMINAL_RECEIPT.json": "cc328b74efc954d3b61eeea537bf38457ad56d21ee807b4a977bc2098c744e5a"
+  },
+  "terminal_scope_audits": 3,
+  "all_reviewer_writes_complete": true,
+  "successor_launched": false
+}

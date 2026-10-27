@@ -1,0 +1,50 @@
+{
+  "model_exact": {
+    "gamma": "20",
+    "lambda_a": "6755388606266369/1125899906842624",
+    "lambda_b": "-851862101055633/140737488355328",
+    "m2": "7385903388887613/18014398509481984",
+    "v0": "3602879701896397/36028797018963968",
+    "v1": "6520040733916207/72057594037927936"
+  },
+  "A": [
+    "456607025194779413/4611686018427387904",
+    "114151756532473697/1152921504606846976"
+  ],
+  "D": [
+    "32727/16384",
+    "32729/16384"
+  ],
+  "bits": 768,
+  "step_exact": "1/8192",
+  "order": 5,
+  "omega_squared_exact": [
+    "1",
+    "1"
+  ],
+  "kappa_exact": [
+    "1",
+    "1"
+  ],
+  "eta_exact": [
+    "1",
+    "1"
+  ],
+  "wall_hessian_exact": [
+    "20",
+    "20"
+  ],
+  "material_c_at_background_exact": [
+    "1",
+    "1"
+  ],
+  "material_c_Phi_exact": [
+    "-1/1000",
+    "-1/1000"
+  ],
+  "c_function": "1-(Phi-Phi_i_star)/1000",
+  "source_basis": "independent unit leading conserved comoving charge squares N_a^2,N_b^2; nbar_i=N_i/a_i^3; no selected ratio",
+  "mu": "-18*k(A), computed from the exact lower launch map",
+  "basis": "H:f=1,g=(Gamma_a*D_a-4*T_a*Tprime_a)/(84*k); P:f=0,g=D_a/(84*k); psi=(Tprime*f-T*g)/D; both J=0",
+  "root_background": "inherited exact A central root lies inside A; no new background root solve"
+}

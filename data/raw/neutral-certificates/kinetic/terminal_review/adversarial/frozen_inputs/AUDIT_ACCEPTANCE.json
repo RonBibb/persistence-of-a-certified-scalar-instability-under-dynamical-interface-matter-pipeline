@@ -1,0 +1,22 @@
+{
+  "utc": "2026-10-19T15:11:31.450872+00:00",
+  "accepted": true,
+  "classification": "ALL_RADIAL_ALL_REAL_FREQUENCY_CANONICAL_PP_ANCHOR_CERTIFICATE_AND_NORM_PASS__EXISTENTIAL_FINITE_SLAB_SMALL_CHARGE_CONTINUATION_PASS",
+  "candidate_sha256": "20266e0c935d7cdec99b98d4e8736ae92ab04f94e0027a48a4ef2a9939b321b0",
+  "report_sha256": "ab352d63833d9ab7ae2692e3fdaa437def425e2f6ceda3437386a5069637c1ae",
+  "review_receipts": {
+    "adversarial_review/postrun/SCIENTIFIC_RECEIPT.json": "1aa6d1ddd4bd39b801664d7ddc114a79bce505eaf38342240db2de3dfa5db0cf",
+    "action_review/postrun/SCIENTIFIC_RECEIPT.json": "27a59894acbe50471ea1d2bed52dd1e5b3d922e614d93fd7a9840e3d0299c7ca",
+    "independent_review/SCIENTIFIC_RECEIPT.json": "7d73ad7d8fda88f31dad817f26dd3337d56100351003feb2dcb3f4b6e68c4807"
+  },
+  "independent_full_scientific_audits": 3,
+  "anchor_bound": "K>=S/2",
+  "exact_background_uncertainty": "FULL_INHERITED_A_D_BOX_AND_WHOLE_COLLAR_ENCLOSED",
+  "independent_numerical_verification": "COMPLETE_EXACT_FRACTION_INDUCTIVE_CHECK_OF_16365_CELLS",
+  "charged_continuation": "EXISTENTIAL_ON_FIXED_COMPACT_SLAB_UNDER_INHERITED_BRANCH_CHART",
+  "explicit_charge_radius": "UNCOMPUTED",
+  "absolute_canonical_norm_constants": "UNCOMPUTED",
+  "stiffness_growing_direction": "RETAINED",
+  "unrestricted_no_ghost_or_nonlinear_stability": "NOT_CLAIMED",
+  "successor_launched": false
+}

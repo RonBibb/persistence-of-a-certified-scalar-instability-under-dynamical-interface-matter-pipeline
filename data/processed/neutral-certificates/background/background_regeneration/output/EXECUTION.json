@@ -1,0 +1,41 @@
+{
+  "status": "FRESH_BACKGROUND_PRODUCERS_COMPLETE_PENDING_INDEPENDENT_AUDIT",
+  "started_utc": "2026-10-18T17:13:17.229394+00:00",
+  "cutoff_utc": "2026-10-18T18:06:44+00:00",
+  "hard_limit_seconds": 900,
+  "cases": [
+    {
+      "name": "primary",
+      "entry": "confirm_32768.py",
+      "started_utc": "2026-10-18T17:13:17.237550+00:00",
+      "pid": 223060,
+      "exit_code": 0,
+      "elapsed_seconds": 66.4189280730061,
+      "completed_utc": "2026-10-18T17:14:23.656490+00:00",
+      "producer_status": "COMPLETE",
+      "producer_classification": "RIGOROUS_CURVED_BACKGROUND_SHOOTING_ROOT_EXISTS"
+    },
+    {
+      "name": "independent",
+      "entry": "independent_d1_replay_r1.py",
+      "started_utc": "2026-10-18T17:14:23.656885+00:00",
+      "pid": 223218,
+      "exit_code": 0,
+      "elapsed_seconds": 136.30333039799007,
+      "completed_utc": "2026-10-18T17:16:39.960227+00:00",
+      "producer_status": "COMPLETE",
+      "producer_classification": "INDEPENDENT_D1_REPLAY_AND_GEOMETRIC_ENCLOSURES_PASS"
+    }
+  ],
+  "retries": 0,
+  "source_bindings_sha256": "3c094764cd6a08d6bc078a55e3c9aa307afbaf6fe68acdd56dabc311e15fd83b",
+  "harness_sha256": {
+    "run_leased.py": "4045f3a189aa5ca7dc9a8f7e16c6c243d774e9c1e4138a5016749c621ab998bd",
+    "bootstrap.py": "26110c9c7d8dedac6e32b10d5206816919388ca9db87afef3f0fbeb5f831b0fc"
+  },
+  "active_science_at_admission": [],
+  "cpu": 0,
+  "completed_utc": "2026-10-18T17:16:39.961627+00:00",
+  "elapsed_seconds": 202.73224588799349,
+  "lease_released": true
+}

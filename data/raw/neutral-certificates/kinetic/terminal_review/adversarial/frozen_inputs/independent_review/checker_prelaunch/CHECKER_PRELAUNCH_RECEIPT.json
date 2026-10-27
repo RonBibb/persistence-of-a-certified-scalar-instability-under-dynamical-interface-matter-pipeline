@@ -1,0 +1,323 @@
+{
+  "reviewer": "seed_gate_review",
+  "timestamp_utc": "2026-10-19T15:00:15.540149+00:00",
+  "admitted": true,
+  "verdict": "PASS_PRELAUNCH",
+  "mode": "INDEPENDENT_EXACT_FRACTION_SAVED_CERTIFICATE_ONLY",
+  "candidate_sha256": "9dd49f179d069b7df7cbdfc3628ff23320a637875628e8d5cb2c21ebf5698364",
+  "checker_sha256": "4fb8bad4ef5f197074f6fc5709fe023753a523185c26f26546de64c62d7284f7",
+  "review_sha256": "bf1d0eb72687308c2f56ff47f70b30a9aaeb491aedbf2fd61956cc21352c8210",
+  "requires_root_and_adversarial_admissions": true,
+  "requires_exact_final_pointer_freeze": true,
+  "default_supervisor_required": true,
+  "files": {
+    "action_review/fraction_verifier/verify_saved_certificate.py": "4fb8bad4ef5f197074f6fc5709fe023753a523185c26f26546de64c62d7284f7",
+    "action_review/fraction_verifier/VERIFIER_PLAN_v1.md": "cbd71ebc2ff0a97e15a33888e39a020e3d3c9d2b02a98b3209f9c19c3dfe6e18",
+    "CHECK_PLAN.md": "36893eda883353cf541bf5a2ca92edd3ae46141184cfb7efdb40e1d8dabef30b",
+    "INPUTS.json": "de4a5d26bada35f69a4da9996b4e93b626b52bf2ec0cc1785d0b0e96a4ddfa41",
+    "WEIGHTED_ALL_MODE_PROOF.md": "fa5239344637664a2661239662d505700ec9b60ca7f756227de79c26866467a5",
+    "PRELAUNCH_CANDIDATE_v2.json": "67f05e595460f603d9c98e08c79b86b2cdf121a4e0f4b7911f20c3bf7bb0a083",
+    "inputs/00_FINAL_MANIFEST.json": "d12f6e7c2fbfa9065820d9b49baa22a899680631106b6faf203d4866afb3e39e",
+    "inputs/01_FINAL_SEAL.json": "72fda975284ab404c9533dd5fe005c3d2a01b1c064f7aef07ef79015b27ba0b3",
+    "inputs/02_AUDIT_ACCEPTANCE.json": "1d7452bf53cd35d261c22117f0507332aed9b215c347349724a5fc7f494ad145",
+    "inputs/03_KINETIC_SIGN_RESULT.md": "4b5fc551e965a0e49625c6b58d6ac5f02512d92764d5fe5ab9c8b2637d47ac3c",
+    "inputs/04_K1_PHYSICAL_MEAN_FORM_AND_EXACT_CONTROL.md": "74cb384a800c95f3f81c8d4ce01dad14e01d3c7003725c0ee6ffdda0f1c20392",
+    "inputs/05_K1_RESTRICTED_EXTENSION_AND_REMAINING_COMPLEMENT.md": "c4719ce0e2ac91b1550213d2a2fc72adf1cb399ef1e163af1edbf0ec6bb24132",
+    "inputs/06_FORM_DOMAIN_SCOPE.md": "d9d51ae136a8507c9d70b168e2b7f340d52ecf810faa900b9197805d3a18e4d5",
+    "inputs/07_NEXT_GATE.md": "66265c4843dc88f5933f8938964dbcf197e8ad6515fba2b2277ed6d4093e13f5",
+    "inputs/08_GENERAL_Y_COMPLETION_AND_SUFFICIENT_CERTIFICATE.md": "3b603a1bd8bc63b4d7b250c737a68982412a7d1c5fc2a1663856caabbd453b7a",
+    "inputs/09_SHIFTED_SCALAR_ONE_NEGATIVE_DIRECTION.md": "1225bc4d86a3dea11cc952fad2555fdc235d3428c34b51a6c8e1187dc4ae2d18",
+    "inputs/10_05_UNIT_C8_CANONICAL_KINETIC_FORM_AND_UV_BOUND.md": "9383cb15531c0d5b56b16f563209b3b577e41d21d7be530470635977f71f6fba",
+    "inputs/11_12_UNIT_C5_ALL_NONZERO_FREQUENCY_CONSTRAINT_INVERSE.md": "7a0dbe4b7a57d25ee23c3f1be35dd0dd325962bf93b90863f1710cf698d435b3",
+    "inputs/12_10_UNIT_C1_ZERO_CHARGE_TENSOR_GAP.md": "1bf2dc6879782be7649d4364cf44f07e3be3c2261d9e97b1e3e35317cf4d63a4",
+    "inputs/13_16_R2_PHYSICAL_MEAN_SOURCE_ADJOINT_AND_WIDTH.md": "0a9f1af65abe445a8ac7933982c92d31a19b188d9e555b1fe7c43a0c9d0e7d65",
+    "inputs/14_21_14_04_MODEL.json": "eb0505e2f404759c6d2e0ea4fd6f174d2e3a6b6cd4787ecf8361d5ea90bfb50c",
+    "inputs/15_22_primary_interval.py": "b4201caa2934905b0a2de198cd6eba2c2d08131a0d496d8da76ac3dc3c8c92d2",
+    "inputs/16_independent_interval.py": "260150e6371209bc3eac1834e7be2c97b4d7e582338cd567c82843a4f44efbeb"
+  },
+  "bindings": [
+    {
+      "file": "action_review/fraction_verifier/verify_saved_certificate.py",
+      "expected": "4fb8bad4ef5f197074f6fc5709fe023753a523185c26f26546de64c62d7284f7",
+      "actual": "4fb8bad4ef5f197074f6fc5709fe023753a523185c26f26546de64c62d7284f7",
+      "pass": true
+    },
+    {
+      "file": "action_review/fraction_verifier/VERIFIER_PLAN_v1.md",
+      "expected": "cbd71ebc2ff0a97e15a33888e39a020e3d3c9d2b02a98b3209f9c19c3dfe6e18",
+      "actual": "cbd71ebc2ff0a97e15a33888e39a020e3d3c9d2b02a98b3209f9c19c3dfe6e18",
+      "pass": true
+    },
+    {
+      "file": "CHECK_PLAN.md",
+      "expected": "36893eda883353cf541bf5a2ca92edd3ae46141184cfb7efdb40e1d8dabef30b",
+      "actual": "36893eda883353cf541bf5a2ca92edd3ae46141184cfb7efdb40e1d8dabef30b",
+      "pass": true
+    },
+    {
+      "file": "INPUTS.json",
+      "expected": "de4a5d26bada35f69a4da9996b4e93b626b52bf2ec0cc1785d0b0e96a4ddfa41",
+      "actual": "de4a5d26bada35f69a4da9996b4e93b626b52bf2ec0cc1785d0b0e96a4ddfa41",
+      "pass": true
+    },
+    {
+      "file": "WEIGHTED_ALL_MODE_PROOF.md",
+      "expected": "fa5239344637664a2661239662d505700ec9b60ca7f756227de79c26866467a5",
+      "actual": "fa5239344637664a2661239662d505700ec9b60ca7f756227de79c26866467a5",
+      "pass": true
+    },
+    {
+      "file": "PRELAUNCH_CANDIDATE_v2.json",
+      "expected": "67f05e595460f603d9c98e08c79b86b2cdf121a4e0f4b7911f20c3bf7bb0a083",
+      "actual": "67f05e595460f603d9c98e08c79b86b2cdf121a4e0f4b7911f20c3bf7bb0a083",
+      "pass": true
+    },
+    {
+      "file": "inputs/00_FINAL_MANIFEST.json",
+      "expected": "d12f6e7c2fbfa9065820d9b49baa22a899680631106b6faf203d4866afb3e39e",
+      "actual": "d12f6e7c2fbfa9065820d9b49baa22a899680631106b6faf203d4866afb3e39e",
+      "pass": true
+    },
+    {
+      "file": "inputs/01_FINAL_SEAL.json",
+      "expected": "72fda975284ab404c9533dd5fe005c3d2a01b1c064f7aef07ef79015b27ba0b3",
+      "actual": "72fda975284ab404c9533dd5fe005c3d2a01b1c064f7aef07ef79015b27ba0b3",
+      "pass": true
+    },
+    {
+      "file": "inputs/02_AUDIT_ACCEPTANCE.json",
+      "expected": "1d7452bf53cd35d261c22117f0507332aed9b215c347349724a5fc7f494ad145",
+      "actual": "1d7452bf53cd35d261c22117f0507332aed9b215c347349724a5fc7f494ad145",
+      "pass": true
+    },
+    {
+      "file": "inputs/03_KINETIC_SIGN_RESULT.md",
+      "expected": "4b5fc551e965a0e49625c6b58d6ac5f02512d92764d5fe5ab9c8b2637d47ac3c",
+      "actual": "4b5fc551e965a0e49625c6b58d6ac5f02512d92764d5fe5ab9c8b2637d47ac3c",
+      "pass": true
+    },
+    {
+      "file": "inputs/04_K1_PHYSICAL_MEAN_FORM_AND_EXACT_CONTROL.md",
+      "expected": "74cb384a800c95f3f81c8d4ce01dad14e01d3c7003725c0ee6ffdda0f1c20392",
+      "actual": "74cb384a800c95f3f81c8d4ce01dad14e01d3c7003725c0ee6ffdda0f1c20392",
+      "pass": true
+    },
+    {
+      "file": "inputs/05_K1_RESTRICTED_EXTENSION_AND_REMAINING_COMPLEMENT.md",
+      "expected": "c4719ce0e2ac91b1550213d2a2fc72adf1cb399ef1e163af1edbf0ec6bb24132",
+      "actual": "c4719ce0e2ac91b1550213d2a2fc72adf1cb399ef1e163af1edbf0ec6bb24132",
+      "pass": true
+    },
+    {
+      "file": "inputs/06_FORM_DOMAIN_SCOPE.md",
+      "expected": "d9d51ae136a8507c9d70b168e2b7f340d52ecf810faa900b9197805d3a18e4d5",
+      "actual": "d9d51ae136a8507c9d70b168e2b7f340d52ecf810faa900b9197805d3a18e4d5",
+      "pass": true
+    },
+    {
+      "file": "inputs/07_NEXT_GATE.md",
+      "expected": "66265c4843dc88f5933f8938964dbcf197e8ad6515fba2b2277ed6d4093e13f5",
+      "actual": "66265c4843dc88f5933f8938964dbcf197e8ad6515fba2b2277ed6d4093e13f5",
+      "pass": true
+    },
+    {
+      "file": "inputs/08_GENERAL_Y_COMPLETION_AND_SUFFICIENT_CERTIFICATE.md",
+      "expected": "3b603a1bd8bc63b4d7b250c737a68982412a7d1c5fc2a1663856caabbd453b7a",
+      "actual": "3b603a1bd8bc63b4d7b250c737a68982412a7d1c5fc2a1663856caabbd453b7a",
+      "pass": true
+    },
+    {
+      "file": "inputs/09_SHIFTED_SCALAR_ONE_NEGATIVE_DIRECTION.md",
+      "expected": "1225bc4d86a3dea11cc952fad2555fdc235d3428c34b51a6c8e1187dc4ae2d18",
+      "actual": "1225bc4d86a3dea11cc952fad2555fdc235d3428c34b51a6c8e1187dc4ae2d18",
+      "pass": true
+    },
+    {
+      "file": "inputs/10_05_UNIT_C8_CANONICAL_KINETIC_FORM_AND_UV_BOUND.md",
+      "expected": "9383cb15531c0d5b56b16f563209b3b577e41d21d7be530470635977f71f6fba",
+      "actual": "9383cb15531c0d5b56b16f563209b3b577e41d21d7be530470635977f71f6fba",
+      "pass": true
+    },
+    {
+      "file": "inputs/11_12_UNIT_C5_ALL_NONZERO_FREQUENCY_CONSTRAINT_INVERSE.md",
+      "expected": "7a0dbe4b7a57d25ee23c3f1be35dd0dd325962bf93b90863f1710cf698d435b3",
+      "actual": "7a0dbe4b7a57d25ee23c3f1be35dd0dd325962bf93b90863f1710cf698d435b3",
+      "pass": true
+    },
+    {
+      "file": "inputs/12_10_UNIT_C1_ZERO_CHARGE_TENSOR_GAP.md",
+      "expected": "1bf2dc6879782be7649d4364cf44f07e3be3c2261d9e97b1e3e35317cf4d63a4",
+      "actual": "1bf2dc6879782be7649d4364cf44f07e3be3c2261d9e97b1e3e35317cf4d63a4",
+      "pass": true
+    },
+    {
+      "file": "inputs/13_16_R2_PHYSICAL_MEAN_SOURCE_ADJOINT_AND_WIDTH.md",
+      "expected": "0a9f1af65abe445a8ac7933982c92d31a19b188d9e555b1fe7c43a0c9d0e7d65",
+      "actual": "0a9f1af65abe445a8ac7933982c92d31a19b188d9e555b1fe7c43a0c9d0e7d65",
+      "pass": true
+    },
+    {
+      "file": "inputs/14_21_14_04_MODEL.json",
+      "expected": "eb0505e2f404759c6d2e0ea4fd6f174d2e3a6b6cd4787ecf8361d5ea90bfb50c",
+      "actual": "eb0505e2f404759c6d2e0ea4fd6f174d2e3a6b6cd4787ecf8361d5ea90bfb50c",
+      "pass": true
+    },
+    {
+      "file": "inputs/15_22_primary_interval.py",
+      "expected": "b4201caa2934905b0a2de198cd6eba2c2d08131a0d496d8da76ac3dc3c8c92d2",
+      "actual": "b4201caa2934905b0a2de198cd6eba2c2d08131a0d496d8da76ac3dc3c8c92d2",
+      "pass": true
+    },
+    {
+      "file": "inputs/16_independent_interval.py",
+      "expected": "260150e6371209bc3eac1834e7be2c97b4d7e582338cd567c82843a4f44efbeb",
+      "actual": "260150e6371209bc3eac1834e7be2c97b4d7e582338cd567c82843a4f44efbeb",
+      "pass": true
+    }
+  ],
+  "source_pairs": [
+    {
+      "source": "/Users/ronbibb/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/FINAL_MANIFEST.json",
+      "snapshot": "inputs/00_FINAL_MANIFEST.json",
+      "expected": "d12f6e7c2fbfa9065820d9b49baa22a899680631106b6faf203d4866afb3e39e",
+      "source_sha256": "d12f6e7c2fbfa9065820d9b49baa22a899680631106b6faf203d4866afb3e39e",
+      "snapshot_sha256": "d12f6e7c2fbfa9065820d9b49baa22a899680631106b6faf203d4866afb3e39e",
+      "pass": true
+    },
+    {
+      "source": "/Users/ronbibb/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/FINAL_SEAL.json",
+      "snapshot": "inputs/01_FINAL_SEAL.json",
+      "expected": "72fda975284ab404c9533dd5fe005c3d2a01b1c064f7aef07ef79015b27ba0b3",
+      "source_sha256": "72fda975284ab404c9533dd5fe005c3d2a01b1c064f7aef07ef79015b27ba0b3",
+      "snapshot_sha256": "72fda975284ab404c9533dd5fe005c3d2a01b1c064f7aef07ef79015b27ba0b3",
+      "pass": true
+    },
+    {
+      "source": "/Users/ronbibb/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/AUDIT_ACCEPTANCE.json",
+      "snapshot": "inputs/02_AUDIT_ACCEPTANCE.json",
+      "expected": "1d7452bf53cd35d261c22117f0507332aed9b215c347349724a5fc7f494ad145",
+      "source_sha256": "1d7452bf53cd35d261c22117f0507332aed9b215c347349724a5fc7f494ad145",
+      "snapshot_sha256": "1d7452bf53cd35d261c22117f0507332aed9b215c347349724a5fc7f494ad145",
+      "pass": true
+    },
+    {
+      "source": "/Users/ronbibb/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/KINETIC_SIGN_RESULT.md",
+      "snapshot": "inputs/03_KINETIC_SIGN_RESULT.md",
+      "expected": "4b5fc551e965a0e49625c6b58d6ac5f02512d92764d5fe5ab9c8b2637d47ac3c",
+      "source_sha256": "4b5fc551e965a0e49625c6b58d6ac5f02512d92764d5fe5ab9c8b2637d47ac3c",
+      "snapshot_sha256": "4b5fc551e965a0e49625c6b58d6ac5f02512d92764d5fe5ab9c8b2637d47ac3c",
+      "pass": true
+    },
+    {
+      "source": "/Users/ronbibb/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/K1_PHYSICAL_MEAN_FORM_AND_EXACT_CONTROL.md",
+      "snapshot": "inputs/04_K1_PHYSICAL_MEAN_FORM_AND_EXACT_CONTROL.md",
+      "expected": "74cb384a800c95f3f81c8d4ce01dad14e01d3c7003725c0ee6ffdda0f1c20392",
+      "source_sha256": "74cb384a800c95f3f81c8d4ce01dad14e01d3c7003725c0ee6ffdda0f1c20392",
+      "snapshot_sha256": "74cb384a800c95f3f81c8d4ce01dad14e01d3c7003725c0ee6ffdda0f1c20392",
+      "pass": true
+    },
+    {
+      "source": "/Users/ronbibb/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/K1_RESTRICTED_EXTENSION_AND_REMAINING_COMPLEMENT.md",
+      "snapshot": "inputs/05_K1_RESTRICTED_EXTENSION_AND_REMAINING_COMPLEMENT.md",
+      "expected": "c4719ce0e2ac91b1550213d2a2fc72adf1cb399ef1e163af1edbf0ec6bb24132",
+      "source_sha256": "c4719ce0e2ac91b1550213d2a2fc72adf1cb399ef1e163af1edbf0ec6bb24132",
+      "snapshot_sha256": "c4719ce0e2ac91b1550213d2a2fc72adf1cb399ef1e163af1edbf0ec6bb24132",
+      "pass": true
+    },
+    {
+      "source": "/Users/ronbibb/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/FORM_DOMAIN_SCOPE.md",
+      "snapshot": "inputs/06_FORM_DOMAIN_SCOPE.md",
+      "expected": "d9d51ae136a8507c9d70b168e2b7f340d52ecf810faa900b9197805d3a18e4d5",
+      "source_sha256": "d9d51ae136a8507c9d70b168e2b7f340d52ecf810faa900b9197805d3a18e4d5",
+      "snapshot_sha256": "d9d51ae136a8507c9d70b168e2b7f340d52ecf810faa900b9197805d3a18e4d5",
+      "pass": true
+    },
+    {
+      "source": "/Users/ronbibb/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/NEXT_GATE.md",
+      "snapshot": "inputs/07_NEXT_GATE.md",
+      "expected": "66265c4843dc88f5933f8938964dbcf197e8ad6515fba2b2277ed6d4093e13f5",
+      "source_sha256": "66265c4843dc88f5933f8938964dbcf197e8ad6515fba2b2277ed6d4093e13f5",
+      "snapshot_sha256": "66265c4843dc88f5933f8938964dbcf197e8ad6515fba2b2277ed6d4093e13f5",
+      "pass": true
+    },
+    {
+      "source": "/Users/ronbibb/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/independent_review/preproducer/GENERAL_Y_COMPLETION_AND_SUFFICIENT_CERTIFICATE.md",
+      "snapshot": "inputs/08_GENERAL_Y_COMPLETION_AND_SUFFICIENT_CERTIFICATE.md",
+      "expected": "3b603a1bd8bc63b4d7b250c737a68982412a7d1c5fc2a1663856caabbd453b7a",
+      "source_sha256": "3b603a1bd8bc63b4d7b250c737a68982412a7d1c5fc2a1663856caabbd453b7a",
+      "snapshot_sha256": "3b603a1bd8bc63b4d7b250c737a68982412a7d1c5fc2a1663856caabbd453b7a",
+      "pass": true
+    },
+    {
+      "source": "/Users/ronbibb/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/independent_review/preproducer/SHIFTED_SCALAR_ONE_NEGATIVE_DIRECTION.md",
+      "snapshot": "inputs/09_SHIFTED_SCALAR_ONE_NEGATIVE_DIRECTION.md",
+      "expected": "1225bc4d86a3dea11cc952fad2555fdc235d3428c34b51a6c8e1187dc4ae2d18",
+      "source_sha256": "1225bc4d86a3dea11cc952fad2555fdc235d3428c34b51a6c8e1187dc4ae2d18",
+      "snapshot_sha256": "1225bc4d86a3dea11cc952fad2555fdc235d3428c34b51a6c8e1187dc4ae2d18",
+      "pass": true
+    },
+    {
+      "source": "/Users/ronbibb/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/inputs/05_UNIT_C8_CANONICAL_KINETIC_FORM_AND_UV_BOUND.md",
+      "snapshot": "inputs/10_05_UNIT_C8_CANONICAL_KINETIC_FORM_AND_UV_BOUND.md",
+      "expected": "9383cb15531c0d5b56b16f563209b3b577e41d21d7be530470635977f71f6fba",
+      "source_sha256": "9383cb15531c0d5b56b16f563209b3b577e41d21d7be530470635977f71f6fba",
+      "snapshot_sha256": "9383cb15531c0d5b56b16f563209b3b577e41d21d7be530470635977f71f6fba",
+      "pass": true
+    },
+    {
+      "source": "/Users/ronbibb/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/inputs/12_UNIT_C5_ALL_NONZERO_FREQUENCY_CONSTRAINT_INVERSE.md",
+      "snapshot": "inputs/11_12_UNIT_C5_ALL_NONZERO_FREQUENCY_CONSTRAINT_INVERSE.md",
+      "expected": "7a0dbe4b7a57d25ee23c3f1be35dd0dd325962bf93b90863f1710cf698d435b3",
+      "source_sha256": "7a0dbe4b7a57d25ee23c3f1be35dd0dd325962bf93b90863f1710cf698d435b3",
+      "snapshot_sha256": "7a0dbe4b7a57d25ee23c3f1be35dd0dd325962bf93b90863f1710cf698d435b3",
+      "pass": true
+    },
+    {
+      "source": "/Users/ronbibb/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/inputs/10_UNIT_C1_ZERO_CHARGE_TENSOR_GAP.md",
+      "snapshot": "inputs/12_10_UNIT_C1_ZERO_CHARGE_TENSOR_GAP.md",
+      "expected": "1bf2dc6879782be7649d4364cf44f07e3be3c2261d9e97b1e3e35317cf4d63a4",
+      "source_sha256": "1bf2dc6879782be7649d4364cf44f07e3be3c2261d9e97b1e3e35317cf4d63a4",
+      "snapshot_sha256": "1bf2dc6879782be7649d4364cf44f07e3be3c2261d9e97b1e3e35317cf4d63a4",
+      "pass": true
+    },
+    {
+      "source": "/Users/ronbibb/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/inputs/16_R2_PHYSICAL_MEAN_SOURCE_ADJOINT_AND_WIDTH.md",
+      "snapshot": "inputs/13_16_R2_PHYSICAL_MEAN_SOURCE_ADJOINT_AND_WIDTH.md",
+      "expected": "0a9f1af65abe445a8ac7933982c92d31a19b188d9e555b1fe7c43a0c9d0e7d65",
+      "source_sha256": "0a9f1af65abe445a8ac7933982c92d31a19b188d9e555b1fe7c43a0c9d0e7d65",
+      "snapshot_sha256": "0a9f1af65abe445a8ac7933982c92d31a19b188d9e555b1fe7c43a0c9d0e7d65",
+      "pass": true
+    },
+    {
+      "source": "/Users/ronbibb/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/inputs/21_14_04_MODEL.json",
+      "snapshot": "inputs/14_21_14_04_MODEL.json",
+      "expected": "eb0505e2f404759c6d2e0ea4fd6f174d2e3a6b6cd4787ecf8361d5ea90bfb50c",
+      "source_sha256": "eb0505e2f404759c6d2e0ea4fd6f174d2e3a6b6cd4787ecf8361d5ea90bfb50c",
+      "snapshot_sha256": "eb0505e2f404759c6d2e0ea4fd6f174d2e3a6b6cd4787ecf8361d5ea90bfb50c",
+      "pass": true
+    },
+    {
+      "source": "/Users/ronbibb/Research/papers/ab-bridge-feasibility/20261019_canonical_kinetic_134950/inputs/22_primary_interval.py",
+      "snapshot": "inputs/15_22_primary_interval.py",
+      "expected": "b4201caa2934905b0a2de198cd6eba2c2d08131a0d496d8da76ac3dc3c8c92d2",
+      "source_sha256": "b4201caa2934905b0a2de198cd6eba2c2d08131a0d496d8da76ac3dc3c8c92d2",
+      "snapshot_sha256": "b4201caa2934905b0a2de198cd6eba2c2d08131a0d496d8da76ac3dc3c8c92d2",
+      "pass": true
+    },
+    {
+      "source": "/Users/ronbibb/Research/papers/ab-bridge-feasibility/20261019_fixed_response_retry_002301/analytic_inputs/accepted_baseline/independent_interval.py",
+      "snapshot": "inputs/16_independent_interval.py",
+      "expected": "260150e6371209bc3eac1834e7be2c97b4d7e582338cd567c82843a4f44efbeb",
+      "source_sha256": "260150e6371209bc3eac1834e7be2c97b4d7e582338cd567c82843a4f44efbeb",
+      "snapshot_sha256": "260150e6371209bc3eac1834e7be2c97b4d7e582338cd567c82843a4f44efbeb",
+      "pass": true
+    }
+  ],
+  "bindings_verified": 23,
+  "source_pairs_verified": 17,
+  "syntax_AST_only": true,
+  "verifier_executions_by_reviewer": 0,
+  "new_physics_cases_authorized": false,
+  "scientific_certificate_accepted": false,
+  "material_corrections_required": []
+}

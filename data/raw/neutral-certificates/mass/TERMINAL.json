@@ -1,0 +1,8 @@
+{
+  "audit_sha256": "9513410d036e1577156ab5f1febaa6b6ed44ff79f776f85971ed443e32fe3e85",
+  "classification": "NEGATIVE_SCALAR_RADION_MODE_CERTIFIED_AT_CENTRAL_D1",
+  "guard": "fca1b49a652afc1832e61e31e5e8c47dc86d63144de791211c89372f55a82e00",
+  "result_sha256": "e97910ac0fdf5acbdc224438b03ee3aafbba06547356e347136d5d968bd2df94",
+  "status": "COMPLETE",
+  "utc": "2026-10-05T17:41:30.366694+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "test1_phase_v3.py": {
+    "donor": "/Users/ronbibb/Research/papers/paper-A/experiments/20261013T202602Z_THREE_IDEAS/test1_phase_v3.py",
+    "sha256": "3b294043d160bda97eb31de0ebf6ed0fda3734dce36d3ef6efc800efa9174894"
+  },
+  "engine/primary_interval.py": {
+    "donor": "/Users/ronbibb/Research/papers/paper-A/experiments/20261013T202602Z_THREE_IDEAS/engine/primary_interval.py",
+    "sha256": "b4201caa2934905b0a2de198cd6eba2c2d08131a0d496d8da76ac3dc3c8c92d2"
+  },
+  "engine/independent_interval.py": {
+    "donor": "/Users/ronbibb/Research/papers/paper-A/experiments/20261013T202602Z_THREE_IDEAS/engine/independent_interval.py",
+    "sha256": "260150e6371209bc3eac1834e7be2c97b4d7e582338cd567c82843a4f44efbeb"
+  },
+  "inputs/central_bindings.json": {
+    "donor": "/Users/ronbibb/Research/papers/paper-A/experiments/20261013T202602Z_THREE_IDEAS/inputs/central_bindings.json",
+    "sha256": "e3061fbe20f11df19df9acc71d8869daaea78a99952dd4ef1baedd36a5c7c282"
+  },
+  "SOURCE_BINDINGS.json": {
+    "donor": "/Users/ronbibb/Research/papers/paper-A/experiments/20261013T202602Z_THREE_IDEAS/SOURCE_BINDINGS.json",
+    "sha256": "4d6113be2f79f40033fb16dea687b97f71e83c1ee3245e6e4c9f127e7b79f7ec"
+  }
+}

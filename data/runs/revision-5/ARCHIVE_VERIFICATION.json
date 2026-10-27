@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "checks": 822,
+  "failed": [],
+  "kinetic_saved_cells_checked": 16365,
+  "new_integrations": 0,
+  "producer_imports": 0,
+  "scope": "Saved-record identities, exact terminal arithmetic and stored-cell hull coverage only. Does not re-prove unexported Picard/Taylor/phase-lift predicates, historical faithful execution, arithmetic correctness, analytic theorems or external peer review. Redacted copies are inspection derivatives, not new source-bound runs.",
+  "archive_sha256": "b43c4c67347da40276dde28e2a06d094d508eaf950bb712d44226343e143c489",
+  "archive_bytes": 18951613,
+  "zip_entries": 735,
+  "fresh_extraction": true,
+  "original_tree_required_by_verifier": false,
+  "article_pdf_identical": true,
+  "private_string_hits": [],
+  "source_identities_unchanged": true,
+  "journal_single_file_under_50MB": true,
+  "archive_plus_article_under_150MB": true,
+  "external_delivery_performed": false
+}

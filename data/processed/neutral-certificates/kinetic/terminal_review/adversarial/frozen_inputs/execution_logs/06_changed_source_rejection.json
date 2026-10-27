@@ -1,0 +1,17 @@
+{
+  "absolute_deadline": "2026-10-19T16:03:42+00:00",
+  "command": [
+    "/opt/homebrew/opt/python@3.14/bin/python3.14",
+    "-B",
+    "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_continuum_kinetic_143342/recovery_changed_source/certificate_runner_v2.py",
+    "--output",
+    "/anonymous/local-user/Research/papers/ab-bridge-feasibility/20261019_continuum_kinetic_143342/recovery_changed_source/rejected_output",
+    "--max-chunks",
+    "1"
+  ],
+  "finished_utc": "2026-10-19T14:53:55.038508+00:00",
+  "returncode": 1,
+  "started_utc": "2026-10-19T14:53:54.950485+00:00",
+  "status": "PASS",
+  "tag": "06_changed_source_rejection"
+}

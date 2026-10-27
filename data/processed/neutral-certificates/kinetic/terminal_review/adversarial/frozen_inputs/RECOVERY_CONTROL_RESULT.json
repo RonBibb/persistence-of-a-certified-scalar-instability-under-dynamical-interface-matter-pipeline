@@ -1,0 +1,18 @@
+{
+  "changed_source_rejected_before_controls_or_background": true,
+  "committed_chunk_corruption_rejected_before_cell": true,
+  "continued_cells": 256,
+  "continued_chunk": "cells/chunk_00256_00512.json.gz",
+  "continued_chunk_sha256": "d6599cf2794219e53ab56079689023ee219f7fb71932d75489ef867ede27471d",
+  "duplicate_physical_cells": 256,
+  "fresh_process_continuation_byte_equal": true,
+  "immutable_full_state_corruption_rejected_before_cell": true,
+  "main_output": "certificate",
+  "partial_orphan_never_accepted": true,
+  "scientific_acceptance": "SEPARATE",
+  "status": "PASS",
+  "synthetic_control_runs": 1,
+  "total_physical_cell_evaluations_in_controls": 768,
+  "unique_primary_cells_completed": 512,
+  "utc": "2026-10-19T14:53:55.039308+00:00"
+}

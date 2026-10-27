@@ -1,0 +1,29 @@
+{
+  "scope": "Frozen predecessor preservation and bounded revision checks; not scientific certification.",
+  "baseline": "20261024_physica_scripta_revision_4",
+  "protected_files_checked": 2649,
+  "protected_files_changed": [],
+  "inherited_tagged_equations": 174,
+  "changed_inherited_equations": [],
+  "new_tags": [
+    "G1",
+    "G2",
+    "G3",
+    "Q10",
+    "Q9"
+  ],
+  "old_untagged_displays_preserved": true,
+  "formal_theorem_A_verbatim": true,
+  "references_identical": true,
+  "input_bindings_identical": true,
+  "changed_package_files": [
+    "PACKAGE_MANIFEST.json",
+    "README.md",
+    "article.pdf"
+  ],
+  "new_numerical_integrations": 0,
+  "new_independent_scientific_review": false,
+  "external_delivery_performed": false,
+  "pdf_sha256": "2cfa23806f2689a6292966e1d81ad6540e10805d428765536e6285581e9b1bbf",
+  "checks_pass": true
+}

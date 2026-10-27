@@ -1,0 +1,48 @@
+{
+  "utc": "2026-10-19T15:10:19.632841+00:00",
+  "reviewer": "finite_charge_route",
+  "verdict": "SCOPED_PASS_FULL_CANONICAL_PP_ZERO_ANCHOR_AND_EXISTENTIAL_SMALL_CHARGE",
+  "pass": true,
+  "candidate_sha256": "20266e0c935d7cdec99b98d4e8736ae92ab04f94e0027a48a4ef2a9939b321b0",
+  "report_sha256": "ab352d63833d9ab7ae2692e3fdaa437def425e2f6ceda3437386a5069637c1ae",
+  "review": "action_review/postrun/SCIENTIFIC_REVIEW.md",
+  "review_sha256": "75b5c9bd7ecbecd143cb37c4a79176242afc13529c6e83777bfad64e12168c9b",
+  "direct_bindings_verified": 246,
+  "source_pairs_verified": 17,
+  "nested_candidate_binding_counts": [
+    26,
+    30,
+    23
+  ],
+  "independent_fraction_verifier_result_sha256": "3338d44d50988675751b580475f5f0e64b844b0345775f27d546245ed11bf345",
+  "all_inductive_cells": 16365,
+  "all_mode_half_S": "PASS",
+  "canonical_norm_equivalence": "PASS_FINITE_SLAB",
+  "background_uncertainty": "PASS_ENTIRE_A_AND_D_BOX_COLLAR",
+  "small_charge_continuation": "PASS_EXISTENTIAL_COMMON_DOMAIN_UNCOMPUTED_RADIUS",
+  "blocking_corrections": [],
+  "mismatches": [],
+  "new_IVP_response_root_or_second_checker_runs": 0,
+  "saved_output_metadata_and_width_accounting_arithmetic": true,
+  "components": [
+    {
+      "file": "action_review/postrun/ACTION_NORM_CHARGED_CONTINUATION_FINDINGS.md",
+      "sha256": "f6dc0e0da901dd745c06665bbcd3ae4d6b386ad7eafafb911f8b19c650df7f48"
+    },
+    {
+      "file": "action_review/postrun/ACTION_FINDINGS_RECEIPT.json",
+      "sha256": "6e089886e505d03cc3ee97689ad304181f7733c1dfe68ec7aa4b4c10002567db"
+    },
+    {
+      "file": "action_review/postrun/SCIENTIFIC_EXACT_BYTE_METADATA.json",
+      "sha256": "d5c23e32046b68b8cc7208719e9bf4737019091d85d93f476eb90277fb9bb491"
+    }
+  ],
+  "scope_holds": [
+    "Uncomputed charge radius and absolute canonical/response constants",
+    "No numerical nonzero-charge profile/amplitude",
+    "No unrestricted quantum no-ghost or stiffness positivity",
+    "No nonlinear/IR/old-cap/formation/projection promotion"
+  ],
+  "all_own_writes_complete": true
+}

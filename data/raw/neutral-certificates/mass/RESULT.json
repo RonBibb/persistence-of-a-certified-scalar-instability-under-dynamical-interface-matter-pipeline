@@ -1,0 +1,32 @@
+{
+  "artifacts": {
+    "INDEPENDENT_AUDIT.json": "9513410d036e1577156ab5f1febaa6b6ed44ff79f776f85971ed443e32fe3e85",
+    "POSTRUN_REVIEW.md": "f584bfa0e3a2fb3515eba274a5a782c693f3f1b887d9a6d6f703488893a8efb1",
+    "RESULT_REPORT.md": "a42bc73ae70efbac59aca5cf629d13b90a3f276f09ddc2267c9efbb25fa75b27",
+    "output/RESULT.json": "1e14fdf03724f7249aeb5a8177e9671e917e7ea323fbaefe11fddb8d5be16ae5",
+    "output/TERMINAL.json": "834b719f156287d1c393991461501e25041b87e6920afe203ce5045ba24cb556",
+    "postrun_audit.py": "9d2334aee18c7085036639858feff1f3a962517040ba3f1258e9ee3fe776be84"
+  },
+  "checkpoint_count": 288,
+  "classification": "NEGATIVE_SCALAR_RADION_MODE_CERTIFIED_AT_CENTRAL_D1",
+  "evidence_class": "INTERVAL_CERTIFIED_CENTRAL_MODE_EXISTENCE_WITH_NONZERO_SEPARATION_COMPONENT",
+  "guard": "fca1b49a652afc1832e61e31e5e8c47dc86d63144de791211c89372f55a82e00",
+  "independently_accepted": true,
+  "limits": [
+    "one central exact static background",
+    "not eigenvalue uniqueness or a full spectrum",
+    "not a continuous parameter neighborhood instability theorem",
+    "not nonlinear fate or causal admission",
+    "declared canonical scalar and pure-potential two-wall model only"
+  ],
+  "mu_open_interval": [
+    "-33/25000",
+    "-131/100000"
+  ],
+  "physical_run_seconds": 50.875797649998276,
+  "sealed_utc": "2026-10-05T17:41:30.366694+00:00",
+  "status": "COMPLETE",
+  "successor_launched": false,
+  "technical_predecessor": "../lin-central-validated-mode-20261005T165817Z",
+  "validated_cells": 73644
+}

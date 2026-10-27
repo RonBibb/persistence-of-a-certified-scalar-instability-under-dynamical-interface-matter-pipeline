@@ -1,0 +1,12 @@
+{
+  "checkpoint": "checkpoints/00-000256-1c706b275a3459a1345e66e19dc0b389285261cb457eff185b2a7b5634f2c622.json",
+  "checkpoint_digest": "1c706b275a3459a1345e66e19dc0b389285261cb457eff185b2a7b5634f2c622",
+  "completed_cells": 256,
+  "completed_tasks": 0,
+  "current_task": "primary_low",
+  "elapsed_seconds": 0,
+  "guard": "analytic-control-v1",
+  "state": "RUNNING",
+  "task_total_cells": 8183,
+  "utc": "2026-10-05T17:29:36.587289+00:00"
+}

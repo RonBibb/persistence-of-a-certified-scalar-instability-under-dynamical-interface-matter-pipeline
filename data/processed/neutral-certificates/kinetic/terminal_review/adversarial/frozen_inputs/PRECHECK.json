@@ -1,0 +1,186 @@
+{
+  "utc": "2026-10-19T14:34:54.338840+00:00",
+  "operation": "Read-only provenance, accepted scope, checkpoints and documentary integrity; not new scientific computation",
+  "pass": true,
+  "counts": {
+    "original_sources": 24,
+    "input_snapshots": 24,
+    "candidate_bindings": 367,
+    "admitted_candidate": 1,
+    "admitted_executable_bindings": 8,
+    "prelaunch_receipts": 3,
+    "accepted_candidates": 2,
+    "accepted_review_receipts": 6,
+    "accepted_report": 2,
+    "numeric_guard_files": 6,
+    "numeric_coefficients": 1,
+    "numeric_cases": 36,
+    "fresh_process_replay": 2,
+    "execution_receipts": 6,
+    "checkpoint_bound_artifacts": 145,
+    "sealed_files": 1531,
+    "manifest_seal": 1
+  },
+  "inherited_verification": {
+    "utc": "2026-10-19T14:34:54.081888+00:00",
+    "operation": "Read-only source, review receipt, checkpoint and documentary seal verification; no scientific numerical execution",
+    "pass": true,
+    "counts": {
+      "original_sources": 44,
+      "input_snapshots": 44,
+      "candidate_bindings": 109,
+      "accepted_candidates": 2,
+      "accepted_review_receipts": 6,
+      "accepted_report": 1,
+      "checkpoint_bound_artifacts": 389,
+      "sealed_files": 425,
+      "manifest_seal": 1
+    },
+    "inherited_verification": {
+      "utc": "2026-10-19T14:34:54.036296+00:00",
+      "operation": "Read-only source, proof metadata and documentary seal verification; not an independent mathematical audit",
+      "pass": true,
+      "scientific_acceptance": false,
+      "counts": {
+        "original_sources": 16,
+        "input_snapshots": 16,
+        "primary_reference_snapshots": 2,
+        "candidate_bindings": 31,
+        "producer_status_candidate": 1,
+        "checkpoint_bound_artifacts": 34,
+        "sealed_files": 41,
+        "manifest_seal": 1
+      },
+      "inherited_verification": {
+        "utc": "2026-10-19T14:34:54.028246+00:00",
+        "operation": "Read-only provenance and proof-metadata verification; no numerical/CAS scientific execution",
+        "pass": true,
+        "counts": {
+          "input_sources": 24,
+          "input_snapshots": 24,
+          "candidate_bindings": 75,
+          "accepted_candidates": 2,
+          "accepted_review_receipts": 6,
+          "accepted_producers": 3,
+          "accepted_report": 1,
+          "checkpoint_bound_artifacts": 303,
+          "immediate_predecessor_files": 356,
+          "sealed_files": 311,
+          "manifest_seal": 1
+        },
+        "inherited_verification": {
+          "utc": "2026-10-19T14:34:54.000040+00:00",
+          "operation": "Read-only provenance and proof-metadata verification; no numerical/CAS scientific execution",
+          "pass": true,
+          "counts": {
+            "input_sources": 25,
+            "input_snapshots": 25,
+            "candidate_bindings": 82,
+            "accepted_candidates": 2,
+            "accepted_review_receipts": 6,
+            "accepted_producers": 3,
+            "accepted_report": 1,
+            "checkpoint_bound_artifacts": 349,
+            "immediate_predecessor_files": 2070,
+            "sealed_files": 356,
+            "manifest_seal": 1
+          },
+          "inherited_verification": {
+            "utc": "2026-10-19T14:34:53.969265+00:00",
+            "operation": "read-only hashing and metadata/provenance verification; no scientific execution",
+            "pass": true,
+            "counts": {
+              "input_sources": 15,
+              "input_snapshots": 15,
+              "candidate_dependencies": 295,
+              "accepted_candidate": 1,
+              "accepted_report": 1,
+              "terminal_receipts": 3,
+              "checkpoint_bound_artifacts": 2053,
+              "immediate_predecessor_files": 140,
+              "sealed_files": 2070,
+              "manifest_seal": 1
+            },
+            "inherited_verification": {
+              "utc": "2026-10-19T14:34:53.833584+00:00",
+              "operation": "read-only hashing and provenance verification; no science execution",
+              "pass": true,
+              "counts": {
+                "input_sources": 8,
+                "input_snapshots": 8,
+                "accepted_candidates": 2,
+                "accepted_result_or_report": 2,
+                "review_receipts": 6,
+                "candidate_dependencies": 25,
+                "immediate_predecessor_files": 117
+              },
+              "inherited_verification": {
+                "utc": "2026-10-19T14:34:53.828608+00:00",
+                "operation": "read-only file hashing/provenance verification; no science execution",
+                "pass": true,
+                "counts": {
+                  "input_sources": 8,
+                  "input_snapshots": 8,
+                  "accepted_candidates": 2,
+                  "accepted_theorem_or_report": 2,
+                  "review_receipts": 6,
+                  "candidate_dependencies": 19,
+                  "immediate_predecessor_files": 183
+                },
+                "inherited_verification": {
+                  "utc": "2026-10-19T14:34:53.823546+00:00",
+                  "operation": "read-only file hashing and provenance verification; no science execution",
+                  "pass": true,
+                  "counts": {
+                    "input_sources": 9,
+                    "input_snapshots": 9,
+                    "accepted_candidates": 3,
+                    "accepted_theorems_or_report": 3,
+                    "review_receipts": 9,
+                    "candidate_dependencies": 30,
+                    "immediate_predecessor_files": 646
+                  },
+                  "inherited_verification": {
+                    "utc": "2026-10-19T14:34:53.817851+00:00",
+                    "operation": "read-only cryptographic provenance verification; no scientific computation",
+                    "pass": true,
+                    "counts": {
+                      "root_input_sources": 18,
+                      "root_input_snapshots": 18,
+                      "sign_source": 1,
+                      "sign_snapshot": 1,
+                      "cubic_source": 1,
+                      "cubic_snapshot": 1,
+                      "accepted_candidates": 8,
+                      "accepted_theorems": 8,
+                      "independent_receipts": 26,
+                      "candidate_dependencies": 104,
+                      "terminal_dependencies": 22,
+                      "terminal_accepted_candidate": 1,
+                      "terminal_accepted_report": 1,
+                      "terminal_review_receipts": 3,
+                      "predecessor_manifests": 9,
+                      "predecessor_files": 4727,
+                      "manuscript_baseline": 1,
+                      "manuscript_files": 541
+                    },
+                    "mismatches": []
+                  },
+                  "mismatches": []
+                },
+                "mismatches": []
+              },
+              "mismatches": []
+            },
+            "mismatches": []
+          },
+          "mismatches": []
+        },
+        "mismatches": []
+      },
+      "mismatches": []
+    },
+    "mismatches": []
+  },
+  "mismatches": []
+}

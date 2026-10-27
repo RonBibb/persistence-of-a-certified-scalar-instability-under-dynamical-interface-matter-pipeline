@@ -1,0 +1,16 @@
+{
+  "block_maximum": "2026-10-19T16:03:42Z",
+  "completed_units": [
+    "C1_ALL_MODE_WEIGHTED_PROOF_PASS",
+    "C2_FULL_BOX_BACKGROUND_GATES_PASS",
+    "C3_INDEPENDENT_FRACTION_INDUCTIVE_CERTIFICATE_PASS",
+    "C4_THREE_SCIENTIFIC_AND_THREE_TERMINAL_AUDITS_PASS"
+  ],
+  "current_unit": "CLOSED",
+  "fingerprint": "5aa430bbc8d56e043518ddfbd49b3e5dbcd4b5422f9abf5715c881aafc009b1c",
+  "last_durable_checkpoint": "checkpoint_004.json",
+  "scientific_classification": "SEPARATE_FROM_CHECKPOINT",
+  "status": "COMPLETE_SCIENTIFICALLY_ACCEPTED_ALL_MODE_CANONICAL_CERTIFICATE",
+  "total_units": 4,
+  "utc": "2026-10-19T15:14:56.200685+00:00"
+}

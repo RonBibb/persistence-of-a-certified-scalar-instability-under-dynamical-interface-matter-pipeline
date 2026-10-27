@@ -1,0 +1,17 @@
+{
+  "utc": "2026-10-19T14:52:47.399670+00:00",
+  "reviewer": "finite_charge_route",
+  "candidate_sha256": "67f05e595460f603d9c98e08c79b86b2cdf121a4e0f4b7911f20c3bf7bb0a083",
+  "verdict": "PASS_PRELAUNCH",
+  "review": "action_review/prelaunch_v2/PRELAUNCH_REVIEW.md",
+  "review_sha256": "2b13a66ea31984f1dcd274169c1fd6cd757e00490349ad90eb0e04fa1e0c2368",
+  "metadata_sha256": "70d4b0dfc66dc78ff193e2555a5283b08be362f2de509f813266be9cf545fe62",
+  "direct_bindings_verified": 30,
+  "source_pairs_verified": 17,
+  "prior_v1_hold_receipt_sha256": "b7271ec1942095405df9ce0a77deb32a0945a6b37ebd1de0b1f4aba6d259eb34",
+  "v1_integrity_blocker": "RESOLVED_BY_IMMUTABLE_FULL_PAYLOAD_HASH_POINTER",
+  "blocking_corrections": [],
+  "scientific_or_control_evaluations": 0,
+  "actual_gate_result_admitted": false,
+  "all_own_writes_complete": true
+}

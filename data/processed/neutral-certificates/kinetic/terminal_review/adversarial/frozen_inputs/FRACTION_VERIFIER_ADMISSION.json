@@ -1,0 +1,15 @@
+{
+  "utc": "2026-10-19T15:01:29.330189+00:00",
+  "admitted": true,
+  "candidate": "action_review/fraction_verifier/FRACTION_VERIFIER_CANDIDATE_v1.json",
+  "candidate_sha256": "9dd49f179d069b7df7cbdfc3628ff23320a637875628e8d5cb2c21ebf5698364",
+  "review_receipts": {
+    "ROOT_FRACTION_VERIFIER_PRELAUNCH.json": "0ff5a4b230bb08e0688564fe0e843f5d06ec532e28718b3b8be66f2e50f9e5cd",
+    "adversarial_review/checker_prelaunch/PRELAUNCH_RECEIPT.json": "e4e72d4c937f9d8f01728cfc72a58e676abb38e01f6a829a447918ddb4eb65b1",
+    "independent_review/checker_prelaunch/CHECKER_PRELAUNCH_RECEIPT.json": "819840bd1a0c9bf636ca9531c40b1503b3b8c774c8c1d85ed220c0792f1e2e1a"
+  },
+  "expected_final_pointer_sha256": "c3b725099ddd7683a49aaf8563cd13b5f09f5c7118942e728c2eb384bc1dfe81",
+  "scope": "Independent exact-Fraction saved-cell certificate verification ONLY; no new IVP or result/science acceptance",
+  "required_mode": "default supervisor",
+  "deadline": "2026-10-19T16:03:42Z"
+}

@@ -1,0 +1,31 @@
+{
+  "utc": "2026-10-19T15:13:03.534508+00:00",
+  "reviewer": "finite_charge_route",
+  "verdict": "PASS_TERMINAL_SCOPE_FULL_CANONICAL_PP_AND_EXISTENTIAL_SMALL_CHARGE",
+  "accepted": true,
+  "candidate_sha256": "dd54a4ef750861f847f6cb579739aa1f7c594d22b4003a85820bc84c1d802ba8",
+  "report_sha256": "ab352d63833d9ab7ae2692e3fdaa437def425e2f6ceda3437386a5069637c1ae",
+  "scientific_acceptance_sha256": "d104620e74c678823c0b30a0e585ec3fa299143e7a6a679e34dc012a95e5ad7a",
+  "review": "terminal_review/action/TERMINAL_REVIEW.md",
+  "review_sha256": "4785bf334f7d339ef53ac770901d604a4d07f5434bb15a0802d45d061a161019",
+  "metadata": "terminal_review/action/TERMINAL_EXACT_BYTE_METADATA.json",
+  "metadata_sha256": "3540d3fb043d784252b8550ac11a8c22a1573c7107c237f8aecbeb32c37f2f72",
+  "direct_bindings_verified": 255,
+  "source_pairs_verified": 17,
+  "nested_candidate_binding_counts": [
+    26,
+    30,
+    23,
+    246
+  ],
+  "accepted_scientific_receipt_report_mappings_verified": 3,
+  "mismatches": [],
+  "blocking_corrections": [],
+  "anchor_bound": "K>=S/2_ALL_RADIAL_ALL_REAL_FREQUENCIES_INCLUDING_ACTUAL_MEAN",
+  "charged_continuation": "EXISTENTIAL_FINITE_SLAB_RADIUS_UNCOMPUTED",
+  "stiffness_growing_direction": "RETAINED",
+  "verifier_executed": false,
+  "new_scientific_checker_or_comparison_calculations": 0,
+  "successor_launched": false,
+  "all_own_writes_complete": true
+}

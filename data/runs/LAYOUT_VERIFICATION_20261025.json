@@ -1,0 +1,25 @@
+{
+  "scope": "Filesystem/import verification only; no owning research line accessed or numerical producer executed.",
+  "source_revision_files_verified": 842,
+  "imported_files_checked": 1533,
+  "imported_hash_mismatches": [],
+  "public_python_files_syntax_checked": 28,
+  "tex_and_figure_references_missing": [],
+  "public_manuscript_pdf_byte_identical": true,
+  "public_editable_manuscript_sources": 0,
+  "public_raw_data_files": 0,
+  "standalone_A_revision_collections_imported": 0,
+  "l001_paths_accessed": 0,
+  "l001_paths_modified": 0,
+  "git_commits_created": 0,
+  "actual_submodule_registered": false,
+  "public_pipeline_root": "/Users/ronbibb/Research/papers/persistence-of-a-certified-scalar-instability-under-dynamical-interface-matter/pipeline",
+  "checks_pass": true,
+  "relocated_document_generator_passed": true,
+  "regenerated_tex_files_byte_identical": [
+    "manuscript.tex",
+    "source/manuscript-body.tex",
+    "source/references.tex"
+  ],
+  "document_generator_stdout": "26764 source words; 179 equations; 27 references"
+}
