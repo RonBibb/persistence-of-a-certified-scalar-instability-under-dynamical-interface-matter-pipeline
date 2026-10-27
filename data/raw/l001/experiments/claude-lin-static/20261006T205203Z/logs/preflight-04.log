@@ -1,0 +1,51 @@
+slot_run: line 02_lin_static priority 5 token 1 slot 1 start 2026-10-06T21:00:57Z avail_kib 30057432 load 1.66
+{
+ "passed": true,
+ "path": "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T205203Z/preflight/20261006T210057Z/PREFLIGHT.json",
+ "fixtures": {
+  "mode": {
+   "bitwise_all_blocks": true,
+   "accepted_equals_generator_final": true,
+   "closure_violations_zero": true,
+   "manufactured_center_visible": true,
+   "refined_above_accepted_cells_diagnostic": 2,
+   "refined_max_not_above_accepted_max": true,
+   "dominant_width_reported": true,
+   "dominant_width": "CENTER_DISCREPANCY",
+   "shares": {
+    "CENTER_DISCREPANCY": 0.9985365853478454,
+    "STATE_RADIUS": 0.0,
+    "COMPARISON_STEP": 0.0004887585561880853,
+    "EVENT_WIDTH": 0.000974656094272479
+   },
+   "cells": 513,
+   "seconds": 2.3455363340035547,
+   "tamper_detected": true,
+   "verifier_checks_all_pass": true,
+   "verifier_failed": [],
+   "verifier_checks": 31
+  },
+  "prepared": {
+   "bitwise_all_blocks": true,
+   "accepted_equals_generator_final": true,
+   "closure_violations_zero": true,
+   "manufactured_center_visible": true,
+   "refined_above_accepted_cells_diagnostic": 0,
+   "refined_max_not_above_accepted_max": true,
+   "dominant_width_reported": true,
+   "dominant_width": "STATE_RADIUS",
+   "shares": {
+    "CENTER_DISCREPANCY": 0.0011973862267332296,
+    "STATE_RADIUS": 0.9987971580560597,
+    "COMPARISON_STEP": 3.512215859385016e-06,
+    "EVENT_WIDTH": 1.9431538733813014e-06
+   },
+   "cells": 513,
+   "seconds": 7.859611795982346,
+   "tamper_detected": true,
+   "verifier_checks_all_pass": true,
+   "verifier_failed": [],
+   "verifier_checks": 16
+  }
+ }
+}

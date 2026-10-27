@@ -1,0 +1,19 @@
+Harmonic-matched inverse diagnostic. No new nonlinear certificate or ODE.
+Retain each certified real-value/gradient row for finite n=2,...,N-1 and
+the complete uniform tail n>=N, both engines. No favorable cross-row mixing.
+On the same certified complex collar, D_n>=dc*n^2 in modulus,
+|B0*T|<=160, |B0*Tprime|<=2080, |H|<=3, |T|<=2,m<=1.
+Thus A_n<=12+160/(dc*n^2), and |V_n|/n^2 is bounded by
+B_n=9/n^2+289*(5/2048)+2080/(dc*n^4).
+The positive formulas decrease with n; evaluate at N for the infinite tail.
+At n=2 these exactly reproduce the inherited global A,B.
+Use each row's real Cv,Cg with its A_n,B_n in the reviewed positive2x2
+inverse; retain conservative n>=2 primitive payments and curvature A_n/2.
+The closed-stadium finiteness argument and common collar remain inherited.
+Take max value, max gradient and max per-row full norm separately. A maximum
+of full norms is valid without forcing the three component maxima to coincide.
+Replay latest sealed component constants using global seeds and n=2 A,B.
+Require complete harmonic coverage, all positivity and exact inverse identities,
+and domination by old constants. Record all rows and all maximizing ties.
+Record these only as sufficient inverse-bound improvements, not radius gains.
+One Linux core,2GiB,original lease,300s cap; frozen parents untouched.

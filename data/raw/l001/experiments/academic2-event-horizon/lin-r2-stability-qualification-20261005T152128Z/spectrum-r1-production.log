@@ -1,0 +1,2 @@
+{"completed": 1, "case": "center_coarse", "accepted": true, "mu": -0.0013122306827971482, "seconds": 2.576525167998625, "error": null}
+{"completed": 2, "case": "center_fine", "accepted": false, "mu": -0.0013122306827971467, "seconds": 2.779462043006788, "error": null}

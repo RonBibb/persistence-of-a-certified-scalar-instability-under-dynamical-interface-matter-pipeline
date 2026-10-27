@@ -1,0 +1,61 @@
+C6 RESIDUAL WIDTH ATTRIBUTION -- SAME OBJECT, NO ROOT TEST
+
+The exact physical solution, if present, determines endpoint fields A, Phi and
+ell inside the sealed endpoint-jet enclosures. The frozen corner recursion
+computes the same five residuals from those jets, the event length D, curvature
+k and the six fixed action literals. Its lapse q is determined by the same
+q3/q5/q7 recursion; it is not a new free variable.
+
+Three representations enclose that same exact residual:
+
+1. Independent endpoint Taylor coefficients A[0:8], Phi[0:8], ell[0:8], D,k.
+   These deliberately drop cross-coefficient correlations and supply the
+   widest primitive rectangle.
+2. Replace A[2:8] by the unchanged Hamiltonian recurrence from A0, A1,
+   Phi[0:8], ell[0:8], D,k. No initial-data solve is performed.
+3. Also restore the canonical scalar wall relations used by the original C7
+   lift. With ordinary derivatives, sigma=1-2*side, c=sigma*gamma/2,
+   L=exp(ell), t=c*(Phi-v), p=-sigma*U(Phi)/6,
+   Phi1=L*t, u=(Phi2-ell1*L*t)*exp(-2ell),
+   v3=-(6p-c)u-(4p^2-m2-t^2-2V/3-4cp)t+(2p-c)m2*Phi,
+   Phi3=L^3*v3+3ell1*Phi2-(2ell1^2-ell2)*L*t.
+   Higher stored Phi4..Phi7 and all ell coefficients remain enclosed as before.
+   These relations are exactly the inherited canonical preparation; the
+   actual metric slope A1 is NOT replaced by the Israel target off-root.
+
+For any representation G and its unchanged primitive rectangle X, let m be
+the exact binary midpoint. The segment m+t(x-m), 0<=t<=1, lies in X. Analytic
+automatic derivatives evaluated outwardly on X give J(X), hence
+   G(x) belongs to G(m)+sum_j J_j(X)*(X_j-m_j).
+The same formula is applied directly to -C*G with the frozen C. This is a
+rigorous range enclosure, not a changed physical source or new root-center
+calculation. The point evaluation G(m) by itself has no physical authority.
+
+Intersect each equivalent enclosure with the old recorded enclosure I.
+The ratio 1-width(intersection)/width(I) is a rigorous removable-width
+fraction for this enclosing description: the same exact residual is still
+contained. It is not a fraction of actual physical error. If the intersection
+is empty or the baseline reconstruction disagrees, fail closed.
+
+At a fixed mean-value level the triangle bound is additive: midpoint
+evaluation halfwidth plus sum_j mag(J_j(X))*halfwidth(X_j), with outward
+rounding excess recorded. These contributions can overlap in the physical
+source parameters; their sum bounds a rectangle, not statistically independent
+errors. Do not add budgets from different representation levels.
+
+For the fixed-preconditioner ledger, a row's ideal linear interval radius is
+sum_k abs(C_ik)*halfwidth(F_k). The difference from the stored rounded radius
+is recorded explicitly. It identifies channel mixing, not the origin of
+uncertainty inside each F_k.
+
+The saved event tube Y over [Dlo,Dhi] gives the raw-state bound
+   abs(Y(D)-Y(midpoint(D))) <= sup(abs(rhs(Y,p)))*(Dhi-Dlo)/2
+for fixed admissible source parameters. This does not separate correlated
+source parameters from D and is NOT automatically a residual contribution.
+
+Only the last validated Taylor cell of each 128-cell checkpoint block was
+retained. Its remainder is genuine local evidence, but a sum over those
+samples is not the full accumulated integration error. Source/root uncertainty,
+accumulated IVP truncation and wrapping already merged in endpoint-state
+balls remain a named unresolved component unless the archive itself permits
+a rigorous separation. No missing cells are recomputed in this task.

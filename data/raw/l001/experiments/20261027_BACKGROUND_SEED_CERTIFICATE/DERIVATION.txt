@@ -1,0 +1,23 @@
+Prospective background-resolved first-mode seed certificate.
+Reauthenticate full original whole-cell archives and original shared seed,
+exactly replay parent real(p,f,g)maxima. Additionally extract canonical
+slots1:5=(H,Phi,T,E), full-cell absolute maxima across both engines.
+Use max parameter upper endpoints m2,k,rate,h from authenticated INITIAL.
+Authenticated prior Picard collar gives coordinate change<=delta=2^-16
+for each backgroundfield. Add delta to each real absolute maximum;
+retain identical rho/collar, require resulting bounds<=old3,2,2,17.
+Set mu_abs=rhi(rhi+3hhi), Hp=T^2/3+kE^2,Tp=mPhi+4HT.
+All parameters describe same selected mode/full interval, not new modes.
+
+Positive firstmode matrix [[2H,T/3,0],[0,0,1],
+[12HT+4mPhi,m+mu_abs E^2+2T^2,4H]]. Require entrywise<=parentM,
+Hp<=2,Tp<=26,Neumann condition,positive exactinverse/identity.
+Complexcomponent boundX=(I-rhoM)^-1 realcomponents.
+P'=2HP+TF/3;P''=2HpP+2HP'+TpF/3+TG/3;
+F''=Mlastrow*X. Bulkseed=3(P+P'+P'')+F+G+F''.
+Roundupinteger; require<=parentseed. Keep independently certified wall1/8,
+graph0 and selected source mapK/weights. Fully replay parentcertificate and
+certify newseed max(bulk,wall/kappa) with all observable remainder gates.
+No new ODE,no grid reoptimization,no nonlinear trajectory claim.
+600s Linux-only oldlease; fixedcutoff1793074031 before/afteradmission.
+No manuscript/inventory edits; preserve any failed namespace.

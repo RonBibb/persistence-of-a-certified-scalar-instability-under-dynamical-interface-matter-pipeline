@@ -1,0 +1,18 @@
+Prospective oscillator denominator improvement on same883 rational-grid points.
+Exact Q5/Q6: d_n,i chi_i=f_i+T_i xi_i-o_i, d=2+nr(nr+3h)E_i^2.
+Selected neutral family has r,h>0; inherited whole-cell alpha=min rlo^2 E^2lower
+bounds all real endpoints in both engines. Thus d>=alpha*n^2 for alln>=2.
+With |T_i|<=1 and the same conservative two-wall triangle factor, replace
+summed oscillator coefficient32768 by2/alpha in op+xn/4+BO only.
+No additional lapse or endpoint factor occurs in the exact normalized row.
+Keep bulk B source weights unchanged; same graph source, all source loads,
+bulk-only dependencies, seed1215, full aggregate geometry and remainder gates.
+Common1/alpha holds the infinite tail. Do not use finite-n denominator as
+uniform tail upper bound: n^2/(2+alpha*n^2) increases toward1/alpha.
+Replay all883 baseline rows and complete prior refined certificate.
+Require all source loads identical, B/graph masses identical, C scaled exactly.
+Recompute both selected certificates and first passing dyadic tails.
+Report full response weights for successors and source budget attribution.
+This changes sufficient response bounds, not equations or physical coupling.
+Linux reviewed shared lease,600sec cap,cutoff1793074031 before/after admission.
+No manuscript/inventory changes, no ODE or nonlinear trajectory claim.

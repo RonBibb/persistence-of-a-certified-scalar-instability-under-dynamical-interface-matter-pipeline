@@ -1,0 +1,18 @@
+Positive unresolved inverse-lapse tail qualification at q=1/4 and1/2.
+Requires independently audited positive source-tail certificates at each.
+Inherits the all-order Jhat composition from FINITE_INVERSE_LAPSE24:
+single-wall X=lambda*z_n/n^3 for n>=2; B=z_n/n^2.
+Use residual delta for Btail<=delta/625, Xtail<=lambda*delta/15625,
+EulerXtail<=lambda*delta/625. Add the original finite24 polynomials.
+U=4X/gap, Ehat=1+64U/(1-U), Vhat=Ehat*exp(2B)*EulerX/32,
+Jhat=Ehat*exp(B)/(1-Vhat^2). Require0<=U<1 and0<=Vhat<1.
+Both exponentials use32 terms plus geometric positive remainder with
+argument<1. All arithmetic outward512-bit rational interval.
+Subtract ORIGINAL positive Jhat prefix0..24 including constant1,
+not the actual/clipped inverse coefficient array. Require nonnegative
+upper difference. New difference upper bounds unresolved inverse tail.
+Take min with inherited JC*q^25/(1-q). No inverse derivative needed.
+All-order composition domination is inherited, not established by24 terms.
+This is a tail prerequisite; full clock gates must be checked separately.
+No new field coefficient, physical trajectory, analytic radius or fate.
+Exclusive Linux1CPU2GiB600seconds; fixed13:42:44UTC cutoff; no retry.

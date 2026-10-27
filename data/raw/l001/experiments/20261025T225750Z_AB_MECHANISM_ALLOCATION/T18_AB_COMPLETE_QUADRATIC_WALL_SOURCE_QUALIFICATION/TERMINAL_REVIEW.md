@@ -1,0 +1,7 @@
+# Independent terminal review — accepted
+
+QUADRATIC_Q5_WALL_SOURCES_AND_CHART_LOADS_QUALIFIED is accepted within the declared boundary-source scope. Linux leased-core audit verified 168 source bindings and runtime hashes, RESULT/identity hash, zero exit, child reaping and absence of FAILURE. Wrapper wall time was 1.410235 seconds.
+
+The audit independently reconstructed all 152 per-engine endpoint fields from original T10 endpoint data, exact central bindings and accepted T17 graph coefficients, including analytic jets, both Eulerian and pulled loads, density normalization and the chart shift. Every value and engine hull matched exactly. A separate rational-monomial check reconstructed the saved polynomial load-bridge difference and confirmed nonzero mutation differences. The original Q5 expansion, arbitrary new-field rows and oscillator elimination were independently derived in the prospective review; recorded off-shell qualification passed. No ODE or scientific producer replay occurred.
+
+This supplies the complete oscillator/scalar boundary source subsystem and its explicit chart-load transformation. Together with T15/T17 it closes source-algebra prerequisites, not the full second-order solve. Q7 reduced scalar boundary data still require the compatible bulk Sc2 source, and no p2/f2 field, proper-distance coefficient, finite-charge validity radius or dynamics has been computed. Audit CPU lease released.

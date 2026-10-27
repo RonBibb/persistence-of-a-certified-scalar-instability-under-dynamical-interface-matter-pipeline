@@ -1,0 +1,13 @@
+User authorization: fresh two-hour goal for ninth-order qualification, enclosure,
+and full-budget recomputation, keeping ten-minute cap per calculation and
+independent audits. Window starts2026-10-27T15:10:42Z, ends17:10:42Z.
+No launch after17:00:42Z because each calculation reserves600seconds.
+Linux-only numerical/symbolic execution, inherited exclusive1CPU2GiB lease.
+Frozen parents remain untouched. Preserve failed artifacts; no gate relaxation.
+Stages: bulk qualification/audit; moving-wall qualification/audit; required
+spatial jets qualification/audit; actual coefficient enclosure/audit; complete
+budget readout/audit. Source preflight precedes each numerical launch.
+Parallel source preparation may proceed, but no downstream calculation before
+its prerequisite evidence passes. No tenth-order or other successor is authorized.
+Report incomplete stages honestly if deadline or a technical/scientific gate
+prevents completion. Certificate remains local and family-specific.

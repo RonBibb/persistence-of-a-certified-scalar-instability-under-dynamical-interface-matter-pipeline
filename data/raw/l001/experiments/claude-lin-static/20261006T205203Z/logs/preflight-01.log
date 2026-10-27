@@ -1,0 +1,15 @@
+slot_run: line 02_lin_static priority 5 token 1 slot 4 start 2026-10-06T20:57:28Z avail_kib 29636928 load 3.17
+Traceback (most recent call last):
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T205203Z/code/preflight2.py", line 160, in <module>
+    sys.exit(0 if run_all() else 3)
+                  ^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T205203Z/code/preflight2.py", line 114, in run_all
+    summ, payload = budget.execute(P)
+                    ^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T205203Z/code/budget.py", line 225, in execute
+    'argmax_shares': {k: float(fq(v) / fq(E)) if E != 0 else None for k, v in shares.items()},
+                         ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/numbers.py", line 316, in __float__
+    return int(self.numerator) / int(self.denominator)
+           ~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~
+OverflowError: integer division result too large for a float

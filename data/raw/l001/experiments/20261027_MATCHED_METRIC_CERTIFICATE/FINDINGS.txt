@@ -1,0 +1,11 @@
+Exact real anchor alone gives radius/clock gain1.0000000044314952.
+Harmonic continuation gives gain1.0890484825724003:
+radius2.170897694174848e-27,clock_eta3.0127257552232224e-44.
+All2129 gates pass and independent audit passes.
+Selected lambda1/256,kappa1/16,a2^-64; mass-controlled1.97729847774128
+relative to inverse-a floor. Oscillator/bulk .17812877401675267.
+Bulk shares BJ51.5461%,BM18.5387%,TRACE16.4911%,BR9.18894%,
+BO2.92258%,BK1.31068%. Oscillator unchanged BK56.8048%,BJ22.5611%.
+These are sufficient-bound proof costs, not measured physical contributions.
+Prospective successor: separate scalar bulk forcing and boundary loading
+through the real and complex inverse before taking source-wise suprema.

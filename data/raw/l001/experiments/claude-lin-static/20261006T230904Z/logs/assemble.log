@@ -1,0 +1,2 @@
+slot_run: line 02_lin_static priority 5 token 1 slot 5 start 2026-10-07T01:08:48Z avail_kib 28941328 load 7.45
+{"classification_provisional": "DSTAR_NARROWED__A_DOMINATED_BY_STATE_RADIUS", "gates": [28, 28], "interval": ["33513605/16777216", "67027255/33554432"]}

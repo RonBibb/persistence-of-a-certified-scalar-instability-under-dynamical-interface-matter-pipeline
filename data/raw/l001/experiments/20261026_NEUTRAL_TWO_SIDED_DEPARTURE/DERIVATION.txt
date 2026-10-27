@@ -1,0 +1,69 @@
+Two-sided local behavior and a scalar-observable departure witness
+
+This uses the same certified analytic pure-growing family, not new ODE data.
+All conclusions are confined to the conditioned proper-clock subdisk.
+The initial-data statement below is a constructed family of compatible
+data and solutions, not a general Cauchy well-posedness theorem.
+
+1. The two signs of the growing amplitude
+Let a=|eta|<=eta_star, the conditioned clock amplitude. The signed
+quadratic coefficient of F=dx/dtau_a-rx obeys -50<F2<-21 when both
+engine enclosures certify -54<d1<-50 and -1600<d2<-1400, with
+1/64<r<=1/32. Indeed -1550<d2-d1<-1346. The absolute remainder bound
+is sign-independent and <=10a². Consequently
+ -60a²<=F(eta)<=-11a².
+The distance remainder after linear order is <=25a, giving
+ 25a<=|x|<=79a, sign(x)=-sign(eta).
+For eta>0, dx/dtau_a<rx<0: shortening is reinforced.
+For eta<0, dx/dtau_a>=25a/64-60a²>0 if a<1/512, while dx/dtau_a<rx:
+opening is slowed relative to the linear law, not reversed or stabilized.
+These are local statements in the specified foliation and lower-wall clock.
+
+2. An independent physical observable: the lower wall oscillator
+The neutral background oscillator is exactly zero. Its normalized linear
+coefficient is chi1_a=f1_a/(2-mu1), because E_a=1 and xi1_a=0.
+Authenticate both fresh initial-state enclosures and require
+ 1/20000<chi1_a<1/10000.
+The aggregate coefficient majorant bounds |chi_a|<=R on the physical
+amplitude disk rho_D, since the oscillator's n³ coefficient weight is
+part of Y_n and n>=1. Let q=a/rho_D. Cauchy gives
+ |chi_a-chi1_a eta|<=R q²/(1-q),
+ |eta chi_a'-chi1_a eta|<=R q²(2-q)/(1-q)².
+Require both bounds <=a/40000. These inequalities then hold for every
+smaller positive a by monotonicity of the corresponding ratios to a.
+They imply sign(chi_a)=sign(eta) and |chi_a|>=a/40000. Also
+sign(dchi_a/dtau_a)=sign(eta), since r>0 and the real lapse is positive.
+The oscillator therefore departs monotonically from its zero background.
+Its nonzero value cannot be obtained by a coordinate transformation of
+an identically zero scalar field. This avoids relying only on distance
+in a chosen slicing to establish nontrivial matter evolution.
+
+3. A precise, limited initial-data consequence
+Fix eta_star>0 admitted by the preceding test, and consider any
+epsilon in(0,eta_star). The exact solution eta(t)=epsilon exp(rt)
+reaches eta_star at coordinate time T=(1/r)log(eta_star/epsilon).
+Its lower-wall oscillator then has chi_a>=eta_star/40000=:delta_star>0.
+At t=0 the pulled metric/scalar perturbations and their fixed radial/time
+derivatives, both wall displacements and velocities, and both oscillator
+data tend to zero as epsilon tends to zero. This follows from the proven
+analytic series with zero constant perturbation coefficient and uniform
+fixed-derivative convergence on the real interval. Restrictions of the
+exact solution satisfy the bulk and wall initial compatibility conditions.
+
+One concrete data topology is C² on the pulled bulk fields, C¹ on their
+first time derivatives, and Euclidean norm on wall positions/velocities
+and oscillator positions/velocities, always relative to the same background
+and with the lower-wall clock normalization. The constructed data tend to
+zero in this topology. The departure criterion is the physical scalar
+measurement |chi_a|>=delta_star, not a coordinate norm alone.
+
+The positive real lapse is bounded below by1/128 from the prior inverse
+lapse bound. It is bounded above by8 because E>=1/2-delta>1/4,
+exp(p)<=1/(1-R)<2 and sqrt(1-v²)<=1. Thus T/128<=Delta tau_a<=8T,
+so each such departure occurs at finite lower-wall proper time.
+
+This supplies an arbitrarily-small-compatible-data departure witness
+along this particular analytic family. It does not supply existence,
+uniqueness or continuous dependence for a neighborhood of general data,
+a full unstable-manifold theorem, or an endpoint beyond eta_star.
+The tiny positive delta_star is a proof threshold, not a physical prediction.

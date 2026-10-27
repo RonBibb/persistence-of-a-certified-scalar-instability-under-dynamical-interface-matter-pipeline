@@ -1,0 +1,9 @@
+# Independent prospective review — T3
+
+ADMISSIBLE after the now accepted T1R2 and T2 brackets are bound. Read the full plan and producer. The copied core's unchanged reduced/full equations and strict tube helper have prior source review; its search function is not invoked. The two representations propagate each entire certified mass interval, so the true eigenmode is enclosed even though other masses in the box are not eigenmodes.
+
+Whole-cell tubes supply positive kinetic-weight enclosures, not point samples. Summing their widths times interval weights encloses the continuous integrals. Four equal proper-distance bins are a coarse partition of norm, not a local gravitational energy observable. Squaring across zero uses a nonnegative outward range; integer square-root floor/ceiling bounds are correct. Endpoint sensitivities use the inherited Green-identity P21 with f(a)=1, and the direct lower-to-upper ratio cancels common Z without an unjustified interval intersection.
+
+Checked Supplement C8 and C10: generic-sector vanishing brane bending gives deltaD/Q=-2 integral psi, and canonical Qc=sqrt(Z)Q gives the stated normalized separation coefficient. A nonzero interval establishes a separation component, not pure radion character. The sign depends on profile normalization. Global f/psi envelopes are ranges over the whole interval, not reconstructed pointwise profile functions.
+
+Full/reduced and coarse/fine agreement are control gates. Reported fine hulls conservatively include both representations; no midpoint eigenmass or artificial narrowing is used. Positive Z and endpoint nonzero gates are explicit. All standard authority/resource/runtime/source constraints remain required. Bind plan, producer, core, interval, wrapper, this review, the accepted mass RESULT/CONFIG/TERMINAL_REVIEW files, authority, and inherited supplement/proof dependencies. No numerical experiment was performed for this review.

@@ -1,0 +1,4 @@
+Independent prospective and terminal review PASS by /root/jet_bound_review,2026-10-27. 3038 binding/artifact hashes and all105 exact controls reproduced. Source-reviewed by independent manual degree4 expansion; replay is not a separately generated nonlinear-load oracle.
+Terminal SHA256:ee482b3c718d111cbd0e7f0091ba95b3747fb52ab6d5d1f2b5d10b1062410f7c
+Result SHA256:4772684de724e44ac083d12ff6ef4e4c6754e60a4ad06d64ca00b9e3545b52cb
+Degree4 transport, new linear rows, elimination signs, first boost correction and lower-degree replay pass within the inherited wall equations. This is source qualification, not a quartic coefficient solution. Auditor corrected tuple-versus-JSON-list comparison; producer unchanged.

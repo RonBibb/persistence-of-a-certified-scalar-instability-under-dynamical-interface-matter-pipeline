@@ -1,0 +1,6 @@
+# Large, hash-bound local diagnostics and atomic case state.
+raw/
+checkpoints/
+logs/
+progress/
+*.uncommitted-*

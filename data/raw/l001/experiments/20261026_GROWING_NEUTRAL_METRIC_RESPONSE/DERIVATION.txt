@@ -1,0 +1,63 @@
+Compatible all-neutral-order real-axis reconstruction
+====================================================
+For n>=2 and mu=-nr(nr+3h), put
+  D=2T^2-3(mu+4k)E^2, J=D-2T^2, B=12HT-4mPhi.
+The homogeneous radial operator is supplemented by compatible sources:
+  p'=-2Hp-Tf/3+Sp,
+  f'=g,
+  g'=-4Hg+(m-mu E^2+2T^2)f+Bp+Sg,
+  Tg-T'f+Dp=Sc.
+
+Reconstruct p=(Sc-Tf'+T'f)/D. Eliminating it gives
+  f''+(4H+BT/D)f'-(m-mu E^2+2T^2+BT'/D)f
+    = Sg+BSc/D.
+Differentiating the reconstructed p and using the reduced scalar equation
+gives, exactly,
+  p'-(-2Hp-Tf/3+Sp)=(Sc'+4HSc-TSg-DSp)/D.
+The identity is qualified by clearing D^2 in an exact sparse polynomial
+ring with a general mu; no special negative forced rate is substituted.
+Compatibility is a hypothesis on the source data, not an optional check.
+
+With sigma=+1 at the lower wall and -1 at the upper wall, the original
+Robin equation is 2sigma(f'+2Tp)-Gamma f=R, Gamma=21-1/(2-mu E^2).
+The outward scalar equation is
+  -sigma f'+beta_sigma f=g_sigma,
+  beta_sigma=Gamma D/(2J)-2sigma TT'/J,
+  g_sigma=-D R/(2J)+2sigma TSc/J.
+The exact qualifier multiplies the reduced row by 2J and compares it with
+minus D times the original row, checking both wall orientations.
+
+All norms below are real-axis supremum norms. Fresh authenticated cells
+give bounds H0,Hp0,T0,Tp0,B0 and d0=3*r_min^2*min(E^2)>0, with
+D,J>=d0*n^2. Write Rmax=max over both walls of |R| and
+  L_n=||Sc||+||Sg||+n Rmax.
+Then the scalar forcing/load norm S_n=||F||+n max|g_sigma| obeys
+  S_n <= Csource L_n,
+  Csource=max(1, B0/(4d0)+T0/d0, 1/2+T0^2/(4d0)).
+Indeed D/J<=1+2T0^2/(d0*n^2), and n>=2. The previously certified neutral
+scalar inverse gives U_n(f)<=Cf*Csource L_n, where
+  U_n(v)=n^2||v||+n||v'||+||v''||.
+
+For metric reconstruction define
+  R_m=||Sc||+U_n(f)+n||Sp||+||Sp'||.
+No derivative is gained for free: Sc must be differentiable for the
+compatibility identity, and Sp' is an explicit norm input for p''.
+The constraint gives n^2||p||<=P0 R_m with
+  P0=max(1,T0/2+Tp0/4)/d0.
+The compatible momentum equation gives n||p'||<=P1 R_m with
+  P1=H0 P0+T0/6+1.
+Differentiating that equation gives ||p''||<=P2 R_m with
+  P2=Hp0 P0/2+H0 P1+Tp0/12+T0/6+1.
+Thus U_n(p)<=(P0+P1+P2)R_m.
+
+For a single input norm
+  Q_n=||Sc||+||Sg||+nRmax+n||Sp||+||Sp'||,
+let Cscalar=Cf*Csource. Then
+  U_n(f)<=Cscalar Q_n,
+  U_n(p)<=[P0+P1+P2]*(1+Cscalar)Q_n.
+These are intentionally unoptimized bounds. They inherit the accepted
+background and scalar inverse certificate. They do not bound c, b=c-2p,
+complex norms, nonlinear source compositions, or the actual analytic
+family radius. In particular source compatibility for an all-order
+nonlinear construction must still be proved inductively from the field
+equations; this packet qualifies the linear response identity it needs.

@@ -1,0 +1,47 @@
+Paired oscillator-endpoint/grid certificate: PASS, independently reviewed.
+
+The real-axis C0 bound replaced Cf ONLY for the oscillator endpoint field
+value. All complex bulk continuation, nonlinear loads, graph transport,
+norms, seed and physical gates were retained.
+
+Important prelaunch correction: the sealed parent had K=1/a, not a
+mass-controlled K, although C was its largest response component.
+The design was amended before execution to81 paired points, adding four
+larger evaluation points to each old ray. Both frozen-parent and new maps
+were fully certified. All45 sealed parent records reproduced exactly.
+See PARENT_INTERPRETATION_CORRECTION.txt; sealed parents were not edited.
+
+Runtime22.1862 seconds;81 parent and81 endpoint records retained;
+354 gates passed;2856 bound hashes verified. No ODE solves.
+
+Expanded-grid parent certificate:
+radius1.1879407316827959e-36; protected clock amplitude2.5155623478017716e-58.
+Grid-only gains over sealed parent:radius and clock each1.1886200325053653.
+
+Endpoint certificate:
+radius5.4072577377744946e-33; protected clock amplitude7.328200733105201e-53.
+Selected lambda1/256,kappa1/16,a2^-80.
+Endpoint-only gains versus expanded-grid parent:
+radius4551.790837338122; clock291314.61358963983.
+Total gains versus sealed parent:
+radius5410.3497730344625; clock346262.3854742056.
+
+Both new selected certificates are mass-branch controlled, not limited
+by1/a. The gains are not all credited to endpoint sharpening: grid and
+endpoint effects are separately recorded with exact fractions in RESULT.
+
+Meaning: separate real-axis field bounds prevent full complex derivative
+estimates from being unnecessarily propagated through real endpoints.
+This substantially enlarges the certified neighborhood of the SAME local
+neutral family. It changes neither equations nor the physical solution.
+The certified amplitudes remain extremely small; no useful-amplitude
+evolution, endpoint dynamics, horizon or child formation is established.
+
+Producer exited; no successor launched. The next investigation should
+locate the remaining active response estimate before changing further
+constants, preserving the now-separated real and complex channels.
+
+Terminal SHA-256:
+d71230e13b956f8b3e7a3469d429a9add68700e3f44d70359eaa99cf4b811173
+Result SHA-256:
+fd05106a2f729f09eeb7b6831a4689bd176a5ed2d023c9490f1e6e673e5f5786

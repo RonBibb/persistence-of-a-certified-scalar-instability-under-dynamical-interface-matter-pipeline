@@ -1,0 +1,30 @@
+Separate real-axis scalar anchor and complex continuation estimates.
+
+Fixed parent: FIELD_SPECIFIC_MIXED, same physical problem, norm, sources,
+seed,45-grid and full acceptance conditions. No new inverse is asserted.
+
+Authenticated ANALYTIC_INVERSE/DERIVATION.txt section4 gives EACH bound
+n^2|f(real)|<=C0*S and n|f'(real)|<=C0*S, with
+S=||F||_(2n+2)+n max|g|. The exact C0 is in its RESULT.json.
+The full complex derivative norm U(f) uses the larger Cf (Cscalar).
+On the real interval the Nagumo weight d equals1. For n>=2,
+p=(Sc-Tf'+T'f)/D and D>=d0*n^2 imply
+n^2|p|<=[||Sc||+(Treal/2+Tpreal/4)*C0*S]/d0.
+Using Treal<=1,Tpreal<=9 gives Cm=(11/4)/d0 and therefore
+n^2|p|<=Cm*(Sc+C0*S). Keeping an extraSp remains conservative.
+This uses only f and f' at the real anchor, not complex f''.
+
+Set Sbound=force+g, uf=Cf*Sbound, ureal=C0*Sbound. Change ONLY
+xp=[Cm*(sc+uf+sp)+rho*(uf/6+sp/2)]/(1-3rho/2)
+to
+xp=[Cm*(sc+ureal+sp)+rho*(uf/6+sp/2)]/(1-3rho/2).
+All complex continuation, yp,up,oscillator and remaining terms retain uf.
+All derivative/collar accounting and positivity remain valid. Since
+0<C0<=Cf, the replacement cannot increase the raw positive response.
+The decrease of xp equals Cm*(Cf-C0)*Sbound/(1-3rho/2).
+
+No source equation or physical parameter changes. Bind real inverse
+ancestry and norm premise, independently review source, then recompute
+the same coupled certificate including every observable-tail gate.
+Preserve any failure; claim improvement only after terminal and review.
+No finite-amplitude evolution, endpoint or generic-data theorem follows.

@@ -1,0 +1,12 @@
+Degree9 exact moving-wall series, same two orientations and normalization.
+Shift begins at order2. Include fourth spatial perturbation pulls: p1 fourth,
+f1 fourth and radial f1 fifth (u1third,g1third,g1fourth). Include first spatial
+derivatives through order7, second through5, third through3. Background shifts
+through fourth remain sufficient. Retain v^4 boost factors, with all degree9
+cross terms; v^6 begins beyond the truncation. Fixed-time derivatives multiply
+the Eulerian coefficient by n*r before pullback, not the pulled value.
+Replay all rows through8 against the authenticated eighth implementation.
+Check ninth oscillator, scalar and graph linear rows and eliminated Robin row,
+lower-only loads, full boost convolution and omitted-quartic-boost mutation,
+and the newly entering derivative coefficients. Independent audit required.
+This qualifies algebra only; derivative enclosures and actual d9 remain separate.

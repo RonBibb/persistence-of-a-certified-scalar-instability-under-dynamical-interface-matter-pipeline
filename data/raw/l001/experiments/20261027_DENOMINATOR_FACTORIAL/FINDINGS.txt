@@ -1,0 +1,10 @@
+Both denominator bounds can be tightened on the same authenticated problem.
+Real lower bound: 0.00018310546875 -> 0.0009862554293378891.
+Complex lower bound: 0.000091552734375 -> 0.0009674202434682413.
+The collar variation payment remains 0.00001883518586964783.
+
+Four-way comparison isolates real-only, complex-only and joint changes
+against an exactly reproduced baseline. All transfer coefficients are
+non-increasing; several improve substantially. These are sufficient-bound
+coefficients, not physical source shares or certified amplitude gains.
+Full nonlinear map and observable-certificate follow-through is required.

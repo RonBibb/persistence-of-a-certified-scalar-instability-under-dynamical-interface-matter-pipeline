@@ -1,0 +1,5 @@
+Single source correction: finalpostbinding loop variableh renamed digest.
+No scientific formula,input,gate,precision,seedselection orparameter changed.
+Newnamespace fully reexecutes originalparentCOMPONENT seed derivation and
+fullcertificate,avoiding reliance on malformed originaldisplayrecord.
+Originalsealedpacket retained withAUDIT_EXCEPTION. Samegoal/cutoff/lease.

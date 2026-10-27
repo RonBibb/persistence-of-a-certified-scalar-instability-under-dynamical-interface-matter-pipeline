@@ -1,0 +1,18 @@
+Paired separate-real-anchor certificate on the SAME frozen 81-point grid.
+Use authenticated real Cv,Cg for value and gradient with the same forcing S.
+In the positive complex 2x2 inverse use a=Cv+rho*Cg/2+rho^2/4,b=Cg+rho/2.
+Coupling coefficients A,B,rho and all source envelopes remain unchanged.
+Retain complete complex value,gradient,curvature response and full norm.
+Metric real anchor retains Cm*(sc+sp), but scalar part becomes
+(Cg/2+9Cv/4)*S/d0 from real |T|<=1,|Tprime|<=9,n>=2.
+This equals the old (11/4)*C0*S/d0 if Cv=Cg=C0 and thus does not
+mix in tightening of source coefficients. Oscillator endpoint uses Cv*S.
+All complex metric derivative costs remain as in COMPONENT_ROUTED_CERTIFICATE.
+Parent receives its own saved complex constants and unchanged real C0.
+Require exact all81 parent rows, selected constants and full certificate replay.
+Matched graph mass equal; bulk and oscillator masses nonincreasing.
+Certify both selected maps with all contraction,geometry,clock,scalar-tail gates.
+Report separate radius/clock gains and active K branches. Ties valid.
+The retained C0 metadata denotes ancestral real summed norm, not operative
+component bound; real_component_constants explicitly records operative Cv,Cg.
+Original Linux lease, one core,2GiB,600s cap. No ODE or physical evolution.

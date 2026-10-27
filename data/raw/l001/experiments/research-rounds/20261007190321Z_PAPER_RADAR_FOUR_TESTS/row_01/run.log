@@ -1,0 +1,5 @@
+{"flow": "baseline_root", "seconds": 48.115114023006754, "event": [1.9974365234375, 1.9976806640625]}
+{"flow": "baseline_center", "seconds": 48.03673073198297, "event": [1.9974365234375, 1.9976806640625]}
+{"flow": "uniform_root", "seconds": 47.83494868900743, "event": [1.9974365234375, 1.9976806640625]}
+{"flow": "uniform_center", "seconds": 48.130243397987215, "event": [1.9974365234375, 1.9976806640625]}
+{"classification": "UNIFORM_LOCAL_PERSISTENCE_ISOLATION_AND_FIXED_D0_EXCLUSION_CERTIFIED", "integrity": true, "gates": {"P01-G1": "PASS", "P01-G2": "PASS", "P01-G3": "PASS", "P01-G4": "PASS"}, "seconds": 195.50256509298924}

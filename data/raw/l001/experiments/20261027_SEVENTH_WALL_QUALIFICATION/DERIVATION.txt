@@ -1,0 +1,24 @@
+Conditional seventh moving-wall algebra prerequisite; same selected family.
+Activate only after independently audited finite-inverse clock readout shows
+F7 alone exceeding the next clock allowance and nonclock gates passing.
+
+Extend ordinary degree-six Taylor pullback through degree7. Shift begins
+at order2. Third spatial derivatives of first-order fields first enter at
+order7: include p1'''=u1second, f1'''=g1second and g1'''=g1third, with
+the exact shift-cubed/6 factors. Add first jets at order5 and second jets
+at order3. These are independent symbolic variables until later enclosed.
+Background shift powers through3 remain sufficient; degree4 starts8.
+Boost powers v^4 also begin8, so 1+v^2/2 and 1+v^2 remain sufficient.
+
+Replay all inherited wall rows through6 for both orientations. Check the
+seventh linear oscillator/graph/scalar rows, exact Robin elimination and
+lower-only loads. Independently compute the seventh normal-boost term
+from v2..v5 and unboosted normal coefficients A0..A3. Detect missing
+boost and missing third Taylor derivatives. Distinguish fixed-time
+derivatives from total derivatives along the moving wall.
+
+Graph divisor7*sigma*E^2*r*(7r-h); oscillator divisor2+7r(7r+3h)E^2.
+No seventh field, derivative enclosure, coefficient bound or amplitude
+gain is asserted. Independent terminal algebra audit required. Linux
+exact arithmetic, unchanged1CPU2GiB lease,600second cap, immutable outputs,
+no restart, hard deadline2026-10-27T13:42:44UTC.

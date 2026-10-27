@@ -1,0 +1,17 @@
+Same-grid paired harmonic-matched full nonlinear local certificate.
+Replace only the complex inverse value,gradient and full-norm constants
+by the authenticated maxima of all128 harmonic/range diagnostic records.
+The full-norm maximum is a separate bound, not a sum of component maxima.
+Retain identical real Cv,Cg,metric anchors,oscillator endpoints,source
+envelopes,collar,seed,grid,and acceptance conditions. No field equation changes.
+Replay all81 parent rays and full selected parent certificate exactly.
+Matched graph and oscillator masses equal; bulk mass nonincreasing.
+Certify both selections with all contraction,geometry and observable tails.
+Report radius/clock gains separately and exact active K branches.
+At the selected new ray additionally partition the bulk mass into the real
+scalar metric anchor42*(Cg/2+9Cv/4)*S/[d0*(1-1.5rho)] and all other terms.
+Remove only degree0/1 from each using exact Jets; require both nonnegative
+and their sum exactly equal to the sealed candidate bulk mass. This is a
+proof-cost share, not a physical contribution or permission to delete terms.
+No strict improvement requirement. No grid extension or ODE solve.
+One Linux core,2GiB,original lease,600s cap. Preserve immutable failures.

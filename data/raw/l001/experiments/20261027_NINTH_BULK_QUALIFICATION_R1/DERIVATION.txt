@@ -1,0 +1,14 @@
+R1 successor to preserved TECHNICAL_INCOMPLETE original ninth bulk.
+Same equations, sources,52 equation gates and compatibility witnesses.
+Original failed after g6 witness because g5 constant bucket50999 terms times1
+exceeded inherited50000 multiplication-term cap. Not a scientific failure.
+Private authenticated ring changes only fixed term cap to200000 and import
+location; pair cap1000000, reduction cap100000,600s and2GiB unchanged.
+No adaptive escalation. Exact below-old-cap arithmetic equivalence before
+production; no global monkeypatch or skipped identity. Source loading remaps
+exponents in linear time, accumulates duplicates, checks every monomial by
+round-trip, and compares first/last128 rows against old symbolic construction.
+Group/witness stage telemetry retained. Original failed packet remains unchanged.
+Same authorized cutoff2026-10-27T17:10:42Z; Linux-only exclusive1CPU.
+Independent source preflight and dictionary witness audit required.
+This qualifies bulk algebra only, not a coefficient enclosure or physical fate.

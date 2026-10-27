@@ -1,0 +1,10 @@
+Independent Linux audit: PASS, /root/jet_bound_review, 2026-10-27.
+Regenerated 283 nonlinear primitive load sets using authenticated inherited
+primitive and Jet helpers with independently specified typed KG formula.
+Recomputed all 1,132 lane masses/K records, selections, four full certificates
+and first passing dyadic tails, seven-source budgets, ordering and branches.
+Verified 2,943 bindings and 1,475 gates.
+This is exact source-formula/record replay, not an independent ODE or a new
+all-order analytic proof.
+Terminal dcb00a0a9718566b4a6143502703f2de0db4b04d0a379f9665816bf480ba1e1d
+Result 27cb1da84a71ef69364f2dd3e903b027c734addb6f6eafff44717980a846f999

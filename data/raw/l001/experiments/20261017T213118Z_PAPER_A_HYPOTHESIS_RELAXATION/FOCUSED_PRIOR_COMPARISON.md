@@ -1,0 +1,36 @@
+# Contribution of the relaxed hypothesis and local robustness
+
+This comparison concerns the new analytical extensions relative to revision 3, not a new claim to have discovered scalar-turn instability. The reusable gain is narrower: expose the endpoint assumptions behind the entire nonnegative wall family, replace convexity by a weaker background coefficient condition, and demonstrate that condition on a specified exact concave-potential example. The local total-count family near q=0 is a standard continuity consequence made available by the existing strict certificates.
+
+## Closest antecedents checked
+
+**Konikowska, Olechowski and Schmidt.** Their equations (20)–(25) give the curved finite-wall spectral problem with the shifted parameter already present. Equations (27)–(30) address the lowest mass variationally; the subsequent analytic stability argument explicitly sets the Hubble parameter to zero. Their divided weight is singular at a scalar turn. This is close prior structure, not a competing claim to be ignored. The additional statement here is the exact regular restricted count under explicit endpoint predicates, its compact zero-to-Dirichlet control, and a sufficient background condition that does not require convexity. This reading does not establish that no alternative argument in the literature implies it. [Primary text, Sections 3–4](https://arxiv.org/html/hep-th/0603014v2).
+
+**Lesgourgues and Sorbo.** Their scalar-turn and shooting analysis already uses regular perturbation variables and continuity in the spectral mass to infer tachyons. Equations (18)–(19) also illustrate local background reasoning at a scalar turning point. Thus neither constructing a local turning solution nor applying ordinary uniqueness/continuity is a new mathematical method. Our fixed-interval rational example serves to establish that the weaker curved sufficient hypothesis has a nonempty nonconvex realization; its value is that precise connection, not an unprecedented background-construction technique. [Primary text, Sections I–III](https://arxiv.org/html/hep-th/0310007).
+
+**Olechowski.** The flat multibrane treatment explicitly preserves the background while changing wall Hessians, proves lowest-mass monotonicity, and uses a regular variable at scalar-gradient zeros. Its equations (51)–(55) and following shooting argument conclude existence of at least one tachyon in the turning case. The present endpoint-based extension does not supersede that broader multibrane setting. It packages the exact curved restricted count and compact nonnegative endpoint family for the declared two-wall action. No novelty is assigned to monotonicity, background-preserving Hessian changes, or the general turn-instability mechanism. [Primary text, Section 4.3 and footnote 6](https://arxiv.org/html/2408.15343v2).
+
+**Bhattacharyya and SenGupta.** The recent potential-shape study treats cubic, quartic and double-well choices. Its Sections 3–4 use approximate scalar profiles and a dimensionally reduced radion potential; for example, Section 4.3 derives a stabilized modulus after specified small-parameter approximations. This makes potential-shape dependence relevant prior work, not a new motivation. Our exact local concave construction and regular-sector index address a different, explicitly fixed question and do not refute those effective-potential results. [Primary text, Sections 3–4](https://link.springer.com/article/10.1140/epjc/s10052-025-15170-1).
+
+## What changes relative to revision 3
+
+| Revision 3 statement | Added statement | Significance and limitation |
+|---|---|---|
+| Convexity implies one turn and positive T' | Q=V''+4k/a²+4T²/3>=0 suffices; integration between two zeros excludes a second turn | A weaker sufficient condition allowing negative V''; it is not the physical fluctuation operator's positivity condition |
+| Convex specialization covers all nonnegative wall Hessians | Opposite endpoint T signs and positive endpoint T' suffice for compact continuation with the existing finite turn count n | Interior convexity and interior T' positivity are not needed for this extension; no exact multiple-turn example is constructed |
+| Certified applications remain convex | An exact prescribed short interval with strictly negative V'' and positive Q is constructed analytically | Makes the hypothesis relaxation nonvacuous; different action and constructed wall values, with only the below-threshold count |
+| Original full count is for one certified background | A small exact quartic family around q=0 inherits the full count through IFT and the strict soft-corner phase margin | Existential radius only; ordinary robustness corollary, not a quantified parameter certificate or the q~4 full count |
+
+The conceptual distinction is between the shape of V alone and the coefficient governing the evolution of T along the actual geometry. Positive curvature and the scalar-gradient contribution can offset negative V'' in the sufficient background condition. This is a reason potential concavity alone need not evade the instability obstruction, not evidence for a new interaction or feedback law.
+
+## Value for the manuscript
+
+The strongest potential integration is a short endpoint-based theorem followed by the Q criterion and the explicit concave example. The existing convex theorem becomes a familiar sufficient special case. The local total-count persistence fits as a short corollary after the original complete count, with its unquantified radius stated beside it. It should not replace the explicit q~4 certificate, whose quantitative role differs.
+
+The improvements broaden mathematical applicability and make the mechanism less dependent on a special potential. They do not, by themselves, resolve the publication-priority question. The energy argument and IFT are standard tools; no claim of a new nodal principle, new numerical method, or first nonconvex unstable braneworld is warranted. A specialist can now assess a more precise hypothesis/conclusion statement rather than an expansive novelty slogan.
+
+The same local continuity argument extends to the seven-dimensional vector of original coefficients plus q, as stated in ACTION_NEIGHBORHOOD_COROLLARY.md. This clarifies qualitative robustness to a changed action rather than just one path. It remains a standard corollary with an unquantified neighborhood, and the separate layer of background-preserving Hessian changes must not be conflated with changing the original action coefficients.
+
+## Search and review scope
+
+On 17 October 2026 the four primary texts above were reopened and the relevant passages inspected. Focused discovery queries were `"braneworld" "convex" "stability" scalar potential`, `"de Sitter" "scalar" "disconjugacy"`, `"brane" "instability" "implicit function theorem"`, `"braneworld" "nonconvex"`, `"scalar" "turning" "de Sitter" "index" instability`, and `"radion" "concave" potential stability`. Search results did not supply an authoritative same-theorem comparison beyond the closest already identified papers; unrelated actions and non-primary snippets were not used as evidence. This was not an exhaustive citation-network search. Revision 3 already contains the broader reference comparison; it remains the bibliography baseline.

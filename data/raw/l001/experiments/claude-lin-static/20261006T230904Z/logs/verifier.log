@@ -1,0 +1,2 @@
+slot_run: line 02_lin_static priority 5 token 1 slot 5 start 2026-10-07T01:08:51Z avail_kib 28911580 load 7.73
+{"classification": "DSTAR_NARROWED__A_DOMINATED_BY_STATE_RADIUS", "checks": [77, 77], "failed": []}

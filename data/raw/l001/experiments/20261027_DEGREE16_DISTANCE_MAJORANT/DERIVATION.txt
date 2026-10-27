@@ -1,0 +1,25 @@
+Extend the already qualified positive source majorant from degree9 to16.
+Same selected ray/weights/seed/global analytic family. Hard cutoff
+2026-10-27T11:38:31Z. No source identity or ODE re-derivation claimed.
+
+Provide a fresh degree16 exact rational series type to authenticated
+SIXTH.finite_primitives. This function accepts generic arithmetic and its
+positive-source coefficient domination is all-order, not degree9-specific.
+For m>=2 route seven primitive coefficients with identical certified weights,
+divide graph by lambda and oscillator by kappa, and pay Euler m once:
+H_m=m max(routed loads). Require0<=H_m<=(m-1)K^(m-1).
+z1=seed, zn=[eta^n]sum(m2..n) H_m z(eta)^m.
+Compare against old scalar recurrence with H_m=(m-1)K^(m-1).
+Require0<=zn<=wn at every n through16.
+
+bn=zn/n^2; xn=2lambda zn/n^3 with x1=0 (actual vanishing first graph).
+exp(b) coefficients en obey en=sum(k1..n) k bk e(n-k)/n.
+Unsigned distance bounds dn=3[en+sum(j0..n) ej x(n-j)].
+These are finite positive MAJORANTS, not signed physical coefficients.
+Exact source,H,z,d prefixes0..9 must reproduce NINTH archived records.
+Independent reciprocal/product controls and positivity required.
+
+Terminal result alone does not enlarge a clock certificate. Its audited
+coefficients may enter a separately reviewed same-family readout.
+Linux exact rationals;600second cap,1core2GiB lease,pre/post binding,
+independent preflight and post-run audit. No mutation of sealed parents.

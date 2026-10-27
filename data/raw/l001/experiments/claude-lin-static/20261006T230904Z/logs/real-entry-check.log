@@ -1,0 +1,2 @@
+slot_run: line 02_lin_static priority 5 token 2 slot 2 start 2026-10-07T00:03:32Z avail_kib 29766816 load 2.08
+{"flow": "positive", "utc": "2026-10-07T00:03:34.361274+00:00", "address_space": [3221225472, 3221225472], "profiles_built": ["mode", "negative", "positive"], "checkpoint_cells_as_expected": true, "flow_D_contains_K": true, "event_cells_in_last_block": true, "outcomes_computed": false}

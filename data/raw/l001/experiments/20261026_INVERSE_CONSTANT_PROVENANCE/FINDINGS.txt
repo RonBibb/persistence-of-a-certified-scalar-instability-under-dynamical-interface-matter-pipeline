@@ -1,0 +1,39 @@
+Inverse-constant provenance diagnostic: PASS, 268 gates, 14.219 seconds.
+No new ODE, full convergence radius or finite-amplitude evolution.
+
+The common real-axis constant C0=3067148.416316564 was inherited from a
+summed value/gradient/curvature norm and a coarse transfer multiplier.
+Retaining separate real components yields uniform sufficient bounds:
+  value: 333456.8451005544 (9.198037 times tighter than common C0);
+  first derivative: 680613.2322203809 (4.506448 times tighter).
+Same forcing/load norm and same authenticated background; all finite
+harmonics and the infinite tail retained. These are bound improvements,
+not observed solution amplitudes or nonlinear radius gains.
+
+For BOTH independent engines, the largest old summed estimate and both
+new component bounds are controlled by the high-order range n>=65.
+This is the range covered by a uniform analytic barrier/Taylor estimate,
+not evidence of a physical instability at harmonic65. The old summed
+constant combines value, first and second derivative estimates; no single
+component was asserted to determine that sum. The saved per-order rows
+allow that sum to be inspected exactly.
+
+Complex coefficient provenance:
+  A=12+160/(4dc), with denominator-ratio term 99.9972535 percent.
+  B=1/4+(5/2048)*289+2+80*26/(16dc), with ratio99.9997919 percent.
+  dc=3/32768 is the inherited common-complex-collar lower bound for D/n^2.
+The large terms are ratios of separately bounded numerators to that
+conservative lower bound. This does not demonstrate an actual singularity
+or establish how much these bounds can safely be sharpened.
+No extrema-cell location is claimed: this diagnostic replays authenticated
+aggregate records rather than recomputing the 24548 background cells.
+
+Next bounded certificate: propagate separate real value Cv and gradient Cg
+through the complex 2x2 inverse. Its initial coefficients must become
+  a=Cv+rho*Cg/2+rho^2/4, b=Cg+rho/2,
+NOT a blanket replacement C0->Cv. Preserve A,B,collar and source envelopes.
+Real oscillator endpoint uses Cv; metric anchor must still pay both Cv,Cg
+with its original harmonic factors or a valid conservative maximum.
+Then perform paired same-grid full certificates with all remainder gates.
+Investigating tighter denominator/numerator bounds is a separate successor.
+No successor was launched.

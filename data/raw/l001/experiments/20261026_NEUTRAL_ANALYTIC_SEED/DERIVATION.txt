@@ -1,0 +1,26 @@
+Analytic first-mode seed norm; same full intervals and selected neutral mode.
+
+Replay the exact fresh initializer and both validated radial engines, with
+unchanged steps 1/4096 and 1/8192, 768-bit Arb and all whole-cell original
+constraints. Record real M=max(|p1|,|f1|,|g1|) on every complete cell.
+The first mode obeys p'=-2Hp-Tf/3, f'=g,
+g'=-4Hg+(m-mu1 E^2+2T^2)f+(12HT-4mPhi)p.
+In the certified background collar, |H|<=3,|T|<=2,|Phi|<=2,|E|<=17,
+m<=1,r,h<=1/32, mu1=-r(r+3h), hence |mu1|<=1/256.
+Its matrix row sums are <=104. Along closest-real-point segments length
+rho, Gronwall and exp(x)<=1/(1-x) give Mcomplex<=M/(1-104rho),
+provided 104rho<1. This is an analytic first-mode extension of the
+selected real solution, not an inversion at the resonant first harmonic.
+
+The background derivative bounds |H'|<=2 and |T'|<=26 imply
+|p'|<=7 Mcomplex, |p''|<56 Mcomplex, |f'|<=Mcomplex,
+|f''|<=104 Mcomplex. The first-order trace is c1=0, b1=-2p1.
+Thus U1(p)+U1(b)+U1(f)<=298 Mcomplex. Both graph amplitudes vanish;
+each wall oscillator chi1=f1/[2+r(r+3h)E_i^2] has absolute value <=M/2.
+A safe aggregate seed constant is s=300 Mcomplex, in the same ordinary
+power and lower-wall p1=1 normalization as the accepted coefficients.
+
+The exact mu1/r relation and selected eigenfunction are inherited model
+and spectral premises. Parameter endpoints are not treated as unrelated
+physical eigenmodes. This stage certifies the analytic seed bound, not
+the nonlinear source recurrence or convergence.

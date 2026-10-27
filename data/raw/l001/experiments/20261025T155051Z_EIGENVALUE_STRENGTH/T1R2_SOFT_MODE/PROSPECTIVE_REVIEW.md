@@ -1,0 +1,5 @@
+# Independent prospective review — T1R2
+
+ADMISSIBLE as a separately frozen execution, not a rescore. Reviewed the exact source delta against T1R1: after the quarter-point strict-sign updates, a newly achieved width <= the target now breaks successfully before asserting the unsuccessful-ambiguity budget. Every scientific criterion, equation, source helper, precision, resolution, rate and cap is unchanged. The rule now tests success before an operational failure condition; it never accepts an indeterminate endpoint. The retained 24-iteration cap and three unsuccessful-ambiguity limit remain bounded.
+
+The T1R1 terminal diagnosis supports this precise change. Fine-level and independent full-system endpoint checks still must execute successfully, so the prior coarse trace is not substituted for the new pipeline. Bind the full inherited dependencies, prior prospective review, and T1R1 FAILURE.json/TERMINAL_REVIEW.md, along with current plan/config/source/review. No numerical replay was used for this admission.

@@ -1,0 +1,7 @@
+Independently verified component-specific seed12190,previous16444.
+Real upper(p,f,g)=(54.8105011177,.3940057910,3.7212401614).
+radius5.790490478905526e-27,clock_eta1.607183963388416e-43.
+Gains1.348974569319114 and2.697949138638228 relativetypedKGparent.
+Same selectedsource mapK and normweights; no newODE or normreoptimization.
+Bulk metric component dominates seed, motivating certified background-
+specific matrix coefficients rather than genericcomplexbounds3/2/2/17.

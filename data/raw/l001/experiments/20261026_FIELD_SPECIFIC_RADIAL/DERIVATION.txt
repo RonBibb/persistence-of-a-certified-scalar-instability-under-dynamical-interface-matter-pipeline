@@ -1,0 +1,36 @@
+Field-specific radial source envelope, same coupled certificate.
+
+Keep the exact background-subtracted radial equation of the bound parent.
+Only its positive background coefficients are sharpened. All other source
+envelopes, inverse constants, norms, seed and 45-candidate grid are fixed.
+
+Authenticated complex-collar bounds from ANALYTIC_INVERSE/DERIVATION.txt
+and JOINT_SOURCE_FEASIBILITY/DERIVATION.txt give derivative tuples (0,1,2):
+H:(3,2,37), T:(2,26,330), Phi:(2,2,26), E:(17,51,187).
+H'=-T^2/3-kE^2; |H'|<=4/3+289/1024<2.
+H'' bounded by104/3+1734/1024<37.
+T'=mPhi-4HT bounded by26; T''<=2+16+312=330.
+E'=-HE bounded by51; E''<=2*17+3*51=187.
+Phi'=T and Phi''=T'. Also0<k=h^2<=1/1024,0<h<=1/32,m<=1.
+
+For each F use JF(x)=F0+4F1*x+8F2*x^2
++64(4x/gap)^3/(1-4x/gap). The factor8 includes the Taylor factorial.
+The shared high-order tail is retained from the certified prior-collar
+supremum64; these are holomorphic collar bounds, not real sample fits.
+All backgrounds remain evaluated at the same composed position u+X.
+
+Using inherited G,d,dd,l and writing Hj,Tj,Pj,Ej for these series:
+BRtyped=(6Hj^2+Tj^2/2)(G-1)
++G(12Hj*l+Tj*l+13l^2/2)+Pj*x+x^2/2
++(6/1024)Ej^2(G-1)+Ej^2*G(3dd+9d/32+7d^2/2).
+Each coefficient directly bounds its term in the exact subtracted S6 row.
+The same derivative/radial-index allocation applies. Every field series
+is coefficientwise no larger than the earlier common Z. Thus the typed
+envelope is coefficientwise dominated by the common radial envelope.
+The executable additionally checks this at every finite/Jet evaluation.
+It retains the exact polynomial radial identity and old-common difference.
+
+Remove only complete-response degrees0/1 with the same lower-input formal
+recursion. Recompute all coupled geometry, convergence, proper-clock and
+scalar-tail gates. Require strict improvement; preserve failures.
+This is proof-estimate refinement, not a new physical evolution or source.

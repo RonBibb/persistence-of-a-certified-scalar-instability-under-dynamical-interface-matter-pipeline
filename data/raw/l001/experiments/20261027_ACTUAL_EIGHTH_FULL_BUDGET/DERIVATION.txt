@@ -1,0 +1,13 @@
+Rebuild F8,F9 by full exact interval convolution with actual d4..d8 and inherited
+inverse coefficients/rate. Exactly replay old d7-era intervals before replacement.
+Retain min(old absolute bound,new both-engine envelope); do not subtract intervals.
+Replace only retained D8 using min(old D8,actual unsigned d8 bound) in distance
+16/24 prefixes and associated Euler/cross terms. Raw positive-tail majorants,
+inverse coefficients, scalar bounds, star tails, radius and five gates unchanged.
+Baseline: exact replay old uniform bracket lower/upper and half-radius readout.
+New domain: old accepted q through1/2. If endpoint passes, report domain admission
+only. Otherwise fixed16-step rational bisection, immutable linked checkpoints,
+accepted lower/failing upper and exact width. Nonnegative power coefficients and
+unchanged downward opening condition justify interval admission below lower.
+Improvement is in a sufficient local certificate, not physical maximal amplitude,
+actual analytic radius or nonlinear fate. Preserve any failed gate and audit.

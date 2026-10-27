@@ -1,0 +1,32 @@
+Independent source and post-run review: PASS
+Reviewer:/root/jet_bound_review. Primary recorded completed reviewer reports.
+
+Prelaunch source review confirmed the mixed envelope, exact difference
+control, nonnegative coefficients, linear14/3 gate, complete transport,
+unchanged typed radial and full certification logic. An obsolete contract
+comparison line was removed before launch; only the immediate typed-radial
+parent is the direct improvement comparator. No reviewer edits or runs.
+
+Production source SHA-256:
+68416f4a516f219adfb0dcf25c5f061732b9bf5bfb2fadac21940373f9cec5b6
+
+Independent bounded Linux saved-record audit verified2843 bindings,
+terminal/source/result/derivation links,132 recorded gates,45-grid exact
+K/selection and recomputed all saved-fraction certification inequalities.
+The selected bulk attribution exactly reconstructs the sealed B mass
+using the authenticated earlier transfer/primitives with typedBR+typedBM.
+
+Terminal SHA-256:
+2eba82895e008d93f1ab7d2b7e782f8857632af5a692bcbe81114b066880a500
+Result SHA-256:
+8d9dbca62297a9f81e176b179a3b9bdc8364a8cde311457b4ba4fa6a86e41520
+
+Scope: independently authored saved-gate arithmetic audit; attribution
+reuses authenticated approved transfer/primitive code, not an independent
+reimplementation of all45 nonlinear masses. No ODE or reviewer writes.
+
+Reviewer recommendation: shares are now diffuse. A bounded exact shared-
+response sensitivity partition is more informative than another source
+tweak. Hypothetical deletion of the largest BM contribution changes the
+fixed B mass by only about1.45 times; deletion is not a valid model or
+certificate modification. No stronger inverse is established here.

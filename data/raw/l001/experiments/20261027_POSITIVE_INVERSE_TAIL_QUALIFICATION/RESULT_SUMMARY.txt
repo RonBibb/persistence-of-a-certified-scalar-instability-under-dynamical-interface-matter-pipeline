@@ -1,0 +1,8 @@
+PASS: producer57.84seconds; independent7112-check audit31.32seconds.
+Single-wall inverse-clock tail qualified atR/4 andR/2.
+AtR/2 new bound9.05072e-85 versus old4.86671e-17.
+Background denominator parameter upper4.18869e-22, velocity upper4.06544e-31.
+Original raw positive Jhat prefix including constant1 subtracted; actual
+inverse prefix is NOT used in that subtraction. No full-clock claim here.
+Terminal244db5773ee28fde29bdc2e3d240d2a414ce80a6c743a9bd6546b4c21f0a6ded
+Audit4aeb5c97acbc551ea955f7d227790c8f52207fd2727bba9295df88103740f082

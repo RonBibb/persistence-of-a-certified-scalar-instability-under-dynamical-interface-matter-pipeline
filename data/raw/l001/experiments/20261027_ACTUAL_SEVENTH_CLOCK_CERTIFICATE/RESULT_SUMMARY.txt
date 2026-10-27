@@ -1,0 +1,15 @@
+PASS. Independently audited full certificate, same original gates.
+Producer199.84seconds; independent audit6882checks290.25seconds.
+Baseline and distance-only eta3.050015756574127e-25.
+Clock-only and combined eta6.100031513148254e-25, exactly R/16:
+factor2 over this goal entry, factor512 over previous goal entry.
+Accepted clock budget0.2910270744; F7 cost2.081801919e-21,
+eighth4.251685792e-5, ninth4.970216727e-7, unknown_tail0.2909840605.
+Accepted scalar0.0120935, scalar-derivative0.1217414, distance3.7197e-23.
+Next doubling fails clock2623584.4357, scalar6.6342, derivative67.2893.
+Its clock failure is overwhelmingly the distance tail beyond degree24,
+not retained F7 (6.6618e-20), F8(0.002721), or F9(0.00006362).
+Thus further seventh tightening alone cannot resolve the next failures.
+No physical trajectory, signed seventh coefficient or global radius gain.
+Terminal7a52079f0b25cb3866af673880a12083aeb7aa98cb0be378fed13d47e8d43b80
+Audit2ea421a29c59c6e4371857531b5e9675b51e9116b6e9863add64c1a7849b8337

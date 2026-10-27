@@ -1,0 +1,17 @@
+Prospective rational local grid refinement; physical model and source maps fixed.
+Bind audited BULK_DEPENDENCY_CERTIFICATE_R1; baseline283 rows retained first.
+For each distinct(lambda,kappa), choose its smallest exactK old row, ties first.
+Add a=center_a*(1+j/16),j1..15, then a=center_a*(1-j/32),j1..15.
+Preserve ray order from first occurrence, exact tuple dedup, no floats.
+Nondyadic additions have exponent=null and their exact rational a recorded.
+Same source primitives, bulk-only dependence, seed1215, joint denominator
+weights, full aggregate geometry/readout bounds and lowJet subtraction.
+Regenerate all283 parent rows and entire baseline certificate exactly.
+Apply all domain/seed/nonnegative-load gates to every added point.
+MinK selects radius optimum only among sampled rows; not continuous optimum.
+Report clock effect independently using complete two-engine remainder gates.
+Separate reviewed shared-admission lease, Linux arithmetic,600secondcap
+and cutoff1793074031. Original lease authenticated unchanged; new lease
+and its design included in source/runtime binding. VM cap10, exclusive
+L001 one-core lock (within authorized max3), all other guards retained.
+No ODE, manuscript/inventory edit or new physical dynamics claim.

@@ -1,0 +1,9 @@
+# Higher order interval qualification
+
+The next scientific question is whether the accepted fourth-order gap correction can be numerically resolved. First qualify a new rigorous Taylor integrator against analytical controls and the independent Euler background enclosure. This is a method qualification, not an eigenvalue result or repair of a prior run.
+
+For each autonomous analytic ODE step of signed length h, use the unchanged fixed rates to construct an interval tube B and strictly verify Y+[min(0,h),max(0,h)]F(B) is interior toB. With positivea in the same box, no reciprocal singularity occurs. Normalized derivatives c_j(Y) follow interval polynomial/reciprocal jet recurrence. Taylor's theorem gives enclosure sum j=0..p-1 c_j(Y)h^j+c_p(B)h^p. The pth remainder is evaluated on the whole proven tube, not the initial state. Different components may have different intermediate points; interval inclusion covers them. Signed h powers are preserved. Frozenp8.
+
+Controls: outward arithmetic inheritedcore, reciprocal series product and zero denominator rejection, exactconstant RHS both signs, exponential using rational series/tail enclosure rather than binaryexp, p1 equality with originalEuler update, deliberately undersizedtube rejection, and centralg-system derivativejet f''=-4,f'''=-72,f''''=-1256. Freshbackgroundn8/16 at both ±.005, Hamiltonian inclusion and mutual overlap, plus overlapwith acceptedEuler backgroundn32768. Source review verifies bothL/g jetformula againstprimaryequations, though no fullprofile science is run in this qualification. No claim that controls alone prove algorithmcorrectness; the derivative/tube argument is required.
+
+Onecore1GiB590s/600s finitecap, expectedunder1min, original20:07:08Z laststart, leases/HOLD/sourcebindings/nooverwrite. Separate scientific packets must bind this accepted module and qualify their own domain/roots/independentrepresentations. Failurepreserved andnotrescored.

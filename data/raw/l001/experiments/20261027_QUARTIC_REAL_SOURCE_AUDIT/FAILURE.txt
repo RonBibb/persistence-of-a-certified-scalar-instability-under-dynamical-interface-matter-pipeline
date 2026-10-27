@@ -1,0 +1,12 @@
+2026-10-27 independent saved-record audit attempt.
+Outcome: failed at ACTUAL_A3, verify.py line 74, before whole-cell source checks.
+Comparison was exact dictionary equality of ARM parameters.A3 and inherited
+cubic-affine PRODUCTION A3. Producer explicitly imports inherited A3 into an
+Arb interval before serializing it; outward re-encoding is a possible cause,
+not yet verified. No scientific terminal is rescored by this note.
+
+Tool execution session: 15601; exit code 1.
+AssertionError: ACTUAL_A3
+Exclusive audit lease released in finally. Original verify.py preserved.
+Production remains independently unqualified pending diagnosis and any
+separately reviewed successor audit. No numerical tolerance was introduced.

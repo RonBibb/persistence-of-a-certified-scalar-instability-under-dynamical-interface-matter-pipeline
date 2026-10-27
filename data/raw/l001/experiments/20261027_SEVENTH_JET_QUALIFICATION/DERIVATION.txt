@@ -1,0 +1,12 @@
+Seventh wall qualification passed and audited. This successor generates
+the eight required spatial jets from authenticated lower reduced equations.
+Selected background k=h^2 is required, with fixed r,h and trace factors.
+No differentiation of those constants. u_n=p_n', g_n=f_n'.
+u5 and g5prime are their reduced first-order equations. c5prime is the
+spatial derivative of qualified c5. u3prime,g3second,c3second are first,
+first,second spatial derivatives of u3,g3prime,c3 respectively.
+u1second and g1third are second derivatives of u1 and g1prime.
+Two exact polynomial differentiation routes must agree. Independent audit
+must reconstruct the saved derivatives and review the inherited RHS map.
+All arithmetic Linux, exclusive1CPU2GiB,600second cap; fixed deadline
+2026-10-27T13:42:44UTC. No result-dependent changes to gates or regrouping.

@@ -1,0 +1,13 @@
+# Forced interior scalar profile at the Dirichlet ceiling
+
+On the unchanged fixed interval, propagate the entire accepted T12 mass interval with the two nonsingular regular representations (psi,f,L) and (psi,f,g), at4096/8192. Use psi(a)=1,f(a)=0,L(a)=3lambda/(a_a²T_a), independent psi initial data, inherited256-bit dyadic arithmetic, same strict tubes, background/constraint gates and conservative fine hull. Bind accepted T12 root/audit, T13 prepublished prediction and accepted earlier norms/conventions. No midpoint substitution or post-hoc narrowing.
+
+Measure whole-cell f,psi,g and f'' envelopes. Split f'' into -4Hg, (V''-mu/a²+2T²)f, and (12HT-4V')psi. Report whether psi is globally positive, f'' globally negative, and the last metric-forcing term is negative with minimum magnitude larger than the sum of the other two maximum magnitudes. These are scientific consequences, not acceptance criteria to rescue-tune.
+
+At an actual Dirichlet eigenmode, f(a)=f(b)=0. Strict concavity therefore implies f>0 in the interior, even if a propagated root-interval envelope contains negative values close to an endpoint. At the true central scalar turn, the exact constraint -U0 f0=3lambda psi0/a0² explains lambda<0 when U0=1,psi0>0. Because the profile enclosure already uses a negative mass bracket, this is a structural explanation of that mode, not an independent proof excluding all nonnegative lambda.
+
+If Gmin<=-f''<=Gmax with Gmin>0, the Dirichlet comparison parabola gives Gmin D²/8<=f(0)<=Gmax D²/8. With the recorded center psi enclosure and exact U0=a0=1, enclose the positive shifted gap by [Gmin D²/(24psi0_max),Gmax D²/(24psi0_min)]. Record this explanatory bound and require overlap with T12, without intersecting or rescoring either bound. Rational parabolic and constant-coherence controls precede propagation.
+
+Integrate scalar/metric kinetic shares and separation coherence as in T10, with correct correlated fractions and explicit Cauchy-Schwarz cap. Also record compactified stiffness slopes at double Dirichlet. For t=(1+kappa)^-1, the boundary row gives f/t -> plus or minus2L, so P21 yields dmu/dt_i=-4a_i^4L_i²/Z at t_i=0. Record positive magnitudes, not a claim that dmu/dkappa is nonzero at infinite kappa. These slopes may support a separately predeclared large-finite-stiffness test.
+
+Compare the entire T12 gap bracket with the T13 prepublished20-percent window; support/contradiction/inconclusive remain distinct from technical acceptance. Same onecore/1GiB/590s child600s wrapper, leases/HOLD/deadline, noqueue/nooverwrite. Independent prospective and terminal reviews.

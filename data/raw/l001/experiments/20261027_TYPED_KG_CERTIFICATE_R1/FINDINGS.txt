@@ -1,0 +1,10 @@
+TypedKG fullcertificate and independent audit PASS,1732gates.
+radius4.292512706023982e-27,clock_eta5.957058049654826e-44.
+Relative parentgridgain1.019951311853873. Now inverse_a floor controls;
+mass/floor .998911990519322,oscillator/bulk .3479015831069554.
+Selection lambda1/4096,kappa1/64,a2^-64; all283grid points retained.
+Relative THIS two-hour window's starting REAL_PAYMENT improved certificate:
+radiusgain30.8519261103285,clockgain123.407704441314.
+Do not confuse with much earlier REAL_PAYMENT baseline: those cumulative
+gains1722.874734895 and55131.991516645 have a different denominator.
+This tightens local sufficient bounds; not finite-amplitude evolution.

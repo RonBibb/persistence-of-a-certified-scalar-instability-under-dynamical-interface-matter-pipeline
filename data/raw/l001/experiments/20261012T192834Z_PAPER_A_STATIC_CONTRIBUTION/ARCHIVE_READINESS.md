@@ -1,0 +1,23 @@
+# Paper A archive and manuscript readiness
+
+The saved evidence supports drafting the narrow static theorem paper now. No new scientific calculation is required to state its fixed-parameter theorem. Submission readiness remains conditional on a portable proof archive, integrated article and supplement, citation review, and manuscript-level review.
+
+## Smallest concrete archive task
+
+Stage a separate dependency-complete relative-path archive for the claims selected in CONTRIBUTION.md. Preserve the sealed originals, input meanings, original manifests, failed technical predecessors, and distinctions between a producer replay and an audit of stored outputs. Supply one archive-root path resolver and a manifest mapping each original binding to its staged location and unchanged SHA-256. Resolve all recursive proof dependencies, rather than copying only the top-level publication packet.
+
+There is a concrete relocation issue: the saved `verify_upgrade.py` resolves `HERE.parents[2]` to the canonical L001 line while retaining `branches/02-event-horizon/...` source paths. The migrated scientific records are under `experiments/academic2-event-horizon/...`. A valid hash can therefore coexist with a verifier that does not locate its bound files in the migrated layout. [ARCHIVE_BINDING_CHECK.json](/Users/ronbibb/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261012T192834Z_PAPER_A_STATIC_CONTRIBUTION/ARCHIVE_BINDING_CHECK.json) records the present packet's metadata-only check; its actual counts and findings, rather than this prose, govern the inspection result. The fix belongs in a new staging wrapper or archive copy, not in sealed source evidence.
+
+The staged archive must retain the exact six binary64 parameters, the reconstructed lower-tension provenance, the exact original D0, rational interval endpoints, residual definitions, junction orientations, arithmetic precision and software versions. It must identify the D1 independent implementation separately from D2A's single full-cover producer and stored-cover audit. Separate the core static proof dependencies from the optional GH numerical-support checks bundled in the historical wrapper; the latter do not support stability or the theorem. Including the later tension result requires its existing original 4096-step failure and historical raw failure to remain documented, together with its explicit lack of independent producer replication. Including the central mode requires the root acceptance record and independent audit, not reliance on the producer's retained provisional flag alone.
+
+After staging, the acceptance gate is a clean replay of the actual staged proof archive on macOS and Linux with its pinned environment and declared commands. Record expected classifications, return codes and outputs. Distinguish deterministic metadata/cover reconstruction from any producer execution in the replay plan. Neither a local hash inventory nor successful JSON parsing substitutes for that gate. Staging and replay are remaining work; this contribution packet does not execute them or authorize a successor.
+
+## Manuscript work after archive staging
+
+Integrate the action and reduction, upgraded global theorem, exact proof table, separation-mismatch figure, and isolation argument into the article. Replace historical local-only uniqueness wording. Present local tension persistence separately from fixed-parameter global uniqueness, and replace an open-ended stability suggestion with the accepted central negative-mode result and its limits. Keep detailed spectral derivation in a supplement or companion treatment if it would obscure the static paper's main argument.
+
+Complete the bibliography and conventional citation chaining already identified in the saved novelty assessment. Compile and inspect the full article and supplement, and obtain an independent manuscript-level review. The present contribution review evaluates evidence alignment and scope; it does not constitute a new mathematical recertification or full referee review of a finished article. No external deposit or archive identifier is claimed.
+
+## Scope of this inspection
+
+This packet reads saved local records and checks selected metadata and hashes. It performs no scientific integration, cover regeneration, exact proof-checker replay, new parameter or spectral test, or Linux operation. Source evidence and shared manuscript files remain unchanged. The pending archive portability task is a reproducibility and packaging gate, not an unresolved mathematical clause in the already classified reduced theorem.

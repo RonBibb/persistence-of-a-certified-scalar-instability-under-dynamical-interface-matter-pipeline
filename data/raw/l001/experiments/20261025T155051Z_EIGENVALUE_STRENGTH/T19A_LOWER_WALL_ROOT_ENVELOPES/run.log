@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T155051Z_EIGENVALUE_STRENGTH/T19A_LOWER_WALL_ROOT_ENVELOPES/producer.py", line 123, in <module>
+    try:main()
+        ^^^^^^
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T155051Z_EIGENVALUE_STRENGTH/T19A_LOWER_WALL_ROOT_ENVELOPES/producer.py", line 97, in main
+    r=search(core.lower(n),n,dict(cfg,**case));save('LEVEL_'+str(n)+'.json',r);levels.append(r)
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T155051Z_EIGENVALUE_STRENGTH/T19A_LOWER_WALL_ROOT_ENVELOPES/producer.py", line 73, in search
+    assert (lo,hi)!=before,'NO_CERTIFIED_CONTRACTION'
+           ^^^^^^^^^^^^^^^
+AssertionError: NO_CERTIFIED_CONTRACTION

@@ -1,0 +1,7 @@
+# Main independent source review of terminal auditor
+
+Read the full auditor and contract, then the corrected lock/process/runtime sections. Administrative Linux binding is approved; subsequent execution requires its own frozen admission. Source does not import the scientific checker or advance an ODE. It verifies actual completed Linux checker execution, exact historical/current mathematical field equality, all 16,365 cell/chunk inventory, runtime identities and frozen artifacts, and explicitly declines to claim another full Picard/Taylor induction.
+
+Corrections required before approval are incorporated: normal L001 line lock and active-process affinity admission in addition to CPU locks, plus actual auditor PID, interpreter/version/hash, platform and affinity in the output. Independent source/authentication, completed kinetic outputs, and auditor standard-library/native paths must be bound on Linux before run. Unbound worker runtime files yield an unresolved classification, not silent acceptance. Any failure needs preserved stderr and exit status.
+
+One pinned core, maximum two aggregate under HOLD policy, 2 GiB limit and 180-second alarm; no retries, mathematical rescore or successor authority. Parent/source files remain read-only. Linux output capture into a fresh qualification file is approved. A successful audit closes completion/provenance coverage for the complete saved-witness execution, conditional on inherited root/action premises; it is not new mathematical recertification of the research line.

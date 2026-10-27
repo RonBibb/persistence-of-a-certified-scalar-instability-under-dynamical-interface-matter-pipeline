@@ -1,0 +1,37 @@
+Prospective lower-wall finite inverse-lapse majorant, orders9 through24.
+Same selected neutral zero-current pure-growing analytic family; no new
+physical solution, radius or clock normalization. The completed degree24
+distance readout indicates the unresolved inverse-lapse tail as dominant;
+its independent review is separate and is not a premise of this algebra.
+
+On the fixed real reference interval, d=1 in the inherited analytic norm.
+The authenticated positive solution majorant z_n gives field bounds
+B_n=z_n/n^2 and single-wall shift bounds X_n=lambda*z_n/n^3, n>=2,
+with X_0=X_1=0. Lower-background E(a)=1 is authenticated exactly. Its
+complex collar gives background Taylor coefficients bounded by
+64*(4/gap)^k, k>=1. Hence the pulled background inverse lapse is dominated
+coefficientwise by Ehat=1+64*(4X/gap)/(1-4X/gap).
+
+The physical wall velocity is Ebackground*exp(b-p)*r*eta*X'. Since each
+pulled field p,b is bounded by B and r<=1/32, use
+Vhat=Ehat*exp(2B)*(eta*X')/32. The normalized lower-wall inverse clock
+J=Ebackground*exp(-p)*(1-v^2)^(-1/2) is therefore bounded by
+Jhat=Ehat*exp(B)/(1-Vhat^2). All coefficients in these majorants are
+nonnegative. Replacing binomial coefficients by1 is conservative. X and
+Vhat start at degree2, so formal reciprocals have constant1 and each
+finite coefficient through24 depends only on the authenticated prefix.
+No assertion of a larger complex domain is made.
+
+Preserve existing actual inverse-lapse bounds e1..e8 exactly. At9..24
+take min(Jhat_n,JC/R^n), where JC is the authenticated nonconstant
+coefficient-tail supremum and R the unchanged global radius. Beyond24
+retain JC*(eta/R)^25/(1-eta/R). These are unsigned coefficients, not
+signed clock coefficients and not an amplitude certificate. A separate
+complete readout must propagate them into all clock-tail products.
+
+Qualification checks formal positivity, normalization, the retained
+inverse1..8 identity, and every bound selection. Independent audit must
+reconstruct Jhat by separate polynomial exponential/reciprocal arithmetic
+and authenticate all inherited premises. One-core2GiB unchanged lease,
+Linux exact rationals,600second cap, no restart or parent edits. Hard
+deadline2026-10-27T11:38:31UTC; launch only with600seconds remaining.

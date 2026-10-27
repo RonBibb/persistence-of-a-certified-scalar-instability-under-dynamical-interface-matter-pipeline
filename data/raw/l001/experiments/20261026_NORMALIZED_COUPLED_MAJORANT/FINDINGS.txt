@@ -1,0 +1,35 @@
+Normalized coupled-majorant result
+
+Outcome: PASS, with independent analytic/source review and independent
+exact verification of saved-record arithmetic and provenance.
+
+The exactly normalized wall equation and a coupled bulk/graph/oscillator
+bound enlarge the same neutral local-family analytic amplitude radius by
+106.982065 times, from about 2.676e-42 to 2.863e-40. The protected
+proper-clock amplitude range grows by 855.856521 times, from about
+1.107e-66 to 9.472e-64. All inherited geometric and observable-tail
+requirements remain satisfied using the full aggregate bound.
+
+This is improved control of the local nonlinear family and remainder,
+not a new physical evolution. The certified amplitudes remain extremely
+small. No useful-amplitude continuation, nonlinear endpoint, charged
+branch, general initial-value theorem, horizon or child formation is
+established by this result. The selected mode, action and low-order
+coefficients were not changed. No ODE or cubic export was performed.
+
+The selected scaled bulk mass controls the majorant; the direct graph
+mass is only 2.81348e-28 of it, and the oscillator mass is 0.415576 of it.
+These are sufficient-bound components, not physical energy fractions.
+The graph source also feeds the bulk estimate, so this comparison alone
+does not prove that every graph-related contribution is negligible.
+
+Recommended next bounded diagnostic: decompose the positive contributions
+feeding the selected bulk response, preserving the same norm, background,
+action and source identities. Identify which inherited response/source
+estimate now limits the certificate before choosing another bound repair
+or paying for cubic-profile replay. This is a recommendation only; no
+successor was launched in this packet.
+
+Authoritative numerical record: RESULT.json, bound by TERMINAL.json.
+Review scope and hashes: PRELAUNCH_REVIEW.txt and POSTRUN_REVIEW.txt.
+All 45 fixed candidates retained; all 121 numerical gates passed.

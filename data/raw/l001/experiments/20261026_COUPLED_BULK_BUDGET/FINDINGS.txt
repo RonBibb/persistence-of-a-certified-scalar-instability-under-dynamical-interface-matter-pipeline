@@ -1,0 +1,39 @@
+Bulk-bound attribution: producer PASS
+
+This diagnostic exactly reconstructed the selected sealed bulk mass from
+seven positive contributions. No physical equation, selected weight, or
+certified radius was changed. Linux runtime: 13.2737 seconds; no ODE solves.
+
+Contributions to the sufficient bulk-response bound:
+BR radial residual: 97.29022863 percent
+BM mixed equation: 2.56842490 percent
+TRACE retained trace: 0.07216505 percent
+BJ scalar-normal wall row: 0.05985162 percent
+BO oscillator row: 0.00918672 percent
+BK scalar equation: 0.00013468 percent
+GRAPH normalized wall graph: 0.00000840 percent
+
+These shares include the corresponding linear-response weights. They are
+not physical energy/flux shares or measured forcing. Dominance can arise
+from a loose source envelope, an inverse estimate, or their product.
+
+The degree-two contribution accounts for 0.9999999999821224 of the mass
+at the selected evaluation point. Thus simply shrinking the evaluation
+point will not remove the dominant quadratic proof-budget contribution.
+This does not establish that the physical nonlinear dynamics is quadratic
+over a useful amplitude interval.
+
+Highest-value next test: decompose BR into its constituent positive terms
+and trace their response amplification. Compare the envelope with exact
+S6 radial identities before taking absolute values; preserve any exact
+background cancellation only after deriving it in the same chart and norm.
+Any sharper all-order source/response estimate needs independent review,
+followed by a fresh coupled-bound and observable-tail calculation. No
+successor is launched by this recommendation.
+
+Sealed result SHA-256:
+106265b10176374e0f5fc1a05cb3826e11543c2b736148a9009cfdf40659d925
+Terminal SHA-256:
+ebb10c55e765834aeb0491134c8957abacc320868e2b194a261d1b0994df4d50
+
+See REVIEW.txt for independent-review scope and final disposition.

@@ -1,0 +1,54 @@
+Goal progress checkpoint2026-10-27 03:26UTC. Active until cutoff04:07:11UTC.
+This turn made verified progress: three full tests plus admission fix.
+
+Shared admission:20261027_SHARED_ADMISSION/lease.py independently approved.
+SHA0dbc81af7a01cee5b1108105a95b5247b4553a14dc62df9f3e4efbe67c7d5862.
+Exact original prefix through observed(),only cap2->10. Exclusive L0011core,
+all affinity/locks/memory retained. Original lease held because L005controller
+cpu3 and producer cpu1; new guard correctly admits L001cpu0. Otherjobs untouched.
+Future producers pin original lease provenance and newlease; include newlease
+and DESIGN in source/runtime binding. Audits use this reviewed newlease.
+
+Independent audit closed BULK_DEPENDENCY_R1: PASS, null fullcertificate gain,
+bound margin reduced. REVIEW/FINDINGS saved.
+
+20261027_RATIONAL_GRID_CERTIFICATE: independently audited PASS.
+883 points: old283 first, for each distinct ray bestold a plus factors
+1+j/16 and1-j/32,j1..15, exactdedup. All source maps fixed.
+radius5.669650922390058e-25,clock_eta5.035661596499759e-40.
+Gains1.219898/2.439796. REVIEW/FINDINGS saved.
+
+20261027_OSCILLATOR_DENOMINATOR_CERTIFICATE: independently audited PASS.
+Exact Q5/Q6 denominator d=2+nr(nr+3h)E_i^2 >=alpha*n^2.
+Same matched response op+xn/4+BO, summedwall factor32768 ->2/alpha.
+All B/graph/source maps unchanged; same883points. Full responseweights saved.
+radius8.333644310581496e-25,clock_eta7.401763034115212e-40,gain1.469869each.
+Terminalf750653610e451ec50ed2a4f655e3445bfbfe7165d2fb943e7eed53e22a758ab.
+REVIEW/FINDINGS saved. This eta is amplitude range for clock remainder,
+not an elapsed proper-time interval.
+
+20261027_BACKGROUND_METRIC_ANCHOR_CERTIFICATE completed, audit currently
+running with /root/jet_bound_review. No producer live. Internal8908gatesPASS.
+Only mp coefficients1,9 replaced by real-valid complexbackgroundT,Tp;
+Sc/d0 and continuation unchanged; actual oscillator Cweights retained.
+radius9.29528611527353e-25,clock_eta8.25587253252416e-40,gain1.1153927each.
+Selected a2^-60,lambda1/256,kappa1/16;inverse_afloor,mass/floor.67605999.
+Terminalc39ee8f246461753c9693c3527a54091ee0a5dfa91b663688826f6f4e539d64d.
+Resulte78e944fa4131ada939ea0a1e2afb49ef1c92d5bb433e2eed84f6bb7d5589846.
+Update03:27UTC: independent auditPASS; REVIEW/FINDINGS saved.
+
+Next analytic proposal APPROVED by reviewer; DERIVATION ONLY in
+20261027_BACKGROUND_COMPLEX_FACTORIAL_CERTIFICATE/DERIVATION.txt.
+Rebuild inverse A/B from authenticated backgroundH,Phi,T,E andm:
+B0abs=12HT+4mPhi,Tp=mPhi+4HT;
+A=4H+B0abs*T/(dc*n^2),B=(m+2T^2)/n^2+5E^2/2048+B0abs*Tp/(dc*n^4).
+Separate sourceF80->B0abs axis. Fourlanes baseline,inverse,source,joint.
+Keep realmetricanchorT/Tp,oscillator2/alpha,allrawsources andsame883grid.
+Complete128harmonicsF/G inverse andseven-sourcecoefficientmax coverage.
+Background seed schema: background_complex is list[H,Phi,T,E],parameters
+keys m(notm2),k,r,h,Hp,Tp,mu_abs,delta. Verify Tp recomputed equals saved.
+Diagnostic20261027_DENOMINATOR_FACTORIAL has inverse_rows['joint'],configs,
+source_coefficients['joint:'+source][label],weights,alpha.
+New anchor packet hasresponse_weights['anchor'] andharmonic_coefficients.
+No complexfactorial source yet; implement then prospective review/run/audit.
+Grid edge60 may limit gains; any extension separately declared, notinrun.

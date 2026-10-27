@@ -1,0 +1,13 @@
+User request: Continue as a 2 hr goal.
+Start:2026-10-27T09:38:31Z
+Hard stop:2026-10-27T11:38:31Z
+Goal:sharpen distance and higher-order clock remainder bounds and independently
+verify resulting full certificates for the same selected neutral family.
+At most6CPU authorized; short serial exact-arithmetic tests retain the already
+reviewed exclusive1core lease and2GiB cap. Do not occupy extra cores without
+scientific utility or change a frozen runtime contract in-flight.
+Each producer/audit has600second cap, launch guard leaving that much time
+before cutoff, atomic bound artifacts, no sealed-parent changes.
+Preserve no-gain and technical failures. Derivation review before launch,
+independent exact readout review after. No claim of finite nonlinear fate.
+The user-specified duration is not extended by setup or review time.

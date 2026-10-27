@@ -1,0 +1,25 @@
+Prospective exact-radial-identity sharpening, supplied by reviewer.
+Not yet qualified as a replacement envelope; do not use for radius claims.
+
+Let A0=6H^2-T^2/2. Candidate rewrite of the S6 radial row:
+ (exp(-2b)-1)A0
+ +exp(-2b)[12H Lp-T Lf+6(Lp)^2-(Lf)^2/2]
+ +m Phi f+m f^2/2
+ -6h^2 E^2(exp(-2p)-1)
+ -E^2 exp(-2p)[3D^2p+9h Dp+3(Dp)^2+(Df)^2/2].
+
+The proposed subtraction uses the exact background first integral
+ A0-6+m Phi^2/2-6h^2 E^2=0
+at the SAME composed position u+X. All H,T,Phi,E remain composed at u+X;
+D and L retain graph transport. Verify signs, coefficients, notation and
+equivalence directly against the owning manuscript before implementation.
+
+After isolating the new linear row, differences of composed background
+coefficients multiplying lower field coefficients must remain. They are
+not pure-background terms and cannot be discarded. Establish a positive
+all-order envelope in the existing weighted norm, then rerun all coupled
+majorant and observable checks in a new packet after independent review.
+
+Potential benefit: remove pure-background/pure-graph contributions that
+vanish by the exact identity before absolute bounding. No physical source
+is removed, and no size of improvement is promised by this candidate.

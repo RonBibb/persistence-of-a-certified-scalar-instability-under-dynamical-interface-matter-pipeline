@@ -1,0 +1,37 @@
+Complete finite inverse-lapse clock certificate: independently verified.
+
+Accepted eta=3.050015756574127e-25, twice the preceding certificate and
+256 times the goal-entry value. The global analytic radius remains
+9.760050421037206e-24. The physical solution and every acceptance gate
+are unchanged. This is an enlargement of a sufficient small-amplitude
+proof domain, not a physical amplification or finite nonlinear trajectory.
+
+At the accepted amplitude, normalized complete clock cost is
+0.4384681656245882. The retained seventh coefficient costs0.4384674639;
+the unknown tail costs only3.352105471e-8. Its dominant remaining part
+is now the distance tail, not the inverse-lapse tail.
+
+At the next doubled amplitude, the seventh retained bound alone costs
+14.0309588446 and the unknown tail0.2909840605. All nonclock gates pass:
+distance~6.87e-23, scalar~0.0120935, scalar-derivative~0.1217414, opening
+true. These ratios measure sufficient-bound budgets, not physical fluxes
+or actual signed coefficients. A tighter retained F7 bound is therefore
+necessary to admit this next dyadic under the unchanged certificate.
+An actual d7 enclosure is the justified proposed route, not the only
+possible proof refinement, and is not guaranteed to make the full sum pass.
+
+Producer129.72seconds; independent audit6780checks,177.40seconds.
+Baseline exactly reproduces the previous degree24 full certificate.
+The producer uses exact integer polynomial evaluation with a common
+denominator; the independent auditor uses grouped convolution and ordinary
+Fraction arithmetic. Both produce identical complete records and gates.
+
+The original FINITE_INVERSE_CLOCK_READOUT remains failed and preserved:
+its exact rational output exceeded Python's100000-digit string limit.
+R1 removes that serialization limit and caches identical polynomials;
+no rounding, tolerance adjustment or scientific-gate change was made.
+
+Terminal SHA-256:
+021554e08ab49c101029b120d1614924805cf81fd2d4b140df0cfd48f5509605
+Independent audit SHA-256:
+481904b7050ad17cf68d9326cc40a9d075fdbafd10573097f3cc1feeed3fd196

@@ -1,0 +1,7 @@
+# Independent prospective review — narrowly scoped control correction
+
+Linux verification under a temporary CPU lease confirms all 35 original T2 bindings intact, all copied engines/inputs/wrapper/runtime bytes unchanged, and all runtime file hashes unchanged. The only producer difference is replacement of exact lower-endpoint equality by containment of the full exact squared range of the manufactured input's actual rational bounds. The new PLAN records the original technical failure without rescoring it.
+
+This is the specific correction justified in the original terminal review. For the constructed crossing-zero interval, requiring output lower<=0 and output upper>=max(input lower squared,input upper squared) tests the entire mathematical range. It does not merely accept zero inclusion or modify the physical calculation. The square helper, selected action, launch and wall law, mass bracket, bisection limits, ODE steps, precision, integral readout, all other controls and resource limits remain frozen unchanged.
+
+The original prospective mathematical assessment is inherited by explicit binding. One new bounded execution is admitted in this distinct namespace under the current allocation, with the original failure and review preserved. This is not approval to repair further failures in place. No controls or ODE solve were executed by this reviewer during admission. All execution and computational auditing remain Linux-only; the owner enforces the allocation cutoff and normal shared leases.

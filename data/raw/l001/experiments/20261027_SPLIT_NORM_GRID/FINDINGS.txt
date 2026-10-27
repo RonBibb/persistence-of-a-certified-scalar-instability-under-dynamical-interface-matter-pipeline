@@ -1,0 +1,10 @@
+Norm-grid-only gain1.1119246069733353 in radius andclock_eta.
+radius4.208546678783981e-27,clock_eta5.840531778744636e-44.
+All960producer gates and independent audit PASS.
+Selected lambda1/65536,kappa1/64,a2^-64.
+Mass-controlled:mass/(1/a)=1.019951311853873,C/B=.9922406323928974.
+Changing proof norms,not physical parameters. Current bulk and oscillator
+estimates nearly tied again; no claim of optimality beyond frozen283points.
+Prospective successor: typed Klein-Gordon source bound and exclusion of
+independent oscillator argument from explicit bulk sources, as separate
+factorial comparisons. Aggregate geometry bound stays unchanged.

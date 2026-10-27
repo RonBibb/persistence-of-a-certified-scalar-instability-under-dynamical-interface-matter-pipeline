@@ -1,0 +1,17 @@
+RESULT: Actual fifth coefficient enclosure accepted after independent audit.
+Fresh user authorization: "Authorized. Free to use 6 cpu"; reviewed single-corelease retained. Prior expired executionwindow notextended.
+
+ProbePASS38.42257547599729seconds; productionPASS29.459467223030515seconds. Bothengineintervalrecords reproducedexactly. No fresh ODE or fifth-order fieldprofile solve.
+Primary d5 approximately[-1.0783919761791412e20,+1.0783919761595235e20]; independentapproximately[-1.0730109136559345e20,+1.0730109136363443e20]. Finalreportedintervalis enclosinghull. These are unsigned conservative coefficientbounds, not physicalamplitudes/signs; overlapalone isnotaccuracy.
+Independent unrounded rationalauditPASS38436checks22.19seconds. Audited endpointjets, inheritedqualifiedwall/sourceformulaevaluation, reducedRobin,F+5Ginverse,signedlength/integral/endtransport,finalhull,probeexactreproductionandcompletebindings. No producerflow import. Existingbackground/analytic-family/ODEpremises inherited.
+Productionterminal4493283c8bca0cb37368edc1bde313509516025919c62862e84e55ad02ce7c8e
+Productionresult22ca99cc3dc6d9b4d4fce1ad9c2c8a9a16f4f53298173aef8e3790ae2348985b
+Audit source1d6846668450e133dc4693f0cb5c06664e95dc17ec2951bdd31bda9b750cbdf3
+Audit recordeb509f1f6ad89cfcf62d0e1d1a84befdc93b1d5d7b146f44a3c55e7c8a7c3f73
+Auditfile../20261027_QUARTIC_REAL_SOURCE_AUDIT/QUINTIC_REAL_PRODUCTION_AUDIT.json
+
+Relative to authenticated F9 generic distance[5], the new absolutecoefficientbound is tighter by approximately2.69487834e63. This quantifies earlier proofconservatism, NOT a physicalresponse gain or a larger allowedamplitude.
+Best previously certified full-clockamplitude remains5.957062024558842e-28: fullcertificatehas NOT been rerun with d5. Next boundedtest: propagate actuald5 and, ifreviewed, actuallowerwallL4 into F5,retainvalidhigherboundsandunknown tail,thenrecomputeallclock/distance/scalar/derivativegates. Preserve no-gain outcome. Do not alterdistancegate silently.
+No finite nonlinear trajectory,late-time fate,collapse,horizonorchild-universeclaim.
+No numerical job remains owned by this packet or independent reviewer at completion. Parents/manuscript/inventory unchanged.
+

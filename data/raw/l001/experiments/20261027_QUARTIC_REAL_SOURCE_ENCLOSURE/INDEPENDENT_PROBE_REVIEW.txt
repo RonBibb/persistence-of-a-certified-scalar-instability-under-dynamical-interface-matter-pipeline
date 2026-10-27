@@ -1,0 +1,35 @@
+Independent review: /root/jet_bound_review, 2026-10-27.
+
+Verdict: PASS for same-source production admission after the completed probe.
+Linux read-only audit passed 4,115 integrity and arithmetic checks under the
+unchanged exclusive research lease; the lease was released before production.
+No producer source or JSON artifact was changed by the reviewer.
+
+Probe terminal SHA-256:
+7d46b8db2d6057bc8850117dcc22a92642882f6211a477b5bf3adb2498ba5696
+run.py SHA-256:
+c917221e9af7583d3a1cca620c4fef96cbbe8b3abcdfdbd840aaf38fc6c46c38
+flow.py SHA-256:
+9bc5454ce3546e90f6e3ccc5dfe0b15c142c5b5d6502c572ac35ee503699727a
+
+Verified terminal artifacts and complete source/input/runtime bindings; all
+64 primary and 128 independent probe records, canonical 23-component boxes,
+constraint and background-first-integral zero enclosures, positive D lower
+bounds, exact cell positions, checkpoint chains/counts and source identity.
+The padded aggregate projection is 1235.677528002237 seconds, below the
+predeclared 1800-second production-admission ceiling. Production remains
+subject to its aggregate 2400-second cap. Checkpoints honestly state that
+they are not resumable; this admission does not authorize a longer run.
+
+Analytic/source review verifies the n=4 inverse normalization, full moving-wall
+loads and graph displacement, metric reconstruction, mandatory/optional-domain
+integral decomposition and conservative unknown metric contribution. It
+inherits the authenticated same-background inverse and qualified quartic
+compatibility. The selected analytic-background continuation across isolated
+T zeros is an explicit inherited premise, not unrestricted algebraic ideal
+membership at arbitrary T=0 data.
+
+Scope: source review, saved probe integrity and admission verification. This
+is not independent ODE propagation, a full-domain quartic result, a resolved
+quartic sign, or a finite-amplitude trajectory. Production results require a
+separate terminal audit.

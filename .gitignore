@@ -41,3 +41,6 @@ __pycache__/
 # Scientific evidence logs and outputs are data, not build products.
 !/data/**/*.log
 !/data/**/*.out
+
+# Frozen L001 fixtures and logs are archived evidence, including historical cache/failure specimens.
+!/data/raw/l001/**

@@ -1,0 +1,34 @@
+Real-payment harmonic-matched paired certificate: producer PASS.
+594 gates,21.275seconds; all81 parent records and complete parent certificate
+reproduce exactly. Same81-point grid; no ODE or physical equation change.
+
+Certified local amplitude radius1.3913273001736354e-28:55.8433443907x parent.
+Protected proper-clock amplitude4.827136260757271e-46:446.746755126x parent.
+Both selected-map contraction,geometry,lapse and all observable-tail gates pass.
+Different radius/clock gains reflect fresh admissible dyadic remainder selection.
+
+Selected lambda1/256,kappa1/16,a=2^-64,within unchanged frozen grid.
+K remains mass-controlled:mass/(1/a)=30.8519261103.
+Relative scaled B/X/C masses:1,1.367450278e-16,0.990508538296.
+Bulk and oscillator estimates are now nearly tied; this is not physical
+resonance or measured energy sharing. Further bulk-only sharpening would
+quickly encounter the oscillator bound.
+
+Matched real metric scalar payment improves97.5365116544x;
+matched real oscillator scalar payment improves32.5x.
+Both maxima occur in primary uniform n>=65 range, with full finite/tail
+coverage retained across both engines. Explicit harmonic-label gates pass.
+The real metric scalar anchor still accounts for94.4500396529percent of
+the new bulk bound. All source and graph payments remain in the equations.
+
+Interpretation: harmonic-consistent sufficient estimates remove another
+large bookkeeping overestimate. This is a stronger local neutral analytic
+certificate, not a practical finite-amplitude evolution or an endpoint result.
+The certified radius remains tiny despite the relative gains.
+
+Next bounded diagnostic: trace the common source-to-scalar forcing and
+boundary-load transfer feeding both now-competitive B and C estimates.
+Check which harmonic worst-case payments remain combined with high-range
+inverse bounds, and whether a joint harmonic-resolved transfer is justified.
+Do not assume reducibility,delete sources,or improve only one channel and
+present its gain as a full-certificate gain. No successor launched.

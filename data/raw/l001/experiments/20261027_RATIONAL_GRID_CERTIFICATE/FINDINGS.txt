@@ -1,0 +1,13 @@
+Same source bounds and physics; finer exact rational grid only.
+Certified radius5.669650922390058e-25 (gain1.2198980971815345).
+Proper-clock eta5.035661596499759e-40 (gain2.439796194363069).
+Selected a=5/9223372036854775808,lambda1/65536,kappa1/16,seed1215.
+Mass now controls K, with mass/(1/a)=1.0246757519238805.
+This optimizes the sampled grid, not the continuous norm parameters.
+
+Selected sufficient-bound source shares from independent audit:
+B: BJ78.1998%, BM7.1266%, TRACE6.3389%, BR3.5321%, BK2.7422%, BO2.0604%.
+C: BK65.6809%, BJ28.1079%, BM2.2932%, TRACE2.0398%, BR1.1367%, BO0.7415%.
+Graph contribution negligible. These are proof costs, not physical forces.
+Next inquiry: inspect KG-to-oscillator transfer and boundary contribution,
+without confusing the largest B share with the currently controlling C bound.

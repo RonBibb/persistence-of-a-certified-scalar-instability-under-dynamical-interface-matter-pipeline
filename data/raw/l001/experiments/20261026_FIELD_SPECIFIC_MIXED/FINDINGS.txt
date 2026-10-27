@@ -1,0 +1,39 @@
+Field-specific mixed-equation certificate: PASS, independently reviewed.
+
+Only BM's background factors were tightened. The L(Dp) graph transport,
+typed radial estimate, all other sources, norms, inverse constants, seed,
+45-ray grid and acceptance conditions were retained. The difference
+BMold-BMnew=d(4Z/3-Hj-Tj/3) was checked at each finite/Jet evaluation.
+All45 candidates retained;132 gates passed. Runtime20.8954 seconds.
+
+Certified amplitude radius:1.089758925263625e-37
+Protected proper-clock amplitude:1.153827142828409e-59
+Scalar departure threshold:2.8845678570710226e-64
+Gains over typed-radial parent:radius10.468844262429768 times,
+clock41.87537704971907 times.
+Selected lambda1/256,kappa1/16,a2^-96, unchanged from parent.
+
+Independent exact reconstruction of selected bulk proof-budget shares:
+BM30.8834%, TRACE27.4723%, BJ22.7848%, BR15.3078%, BO3.49727%,
+BK0.0512719%, GRAPH0.00319655%. Rounded display only; exact arithmetic
+reconstructed the sealed B mass. Quadratic fraction0.9999999998475216.
+These are sufficient-estimate shares, not physical energy/force shares.
+
+No single source now dominates. The next recommended bounded diagnostic
+is a shared-response sensitivity decomposition, not another isolated
+source tweak. At the frozen selected ray partition the linear map into
+Bdirect+Cscalar*Binduced, and separately account for the metric Cm path
+and explicit9Sp/rho derivative payment. Require exact reconstruction and
+avoid double counting between overlapping propagation paths. Any changes
+of constants are hypothetical estimate sensitivities, not certified or
+attainable physical/numerical improvements. No ODE is needed for this.
+
+This remains a tiny local analytic-family certificate. There is no new
+finite-amplitude evolution, endpoint, generic-data theorem, charged branch,
+horizon or child-formation result. No manuscript or sealed parent changed.
+Producer exited; no successor launched. See REVIEW.txt for audit scope.
+
+Terminal SHA-256:
+2eba82895e008d93f1ab7d2b7e782f8857632af5a692bcbe81114b066880a500
+Result SHA-256:
+8d9dbca62297a9f81e176b179a3b9bdc8364a8cde311457b4ba4fa6a86e41520

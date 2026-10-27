@@ -1,0 +1,65 @@
+Prospective neutral growing-mode cubic wall derivation
+====================================================
+No calculation has been executed by the author of this file. The exact
+polynomial qualifier in wall.py must be frozen and run on Linux.
+
+Convention: eta=epsilon exp(r t), ordinary coefficients, r>h>0;
+both conserved currents vanish. First-order tracefree and Israel equations
+give b1=-2p1 and xi1=0. Fields p_j,f_j,b_j are Eulerian; chi_j is intrinsic
+to the wall. Set x=xi2, p=p1, P=p2, c=c2, f=f1, F=f2, g=f1', G=f2',
+u=p1', gp=f1'', chi=chi1 and chi2=the second wall oscillator coefficient.
+Use sigma=+1 at the lower wall and sigma=-1 at the upper wall.
+
+The wall shift is eta^2 x+eta^3 xi3. Consequently
+  log(a(S)/a_i) = eta^2 Hx+eta^3 Hxi3,
+  p(S) = eta p+eta^2 P+eta^3(p3+xu),
+  b(S) = -2eta p+eta^2(c-2P)+eta^3(c3-2p3-2xu),
+  deltaPhi(S) = eta f+eta^2(F+Tx)+eta^3(f3+Txi3+xg).
+Velocity begins at eta^2, so all boost corrections begin at eta^4 and
+cannot contribute to the displayed cubic rows. This is an order argument,
+not a replacement of the exact equations by a low-velocity model.
+
+Tracefree Israel, including oscillator kinetic stress, has cubic coefficient
+  3 sigma E^2 r(3r-h) xi3 + qI3,
+  qI3 = 4 sigma E^2 r(2h-7r) x p
+        -2r^2 E^2 chi chi2 + r^2 E^2 p chi^2.
+Thus xi3=-qI3/[3 sigma E^2 r(3r-h)]. The first term is geometric,
+the remaining terms are the oscillator stress. No current term remains.
+
+The oscillator and normalized scalar-normal source coefficients are
+  o3 = E^2[-4r(r+3h)p chi2
+           +2r(r-3h)(P+Hx-p^2)chi] - xg,
+  j3 = x gp + 2p(G+T' x) + (2P-c+2p^2)g
+       +T[2xu+4pP-2pc+(4/3)p^3]
+       +2r^2 E^2 x f -(21sigma/2)xg.
+The tilt term 2r^2 E^2 x f and displaced scalar potential term
+-(21sigma/2)xg are required. In particular xi1=0 does not remove cubic
+transport: xi2 already moves the first-order scalar and metric fields.
+
+Set mu3=-3r(3r+3h), d3=2-mu3 E^2 and Gamma3=21-1/d3. The full new rows are
+  d3 chi3-f3-Txi3+o3=0,
+  g3+T'xi3-Tc3+2Tp3-sigma[21(f3+Txi3)-chi3]/2+j3=0.
+Their eliminated Robin load is
+  R3=2sigma[Tc3-(T'-sigma Gamma3 T/2)xi3-j3+sigma o3/(2d3)],
+  2sigma(g3+2Tp3)-Gamma3 f3=R3.
+The qualifier checks elimination without symbolic division, multiplying
+the Robin equation by d3. Positive r>h gives nonzero graph divisor and
+positive oscillator divisor; the radial cubic inverse is a separate gate.
+
+The Eulerian bulk tracefree row independently gives
+  qT3=4r^2(6pP+fF-3pc),
+  c3=-4r(6pP+fF-3pc)/[3(3r-h)].
+The new xi3 and c3 must be supplied to the Robin load; do not omit them
+merely because the source coefficients exclude new unknowns.
+
+The exact polynomial test expands original Q5 and S7 with arbitrary input
+jets, compares separate closed formulas, checks lower-order replay and
+new-unknown independence, verifies the undivided Q6 identity, and checks
+the old forced r=-6h reduction as a supplementary control. It makes no
+claim to solve the cubic fields or determine a proper-distance sign.
+
+Linux invocation after parent inspection/freezing and resource admission:
+  python3.12 -I -B /media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261026_GROWING_MODE_CUBIC_WALL/wall.py
+The entrypoint prints JSON only. The owning runner should capture it under
+an authenticated runtime/lease and publish immutable result and terminal
+artifacts. Do not execute this scientific qualification on Mac.

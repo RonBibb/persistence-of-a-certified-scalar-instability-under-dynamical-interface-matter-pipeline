@@ -1,0 +1,7 @@
+# Higher resolution lower wall root anchors
+
+New contract following preserved T19A technical incompleteness at n4096: strict residuals no longer contracted its approximately2.98e-5 bracket to the requested1e-5. No output from that failed worker is promoted to a completed anchor, and none is rescored.
+
+This packet covers lower compact coordinates 10/13, 1/2, upper soft, same fixed concave background and interval. Retain the final1e-5 mass-width requirement, original spectral bracket[-12.061,-12.000001], fullL/g equations, fixed derivative rates and all sign/constraint/source gates. Use n4096 for an explicitly preliminary1e-4 bracket, n16384 for final1e-5, then independentg endpoint audit32768. The final bracket must overlap and be no wider than preliminary, and separately pass final width1e-5. This is increased final resolution, not a relaxed final scientific criterion. Every fineendpoint must still carry strict certified signs, and inheritedcount identifies the unique mode.
+
+Two sequential cases per fresh worker, estimated5–7minutes, bounded590s child/600s wrapper, onecore1GiB, unchangedlease/HOLD/deadline/noqueue/nooverwrite. The smaller group is an operational split, not reduced scientificscope: both recovery groups supply the same four planned low-stiffness anchors. Case failures remain preserved and never retriedinplace. Bind failedT19A/source/review and admittedparentcompactsolver/count, currentconfig/source/review andauthority. Independent prospective and terminal review required before laterall-familyuse.

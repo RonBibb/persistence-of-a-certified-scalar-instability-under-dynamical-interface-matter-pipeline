@@ -1,0 +1,42 @@
+{
+  "label": "shoot_coarse",
+  "method": "regular three-field DOP853 shooting",
+  "mu": -0.0013122306827980609,
+  "lambda_shifted": -4.8653289810621746e-06,
+  "mu_over_k": -4.014885904592338,
+  "growth_s_over_H": 1.002975410305171,
+  "growth_s": 0.018132545496303987,
+  "k": 0.0003268413384542497,
+  "L": 6.38029536996215,
+  "rtol": 2e-09,
+  "atol": 2.0000000000000004e-12,
+  "wall_residual": 2.88935542158697e-14,
+  "max_constraint": 2.5767148831290498e-14,
+  "normalized_constraint": 2.5678366431815336e-14,
+  "kinetic_Z": 321.28405301130806,
+  "delta_D": -53.54486563356467,
+  "delta_D_over_sqrt_Z": -2.9872615445453374,
+  "turn_z": 4.418374020427974,
+  "turn_u": 0.6925030526375435,
+  "turn_constraint": 1.3713531178682903e-14,
+  "turn_fields": [
+    29.446755996140993,
+    0.3603105057995447,
+    0.08989522378230591
+  ],
+  "initial": [
+    1.0,
+    0.00014604384459758374,
+    0.02124312046981729
+  ],
+  "bracket_attempts": [
+    {
+      "lo": -0.0013778422063824886,
+      "hi": -0.001246619139107966,
+      "flo": 33.14112516441503,
+      "fhi": -33.120154430303224
+    }
+  ],
+  "background": "/media/psf/Home/Library/CloudStorage/OneDrive-Personal/Academic2/collapse-horizon-research/branches/02-event-horizon/capture-to-model-2026-09-12/static-background-successor/proper-shooting/narrow-gap/fine-collocation/results",
+  "elapsed_seconds": 0.08478495804592967
+}

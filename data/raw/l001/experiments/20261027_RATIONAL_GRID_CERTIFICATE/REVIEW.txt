@@ -1,0 +1,7 @@
+Independent Linux audit PASS, /root/jet_bound_review, 2026-10-27.
+Rebuilt exact center/factor/tie ordering and deduplicated883-point inventory.
+Regenerated all883 nonlinear maps with own jets; exact283-row baseline
+replay; both full certificates and first passing tails; budgets and branches.
+Verified2,955 bindings and2,969 gates. New reviewed lease released normally.
+Terminal2e1f58f23130144dcf9a5ede7b5a3a272131bc0ec39777a3ed783503ca402772
+Result5c0dd9ece5ab4a513c203ff379829db6c85bd66c1a1f26db2d1063519029f5a6

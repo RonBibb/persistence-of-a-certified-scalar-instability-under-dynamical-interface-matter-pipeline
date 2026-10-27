@@ -1,0 +1,11 @@
+# Exact reconstruction of the saved isolation determinant
+
+This distinct test reconstructs two determinant interval formulas for the primary and independent root-event records. The inputs are copied unchanged from the frozen isolation RESULT. The new code uses Fraction interval arithmetic and imports no numerical producer. Reviewer approval must precede execution.
+
+For each producer, compute C = -G_D q_a and J = G_a h_D - G_D h_a from the saved exact interval endpoints, using exact four-corner products and interval subtraction. Both exact reconstructed intervals must have positive lower bounds, and each must be enclosed by its corresponding archived outward-rounded determinant interval. The two forms must overlap. The stored G_D must be strictly negative, q_a and curvature strictly positive, and G and h must contain zero. Event cells and 2/steps must reconstruct the exact event bracket, with immediately following negative cell and no obstruction. The primary and independent event brackets must overlap and their intersection must equal the saved cross-producer intersection.
+
+This does not require endpoint equality with Arb's outward-rounded results. It does not recompute q_a from separately unioned derivatives, because that can lose correlations retained by the producer. The local determinant claim remains conditional on validity of the saved derivative enclosures and on the already-established root. The test does not regenerate the flow or the derivative enclosures.
+
+Six prospective negative controls use deep in-memory copies and bypass input hash validation: replace one stored chain determinant by [0,1], replace one stored direct determinant by [0,1], make q_a contain zero, make G_D contain zero, corrupt the event bracket, and falsify the reported cross-producer intersection. Each must fail its named arithmetic predicate. Original input files remain unchanged. Baseline failure is retained without relaxing criteria.
+
+The command is isolated Python with bytecode disabled from /private/tmp, using the reviewed run_test.py capture driver. Preserve raw result, stderr, return code, timestamps and code/design/input hashes. Independent review must inspect the exact reconstructed intervals, targeted control failures and input immutability. This test is separate from the global-cover test and does not depend on that test passing.

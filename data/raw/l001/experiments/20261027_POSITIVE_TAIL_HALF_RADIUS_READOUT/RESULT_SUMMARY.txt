@@ -1,0 +1,12 @@
+Technical PASS: producer123.12seconds; independent6952-check audit128.81s.
+R/4 eta2.4400126052593015e-24 passes all five gates:8x goal entry.
+Clock0.182292491789, distance1.49804e-22, scalar6.02121e-7,
+scalar derivative2.43591e-6. Retained F8 cost0.17414905,F9 cost0.00814320.
+R/2 fails only clock12.187932579. Distance/scalar/opening still pass.
+R/2 costs: F8=11.1455392035,F9=1.0423299950,unknown=0.0000633804.
+Unknown tail here is almost entirely the retained positive distance
+orders10..24, not unresolved>=25 distance or inverse-clock tails.
+This locates a sufficient-bound bottleneck, not physical instability,
+breakdown of the analytic family, or a measured eighth-order effect.
+Terminalc43f66888ac5708ad65230b1d02edcb4b42984a68c1c0ce50b4e39c047d98be1
+Auditc331ba14b4d11354681a11aa7ca0cd0de7ffaed3a033203b63b53dcd90770851

@@ -1,0 +1,8 @@
+Audited gain1.1153927104221386 in both certified amplitude ranges.
+Radius9.29528611527353e-25; proper-clock-control eta8.25587253252416e-40.
+Only scalar part of realmetricanchor tightened using authenticated T,Tprime.
+DirectSc/d0 andcomplexcontinuation remain unchanged; no physicalmodelchange.
+Selected a2^-60,lambda1/256,kappa1/16,seed1215.
+Inverse-a floor controls; mass/floor0.6760599936780367.
+Current point is at old dyadic-grid lowerexponent boundary. Furthermargin
+requires separately declared grid exploration, not a revised current result.

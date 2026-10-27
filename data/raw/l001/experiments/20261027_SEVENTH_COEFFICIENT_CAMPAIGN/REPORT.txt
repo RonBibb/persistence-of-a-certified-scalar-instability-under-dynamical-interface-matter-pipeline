@@ -1,0 +1,142 @@
+SEVENTH-ORDER WALL AND COEFFICIENT CAMPAIGN — COMPLETED REPORT
+Authorized window2026-10-27 11:42:44--13:42:44UTC,07:42:44--09:42:44ET.
+Status:requested wall and coefficient enclosure passed independent audits;
+complete-certificate propagation and rational bracket independently passed.
+Positive distance/scalar/inverse tail qualifiers passed independent audits.
+Complete readout at R/4 passed; R/2 fails only the clock bound.
+Uniform positive-tail rational bracket independently passed7001 checks.
+Certified eta3.2325997076268554e-24:10.5986328125 times goal entry.
+Saved retained-bound term attribution independently passed6955 checks.
+Requested seventh-order work and all launched follow-through checks complete.
+No campaign numerical worker remains active; no eighth field launched.
+
+PURPOSE
+Resolve the retained seventh-order bound that blocked the next dyadic
+amplitude in the same neutral pure-growing analytic-family certificate.
+No physical trajectory or larger analytic-domain proof is attempted.
+Entry certified eta3.050015756574127e-25, exactly R/32, where the unchanged
+sufficient analytic-domain bound is R9.760050421037206e-24.
+
+VERIFIED FINDINGS
+1. Seventh moving-wall qualification:164 controls passed,21.75seconds.
+   Independent source-reviewed exact replay audit:6789 checks,22.79seconds.
+   Includes both wall orientations, all lower-order rows through6, seventh
+   oscillator/graph/scalar rows, Robin elimination, boost and third Taylor
+   terms. This is not a second independent nonlinear wall PDE oracle.
+2. Spatial jets: six exact differentiation identities and two direct RHS
+   jets,12.13seconds. Independent dictionary-polynomial audit:6926 checks,
+   23.45seconds, without importing the new jet generator. All reduced RHS
+   and constant derivatives independently anchored to qualified old algebra.
+3. Actual seventh coefficient:unsigned distance coefficient enclosure
+   approximately+-2.8345097628615914e32 (primary),+-2.81169397640448e32
+   (independent input engine). Producer57.18seconds. Independent unrounded
+   rational interval audit:298433 checks,59.84seconds. Includes source,
+   derivative, graph/oscillator/radial divisors, finite-n7 inverse, Robin
+   loads, exponential density and both moving endpoints. Transport7 also
+   independently verified by symbolic series convolution. No flow import.
+
+WHAT THE COEFFICIENT MEANS
+It multiplies eta^7 in proper separation in the specified homogeneous
+slicing. Its large raw number is not a displacement, instability rate or
+measurement of physical growth. Its symmetric enclosure gives no sign.
+This is a same-family bound from lower field enclosures and the qualified
+finite-order inverse, not a solved seventh field profile. Overlap of the
+two input-engine enclosures is a compatibility gate, not an accuracy test.
+
+FULL-CERTIFICATE FOLLOW-THROUGH
+Four predeclared arms: baseline, distance-only d7 update, retained-clock
+F7..F9 update only, both. Preserve actual d6, inverse bounds, scalar gates,
+analytic radius and all original acceptance thresholds. Replay baseline
+and old coefficient intervals exactly. New coefficient bounds use min
+with inherited valid bounds. All four arms and exact replay passed.
+Baseline and distance-only retain eta=R/32. Clock-only and both reach R/16,
+eta=6.100031513148254e-25, a further factor2 with unchanged analytic radius.
+Independent Fraction audit:6882 checks. At the accepted point clock gate
+ratio0.291027; next doubling fails clock2623584 and scalar derivative67.29.
+The accepted F7 cost is2.0818e-21; generic distance tail now dominates.
+
+A fixed16-midpoint same-certificate rational bracket independently passed
+6921 checks: lower eta6.435209331123822e-25 passes, upper
+6.435302410217955e-25 fails. Lower clock ratio0.99968537, upper1.00001904.
+This adds5.49469percent over R/16, not a physical threshold or maximum.
+At lower eta the unresolved distance tail consumes0.999626 of the clock
+allowance, versus retained F8 cost5.86e-5. Further d7 tightening alone
+cannot resolve that obstruction.
+Two source-reference errors caught and corrected before first execution:
+retained16 distance candidate now uses chosen distance array; operative
+known-clock constants now use chosen clock array. No frozen result edited.
+
+POSITIVE-TAIL FOLLOW-UP
+Two fixed points R/16 and R/8, unchanged all-order positive-source majorant,
+finite24 prefix and analytic domain. Bound unresolved series by a positive
+fixed-point residual and contraction, then derive weighted distance/scalar
+tails. This is conditional on the inherited all-order source domination;
+finite24 reproduction alone does not establish that premise.
+Original feasibility packet stopped before any point on int/interval
+division TypeError. Its failure is preserved. Separate R1 changes only
+600/(1-x) to I(600)/(1-x); no mathematical gate changed.
+R1 passed independent7150-check audit. Full five-gate readout independently
+passed6899 checks: eta=R/8=1.2200063026296508e-24 is admitted, four times
+this goal entry. Clock ratio0.0027847019859, scalar7.35509e-8,
+scalar derivative2.95918e-7, distance7.42158e-23. Unknown clock tail
+4.30383e-9; retained F8 now dominates at0.00272108. No new actual field.
+
+Two further predeclared tail points R/4,R/2 passed independent7182 checks.
+Positive inverse-lapse tail composition at these same points independently
+passed7112 checks. It subtracts original raw Jhat0..24, not actual/clipped
+inverse bounds. Single-wall weights, both denominator margins and exact
+prefix normalizations checked. New inverse tail at R/2 is9.05072e-85,
+versus old Cauchy4.86671e-17. These are bound improvements only.
+Larger-point full readout passed independent6952-check arithmetic audit.
+R/4 eta2.4400126052593015e-24 passes: eight times goal entry; clock0.1822925.
+R/2 fails only clock12.18793258, with F8=11.1455392,F9=1.0423300,
+remaining tail0.0000633804 (almost entirely finite orders10..24).
+Unresolved distance/inverse tails no longer determine this boundary.
+An additional read-only all-order premise review found no newly identified
+finite-only extrapolation or changed norm. See ALL_ORDER_PREMISE_REVIEW.txt:
+it inspects owning analytic derivations but does not rederive the complete
+background/PDE/inverse proof. Arithmetic PASS alone is not that proof.
+
+Uniform bracket producer passed16 steps: lower eta3.2325997076268554e-24,
+upper3.2326369392645087e-24, lower clock0.9999652439, upper1.0000350208.
+These values passed independent7001-check ordinary-Fraction audit. This uses
+positive >=25 tail scaling from the audited R/2 endpoint; it brackets a
+sufficient-bound limit, not a physical threshold or true existence radius.
+At the accepted boundary F8 costs0.94162996,F9 costs0.05833300;
+all remaining tail costs2.29233e-6, almost entirely finite orders10..24.
+Actual F7 costs8.70039e-18; unresolved tails are negligible. The seventh
+coefficient/remainder obstruction has therefore been resolved within this
+local proof, not converted into a measured nonlinear physical trajectory.
+
+NEXT STEP, NOT LAUNCHED
+Saved F8/F9 attribution passed exact independent audit: at R/2 F8 leading
+11.1455392035 versus lower products6.67333e-18; F9 leading1.0423299950
+versus lower products2.00833e-22 (primary; independent consistent).
+These are shares of a triangle BOUND, not physical coefficient shares.
+The next justified test is actual eighth-order bulk, wall and required-jet
+qualification, followed by d8 enclosure and F8/F9 propagation. F9 alone
+already exceeds1 at R/2, so eliminating F8 alone would not certify R/2.
+See NEXT_TEST_AND_CLAIM_BOUNDARY.txt. No actual eighth computation started.
+
+SCOPE AND RESOURCES
+All scientific computations and audits run on Linux with exclusive L001
+single-core2GiB lease, within user's6CPU limit. Do not fill cores with
+duplicate work; dependent producer and auditor stages run in order.
+All sources/parents/runtime checked before and after, atomic immutable
+records. Fresh window authority is bound into new jet/enclosure/clock
+packets. The never-run wall launcher and auditor received deadline-only
+changes; prior source hashes are preserved in AUTHORITY.txt.
+No sealed parent, manuscript, release or external record changed.
+No physical late-time fate, saturation, horizon or child-universe claim.
+
+KEY PROVENANCE
+Wall terminal d59ed9a465d3e067efd4838d2777ba50a76268dd6357a50746ccf8af4c9a502d
+Wall audit7141ba421b94422024179f48e67765f08c4f410d2e66a0b86630c81e1c17c224
+Jet terminal a2da73641858494d0cd2178d9003052af926c8b084435bab47422028c9edba04
+Jet audit6746096cfeceb41d36786e963bdbce8bf14122bebce5f27edb68056e011f3ad7
+Actual7 terminal107d629a3819ed40acb17a124728bddda08f17e3526f9277ad18bc7202a2b43f
+Actual7 audite78e7b081ccb4ef6075f09e20914ad701068eb9a073bea3f3c320d1b1da0c399
+Final uniform bracket terminal50ddb33ca4c0e0b8288cd444f5f80e7673dc8f9a31f3be620ab6c97c932ae11e
+Final uniform bracket auditdb4e02fa3fa966ed440bca1da1907d23becdd39212fcda35a3bb3abf980bfe46
+Attribution terminalb55c9f52dd7f110db4d5180a1a9c5c6d4a91f46eaae7be33e1a40e08bb800350
+Attribution auditb58b2d6b761c79f61a6247bd3d8d6482f84ab02c6e41d8b8e02aca78992676df

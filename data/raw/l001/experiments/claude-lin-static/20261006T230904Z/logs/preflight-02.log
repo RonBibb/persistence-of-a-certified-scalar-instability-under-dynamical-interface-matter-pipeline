@@ -1,0 +1,12 @@
+slot_run: line 02_lin_static priority 5 token 1 slot 4 start 2026-10-06T23:15:19Z avail_kib 29770960 load 3.03
+Traceback (most recent call last):
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T230904Z/code/preflight3.py", line 277, in <module>
+    sys.exit(0 if run_all() else 3)
+                  ^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T230904Z/code/preflight3.py", line 252, in run_all
+    res = {'seam': one_fixture(root, 'seam', Fraction(2)),
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T230904Z/code/preflight3.py", line 187, in one_fixture
+    res['narrowed_width_pieces'] = float((iv[1] - iv[0]) / ((DHI - DLO) / 2 / CONFIG['event_subintervals_per_half']))
+                                         ~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'Fraction' and 'flint.types.fmpq.fmpq'

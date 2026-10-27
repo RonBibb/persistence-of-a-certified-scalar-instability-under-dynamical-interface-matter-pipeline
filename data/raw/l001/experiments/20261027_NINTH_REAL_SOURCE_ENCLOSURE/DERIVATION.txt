@@ -1,0 +1,15 @@
+Actual unsigned ninth-distance coefficient on the same selected analytic family.
+Use audited ninth bulk/wall/jets, inherited unsigned eighth field bounds,
+and the existing finite-order9 inverse and scalar transfer exactly once.
+source_size=forcing_abs+9*Robin_abs; f9_bound=Cf9*size/81;
+f9prime_bound=Cf9*size/9. Reconstruct p9 using positive D9, then bound
+the metric integral and evaluate both moving endpoints with qualified jets.
+Do not differentiate unsigned field bounds; evaluate qualified jet polynomials.
+Ninth transport is coefficient of E*xi+Eprime*xi^2/2+Esecond*xi^3/6
++Ethird*xi^4/24. Unlike order8, E1 third spatial derivative contributes
+at order9 and must be retained. E0=1 has zero derivatives; fifth shift
+has degree>=10. Check polynomial convolution and omission sensitivity.
+The d9 enclosures from both inherited parameter engines must overlap; this is
+compatibility, not an independent accuracy estimate. Parameters and domain
+are checked against each engine's INITIAL record. No coefficient sign, field profile,
+trajectory or enlarged full certificate before separate readout and audit.

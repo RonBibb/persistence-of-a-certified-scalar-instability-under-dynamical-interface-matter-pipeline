@@ -1,0 +1,55 @@
+Proper-clock nonlinear reinforcement with an analytic remainder
+
+Use only the neutral pure-growing family certified by the common-collar
+majorant and the separately qualified bulk and moving-wall identities.
+The exact selected background/mode premises and ordinary-power convention
+are unchanged. Write eta=epsilon exp(rt), D=D0+d1 eta+d2 eta²+...,
+x=D-D0, and lower-wall proper time d tau_a=ell_a(eta) dt.
+D is proper separation on the specified homogeneous slicing, not an
+unqualified foliation-independent distance. The time conversion is physical.
+
+1. Normalization and coefficient
+At the lower reference wall, W_background=log a=0, E=1 and p1=1.
+Both first-order graph amplitudes vanish because the neutral tracefree
+Israel forcing is zero and r(r-h)!=0. Hence ell_a(0)=1 and
+ell_a,1=p1(a)+H(a)xi_a,1=1. Velocity begins at degree2 and its lapse
+square-root therefore does not alter degree1.
+Define the exact analytic function
+ F(eta)=r eta D'(eta)/ell_a(eta)-r[D(eta)-D0].
+Then F0=F1=0 and F2=r(d2-d1). The independently audited coefficient
+enclosures give d1>-54, d1<-50, d2<-1400, while r>1/64. Therefore
+F2< -1346/64 < -21. No new quadratic or cubic fit is used here.
+
+2. Uniform bound for the full F, not only its truncation
+Let rho_D be the majorant's physical amplitude radius and MD its bound
+for |D-D0| on that disk. On radius rho_F=rho_D/2, Cauchy's derivative
+estimate gives |eta D'|<=MD. Let R be the certified aggregate norm bound.
+Using the already reviewed positive source envelopes at x=R,
+ Z=64/(1-4R/gap), E1=1/(1-R), vbound=4R Z E1²,
+ |1/ell_a|<=Z E1/(1-vbound²).
+The executable must verify this quantity<=128 and vbound<1/2.
+The exact real branch has positive lapse: E remains positive in its
+real analytic continuation, exp(p)>0 and 1-v²>0.
+Since r<=1/32, |F|<=MF=129 MD/32 on radius rho_F.
+
+3. Predeclared subdisk and conclusion
+For q=eta/rho_F<1, Cauchy gives the tail after F2 as
+ |F-F2 eta²|<=MF q³/(1-q).
+Choose the first dyadic q=2^-j, j>=1, satisfying
+ MF q³/(1-q)<=10 eta².
+Also certify x<0 directly: at qD=eta/rho_D=q/2, the distance tail
+after its linear term is <=MD qD²/(1-qD). Require this<=25 eta.
+Because d1<-50, x<=-25 eta<0. Thus throughout the positive subinterval
+0<eta<=eta_selected,
+ dx/dtau_a-rx <= -11 eta² <0,
+ dx/dtau_a < rx <0.
+The bounds hold at every smaller amplitude since the relevant ratios
+q/(1-q) and qD/(1-qD) are monotone increasing. The result is a local
+nonlinear reinforcement relative to the linear distance-growth law in
+the chosen lower-wall clock and homogeneous foliation.
+
+This does not prove nonlinear saturation, a finite-time collision, generic
+initial-data evolution, or a horizon. The very small certified amplitude
+is a sufficient bound from conservative estimates, not a physical scale.
+The statement is distinct from a sign for a proper-time cubic normal-form
+coefficient, which was unresolved in the earlier third-order packet.

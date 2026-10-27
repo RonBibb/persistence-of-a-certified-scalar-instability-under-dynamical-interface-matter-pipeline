@@ -1,0 +1,35 @@
+Actual sixth coefficient propagated into the full clock certificate
+2026-10-27 two-hour bounded goal, ending 11:38:31 UTC
+
+Producer and independent audit PASS. Accepted eta is
+1.5250078782870635e-25, twice the immediately preceding certificate and
+128 times the goal-entry value 1.1914124049117683e-27. The global analytic
+radius remains 9.760050421037206e-24. This enlarges a sufficient proof
+domain for the same selected neutral, zero-current, pure-growing analytic
+family; it does not increase physical growth or certify finite-amplitude fate.
+
+Four-arm control: baseline reproduces its authenticated parent exactly;
+distance-only gives no amplitude gain; clock-only and combined arms each
+give a factor two. The actual sixth distance-coefficient enclosure replaces
+its generic bound in retained clock orders six through nine. Other gates
+and the amplitude search remain unchanged.
+
+At the accepted amplitude, normalized unknown-tail cost is about 0.788233,
+seventh-order cost 0.0137021, and sixth-order cost 5.0851e-18. At the next
+doubled amplitude the clock gate fails, with unknown-tail cost about
+24600.821 and seventh-order cost 0.438467. Nonclock gates pass there.
+This identifies the remaining tail, not the now-qualified sixth term, as
+the immediate obstruction. A degree24 distance-tail readout is prospective
+and is not incorporated into this certificate.
+
+Terminal SHA-256:
+4802a78f0f6a04193792d4f9d58d3f8e7f27c6813cd6c4772090ee84551ee51b
+Independent audit SHA-256:
+03a2a326000d28327bc26b4f7dc645860bd632a444b085c5a6d6ef6d48b30e17
+Audit: 6774 checks, 117.52 seconds. Producer: 128.62 seconds.
+
+The earlier sixth real-source audit failure is preserved. Its replacement
+audit uses exact polynomial identities to qualify interval-expression
+grouping and retains the original containment gates, without widening
+bounds or changing the producer. See SIXTH_REAL_SOURCE_ENCLOSURE's
+AUDIT_HOLD.txt and AUDIT_RESOLUTION.txt.

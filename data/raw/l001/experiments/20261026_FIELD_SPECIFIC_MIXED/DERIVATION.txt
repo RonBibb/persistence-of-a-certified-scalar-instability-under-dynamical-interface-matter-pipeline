@@ -1,0 +1,29 @@
+Field-specific mixed-equation bound; fixed physical problem.
+
+Only BM changes relative to FIELD_SPECIFIC_RADIAL. Keep that parent's
+typed radial envelope, all other sources, inverse bounds, norms, seed,
+45-ray grid, selection rule and full geometry/observable checks.
+
+The exact S6 mixed row is L(Dp)-(Db)(H+Lp)+(Df)(T+Lf)/3=0.
+Keep Gx(1+wu+w) for L(Dp), including graph transport. Use the parent's
+authenticated composed H/T series, preserving their Cauchy tails:
+ BMnew=Gx(1+wu+w)+d(Hj+l)+d(Tj+l)/3.
+With the same common Z, the old envelope minus the new is exactly
+ d(4Z/3-Hj-Tj/3).
+Hj and Tj are coefficientwise <=Z. The difference therefore has
+nonnegative coefficients at every order; finite/Jet checks supplement
+this analytic statement. No signed physical source is cancelled.
+The coefficient of x is1+3+2/3=14/3; the constant coefficient is zero.
+
+The radial target remains2n+1. In L(Dp)=G[D0 p_u-W_u p_u-W p_uu],
+the positive-order graph in W pays the extra radial index of p_uu.
+The remaining first-derivative products obey the inherited allocation.
+Backgrounds remain composed at u+X, and all low-order products remain.
+Only complete-response degrees0/1 are removed under the established
+lower-input recursion, not from arbitrary trial fields.
+
+Run one Linux exact-arithmetic certificate under the inherited lease,
+one CPU/two GiB/600s ceiling. Require strict improvement in both bounds,
+preserve failed records, and obtain independent source/post-run review.
+This changes a sufficient proof estimate, not the physical equations,
+family, finite-amplitude solution, or endpoint claims.

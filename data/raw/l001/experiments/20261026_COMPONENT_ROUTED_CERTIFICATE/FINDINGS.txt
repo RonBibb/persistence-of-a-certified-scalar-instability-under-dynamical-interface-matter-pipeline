@@ -1,0 +1,30 @@
+PASS: paired component-routed local convergence certificates.
+Linux producer runtime 22.056 seconds. 203 gates passed; 81 old and 81
+new grid points evaluated. All 81 sealed parent rows and the complete
+selected parent certificate reproduced exactly. No ODE solves.
+
+Certified local amplitude radius: 8.919182490799985e-32.
+Protected proper-clock amplitude: 4.835098516660008e-51.
+Relative to the endpoint parent: radius gain 16.4948351333;
+protected clock amplitude gain 65.9793405333.
+Same grid; no grid-extension gain is mixed into these numbers.
+Selected graph weight 1/256, oscillator weight 1/16, evaluation a=2^-72.
+
+Active K branch: mass, not 1/a. Mass branch divided by 1/a=187.9951192.
+Scaled response masses relative to bulk: B=1, X=8.7661e-20, C=0.1149934154.
+These are proof-bound response ratios, not physical energy fractions.
+The clock gain differs from radius gain because the protected dyadic
+observable remainder window is reselected and reverified.
+
+Meaning: separating scalar value/gradient/curvature bounds removes a real
+overestimate without changing physical equations or nonlinear sources.
+This strengthens the same local neutral analytic-family certificate. The
+radius remains extremely small; finite-amplitude evolution and endpoint
+behavior are not established.
+
+Next bounded diagnostic: recalculate the seven-source budget through the
+now-component-routed bulk map. Identify which source and which transfer
+factor actually dominate before proposing another estimate change.
+Retain the oscillator channel: it is now 11.5 percent of the bulk bound,
+so assuming an unlimited bulk-only improvement would be unjustified.
+No successor was launched.

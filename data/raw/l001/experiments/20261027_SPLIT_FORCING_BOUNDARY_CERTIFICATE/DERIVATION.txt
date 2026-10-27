@@ -1,0 +1,45 @@
+Prospective separate interior forcing and boundary loading certificate.
+Same linear BVP, background, source envelopes, norms, collar, seed and grid.
+By linearity split solution into interior forcing with homogeneous Robin
+data plus homogeneous ODE with boundary data. Invertibility is inherited.
+These are auxiliary scalar solutions, not separately compatible Einstein
+systems. Only their sum with the original sources reconstructs the physical
+metric and walls. No decomposition into independent physical systems claimed.
+Normalize forcing F0=||F|| and boundary load G0=n max|g| independently.
+
+For each finite n<V cutoff65, existing maximum principle gives
+cF=1/Vmin,cG=1/(n beta_min), ||y||<=cF F0+cG G0.
+Existing Taylor/ODE absorption with ell=min(L/2,1/(A+1)) and
+den=1-A ell/2 gives derivative coefficients
+c1F=[(2/ell+ellU/2)cF+ell/2]/den,
+c1G=(2/ell+ellU/2)cG/den.
+Real normalized values n^2 cF,n^2 cG and derivatives n c1F,n c1G.
+For high n>=N65, inherited barrier separately gives values
+vF=1/c,vG=4/lambda; derivative coefficients
+gF=[(2+v/2)vF+1/2]/[1-A/(2N)],
+gG=(2+v/2)vG/[1-A/(2N)].
+Transfer each to f with ratioEmax2/Emin2:
+Cv=ratio*value,Cg=ratio*(gradient+2H value/n), usingN for the tail.
+Exactly reconstruct old unsplit real constants before comparing both new
+components to the old. No new background cells or eigenvalues.
+
+Complex2x2 continuation matrix unchanged, same harmonic A,B,rho.
+For forcing a=Cv+rhoCg/2+rho^2/4,b=Cg+rho/2;
+for boundary a=Cv+rhoCg/2,b=Cg. Curvature=B x+A y/2+deltaF.
+Only the inhomogeneous ODE forces the additive terms; boundary data enter
+through the real anchor. Exact system identities and domination gates.
+Do not replace physical F,G by one sum until AFTER applying these bounds.
+
+Compose X=xF F+xG G,Y=yF F+yG G,U=uF F+uG G,
+real metric payment=(CgF/n+9CvF/n^2)F+(CgG/n+9CvG/n^2)G,
+oscillator payment=(CvF F+CvG G)/n. Feed unchanged MATCHED_METRIC
+metric response. Use full positive coefficient suprema for all7raw sources
+over128rows, with uniform tail65 and decreasing explicit n payments.
+Exact replay prior metric81rows and fullcertificate; baseline and split
+each get fullcertificate including both-engine observable remainder gates.
+Source budgets sum exactly; C/kappa is scaled oscillator response.
+constants_exact Cscalar retains the ancestral combined norm as metadata;
+split_inverse_rows and source-transfer weights are the operative new bounds.
+600s Linux-only lease cap, fixed no-new-test cutoff1793074031 checked
+before/after lease; pre-cutoff computation/audit may complete afterward.
+No manuscript/inventory edits, no ODE trajectory or physical endpoint claim.

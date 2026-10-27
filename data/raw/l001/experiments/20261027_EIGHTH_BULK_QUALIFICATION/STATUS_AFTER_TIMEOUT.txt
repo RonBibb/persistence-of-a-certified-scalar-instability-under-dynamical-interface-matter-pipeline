@@ -1,0 +1,35 @@
+2026-10-27 13:08 UTC: EIGHTH BULK TECHNICAL_INCOMPLETE
+
+The authorized exact-algebra qualification stopped at its frozen 600-second
+limit. FAILURE.json preserves the traceback. No RESULT.json or TERMINAL.json
+was published. No eighth-order coefficient or expanded amplitude certificate
+was obtained. The previously certified seventh-order results remain the last
+scientific result; they are not invalidated by this operational timeout.
+
+Interruption location: bulk.py coefficient grouping in pseudo-elimination,
+coeff[n] += ring.P(single_monomial). The polynomial implementation copies the
+growing dictionary and reconstructs Fraction coefficients on each addition.
+Independent source review confirmed this avoidable cost. The traceback does
+not identify total time spent in each stage, prove the optimization will
+finish, or constitute a completed compatibility proof.
+
+Prospective separate successor: accumulate raw exact coefficient dictionaries
+by eliminated-variable exponent, then construct one polynomial per bucket.
+Sum duplicate monomials and remove zeros canonically. Validate equivalence
+against original grouping on predeclared cases, preserve all exact witness
+and zero-remainder gates, and add bounded progress/timing records. Do not
+modify or restart this failed packet. No resource-cap increase is authorized
+by this report. No successor was launched.
+
+Downstream state:
+- EIGHTH_WALL_QUALIFICATION: wall.py/run.py/DERIVATION.txt source-reviewed;
+  no PINS.json and no execution. Requires bulk PASS and independent audit.
+- EIGHTH_JET_QUALIFICATION: jets.py mathematical source review passed;
+  run.py staged, DERIVATION.txt and PINS.json missing. Not launch-ready.
+- Independent bulk/wall/jet auditors authored, but no audits executed because
+  the prerequisite bulk result does not exist.
+- Eighth coefficient enclosure was not launched.
+
+The original 13:42:44 UTC cutoff was not extended. No new goal was created.
+This is a computational-cost obstruction, not evidence against the equations
+or a physical instability. No new physical inference is supported.

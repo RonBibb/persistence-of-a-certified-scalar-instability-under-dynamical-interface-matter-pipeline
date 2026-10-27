@@ -1,0 +1,60 @@
+AUDITED EIGHTH-ORDER FULL REMAINDER BUDGET
+Completed 2026-10-27, within the authorized window.
+
+Outcome: PASS. Producer 224.488 s; independent audit 334.570 s,
+7,228 checks passed. Each calculation remained below its 600 s cap.
+
+Certified amplitude eta:
+  Previous: 3.2325997076268554e-24
+  New:      4.851141972255318e-24
+  Exact gain: 1067386705/711262208 = 1.50069368651174
+  Improvement: 50.069368651174 percent.
+Same analytic radius R = 1/102458487083689624677120.
+Accepted eta/R increases from 0.331207275390625 to 0.4970406671054661.
+Adjacent failing upper endpoint: eta=4.851167109973563e-24;
+only the clock gate fails there. This brackets this sufficient-budget
+threshold, not a physical maximal amplitude or an existence boundary.
+
+Full gate ratios at the accepted endpoint (allowance = 1):
+  clock             0.999965253120775
+  distance          3.084397359689355e-22
+  scalar            4.944935408519151e-6
+  scalar derivative 2.0208283035232055e-5
+  opening           PASS
+
+Clock allowance contributions:
+  eighth order      6.439818638439277e-18
+  ninth order       0.9999048380333941
+  remaining tail    6.041502841651431e-5
+  cubic             4.8511419722553185e-21
+  quartic           6.285320521503058e-36
+  quintic           5.375722802890983e-11
+  sixth             5.20698968531314e-12
+  seventh           6.622148802505824e-17
+The remaining tail is overwhelmingly the retained finite-distance tail.
+The inherited ninth-order bound now consumes 99.9904838 percent of the
+clock allowance. The eighth-order bottleneck has been removed from this
+certificate. These are bound contributions, not measured physical effects.
+
+Method: exact old-bracket replay; recompute full F8/F9 interval convolution
+using audited d8, retaining unchanged inverse/rate and other coefficients;
+rebuild finite distance and cross terms; retain original tail majorants,
+radius and all five gates; fixed 16-step exact rational bisection. Independent
+auditor imports no producer arithmetic and reproduces both brackets.
+
+Scope: sufficient local amplitude certificate for the same selected neutral,
+zero-current, pure-growing analytic family and homogeneous slicing. No
+larger analytic radius, arbitrary-data evolution, nonlinear saturation,
+collision, horizon formation, child formation or ultimate fate is established.
+
+Prospective next calculation: qualify and enclose the actual ninth-order
+coefficient, then recompute the full coupled budget. Not launched here.
+Both calculations in this task have finished; no successor was launched.
+
+SHA-256 provenance:
+RESULT.json
+5878352df977c9113dfcfe98f2dfe067159c0b264db5dd65e71bf3b1b60a980b
+TERMINAL.json
+9ff596a88beb1b1947f81e8deb73d630a6033a4b577728b3c958305baab23532
+../20261027_QUARTIC_REAL_SOURCE_AUDIT/ACTUAL_EIGHTH_FULL_BUDGET_AUDIT.json
+84bd2bface15205ec12306299c3e2c298b42d67dab1bb5a36696d7318e915450

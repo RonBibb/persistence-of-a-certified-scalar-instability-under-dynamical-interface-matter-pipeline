@@ -1,0 +1,32 @@
+Harmonic-matched paired full certificate: producer PASS,210 gates,22.592seconds.
+All81 parent candidates and complete selected parent certificate replay exactly.
+Same81-point grid,source envelopes,real anchors,physical equations and collar.
+No ODE or new finite-amplitude physical trajectory.
+
+Certified local amplitude radius2.491482763710735e-30:3.50059337519x parent.
+Protected proper-clock amplitude1.0805084100501471e-48:7.00118675039x parent.
+All contraction,geometry,timelike,lapse and observable remainder gates pass.
+Clock gain also reflects the independently reselected dyadic remainder window.
+Selected graph weight1/256,oscillator weight1/16,a=2^-72,unchanged.
+K mass branch/(1/a)=6.72997943318; still mass-controlled,not grid-floor limited.
+Relative scaled B/X/C masses:1,2.4487256143e-18,0.349229285618.
+
+Exact selected bulk partition:99.9397913328percent is the real scalar metric
+anchor42*(Cg/2+9Cv/4)*S/[d0*(1-1.5rho)]. All other bulk terms together
+are0.0602086672percent. Both degree>=2 masses are nonnegative and their
+sum exactly reproduces the candidate bulk mass. These are proof costs,
+not physical energy/force shares or justification for deleting equations.
+
+Thus the4273x complex scalar norm gain yields only3.50x full-radius gain:
+the unchanged real metric anchor now dominates the sufficient estimate.
+The oscillator channel is also35percent of bulk; bulk-only tightening
+would eventually shift the limiting channel rather than give unbounded gains.
+
+Next bounded diagnostic: examine whether the REAL metric and oscillator
+endpoint harmonic payments can also be matched to each real inverse row.
+The current anchor uses Cg/2+9Cv/4 even though its real maxima come from
+the high n>=65 range. Candidate real metric weight is Cg_n/n+9Cv_n/n^2;
+candidate scalar oscillator payment is Cv_n/n. They need independent
+derivation/normalization review and complete finite/tail coverage before use.
+Do not assume a gain or alter source/graph terms. No successor launched.
+The radius remains extremely small; useful nonlinear evolution is not proved.

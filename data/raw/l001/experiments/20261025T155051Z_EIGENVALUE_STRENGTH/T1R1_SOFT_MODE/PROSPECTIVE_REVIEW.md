@@ -1,0 +1,7 @@
+# Independent prospective review — T1R1
+
+Disposition: ADMISSIBLE for one frozen execution. Independently compared the entire source against reviewed T1: interval.py and lease_run.py are byte-identical; producer.py differs only by selecting the configured final resolution for the zero-mass anchor instead of hard-coding 2048. Read the new complete plan and configuration. Levels are now 4096/8192 and full-system audit 16384. Search interval, maximum ambiguity count, 0.001 bracket-width criterion, precision, rates, controls, physical equations and resource caps are unchanged.
+
+This explicitly declared successor targets the finite-step enclosure uncertainty observed in T1, without altering or rescoring T1. The same independent mathematical review and strict tube argument apply. The zero-mass anchor still compares to the old sealed 2048 enclosure; overlap remains appropriate because both enclose the same exact M21. The larger step count is finite and still subject to the unchanged runtime cap; a timeout or unresolved endpoint remains technical incompleteness, not permission to relax a gate.
+
+The prior T1 prospective review remains the detailed source/mathematics review for unchanged portions. Required bindings include this plan/config/source/review, the original inherited proof/source dependencies, T1 FAILURE.json and TERMINAL_REVIEW.md, and the original T1 prospective review establishing the reviewed delta. No numerical execution was undertaken for this admission.

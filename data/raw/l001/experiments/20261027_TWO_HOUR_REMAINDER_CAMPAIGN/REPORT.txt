@@ -1,0 +1,126 @@
+TWO-HOUR REMAINDER CAMPAIGN — FINAL REPORT
+Window:2026-10-27 09:38:31–11:38:31 UTC (05:38:31–07:38:31 ET).
+Status:COMPLETE. Closed at the fixed two-hour deadline. All launched calculations have terminated;
+full clock certificate and seventh bulk algebra independently verified.
+Closing read-only process check found no campaign numerical jobs running.
+Final certificate RESULT/TERMINAL, its independent audit, and seventh bulk
+TERMINAL/audit hashes were rechecked and match the recorded sealed pins.
+
+QUESTION
+For the existing selected neutral zero-current pure-growing analytic
+family, can sharper distance and clock remainders widen the amplitude
+interval on which the previously defined nonlinear inequalities hold?
+This is not a new time evolution, different matter model, or continuation
+to finite physical amplitude. The frozen global analytic radius remains
+9.760050421037206e-24.
+
+CURRENT VERIFIED RESULT
+Goal entry eta=1.1914124049117683e-27.
+Latest independently certified eta=3.050015756574127e-25, a factor256.
+The certificate preserves the original gates, with eta=epsilon*exp(r*t):
+  -60*eta^2 <= F <= -11*eta^2;
+  25*abs(eta) <= abs(D-D0) <=79*abs(eta);
+  sign(D-D0)=-sign(eta);
+  lower-wall scalar departure >=abs(eta)/40000 and monotone departure.
+D denotes proper separation in the specified homogeneous slicing and
+F=r*eta*D'/ell_a-r*(D-D0). Positive eta shortens separation with a
+reinforcing nonlinear correction; negative eta opens it with a slowing
+correction, without reversal in the certified interval.
+
+These statements remain conditional on the inherited analytic-family,
+norm, inverse and background hypotheses. No finite-amplitude trajectory,
+saturation, collision, late-time fate, horizon or child universe is proved.
+
+STRATEGIC DOMAIN LIMIT
+The accepted amplitude is exactly R/32 in the producer's dyadic convention,
+where R is the unchanged sufficient analytic-domain bound above. Sharper
+retained coefficients can recover more of that already certified domain;
+they do not establish continuation beyond R. Substantially larger-amplitude
+development needs a stronger existence-domain certificate or separately
+validated continuation of this same model, family, constraints and clocks.
+R is a limit of this proof, not a detected singularity, an established exact
+convergence radius, a physical threshold or a maximum solution amplitude.
+A tighter retained F7 bound is necessary for the next dyadic under unchanged
+gates. An actual d7 enclosure is the proposed route, not the only possible
+proof refinement and not a guarantee that the full next certificate passes.
+
+MEASURED PROGRESSION
+1. CONTOUR_DISTANCE_CERTIFICATE: no amplitude gain.
+2. FINITE_CONTOUR_CERTIFICATE_R1: no amplitude gain. Original runtime
+   lazy-import failure preserved; R1 preloads the authenticated library.
+3. CANCELLATION_CONTOUR_CERTIFICATE: factor2 over goal entry, using the
+   exact cancellation in eta*D'-(D-D0) before taking absolute bounds.
+4. DEGREE16_DISTANCE_MAJORANT and DISTANCE16_LAPSE_DEPARTURE: positive
+   distance coefficients and normalized inverse departure yield another
+   factor32, reaching64 times goal entry. No global radius change.
+5. DIRECT_PRODUCT_CLOCK_REMAINDER: no amplitude gain, but clock-tail cost
+   falls from0.0950692 to0.000218198. The sixth retained coefficient alone
+   then exceeds the allowance at the next dyadic.
+6. SIXTH_BULK_QUALIFICATION, SIXTH_WALL_QUALIFICATION and
+   SIXTH_REAL_SOURCE_ENCLOSURE: exact algebra and actual-source bounds
+   replace a generic sixth coefficient estimate. The independent real
+   audit's original interval-expression containment failure is preserved;
+   separately qualified exact polynomial identities resolve the grouping
+   issue without widening producer bounds or weakening a gate.
+7. ACTUAL_SIXTH_CLOCK_CERTIFICATE: a further factor2, reaching128 times
+   goal entry. Four-arm control attributes the gain to clock-coefficient
+   refinement, not distance-only refinement. The next obstruction is tail.
+8. DEGREE24_DISTANCE_MAJORANT and DISTANCE24_CLOCK_READOUT: no amplitude
+   gain, but accepted tail cost0.788232926 ->0.0505417884. At the next
+   dyadic, unknown-inverse cost13.1473865 versus distance-tail3.3521e-8;
+   retained seventh cost0.438467464. This isolates the immediate bound
+   obstruction as unresolved inverse-lapse coefficients.
+9. FINITE_INVERSE_LAPSE24: independently verified unsigned inverse-clock
+   coefficients9..24, preserving actual1..8 and the global radius.
+10. FINITE_INVERSE_CLOCK_READOUT_R1: independently verified factor2,
+    reaching256 times goal entry. Complete clock cost0.4384681656 and
+    unknown-tail cost3.352105471e-8 at the accepted amplitude. At the next
+    doubling F7 costs14.0309588446, unknown tail0.2909840605; every nonclock
+    gate passes. This identifies the explicit seventh bound as the next
+    necessary refinement. Producer129.72seconds; audit6780checks177.40seconds.
+    The original run
+    stopped at the100000-digit integer-string serialization cap. Its source
+    and failure remain preserved. R1 permits full exact integer output and
+    precomputes identical fixed polynomials once. Independent ordinary
+    Fraction evaluation verified the integer-polynomial evaluator and all
+    full-certificate records:6780checks passed.
+
+AUDIT AND PROVENANCE
+Accepted packets have immutable RESULT, BINDING and TERMINAL records and
+separate independent audit files under QUARTIC_REAL_SOURCE_AUDIT. Source,
+input and runtime hashes are checked before/after. Some audits use wholly
+separate arithmetic implementations; the moving-wall audit is source review
+plus exact replay, explicitly not a second independent nonlinear PDE oracle.
+The original degree24 readout auditor's JSON-key comparison failure is
+preserved; R1 normalizes integer keys to JSON strings with unchanged math.
+
+PENDING CONDITIONAL WORK
+SEVENTH_BULK_QUALIFICATION: producer passed53 checks in153.53seconds;
+independent compatibility-witness audit passed6873checks in26.93seconds.
+Six exact elimination witnesses and rational/background-ideal clearing
+were independently verified. Its activation condition
+was independently confirmed by the new complete clock certificate.
+SEVENTH_WALL_QUALIFICATION remains prospectively reviewed and unrun; it
+was not launched near the audit-admission cutoff. These are algebra
+prerequisites, not d7 bounds. A full
+actual seventh coefficient would still require spatial jet enclosures,
+whole-domain source bounds, inverse/endpoint checks and a full certificate.
+NEXT_COEFFICIENT_DESIGN.txt in the seventh bulk folder specifies those
+steps. Its endpoint-transport formula and derivative list have received
+independent documentary review; no coefficient computation was launched.
+
+RESOURCE AND STOP RULES
+Linux exact arithmetic; at most one admitted numerical task at a time under
+the unchanged exclusive1CPU/2GiB lease, within the authorized6CPU ceiling.
+Each producer/audit is capped at600seconds with an absolute launch cutoff
+and the window above. No sealed parent, manuscript or external record is
+modified. Preserve failures and pending work; do not extend this window.
+
+PRINCIPAL SEALED REFERENCES
+Final full certificate:20261027_FINITE_INVERSE_CLOCK_READOUT_R1
+ terminal021554e08ab49c101029b120d1614924805cf81fd2d4b140df0cfd48f5509605
+ audit481904b7050ad17cf68d9326cc40a9d075fdbafd10573097f3cc1feeed3fd196
+Seventh bulk prerequisite:20261027_SEVENTH_BULK_QUALIFICATION
+ terminal3e15ac94e14bdcb1a042f7af90c4fc78ee91250389bdae761ee6dcfb3715a049
+ audit89f0d76a6d906e38d4954cd11c3ff75a1b92a3bc0d3965ee85c25eae895c63fb
+Each packet's RESULT_SUMMARY.txt supplies its scope and supporting pins.

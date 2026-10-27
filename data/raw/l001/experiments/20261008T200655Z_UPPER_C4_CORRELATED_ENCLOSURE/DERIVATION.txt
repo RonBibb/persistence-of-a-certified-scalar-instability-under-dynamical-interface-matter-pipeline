@@ -1,0 +1,68 @@
+Upper scalar C4 enclosure with source correlations
+
+The target is the original exp(-4B) h_tttt at the saved C6 center, not
+the fourth derivative in proper time. The original physics.time_rows
+and dependent Gauge implementation are imported by hash, unchanged.
+No lower residual or upper metric mismatch is set to zero.
+
+Primitive rectangle at each source wall:
+  W, P, E, psi, f, w, v=w_s,
+together with D,k,mu. The second representation removes only E, using
+the exact positive static Hamiltonian branch below. Source endpoints are
+first intersected with the certified original source endpoint cover by
+the original source_endpoint routine. All p constants, including epsilon
+and the saved center controls x, retain their original interval values.
+
+At the exact static source and normalized mode boundary, sigma=1-2side,
+c=sigma*gamma/2,
+  H=-sigma*(lambda+gamma*(P-v_i)^2/2)/6,
+  T=c*(P-v_i),  g=c*f-2*T*psi.
+These are properties of the admitted source, not of arbitrary perturbed
+initial data. The original static flow gives
+  Q=H^2-kE^2-T^2/12+V(P)/6,  Q'=0.
+The inherited source satisfies Q=0. Hence, on the original positive
+branch, E=sqrt((H^2-T^2/12+V/6)/k). Both k and the radicand must be
+positive throughout the primitive rectangle. The analytic derivative
+of sqrt is 1/(2sqrt); no point-only positivity test is sufficient.
+
+Apply the original source_flow.coeff recurrence to the dependent source
+variables. Ordinary Taylor coefficients are multiplied by factorials
+before entering preparation.endpoint_raw. At each wall that routine
+defines the exact finite-epsilon canonical scalar delta[0..3]. Solve
+the exact degree-seven Hermite problem with the unchanged orientations:
+  rhs[side,n]=delta[side,n]*D^n;
+  co[j]=sum(HermiteInverse[j,i]*rhs[i])/D^j.
+This is an evaluation of the exact canonical lift, not a truncated
+epsilon expansion with a discarded remainder. The original epsilon
+Taylor enclosure and this exact evaluation contain the same physical
+lift. No claim that they are equal as independent rectangles is needed.
+
+Scalar jets equal source P+epsilon*f plus this C7 and the unchanged
+physical H5/H7 controls. Canonical zeroth, first, second, third endpoint
+jets use the exact targets as in the parent. A0=W+epsilon*psi+w and
+A1=H+epsilon*psi_s+v retain both integrated compensation variables.
+Higher A jets follow the original Hamiltonian recursion, and dependent
+q3/q5/q7 are recomputed with both walls and uncertain D. The conformal
+time recursion and row clock factors are imported without changes.
+
+Control: letting p=A_l, p_w=-sigma*U/6, t=Phi_l, u=Phi_ll,
+  exp(-2B)h_tt=(p-p_w)[6u+4(p+p_w-c)t-2m2*Phi].
+Record p-p_w and both sides; do not enforce an upper root. The proper-
+time fourth derivative would differ from the target by
+-4 exp(-4B) B_tt h_tt; this representation never makes that substitution.
+
+Mean-value enclosure: for primitive rectangle X, choose its exact binary
+midpoint x0 solely as an algebraic pivot. With analytic outward automatic
+derivatives throughout X, F(X) is contained in
+  F(x0)+sum_i [-mag(d_iF(X))*r_i,+mag(d_iF(X))*r_i].
+All nonlinear and mixed terms are enclosed in the full-box derivatives.
+Interval-valued fixed constants are retained in F(x0) and derivatives;
+their uncertainty is not replaced by the pivot. The denominator D and
+any sqrt must be nonsingular on the full convex rectangle. Each actual
+inherited physical source lies in the identity-linked subset of X.
+
+Intersect literal rational predecessor endpoints, not a reconstructed
+Arb halfwidth, in the frozen order. Compare against all three previously
+audited equivalent enclosures. Strict narrowing at both precisions is
+the admission target, not the earlier attribution round's 90% criterion.
+Enclosure narrowing is not physical error reduction or root existence.

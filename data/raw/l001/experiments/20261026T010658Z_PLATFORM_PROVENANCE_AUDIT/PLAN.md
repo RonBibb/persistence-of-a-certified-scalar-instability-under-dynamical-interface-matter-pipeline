@@ -1,0 +1,11 @@
+# L001 Mac and Linux evidence audit
+
+Audit authority: Ronald requests a full L001 platform/provenance and numerical-validity assessment, including original Paper A, the current AB manuscript's inherited premises, the separate concave example and the latest AB mechanism allocation. This is not authority for broad reruns, new physics, a second-order solve, manuscript/inventory edits or messages to other owners.
+
+Read sealed sources and historical runtime witnesses without altering them. Distinguish observed producer host, observed computational auditor host, intended host and unknown host. A path, copied hash, rationalized float, sample comparison or later Linux aggregator does not establish the upstream producer's host or numerical validity. Analytic arguments and complete exact proof objects are not invalidated by discovery on a different host.
+
+All new scientific computation, symbolic/exact verification and diagnostic replay must run on academic-linux under normal leases/HOLDs and at most two aggregate cores. Mac is limited to reading, source/document editing and orchestration. No computational checks are admitted by this plan: any needed finite check must have its own prospectively reviewed scope, frozen inputs/runtime/precision/criteria/resources and independent terminal review. Checks projected over one hour require qualified exact atomic resumption before launch; otherwise propose rather than run them.
+
+Workstreams: original background/root/phase/mass and manuscript dependency tracing; separate concave and exact-witness branch; recent AB numerical observables/source/inverse provenance and runtime assumptions. The lead reconciles claim-to-dependency/platform rows and prepares the minimal-sufficient Linux qualification/rerun plan. Independent review must challenge the final recommendation and completeness of dependency coverage.
+
+Deliverables: source-specific platform evidence notes, claim/dependency/platform matrix, confirmed-issue versus unknown-provenance classification, exact stages requiring retention/complete checker/bounded qualification/fresh production, supported resource estimates, and implications for the current manuscript without editing it. Final answer must directly state whether Linux reruns are needed, which stages/claims and how much of the line.

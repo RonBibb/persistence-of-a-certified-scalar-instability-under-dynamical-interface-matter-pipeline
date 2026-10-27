@@ -1,0 +1,18 @@
+PASS: two fixed-point unresolved-series tail certificates.
+Producer29.44seconds; independent exact endpoint audit7150checks45.74seconds.
+At eta=R/8=1.2200063026296508e-24:
+distance tail <=3.594348011391319e-105;
+Euler-distance tail <=8.985870028478298e-104;
+scalar tail <=4.7909668380515345e-107;
+Euler-scalar tail <=1.1977417095128835e-105.
+Contraction upper2.434183782790026e-6. All fixed supersolution and ball
+gates pass. R/16 also passes; no adaptation of the supersolution.
+Independent exact rational endpoint audit does not import tail.py.
+Original positive distance prefix independently reconstructed; no actual
+smaller coefficient substituted into tail subtraction.
+All-order source and norm domination inherited from analytic-family proof,
+not established by finite24 data alone. No complete clock result here.
+Failed predecessor preserved: int/interval division TypeError before points.
+R1 only repairs I(600)/(1-x); mathematical formula/gates unchanged.
+Terminal dd5bf303a54b2a7e1434238cdc84e4f124c3fa09163bd8c15a97a2f11c73ab38
+Audit 5f91cea76ab3e8985bb22d2dd84bc0be34a5ddcccc4abb8d726b0797d998f986

@@ -1,0 +1,16 @@
+Independent reviewer /root/jet_bound_review: R1 prelaunch and postrun PASS.
+Scope: independent analytic/source review, bounded Linux exact saved-matrix
+and transfer arithmetic, and full hash verification. No primitive envelope
+regeneration and no ODE solve in the independent audit.
+
+Verified 2871 bindings, 29 recorded gates, 7x14 row/column/grand totals,
+shares, selected sealed bulk mass, and independently regenerated seven
+rational unit-source and fourteen transfer-path coefficients. Lease released.
+Original failed packet verified TECHNICAL_INCOMPLETE without a terminal.
+Reviewer acknowledged missing the integer BO/2 coercion in initial review;
+R1 one-line Fraction correction was reviewed before launch.
+
+Terminal SHA256:
+e2900f154161575f86dcf44fbac623f308cc93877aa685b194e8f4d8afd22bb1
+Result SHA256:
+cc4b51a034b006e256ec09e3bd15c6097e0d1f1c91ee3bb017947030578c0e1e

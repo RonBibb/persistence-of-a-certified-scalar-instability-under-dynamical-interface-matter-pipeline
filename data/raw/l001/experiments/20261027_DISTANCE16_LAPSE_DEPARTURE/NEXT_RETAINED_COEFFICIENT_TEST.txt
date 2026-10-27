@@ -1,0 +1,20 @@
+Prospective contingency only; not launched and not a result.
+If the audited combined distance16/lapse readout leaves a retained F6..9
+term as a material bottleneck, first reuse existing actual d4,d5 bounds
+before attempting a new sextic source qualification.
+
+For each engine and n6..9, use authenticated inverse-lapse coefficients
+e0..e8 and r, d1..d3. Baseline n6 uses generic d4,d5 from SIXTH/NINTH
+positive distance majorant; baseline n7..9 uses actual d4 but generic d5.
+Reproduce each stored F_n interval and its old absolute maximum exactly:
+F_n=r[(n-1)d_n +sum(j1..n-1)j*d_j*e_(n-j)].
+Then replace ONLY d4/d5 with their existing actual containing enclosures,
+retain d6..dn and all lapse intervals. Use min(old valid bound,new bound).
+Record individual proof-budget terms as interval bounds, not physical fluxes.
+Recompute all admission gates using unchanged accepted contour/domain bounds.
+
+No-gain means existing lower-distance substitution is insufficient; it does
+not refute the actual coefficient program. A new actual d6 enclosure would
+require separate bulk/wall identities, lower derivatives, inverse bounds,
+and independent qualification before production.
+Any numerical work must fit the original2026-10-27T11:38:31Z cutoff.

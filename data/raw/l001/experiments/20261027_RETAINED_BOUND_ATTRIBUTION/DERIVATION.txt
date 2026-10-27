@@ -1,0 +1,11 @@
+Read-only source data reduction for archived rate-scaled F8,F9 term intervals.
+For each input engine separately, take absolute upper bound of each stored
+term interval. Sum all lower-product upper bounds; separate leading term.
+Leading/(leading+lower) is a share of this triangle BOUND, not of the true
+physical coefficient. Do not infer cancellation, sign or actual dominance.
+Normalize both by a^n/(10a^2), a=R/2, purely for comparison with the audited
+clock budget. Keep stored direct interval bound and adopted minimum separate:
+the triangle sum need not equal the producer's grouped interval evaluation.
+No deletion of a term, rescored acceptance gate, field solve or new radius.
+This determines whether generic leading d8/d9 bounds deserve the next test.
+Linux1CPU2GiB600seconds, unchanged campaign deadline13:42:44UTC.

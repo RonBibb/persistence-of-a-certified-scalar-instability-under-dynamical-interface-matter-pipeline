@@ -1,0 +1,18 @@
+Finite lower-wall inverse-lapse majorant: independently verified.
+
+Producer43gates,170.62seconds; independent audit6710checks,189.73seconds.
+The inverse-clock coefficient bounds are extended through order24 while
+retaining the existing actual order1..8 bounds exactly. The construction
+uses authenticated positive field and wall-shift majorants, normalized
+lower-background inverse lapse E(a)=1, and rate bound r<=1/32. A separate
+sparse-polynomial audit reproduces the exponential and reciprocal series.
+
+All high coefficients are unsigned bounds, selected against the existing
+global Cauchy fallback. The global analytic radius is unchanged. This
+packet alone does not establish a larger amplitude or new physical
+behavior; the separate complete clock readout is required.
+
+Terminal SHA-256:
+a340c1b23af0c00df2e92d3a3dd2c5641f5bd120cc46410e37dce30845de28c3
+Independent audit SHA-256:
+dce5d17e7f1df409227ede9c80d119902d1fe6599ca4e6cc9305ea26f0ef3a74

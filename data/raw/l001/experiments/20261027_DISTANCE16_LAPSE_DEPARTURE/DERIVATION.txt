@@ -1,0 +1,42 @@
+Prospective coupled readout: degree16 distance and global lapse DEPARTURE.
+Fresh window ends2026-10-27T11:38:31Z. Same family, global radius and gates.
+
+Let Y be inherited global aggregate bound, gap the complex background collar.
+At the normalized lower wall E_bg(a)=1 exactly. Each wall displacement and
+pulled metric perturbation has modulus<=Y. With u=4Y/gap<1, the background
+Taylor majorant bounds |E_bg(a+xi)-1|<=e=64u/(1-u).
+Let Z=64/(1-u), vmax=4Y Z/(1-Y)^2<1. The analytic boost branch through1
+exists because |v|<1 throughout the complex disk. For
+J=E_bg(a+xi)*exp(-P_pulled)*(1-v^2)^(-1/2), bound the THREE DEPARTURES
+by e, p=Y/(1-Y), b=vmax^2/(1-vmax^2). The product identity gives
+|J-1|<=JD=(1+e)(1+p)(1+b)-1.
+This is not subtracting1 from an upper bound on |J|; the individual
+departures and normalized constant values are essential.
+For inverse-lapse coefficients e1..8 already audited, degree>=9 tail
+may use min(128,JD)*theta^9/(1-theta). No retained coefficient is changed.
+Here min(128,JD) selects two valid bounds on nonconstant coefficients,
+not necessarily a bound on the full departure function. Explicitly gate
+initial_background[0]=[0,0] and initial_background[4]=[1,1] in BOTH bound
+INITIAL engine records to verify the lower-wall normalization used above.
+
+For degreeN in{9,16}, let Bdn retain actual d1..5 and positive majorants
+thereafter. Existing exact-prefix qualification makes degrees<=9 identical.
+V_N=sum Bdn x^n +MDtheta^(N+1)/(1-theta).
+W_N=sum nBdn x^n +MDtheta^(N+1)*[(N+1)-Ntheta]/(1-theta)^2.
+A_N=sum(n-1)Bdn x^n +MDtheta^(N+1)*[N-(N-1)theta]/(1-theta)^2.
+The same cancellation identity gives full-F sup (A_N+W_N*E)/32.
+Take minimum with all old valid suprema at that contour. For distance
+gate also take minimum with previous valid degree9 remainder.
+For a chosen contour, all normalized positive bounds are monotone in a.
+
+Four arms on unchanged15contours and physical dyadic grid:
+baseline degree9/128; distance16 only; JD only; both.
+Scalar finite-through9 gates and F3..9 remain unchanged. Unknown clock
+tail is still degree>=10, since this test adds no F10 coefficient.
+Replay entire predecessor scalar_small record except gain normalization,
+which is explicitly reset to1 relative to this new parent baseline.
+Publish new/old gains separately to avoid a metadata-only replay failure.
+
+This is a local sufficient readout certificate, no new physical evolution,
+no enlarged global analytic radius. Linux exact rationals,1core2GiB,
+600second cap,pre/post bindings,independent preflight and terminal audits.

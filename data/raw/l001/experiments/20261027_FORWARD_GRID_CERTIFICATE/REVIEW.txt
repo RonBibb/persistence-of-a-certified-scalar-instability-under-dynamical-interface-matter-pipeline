@@ -1,0 +1,6 @@
+Independent Linux audit PASS,/root/jet_bound_review,2026-10-27.
+Reconstructed20rays/1123pointinventory,dedup; regenerated all1123 nonlinear
+maps,original883 exactreplay,allK/selection/fullcertificates/firstdyadic
+tails/budgets/branches. Verified2977bindings and4290gates.
+Terminal50e78817f03ef9123702309bf8ae2968e160db78418e9fb2324a6263f730e9a0
+Result993fc7f9c935a1ace50e1591671468dc88595f3372ff6fb16c96c44b2d5e16b2

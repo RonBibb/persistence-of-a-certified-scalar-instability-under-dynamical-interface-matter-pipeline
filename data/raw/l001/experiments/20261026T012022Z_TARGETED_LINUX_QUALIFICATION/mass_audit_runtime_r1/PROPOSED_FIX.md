@@ -1,0 +1,13 @@
+# Prospective wrapper-only runtime-prebinding completion
+
+Pending independent terminal classification of `../mass_audit`. No code, freeze, native import, audit, or numerical calculation authorized by this note. Never edit the completed first qualification.
+
+The first qualification's unchanged historical auditor passed. Source-reading its `RUNTIME_AFTER.json` and `FROZEN.json` exposes a distinct wrapper coverage issue: `subprocess.py`, `selectors.py`, `inspect.py`, `ast.py`, `dis.py`, and `opcode.py` occur in the loaded-module receipt without corresponding paths in the prebound map. `threading.py` is already prebound. This is not a failure of the original 42 native-library gates, the historical exact-bound audit, or the mass certificate. The independent reviewer should give the actual coverage classification; this note does not replace that check.
+
+If confirmed, use a separate `mass_audit_runtime_r1` namespace with exactly the original auditor and original packet/runtime bindings. The smallest repair is administrative preload of stdlib `subprocess`, `selectors`, and `inspect` (which also loads its ast/dis/opcode dependencies) **before** enumerating `sys.modules` and `/proc/self/maps` in the freezer. No Flint import at this administrative stage. Explicitly bind the previous qualification's before/after runtime receipts as the observed dependency inventory, and administratively verify/hash all their module and mapped-file paths before admission; do not merely trust their stored digests. This closes known lazy dependencies even if import behavior varies.
+
+Call `platform.platform()` before capturing the freezer module/mapping inventory, not while constructing the final record after that inventory has already been collected. Its lazy imports caused part of the gap. The producer runtime collector should likewise resolve platform metadata before enumerating modules/mappings.
+
+Add a producer gate requiring every actual before/after module path and every mapped native file to be present in the frozen file map with exactly the same digest. Emit a runtime coverage receipt; unresolved or newly loaded dependencies fail closed, with no in-run expansion of the allowed map. Keep the historical auditor stdout unchanged and separate from this wrapper gate.
+
+Preserve one-core/1-GiB/180-second internal and 210-second supervisor limits, normal exclusive L001 lease, no parent writes, fresh-source review/freeze/admission, and all original numerical coverage predicates. This reruns only a roughly three-second saved-record auditor, not any ODE. Its new terminal result must distinguish the accepted historical audit from full wrapper runtime prebinding. No automatic execution follows from this proposal.

@@ -1,0 +1,18 @@
+Prospective original-field maximum-principle F-only bound.
+Exact scalar equation f''+A f'-V f=F with outwardRobin beta.
+Authenticated alpha bounds r^2 E^2; J,D>=3alpha*n^2, m>=0.
+V>=alpha*n^2-B0abs*Tp/(3alpha*n^2); beta>=41/4-2T0Tp/(3alpha*n^2).
+For each finite n2..64 define cV=alpha-B0absTp/(3alpha*n^4).
+If cV,betaLB positive, constant |F|/(cV*n^2) supersolution for G=0
+bounds n^2|f|<=|F|/cV, without transformed-field Emax/Emin penalty.
+Take min(oldCv_F,1/cV) only where positive; otherwise preserve oldCv_F.
+For tailn>=65 both lowerbounds increase, so65 gives common whole-tail bound.
+Keep realCg_F and bothG bounds unchanged. They bound the same auxiliary
+F solution; it is not a separately compatible Einstein physical state.
+Rebuild same positive complex2x2 inverse from improved realvalue only.
+Same source maps,T/Tprime realanchor,complexAB/sourceB0,oscillator2/alpha.
+Recompute complete128x7 transfers and1123-grid fullcertificates.
+Replay all baseline inverse/sourceweights/gridrows/fullcertificate exactly.
+No discarded adverse case: inadmissible directbounds retain existingproof.
+No ODE or physicalmodelchange. Linux sharedlease600s,cutoff1793074031.
+No manuscript/inventory edits.

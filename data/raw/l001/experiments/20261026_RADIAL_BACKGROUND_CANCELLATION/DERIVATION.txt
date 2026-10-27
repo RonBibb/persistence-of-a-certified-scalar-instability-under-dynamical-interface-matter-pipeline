@@ -1,0 +1,44 @@
+Candidate sharpening of BR only: background cancellation before bounds.
+
+Source: interface-instability/20261024_physica_scripta_revision_5/MANUSCRIPT.md,
+S6 fourth row (lines 695-698 in the inspected version). Let A0=6H^2-T^2/2.
+At the same composed point s=u+X, the background identity is
+A0-6+m Phi^2/2-6h^2 E^2=0, with m denoting mathfrak m=m^2 in S6.
+
+Subtract it from the full radial row to obtain exactly:
+(exp(-2b)-1)A0
++exp(-2b)[12H Lp-T Lf+6(Lp)^2-(Lf)^2/2]
++m Phi f+m f^2/2-6h^2 E^2(exp(-2p)-1)
+-E^2 exp(-2p)[3D^2p+9h Dp+3(Dp)^2+(Df)^2/2].
+
+All background fields remain composed at u+X, and D/L retain all graph
+transport. No composed-background difference multiplying a field is
+discarded. The transformation is exact, not a cancellation of interval
+upper bounds or an omission of a physical source.
+
+Keep the inherited aggregate x=Y, G=(1-2x)^-1, E2=(1-2x)^-1,
+Z=64+1320x+37600x^2+64(4x/gap)^3/(1-4x/gap),
+d=x(1+4xG), dd=x(1+2w+w*wu+wt+w*w), l=Gx,
+w=4xG, wu=2xG, wt=4xG+8x^2 G^2.
+The positive envelope proposed for the exact rewritten row is
+BRnew=(25/2)Z^2(E2-1)+E2[13Z*l+(13/2)l^2]+Zx+x^2/2
+      +Z^2 E2[3dd+9d+(7/2)d^2].
+
+Here |A0|<=13Z^2/2, |m|,|h|<=1; exp(-2b)-1 and exp(-2p)-1
+are coefficientwise bounded by E2-1. The two such terms contribute
+(13/2+6)Z^2(E2-1). Cross-gradient terms contribute13Zl, quadratic
+gradients13l^2/2; all remaining terms follow directly from S6.
+These are the old background bounds, not newly tightened constants.
+
+Radial-index and derivative allocations are unchanged from the inherited
+BR envelope. Products involving a background composition retain all
+orders of Z. Only constant/linear degrees of the COMPLETE response are
+removed, with the same lower-order-truncated formal recursion argument.
+No term involving a composed coefficient and a lower input is removed.
+
+Change ONLY BR inside the inherited six-source provider. Keep normalized
+graph, retained trace, inverse estimates, seed, 45-ray grid, selection,
+physical geometry and proper-clock/scalar-tail checks unchanged.
+Recheck exact radial algebra by multivariate polynomial identity and positive
+quadratic control of the new envelope. A passed certificate is still
+local and conditional on the same inherited premises, not finite evolution.

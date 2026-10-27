@@ -1,0 +1,25 @@
+Prospective unsigned actual seventh coefficient enclosure. Same neutral
+pure-growing analytic family and authenticated homogeneous domain. No ODE.
+Require successful seventh bulk, wall and spatial-jet qualifications and
+their independent audits; inherit actual sixth field bounds and its audit.
+New eight jets are evaluated as qualified expanded polynomials, with exact
+outward512-bit endpoint operations; audit uses unrounded rational endpoints
+with the same qualified polynomial ordering and strict containment.
+No numerical differentiation or fitted seventh profile. Constants r,h,
+trace factors are spatially fixed. The inherited background has k=h^2.
+Whole-domain lower fields and symmetric actual sixth fields feed seventh
+bulk sources. Positive trace, radial, oscillator and graph divisors required.
+At each endpoint chi6=(f6+T*xi6-o6)/d6_wall. Qualified seventh zero-new-field
+wall loads yield xi7 and the inherited Robin formula. With S=forcing_abs
++7*Robin_abs, finite inverse yields f7<=Cf7*S/49 and f7'<=Cf7*S/7.
+Radial constraint yields p7 through positive D7, without dividing by T.
+Distance density is exp(b)_7 with b7=c7, plus separate symmetric unknown
+metric integral2*length*p7_bound. Endpoint transport uses expansion of
+Xi*exp(b)+Xi^2*partial_s(exp(b))/2+Xi^3*partial_s^2(exp(b))/6 at order7.
+Explicit coefficient: xi7+xi6*b1+xi5*E2+xi4*E3+xi3*E4+xi2*E5
++xi2^2*E3'/2+xi2*xi3*E2'+(xi2*xi4+xi3^2/2)*b1'+xi2^3*b1''/6.
+Both input-engine enclosures must overlap (compatibility, not accuracy).
+No gain, sign or full-clock result is required or asserted. A full clock
+readout requires independent success of this enclosure and its audit.
+Exclusive1CPU2GiB Linux lease,600second cap, immutable outputs, no restart;
+deadline2026-10-27T13:42:44UTC, new task admission stops600seconds earlier.

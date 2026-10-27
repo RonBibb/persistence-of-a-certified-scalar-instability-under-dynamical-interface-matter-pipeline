@@ -1,0 +1,57 @@
+Prospective successor specification: actual fifth coefficient from global source bounds.
+Status: preparation only, not frozen or launched. Original launch cutoff06:30:11UTC remains immutable. This document creates no later execution authority.
+
+Inputs now qualified separately:
+- Fifth bulk polynomial extraction and compatibility with independent dictionary-polynomial witness audit.
+- Fifth moving-wall identities, independently manually reviewed and serialization-normalized replay audited; original failed auditor preserved.
+- Global bulk source readiness probe uses ALL24548 authenticated whole-cell boxes across two separate engines; its numerical terminal audit is pending at time of writing.
+- Actual uniform fourth-order p4,f4,g4 from independently audited quartic inverse certificate. No solved fourth-order profile is asserted.
+
+1. Entry binding.
+Bind full closures of all accepted producer and audit records, same original background/domain/parameters/rate/normalization, neutral family, original wall clock. Verify finite-n5 inverse owns this background. A global hull is a conservative superset, not another evolution or resolution. Preserve each engine separately and use a containing final hull, not a favorable intersection.
+
+2. Bulk and denominators.
+Use certified source suprema Sc5,Sg5,c5. Obtain B0=12HT-4mPhi and Tp=mPhi-4HT on full-domain boxes.
+D5=2T^2-3(mu5+4k)E^2; J5=D5-2T^2. Do not infer positivity from a dependency-lost naive T*T interval. Prove J5>0 directly from parameter/E bounds. Separately, D5=D4+3(mu4-mu5)E^2 with positive increment and authenticated D4 lower bound can prove D5 positivity, but does NOT prove J5 positivity. Bound each inverse only after its own explicit positive lower bound. If the global box is too broad, use already saved per-cell bounds; that is a separately declared representation choice, not in-run gate tuning.
+Forcing5=Sg5+B0 Sc5/D5 as in the qualified reduced scalar equation. Confirm sign/convention algebra independently against n5, not by string replacement.
+
+3. Endpoint construction.
+Use sealed actual cubic wall data, not particular/tangent components without their affine coefficients. Saved cubic walls.data already has actual p2,f2,g2,p3,f3,g3,xi2,xi3,chi1,chi2,chi3.
+Use actual quartic endpoint xi4 and o4 from the archive. The actual-quartic walls record does NOT store c4 or the wall oscillator divisor: reconstruct c4 from the qualified source at the saved endpoint canonical state, and d4_wall=2-mu4 E^2 from bound parameters. Take p4,f4,g4 from their uniform bounds. Derive chi4=(f4+T xi4-o4)/d4_wall, with positive wall oscillator divisor. Uppercase D4 is the radial constraint denominator, lowercase distance coefficient d4 is a different object, and d4_wall is the oscillator divisor; never interchange them.
+Recompute any extra jets from reduced equations:
+u1prime=-2Hp p1-2H u1-Tp f1/3-T g1/3.
+For A1=m-mu1 E^2+2T^2, B0=12HT-4mPhi:
+g1second=-4Hp g1-4H g1prime+(2mu1 H E^2+4T Tp)f1+A1 g1+(12Hp T+12H Tp-4mT)p1+B0 u1.
+u3=-2H p3-T f3/3+Sp3;
+g3prime=-4H g3+(m-mu3 E^2+2T^2)f3+B0 p3+Sg3.
+c3prime follows the qualified cubic formula:
+-J[6u1 p2+6p1 u2+g1 f2+f1 g2-3u1 c2-3p1 c2prime].
+Hp=-T^2/3-kE^2; Tpp=mT-4Hp T-4H Tp.
+No derivative is taken of an unsigned bound. Endpoint identities are independent from interval sharpness.
+
+4. Fifth boundary forcing.
+Evaluate qualified fifth lower-only wall loads o5,j5,qI5 with all fifth unknowns set to zero, retaining uncertain fourth fields.
+xi5=-qI5/[5 sigma E^2 r(5r-h)] with explicit nonzero divisor.
+d5_wall=2-mu5 E^2; Gamma5=21-1/d5_wall.
+R5=2sigma(Tc5-Tp xi5-j5)+Gamma5 T xi5+o5/d5_wall.
+Reduced Robin forcing candidate: -D5 R5/(2J5)+2sigma T Sc5/J5. Verify this elimination prospectively against original new rows and inherited inverse conventions. Do not launch on this formula by assertion.
+
+5. Inverse and distance.
+With Cf5=finite_orders[5].constant*f_transfer_multiplier and S5=sup|forcing5|+5 max_endpoint|Robin5|, the inherited scaling gives sup|f5|<=Cf5 S5/25 and sup|g5|<=Cf5 S5/5. The boundary multiplier is n=5, not the quartic predecessor's4; the independent prospective reviewer caught and corrected that carryover before any successor execution.
+Constraint gives sup|p5|<=(sup|Sc5|+sup|T|sup|g5|+sup|Tp|sup|f5|)/inf D5.
+Set b_j=c_j-2p_j. Bound known density:
+c5+b1b4+b2b3+(b1^2 b3+b1 b2^2)/2+b1^3 b2/6+b1^5/120.
+Global integration may use domain-length interval times density interval; signed interval multiplication must include uncertain endpoint length. Add unknown metric integral +/-2 Lupper sup|p5|.
+Endpoint transport:
+[xi5+xi4 b1+xi3(b2+b1^2/2)+xi2(b3+b1b2+b1^3/6)+xi2^2 b1prime/2]_lower^upper.
+Keep both endpoint orientations explicit. This produces an unsigned enclosure of the actual fifth coefficient, not its sign or profile.
+
+6. Acceptance and resources.
+Prospective independent source/formula review; representative endpoint/full pipeline probe including serialization/hashes before production. Fixed cap and memory/lease policy; failures preserved. Independent exact-endpoint or sufficiently directed arithmetic verifies every resulting enclosure, inverse arithmetic and endpoint contribution. An overlapping pair of broad unsigned enclosures alone is not accuracy evidence.
+No source changes inside a frozen packet. No automatic replay, no manuscript changes. >1h projected work requires qualified exact-resumption checkpoints.
+
+7. Subsequent full certificate.
+Only after the d5 audit, replace the generic fifth coefficient where the new bound is rigorously sharper, retaining sharper old bounds elsewhere. Recompute ALL clock/distance/scalar/derivative gates; same analytic radius. Retain an explicit no-gain outcome.
+Distance gate is approaching the current amplitude limitation. A separate prospectively reviewed sharpening can retain known d2,d3,d4 (and then d5) and start its Cauchy tail at the first genuinely unretained degree, rather than charging the old generic tail from degree2. This does not alter the physical inequality; it changes only its sufficient error estimate. Do not silently substitute this refinement into a previously frozen test.
+Local certificates still do not establish finite nonlinear development, collapse, horizon formation or late-time fate.
+

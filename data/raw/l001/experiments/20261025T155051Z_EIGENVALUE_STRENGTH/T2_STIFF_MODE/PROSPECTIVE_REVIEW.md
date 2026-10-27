@@ -1,0 +1,7 @@
+# Independent prospective review — T2 stiff mode
+
+ADMISSIBLE after accepted T1R2, whose independent terminal review is now written. Read the complete T2 plan/configuration and compared all source files to accepted T1R2: numerical producer, interval implementation and resource wrapper are identical. Only the physical boundary Hessians and predeclared bracket differ: both Hessians are 9/500, with search [-1/5,-1/1000]. This is the authorized second case, not a tuning change to the soft-wall calculation.
+
+The certified critical equal-wall interval lies strictly above 0.018, so the inherited extra-mode count applies. The launch f=1,L=ka/2 and upper residual L+kb*f/2 preserve the finite-wall half-Hessian factors and signs. At this case lambda remains positive and far from its excluded zero. Strict opposite interval signs, coarse/fine agreement, and full-system endpoint audit remain mandatory. The zero-mass anchor intentionally uses zero Hessians to compare M21 and does not purport to be the stiff-wall mass-zero residual.
+
+The plan's obsolete T1R1 acceptance/comparison references were corrected to T1R2 before admission; no execution preceded that edit. Bind the same inherited dependencies as T1R2 plus accepted T1R2 RESULT.json and TERMINAL_REVIEW.md. Any rational comparison of the two accepted mass intervals must preserve interval uncertainty and not imply physical growth times without the separate clock/dynamics review.

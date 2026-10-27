@@ -1,0 +1,9 @@
+Documentary review of NEXT_COEFFICIENT_DESIGN.txt,2026-10-27.
+The independent reviewer checked the endpoint transport7 expansion,
+including all six Xi*E terms, three Xi^2 derivative terms and the
+xi2^3*b1''/6 term. The new first/second/third derivative list matches the
+seventh wall qualifier. The finite7 source norm and49/7 inverse factors
+match the inherited convention. Strict divisor/domain checks, qualified
+derivative identities, independent interval enclosure and baseline full
+clock replay remain required. This is a prospective design review, not
+execution evidence, a d7 bound or an amplitude result.

@@ -1,0 +1,8 @@
+PASS. Six exact derivative identities plus two direct reduced RHS jets.
+Producer12.13seconds. Independent dictionary-polynomial audit PASS6926
+checks,23.45seconds. It does not import jets.py. Full derivative map and
+base equations anchored to authenticated older lower-order algebra.
+Terminal a2da73641858494d0cd2178d9003052af926c8b084435bab47422028c9edba04
+Audit6746096cfeceb41d36786e963bdbce8bf14122bebce5f27edb68056e011f3ad7
+No derivative enclosure or physical profile follows from this algebra
+qualification alone; subsequent actual seventh enclosure uses its outputs.

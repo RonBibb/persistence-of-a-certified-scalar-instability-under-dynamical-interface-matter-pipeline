@@ -1,0 +1,13 @@
+Separate prospective runtime admission derivative, not a frozen-parent edit.
+Source: first functions of 20261026T015206Z_FORCED_SECOND_ORDER_R1/runner.py
+through observed(); scientific execution/freeze functions omitted.
+Only admission condition changed: occupied affinity union plus chosen CPU
+ceiling2 becomes10, matching current two-hour AUTHORITY.txt.
+Exclusive L001 lock still permits at most one scientific L001 process;
+this is stricter than the authorized L001 aggregate ceiling3.
+Retain packet/admission/CPU locks, hold-file refusal, full-affinity accounting,
+4GiB available memory gate,2GiB address-space cap, one-core pinning and
+runtime fingerprinting. Never modify other jobs or frozen parents.
+Prospective new producers must pin this source and include it in binding.
+Read-only audits may use it after review; no scientific result is rescored
+by a different arithmetic implementation or precision.

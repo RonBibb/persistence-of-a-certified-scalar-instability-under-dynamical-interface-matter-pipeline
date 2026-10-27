@@ -1,0 +1,2 @@
+slot_run: line 02_lin_static priority 5 token 1 slot 11 start 2026-10-07T05:39:15Z avail_kib 28617684 load 10.11
+{"case": "positive", "classification": null, "checks_passed": null, "checks_total": null, "failed": null, "own_checks": 38}

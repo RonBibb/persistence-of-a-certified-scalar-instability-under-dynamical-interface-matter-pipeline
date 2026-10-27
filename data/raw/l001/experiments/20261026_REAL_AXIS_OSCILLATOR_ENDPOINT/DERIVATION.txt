@@ -1,0 +1,45 @@
+Real-axis oscillator endpoint estimate; same coupled certificate.
+
+Only the C response changes relative to REAL_AXIS_METRIC_ANCHOR_R1.
+The inherited neutral Q5 row is
+chi_n=(f_n+T_i*xi_n-O_n)/d_n,
+d_n=2+nr(nr+3h)E_i^2>=n^2/16384,
+using r>=1/64, E_i>=1/2, h>0 on the real background.
+
+Multiply by n^3, n>=2:
+n^3|chi_n|<=16384[n|f_n|+|T_i|n|xi_n|+n|O_n|].
+The authenticated real scalar inverse supplies n^2|f_n(real)|<=C0*S.
+Hence n|f_n|<=C0*S/2. The summed graph response Xnew bounds
+n^3|xi_n| for either wall, hence n|xi_n|<=Xnew/4.
+Use the authenticated real |T_i|<=1 and the unchanged oscillator
+nonlinear load envelope o>=n|O_n|. Doubling the per-wall bound yields
+Cnew=32768(ureal/2+Xnew/4+o), ureal=C0*(force+g).
+The factor2 is conservative; it does not remove wall orientations or
+the graph displacement from the oscillator source.
+
+Replace uf/2 by ureal/2 ONLY in the final oscillator response. Keep the
+real metric anchor already corrected, every complex uf term, all source
+envelopes, lower-order recursion, norms, seed and physical gates unchanged.
+The paired evaluation grid is extended as specified below.
+Because0<C0<=Cf this is coefficientwise no larger. All nonlinear source
+terms and composed geometry remain. This is an endpoint estimate, not
+a new inverse or physical equation. The same total-degree majorization
+pays the harmonic source factor exactly as in the inherited proof.
+
+Bind the Q5 manuscript and real inverse/background premises through the
+authenticated parent closure. Independently review executable before
+one Linux run under the original lease, then saved-record verification.
+Before launch, a read-only check found the old selected K equals1/a.
+The largest response was C, but it did NOT set K. The original grid's
+minimum exponent96 therefore prevents any strict same-grid radius gain.
+Predeclare added exponents64,72,80,88 alongside96,104,112,120,128.
+Evaluate both frozen-parent and endpoint maps at all81 paired points.
+Exactly reproduce all original45 parent records, retain all outcomes,
+check matched B/X equality and C nonincrease. Select minimum K for each
+map and run the full physical and observable certification on BOTH.
+Report parent-extension versus sealed separately from endpoint versus
+extended-parent. Label radius and clock effects independently; ties are
+valid outcomes, not technical failures. MinK is not a clock optimizer.
+Record exact active K branches, including ties, not only max response.
+This design amendment preceded all numerical execution of this packet.
+No finite-amplitude evolution, endpoint dynamics or horizon is implied.

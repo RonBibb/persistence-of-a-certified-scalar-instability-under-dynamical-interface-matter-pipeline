@@ -1,0 +1,15 @@
+# T20: second-harmonic homogeneous inverse diagnostic
+
+Prospective; no author execution. Main dispatch only after independent admission, exact source/runtime binding and available normal one-core lease. No start at or after 2026-10-26 00:57:50 UTC.
+
+Purpose: quantify whether the chosen shooting normalization gives a usable zero-excluding interval denominator at mu2=-108k. Mathematical nonresonance is inherited as documented in ../NONRESONANCE_DEPENDENCY_NOTE.md, not rediscovered here. This is not the forced second-order solve, an operator-norm bound, a physical condition number, or a distance coefficient.
+
+Use exact copies of T2R1's two qualified regular engines, input binding and helper. Whole launch A and wall D intervals are unchanged. Derive mu=-108k from the same engine background initialization, retain the entire parameter enclosure, then enforce selected oscillator action beta=eta=omega_squared=1. Lower normalization psi(a)=1; launch f=3(mu+4k)E²/(Gamma*T/2-Tprime), g=Gamma*f/2-2T. Launch divisor must exclude zero. Both oscillator denominators 2-mu*E² must be positive. No division by T. Upper homogeneous residual F=g+2Tpsi+Gamma*f/2. No requirement that this off-eigenmass residual contain zero.
+
+Two engine flows only, sequential, original steps 2/8192 and 2/16384, 768-bit Arb. Check finite states, whole-cell constraint/background first integral, positive warp, exact full physical-wall event coverage, oscillator and undivided wall algebra. Save all endpoint fields, full event cover, whole-cell hulls and source identities. No selected midpoint wall or retuning. Parameter correlation can be over-enclosed by interval arithmetic but must never be reduced to nominal parameters.
+
+Controls: inherited engine algebra controls, action/shifted-mass mutation, original helper manufactured interval controls, exact second-harmonic temporal law and rejection of first-harmonic substitution. Parent helper/engine/input byte equality checked on Linux; admission must additionally bind accepted parent terminal review and these exact local sources. Runtime bindings use the same qualified Linux Python/Flint runtime. No Mac computation.
+
+Classification: require both engine endpoint intervals to overlap, form their hull without intersection. If full trajectories/gates pass but F hull includes zero, NUMERICAL_INVERSE_UNRESOLVED is a valid scientific diagnostic, not resonance. If it excludes zero, HOMOGENEOUS_NUMERICAL_INVERSE_RESOLVED and record its reciprocal. Launch-divisor failure, cap, failed flow/admission, or engine disagreement is technical incompleteness. No rescue settings or new endpoints.
+
+Resource contract: one CPU, 1 GiB address-space cap, at most 540 seconds per engine including endpoint publication preparation, producer hard 1200 seconds, external wrapper 1210 seconds; no resume. Aggregate admission must retain the allocation's at-most-two occupied CPU rule, allowing the unrelated L002 core. Estimated two original-length homogeneous flows are minutes, but strongly amplified solutions at this mass may make interval propagation fail; that is precisely the bounded feasibility question. Preserve failure records.

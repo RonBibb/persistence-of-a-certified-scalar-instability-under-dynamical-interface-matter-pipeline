@@ -1,0 +1,16 @@
+Audited full certificate improvements on the same neutral-growing family:
+                     radius               proper-clock eta
+baseline             5.8095538220e-26      1.2899800832e-41
+real bound only      9.0732673930e-26      2.0146700737e-41
+complex bound only   1.8602115499e-25      8.2609987736e-41
+joint                4.6476430576e-25      2.0639681331e-40
+
+Joint gains are exactly 8x radius and 16x proper-clock eta relative to
+the immediately preceding background-seed certificate. Seed remains1215.
+The selected grid point is a=2^-61, lambda=1/256, kappa=1/16.
+Its K is controlled by 1/a; mass/(1/a)=0.7664910025393737.
+Real-only and complex-only selections remain mass-limited.
+
+These are reduced sufficient proof costs, not measured physical growth.
+The guarantee remains extremely local; no finite nonlinear trajectory,
+collapse, trapping, event horizon or child formation has been demonstrated.

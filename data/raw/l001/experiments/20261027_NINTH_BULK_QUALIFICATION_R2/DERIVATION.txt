@@ -1,0 +1,14 @@
+R2 exact accumulation optimization after preserved R1 600second timeout.
+R1 passed all equation and pseudo-elimination identities; final denominator
+clearing timed out during repeated growing-polynomial addition. No failed
+scientific identity or coefficient estimate is reclassified as passing.
+Same200000 term cap,1000000 product-pair cap,100000 reduction cap,600seconds,
+2GiB and exclusive1CPU Linux lease. Same cutoff2026-10-27T17:10:42Z.
+Clear rational factors with cached exact powers and coefficient dictionary
+accumulation; delete exact zeros. Retain final polynomial identity and audit.
+Compare old and new clearing on deterministic eighth witness samples and
+mixed denominator factors before production; record sample count. All source
+roundtrips, arithmetic equivalence, equation checks and witnesses unchanged.
+Bind both preserved failed source/failure/stage records. Independent R2 source
+preflight and independent dictionary witness audit required before next stage.
+No ninth enclosure, expanded amplitude or physical-fate claim from this stage.

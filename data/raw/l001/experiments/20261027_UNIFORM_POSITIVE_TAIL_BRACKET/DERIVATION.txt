@@ -1,0 +1,25 @@
+Uniform scaled positive-tail sufficient certificate, fixed16 bisections.
+For any nonnegative-coefficient remainder T(a)=sum(n>=25)c_n*a^n,
+0<a<=a*=R/2 implies T(a)<=(a/a*)^25*T(a*). Same for its
+Euler-weighted remainder and each scalar harmonic-weighted majorant.
+Use independently qualified endpoint bounds at a*=R/2 for distance,
+Euler distance, scalar, Euler scalar, and inverse-lapse tails. These
+upper bounds need not be sharp. Positivity belongs to underlying majorant
+series, not floating-point samples or apparent empirical scaling.
+
+Combine scaled tails with unchanged finite24 arrays and F3..9, identical
+clock partition and all five gates. No Cauchy fallback min is needed for
+this standalone sufficient certificate. At a* require exact replay of
+the independently audited direct endpoint selected values and every gate.
+At R/4 use this uniform bound, not an asserted replay of the sharper
+separately evaluated quarter-point tail. Require it passes and R/2 fails.
+All normalized non-opening costs are nonnegative polynomials in q with
+positive powers: clock degrees>=1, distance/scalar degrees>=1; products
+preserve positivity. Opening holds throughout0<a<=R/2 by the original
+domain check. Thus admission set is downward closed for this certificate.
+Exactly16 midpoint evaluations, immutable predecessor-hashed checkpoints;
+do not adapt iteration count or gates. Bracket is only this sufficient
+certificate's boundary, not actual maximal amplitude or physical threshold.
+No new coefficient, analytic radius, trajectory, saturation or fate.
+Independent coefficientwise algebra and ordinary Fraction audit required.
+Linux1CPU2GiB600seconds; fixed13:42:44UTC deadline; no retry.

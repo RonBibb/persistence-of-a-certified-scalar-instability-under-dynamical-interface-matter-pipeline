@@ -1,0 +1,20 @@
+Degree24 positive distance majorant: PASS
+
+Producer: 68 gates, 81.04 seconds.
+Independent audit: 6797 checks, 93.08 seconds.
+
+The existing unsigned coefficient majorant is extended from degree16 to
+degree24. Every inherited prefix coefficient is reproduced exactly. The
+independent audit uses Lagrange inversion and a separate exponential
+expansion, rather than the producer's triangular coefficient recurrence.
+Primitive coefficients, routed loads and geometric domination also pass.
+
+This does not supply signed physical coefficients d17 through d24, a new
+solution, a larger global analytic radius, or an amplitude certificate.
+The separate DISTANCE24_CLOCK_READOUT evaluates its effect on the complete
+existing certificate with all gates retained.
+
+Terminal SHA-256:
+313f7292e1ba87e35d264c14f9af74c46719596ca0c77e7e7100f6ca84de7c4b
+Independent audit SHA-256:
+13f7bda89664924f9b82e01711ee3976708c5208e05dbef4ea1f1c9b777e8ff0

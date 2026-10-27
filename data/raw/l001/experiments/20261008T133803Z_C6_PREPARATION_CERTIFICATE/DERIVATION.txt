@@ -1,0 +1,74 @@
+C6 PREPARATION CERTIFICATE: EXACT OBJECT AND DECISION
+
+This is a single positive-amplitude datum, not an amplitude family or evolution.
+The exact action is R_ab = Phi_a Phi_b +(2/3)V g_ab with V=-6+m2 Phi^2/2;
+the wall potentials are U_i=lambda_i+gamma(Phi-v_i)^2/2. All six literals and
+the admitted central background and normalized mode are hash-bound.
+
+Let source variables (W,H,P,T,E,psi,f,g) obey the certified regular source ODE.
+Set ell=-2 epsilon psi, A=W+epsilon psi+w and
+  Phi=P+epsilon f+C7 + b5L H5L+b5R H5R+b7L H7L+b7R H7R.
+C7 is the exact canonical Hermite lift enforcing scalar C0 and C2, computed
+from the actual source identities; its certified interval coefficients enclose
+that lift. Stored old scalar polynomials are centers, not exact wall conditions.
+HjL=s^j(1-s/D)^(j+1)/j!, HjR=(s-D)^j(s/D)^(j+1)/j!.
+For j=5 or 7 these preserve both scalar endpoint jets through j-1.
+
+Unknowns are z=(a,b5L,b5R,b7L,b7R), with w(0)=a. This is an affine invertible
+change of the original saved five variables, not a changed physical ansatz.
+The initial slope is fixed by the exact lower Israel wall law. The centered
+Hamiltonian and its analytic five-column variational equations generalize the
+already certified C4 flow only by adding the two H7 shape forces.
+
+At each endpoint, high metric derivatives are reconstructed from
+ A_ss=ell_s A_s-2 A_s^2+k exp(2ell-2A)-(Phi_s^2+2 exp(2ell)V)/6.
+This is the original Hamiltonian equation, not a fit of saved metric jets.
+The exact conformal-time Einstein-scalar recursion determines the even-time
+wall rows. The uniform canonical lapse B=A+q has q=q_s=0 at each wall.
+Its q3,q5,q7 endpoint controls kill the corresponding metric-row difference.
+These are dependent gauge outputs, not three extra physical unknowns.
+
+Five residuals: upper spatial Israel plus the two scalar C4 and two scalar C6
+rows. Multiplication of the time rows by exp(-4B) or exp(-6B) is positive and
+preserves precisely their roots. The archived coordinate-time Jacobian is
+transformed consistently before taking the fixed rational preconditioner.
+
+Full-corner coverage is analytic, not an interval-containing-zero inference.
+Write fI=e^-B A_x+sigma U/6, gI=e^-B B_x+sigma U/6 and
+hI=e^-B Phi_x-sigma U'/2. The exact tx Einstein constraint gives
+  d_t fI=A_t (gI-fI) -(Phi_t/3) hI.
+Hamiltonian initial data with K_ij=Pi=0 satisfy the initial constraints; the
+Einstein-scalar recursion propagates them to the retained formal orders.
+Canonical scalar C0,C2 closure and the two solved scalar C4,C6 rows give hI
+through order six. Canonical q3,q5,q7 gives gI-fI through order six.
+Thus the identity, time reflection, and spatial fI=0 imply both metric wall
+rows through order six. No all-order or finite-time conclusion follows.
+The independent reader must verify these exact definitions and the retained
+formal constraint identity; tiny sampled residuals alone cannot pass this gate.
+
+For fixed exact admitted source, let F(z) be the above original-root-equivalent
+map, c the saved rational center, X=c+[-r,r] and C the frozen rational
+preconditioner. Validated IVPs enclose F(c) and J_F(X). Require
+  abs(-C F(c)) + abs(I-C J_F(X)) r < 0.9 r
+componentwise, and the weighted infinity norm <=1/2. This proves a unique
+root in X by the contraction theorem; it does not exclude roots elsewhere.
+The proof is uniform over the enclosing source uncertainties, applied to
+the particular exact source already admitted by its parent certificate.
+Failure of these sufficient inequalities is INCOMPLETE unless a valid
+disjoint Newton/residual exclusion witness is separately available.
+
+After successful preparation only, evaluate the certified root-image box,
+its exact source, high jets and q on a gap-free interval cover of u=s/D.
+Compare against the unchanged saved C6 polynomials at common u, with all
+truncation, IVP, source, event and arithmetic widths retained. Use the bounds
+EA, El, Eq, ED=|log(D/Dhat)|, Ek=|log(k/khat)| and EW:
+  EJ=ED+El+EA+Eq; exp(-EJ)<= (D exp(ell-A-q))/fhat <=exp(EJ)
+  relative X error<=exp(EJ)-1; relative L error<=exp(ED+El)-1
+  radius relative error<=exp(EA+Ek/2)-1
+  normalized clock relative error<=exp(EA+Eq+EW)-1.
+At walls q=0 analytically, so its term is omitted there.
+If mhat lower-bounds the saved normalized-map derivative, the exact derivative
+is >=exp(-2EJ)mhat. The inverse common-u error is bounded by
+min(1,(exp(2EJ)-1)/(exp(-2EJ)mhat)); fixed-y observable errors follow by adding
+the saved observable derivative bound times this inverse error. The bound
+may be conservative, but must not silently be replaced by precision agreement.

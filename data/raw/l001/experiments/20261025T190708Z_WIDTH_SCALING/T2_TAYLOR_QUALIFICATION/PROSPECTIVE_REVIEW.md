@@ -1,0 +1,7 @@
+# Independent prospective review — admitted
+
+Read the complete Taylor module, qualification producer and plan. The strict signed Euler tube supplies an a priori enclosure for every intermediate state. Autonomous jet recurrence at the initial interval encloses the initial Taylor coefficients; recurrence on the entire tube encloses the componentwise pth remainder coefficient. Different intermediate points for different components are harmless. Actual signed powers h^j are retained. Reciprocal recurrence rejects zero-containing constant terms and positive warp is retained throughout.
+
+The independent L and g jet equations match the regular physical systems. Recurrence update order and factorial normalization are correct. Controls use exact constant solutions, a rational exponential enclosure with a valid geometric tail bound (and reciprocal for negative time), exact p1 agreement with Euler, invalid tube/denominator rejection, and the independently derived central jet. Exponential reference containment, not mere overlap, is required. Fresh background overlap with the accepted Euler enclosure is a useful independent check, not the proof of method validity.
+
+No eigenvalue result or general-purpose solver qualification is inferred. A successor must bind this accepted method and retain its own physical-domain, root, constraint and independent representation gates. The higher-order method is a fresh contract, not a rescore of earlier Euler outputs. No numerical execution was performed for this review.

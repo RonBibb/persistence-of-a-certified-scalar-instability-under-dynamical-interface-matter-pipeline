@@ -1,0 +1,33 @@
+TECHNICAL_INCOMPLETE: resource admission hold before scientific computation.
+
+Independent analytic/executable prelaunch review by /root/jet_bound_review
+passed. It reconfirmed the actual real-axis C0 norm premise, n>=2 metric
+constraint inequality and that only the Cm anchor uses ureal. All complex
+continuation, oscillator and remaining terms retain uf=Cf*S. The full
+coupled maximum may become oscillator-limited; no gain is predicted.
+
+Reviewed source SHA-256:
+299d5a97cab99c705f17eba63516a90e2381766c0eda93be38e49d6e75619d9f
+CONTRACT.json SHA-256:
+4deb0f16cb31fe3a5049e04d0e1a3e86e6169e06be73c03f862915ceea904099
+DERIVATION.txt SHA-256:
+c2704749ca175bd7beb878de0900284843541ab417ed87521de31336dd1e6652
+
+Linux launch exited in the original lease.acquire() with RESOURCE_HOLD.
+There is no START.json, BINDING.json, RESULT.json or TERMINAL.json.
+The scientific main routine and candidate evaluations did not execute.
+FAILURE.json is preserved. This is not an adverse mathematical outcome.
+
+Read-only process inspection found two other heavy research processes:
+L005 exact-scalar-four-panel audit PID2062880 and L002 full reconstruction
+audit PID2058780. These are snapshots, not durable process identities.
+Neither was interrupted and the aggregate two-CPU gate was not changed.
+
+Recovery: once capacity becomes available, verify these source hashes and
+the parent sealed bindings, copy the three reviewed source/contract files
+unchanged into a NEW attempt directory, review the namespace-only change,
+and launch with the original lease and frozen environment. Do not delete
+this failure or restart this namespace. No automatic retry is scheduled.
+
+Latest scientific certificate remains FIELD_SPECIFIC_MIXED:
+radius1.089758925263625e-37; protected clock1.153827142828409e-59.

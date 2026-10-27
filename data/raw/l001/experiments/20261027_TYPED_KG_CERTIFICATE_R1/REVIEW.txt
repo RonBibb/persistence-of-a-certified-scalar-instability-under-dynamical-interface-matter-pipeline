@@ -1,0 +1,10 @@
+Independent Linux postrun review PASS,jet_bound_review.
+Verified2923bindings,heldoriginalFAILURE/noSTART and identicalsource,
+566savedcandidates/K/selections,bothfullcertificates/firstdyadictails,
+exact283parentrows/fullconstantreplay,budgets/branches/effects.
+Audit display initially used wrong flat-versus-lane lookup for historical
+baseline; KeyError occurred after scientific checks. Separate leased
+read-only corrected display succeeded. No scientific result changed.
+No independent regeneration566nonlinear envelope maps.
+TERMINAL86dbf492e07b8f0c68b0d255d5b0074b569d09af081117fb9228c5b9605896f0
+RESULTa2509b1e9d3ea29fe7a6c95534d41b677d653a936a9808a1e0d29f514ebd468f

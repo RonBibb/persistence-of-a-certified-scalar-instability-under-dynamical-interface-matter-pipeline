@@ -1,0 +1,14 @@
+Replay eighth certificate bracket exactly with same half-radius positive tails.
+Recompute full F9 interval convolution with actual d4..d9, unchanged inverse
+coefficients/rate. Replay old F9 first, then retain min(old bound,new envelope).
+Replace D9 in retained degree16/24 distance prefixes; regenerate Euler and
+cross terms. Same analytic radius, scalar coefficients and five gates.
+Check same-domain half-radius no-worsening and retain its readout separately.
+For extension use independently newly qualified positive and inverse tails
+at predeclared qstar=3/4. No extrapolation of old half-radius tail bounds.
+Order25 positive tails scale down by(q/qstar)^25. Require previous accepted
+amplitude still passes using new tails. If3/4 passes, report domain admission
+only, not a maximum. Otherwise fixed16 exact rational midpoint checks with
+immutable linked checkpoints. All five gates required at accepted lower.
+Independent audit required; certificate is local and family-specific, not a
+physical failure threshold, expanded analytic radius or nonlinear fate.

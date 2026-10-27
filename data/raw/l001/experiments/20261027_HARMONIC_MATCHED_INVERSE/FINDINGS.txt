@@ -1,0 +1,34 @@
+Harmonic-matched inverse diagnostic: producer PASS in13.684seconds.
+527 gates;128 rows covering n=2..64 and the full tail n>=65 in both engines.
+All positivity, exact inverse identities, full coverage, baseline replay and
+component-domination gates pass. No ODE or new convergence radius.
+
+Matched uniform complex bounds (per same normalized forcing):
+  value333456.8653845386; improvement1.00000000166714x.
+  gradient680616.7053626928; improvement1.02607207168x.
+  curvature145509049.38945735; improvement4302.52005048x.
+  full norm146523122.9602046; improvement4272.74973189x.
+Each maximum is controlled by the primary engine's entire n>=65 range.
+The high range is covered uniformly, not approximated by a finite sample.
+
+Explanation: the preceding estimate combined high-range real amplitudes
+with worst n=2 complex coefficient bounds. Matching the real and complex
+estimates at the same harmonic/range avoids that artificial combination.
+The domain, background, forcing normalization and physical equations did
+not change. This is reduced conservatism of the bound, not measured dynamics.
+
+The common full norm is the maximum of per-row full norms. It is not in
+general the sum of separately maximized component bounds. Preserve both
+types of bounds when routing them into metric reconstruction.
+
+IMPORTANT:4273x inverse-norm improvement is NOT a4273x radius improvement.
+Real metric anchor and real oscillator endpoint bounds remain unchanged.
+Those and the source estimates may limit the full coupled certificate.
+The prior radius7.117315542461743e-31 remains the authoritative radius.
+
+Next bounded test: same-grid paired full certificate replacing only the
+complex value/gradient/full inverse constants by these harmonic-matched
+suprema. Keep all real anchors, source envelopes and geometry unchanged.
+Exactly replay the81 old points and all parent certificate constants;
+recheck both selected maps, all tails, activeK branches and separate gains.
+No successor launched.

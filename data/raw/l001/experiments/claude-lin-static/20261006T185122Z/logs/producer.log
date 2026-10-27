@@ -1,0 +1,8 @@
+slot_run: line 02_lin_static priority 5 token 1 slot 11 start 2026-10-06T20:22:38Z avail_kib 29002868 load 6.33
+{"case": 0, "dps": 80, "seconds": 49.54}
+{"case": 0, "dps": 100, "seconds": 43.38}
+{"case": 3, "dps": 80, "seconds": 32.84}
+{"case": 3, "dps": 100, "seconds": 31.27}
+{"case": 4, "dps": 80, "seconds": 23.87}
+{"case": 4, "dps": 100, "seconds": 38.28}
+{"classification_provisional": "DETERMINISTIC_KNOT_REPRESENTATION_ADMITTED__HISTORICAL_RAW_GATE_RETAINED_FAILED", "gates_passed": 266, "gates_total": 266}

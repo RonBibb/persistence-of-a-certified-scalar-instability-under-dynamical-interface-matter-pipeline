@@ -1,0 +1,123 @@
+INDEPENDENT READ-ONLY ALL-ORDER PREMISE REVIEW
+2026-10-27; reviewer /root/jet_bound_review
+
+Disposition: no newly identified finite-only inference, unaccounted change
+of norm, or harmonic cutoff in the positive-tail extension. This is a
+source/derivation logic review, not a fresh independent reconstruction of
+the entire PDE, spectral, background and validated-ODE pipeline. No new
+scientific computation was performed for this review.
+
+All paths below are relative to the owning L001 experiments directory:
+/Users/ronbibb/Research/research_repositories/lin/lines/
+L001-static-theorems-causal-extension/experiments/
+
+1. Uniform norm and source bookkeeping
+20261026_NEUTRAL_SOURCE_MAJORANT/DERIVATION.txt:4-21 defines the fixed
+affine pullback and U_n=n^2||v||_(2n)+n||v'||_(2n+1)+||v''||_(2n+2).
+Lines63-88 explicitly account for radial indices, primitive wall factors,
+the n/(i1...im)<=m payment, and removal only of degrees0/1 in truncated
+lower-order inputs. Lines124-145 state the scalar domination and summed
+solution/coefficient-identification argument. These are analytic premises,
+not consequences of merely evaluating a finite number of coefficients.
+
+20261026_NORMALIZED_COUPLED_MAJORANT/DERIVATION.txt:17-21 pays the graph
+divisor uniformly for n>=2; lines37-54 apply Euler degree exactly once and
+define the ray norm max(B_n,X_n/lambda,C_n/kappa). The geometric coefficient
+bound is uniform in source degree m, not only in harmonic n<=24.
+
+20261027_FINAL_FIXED_GRID_CERTIFICATE/check.py:24-25 enforces Ka>=1 and
+K>=2M/a^2, and lines101-111 construct the same nonlinear response masses.
+Consequently mM/a^m <= (m-1)K^(m-1) for every integer m>=2. The finite
+H_2..H_24 may replace those coefficients by sharper positive values while
+the geometric bound remains valid beyond24. The positive-tail method does
+not extrapolate unknown coefficients from the observed finite prefix.
+
+20261027_SIXTH_CLOCK_ENCLOSURE/check.py:61-77 defines finite_primitives
+using generic arithmetic and rational source expressions, without an
+order6 or order24 restriction in the source formula. The finite series
+types truncate evaluation, not the mathematical primitive source envelope.
+20261027_DEGREE16_DISTANCE_MAJORANT/DERIVATION.txt and
+20261027_DEGREE24_DISTANCE_MAJORANT/DERIVATION.txt preserve that map, Euler
+payment, seed and ray weights while extending only coefficient arithmetic.
+
+2. Derivative losses and all harmonics
+20261026_NEUTRAL_ANALYTIC_INVERSE/DERIVATION.txt:20-32 gives a common
+nonzero denominator for all n>=2. Lines34-51 give the common weighted
+analytic inverse, including primitive payments and limiting weighted
+suprema. Lines53-63 reconstruct the compatible metric without silently
+twice differentiating an arbitrary algebraic source. In particular d=1
+on the fixed real reference interval, including its endpoints; no 4^n
+radial-collar loss is required for the real coefficient evaluations here.
+
+20261026T183955Z_CONVERGENCE_TWO_HOUR_GOAL/TRACE_ROUTE_SCOPING.md:9-60
+retains the pulled-chart transport and pays third/fourth radial jets with
+explicit Nagumo constants. The positive denominator in Ctrace closes
+lower-order recursive transport. Its historical 'not inserted' wording
+describes the earlier scoping stage; subsequent insertion is owned by
+20261026_NEUTRAL_JOINT_SOURCE_FEASIBILITY/DERIVATION.txt:8-24 and its
+separate certificate. It is not an authorization to drop transport.
+
+20261027_JOINT_SOURCE_CERTIFICATE/DERIVATION.txt:1-21 and
+20261027_SPLIT_FORCING_BOUNDARY_CERTIFICATE/DERIVATION.txt:1-37 retain
+finite harmonics2..64 plus a uniform tail n>=65, and take suprema of whole
+positive source responses. These are not a finite harmonic scan promoted
+to an all-order inverse. The auxiliary F/G split is linear scalar BVP
+bookkeeping; it does not assert separately compatible physical solutions.
+20261027_DIRECT_G_BARRIER_CERTIFICATE/DERIVATION.txt covers its finite
+range, bridge65..127, and all n>=128. The later mass-retaining F bound
+uses the endpoint minimum of a concave polynomial in 1/n^2 for the entire
+tail; see 20261027_MASS_RETAINING_F_CERTIFICATE/DERIVATION.txt.
+
+3. Dependencies and inverse-clock composition
+20261027_BULK_DEPENDENCY_CERTIFICATE_R1/DERIVATION.txt removes independent
+oscillator amplitude only from explicit bulk loads, not solved feedback.
+20261027_JUNCTION_DEPENDENCY_CERTIFICATE/DERIVATION.txt uses the selected
+linear oscillator term in the junction: its lower-truncated series has
+zero coefficient at the order being solved. It preserves linear coupling,
+graph kinetic terms, oscillator equation and full observable aggregate.
+
+20261027_FINITE_INVERSE_LAPSE24/DERIVATION.txt:7-21 derives all-order
+positive composition, although that packet evaluated only a finite prefix:
+B_n=z_n/n^2; single-wall Xi_n=lambda*z_n/n^3 with Xi_1=0;
+Ehat=1+64U/(1-U), U=4Xi/gap;
+Vhat=Ehat*exp(2B)*(eta Xi')/32;
+Jhat=Ehat*exp(B)/(1-Vhat^2).
+The background lower-wall normalization E(a)=1 and r<=1/32 are essential.
+The positive geometric boost replaces binomial coefficients conservatively.
+The new calculation sums this same composition with explicit denominator
+and exponential controls; it does not infer all-order behavior from24
+coefficients. Subtraction must use the ORIGINAL positive Jhat prefix,
+including constant1, not actual/clipped inverse-clock coefficient bounds.
+Similarly the distance-tail subtraction uses original positive d24 only.
+
+4. Remaining inherited assumptions and precise scope
+The exact static background, selected growing mode and normalization,
+same-action homological compatibility, original all-order source estimates,
+analytic inverse/seed bounds, and identification of actual coefficients
+remain inherited. They are listed separately in
+20261026T183955Z_CONVERGENCE_TWO_HOUR_GOAL/DEPENDENCIES.md. This review
+checked their use and owning derivations, not every earlier proof from
+scratch. Hash agreement is identity evidence, not a proof of equations.
+
+Given those premises, monotone positive fixed-point iteration, the
+supersolution/contraction gates and residual estimate provide a summable
+unresolved norm tail at each fixed amplitude. No analytic radius, physical
+trajectory, formation result or endpoint has thereby been enlarged or
+established. The large improvement is compatible with removing a highly
+conservative generic Cauchy remainder; its size is not physical evidence.
+
+5. Prospective scaled-tail bracket
+For a positive coefficient tail T(t)=sum(n>=25)t_n t^n and 0<a<=t*,
+T(a)<= (a/t*)^25 T(t*). This holds also for its Euler-weighted tail,
+whose coefficients n t_n remain nonnegative. It therefore applies to
+audited distance, Euler-distance, scalar, Euler-scalar and inverse tails
+at t*=R/2. An upper bound need not equal T(t*) for the inequality to hold.
+Use these scaled bounds consistently in the full clock product partition,
+counting unknown-distance times unknown-inverse once. Preserve all finite
+prefixes and five gates. A fixed16-step bracket on[R/4,R/2] is legitimate
+only after its own scaled-tail endpoints establish pass/fail. The upper
+endpoint must replay the direct parent exactly; lower endpoint need not
+replay its sharper separately computed tail. Normalized remainder budgets
+are monotone because all surviving powers are positive; fallback minima
+of monotone candidates preserve monotonicity. This brackets a sufficient
+certificate boundary, never a physical threshold or true existence radius.

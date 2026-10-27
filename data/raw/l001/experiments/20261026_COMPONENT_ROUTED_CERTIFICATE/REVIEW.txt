@@ -1,0 +1,20 @@
+Independent reviewer /root/jet_bound_review: prelaunch and postrun PASS.
+Prelaunch analytic/source review confirmed norm routing, unchanged sources,
+real C0 endpoints, positive inverse, paired grid and operative scalar metadata.
+
+Postrun independent bounded Linux saved-fraction audit under original lease:
+2865 bindings and 203 recorded gates verified; all 81 parent records and
+complete parent constants exact; both selected K ceilings checked; matched
+X/C equality and bulk reduction; independently recomputed 2x2 constants;
+both contraction, geometry, lapse and observable remainder certificates;
+effects and active branches checked. Lease released.
+This did not regenerate all 162 nonlinear response maps or solve an ODE.
+
+Terminal SHA256:
+4faee2fc89db5df2148a02d3395ca2a5e8d8bbe3ddb534f9f9c127a6b4b53efb
+Source SHA256:
+ee5026ab521c3cb6ace3a9ff3731007803df6b522d5d98c690cb807d877e2075
+Result SHA256:
+c1da8190591a6435aad4a387e80ce1704aae3266f1887132c75358c659d3b478
+Binding SHA256:
+808c95d4ff54e2ce183cd39a5b468571db79198eddbbaab8e2f327bbc8298085

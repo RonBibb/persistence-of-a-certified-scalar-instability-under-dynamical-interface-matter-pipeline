@@ -1,0 +1,7 @@
+Independent Linux audit PASS, /root/jet_bound_review,2026-10-27.
+Recomputed all128x4xF/G inverse rows, seven-source harmonicpairs,maxima/ties,
+baseline scaling; regenerated883 nonlinearloads and3532 mass/K records,
+four selectedcertificates,tails,budgets andbranches. Verified2972bindings
+and16730gates, including corrected scalar m metadata. No newODE.
+Terminal2d4c316e0144d042939fa68136eeadbac408bd8ca8f1ab5875528294735f7c45
+Resultb9076cdc17df99b1fa95ec7b11909bee50bfe0688033aa190d09c46a68233efd

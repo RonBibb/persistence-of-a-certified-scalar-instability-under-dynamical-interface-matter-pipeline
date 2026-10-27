@@ -1,0 +1,7 @@
+PASS: producer41.79seconds; independent7182-check audit50.89seconds.
+Both q1/4 and1/2 satisfy all fixed supersolution/contraction/norm gates.
+AtR/2 distance tail4.04725e-90; Euler-distance tail1.01181e-88;
+scalar tail5.39464e-92; Euler-scalar1.34866e-90.
+Contraction upper1.52570e-5. No full-readout acceptance asserted here.
+Terminaldc5d2b4e5675c4ec97231ca431c3833f5f6ab917c903abddf11e8059a28249d5
+Audit7a58097c76c301cfac3c214843da695546c9599f8f6a0ab3acaf02b80ea29e47

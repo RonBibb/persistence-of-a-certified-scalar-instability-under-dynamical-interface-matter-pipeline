@@ -1,0 +1,12 @@
+{
+  "schema": "l001-current-result/v1",
+  "classification": "PREDECLARED_THREE_QUARTER_ENDPOINT_ADMITTED",
+  "result": "data/raw/l001/experiments/20261027_ACTUAL_NINTH_FULL_BUDGET/RESULT.json",
+  "terminal": "data/raw/l001/experiments/20261027_ACTUAL_NINTH_FULL_BUDGET/TERMINAL.json",
+  "terminal_sha256": "2a0f983f7ac60e5359c48b5a3219136347935b1ac6d5bcd0c26fb96fbd0d9642",
+  "exact_amplitude": "1/136611316111586166236160",
+  "exact_fraction_of_existing_radius": "3/4",
+  "unchanged_sufficient_radius": "1/102458487083689624677120",
+  "audit": "data/raw/l001/experiments/20261027_QUARTIC_REAL_SOURCE_AUDIT/ACTUAL_NINTH_FULL_BUDGET_AUDIT.json",
+  "scope": "Conditional local neutral zero-current pure-growing analytic family; no charged nonlinear or endpoint claim."
+}

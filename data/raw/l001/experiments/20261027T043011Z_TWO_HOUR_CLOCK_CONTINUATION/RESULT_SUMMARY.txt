@@ -1,0 +1,38 @@
+L001 TWO-HOUR CLOCK CONTINUATION — RESULT SUMMARY
+Authorized window:2026-10-27T04:30:11Z through06:30:11Z. This report does not extend the launch cutoff.
+
+Main result
+The independently certified sufficient local amplitude increased from1.7337332318300735e-38 to5.957062024558842e-28. Exact cumulative gain34359738368 (=2^35), computed from sealed rational records onLinux. The global analytic convergence radius remains9.760050421037206e-24. These quantities are amplitudes eta=epsilon*exp(r*t), NOT elapsed times or distances.
+
+What was achieved
+1. Replaced the generic fourth-order bound with an actual physical-source-informed unsigned bound, using validated whole-cell lower-order fields and the finite-n4 inverse. Both engine archives authenticated. Independent corrected R3 endpoint audit PASS449223checks; failed earlier audit methods preserved.
+2. Retained explicit proper-clock coefficient enclosures through ninth order and recomputed every full certificate gate; several enclosures remain unsigned bounds, not resolved coefficients. Audited progression after actual quartic:
+   actual-quartic eta9.30790941337319e-30;
+   seventh eta7.446327530698552e-29;
+   eighth eta2.978531012279421e-28;
+   ninth eta5.957062024558842e-28.
+3. Isolated current remainder bottleneck: ninth certificate normalized clock costs include retained fifth .4455842803232315 versus unknown degree10tail .001428128561657281. Distance gate .4280088353781359. Continuing to add clock terms alone is no longer the indicated next step.
+4. Qualified fifth-order bulk source identities and analytic-background compatibility: producer31controls; independent dictionary-polynomial witnessaudit6566checks.
+5. Qualified fifth-order moving-wall identities:118controls. Independent manual derivation review plus exact replay audit6003checks. One original auditor failed Python tuple/JSON list equality; separately versioned serialization-normalized replay passed, with producer unchanged.
+6. Tested full-domain global source enclosure using ALL24548 saved cells and actual uniform quartic fieldbounds. Producer48.84seconds, noODErerun; independent unrounded rationalaudit58048checks38.92seconds. This establishes computational readiness of the bulk-source route, not a fifth coefficient.
+
+Meaning
+A major part of the restrictive local guarantee was conservatism in how known terms were bounded. Explicit coefficient treatment materially improves that guarantee. The selected neutral growing family retains the established local clock/separation inequalities; positive eta has reinforced local shortening, while negative eta retains opening with the established nonlinear correction.
+This is not a finite-amplitude trajectory, late-time nonlinear development, collapse, horizon, or child-universe result. The remaining certified amplitude is still extremely small. Certificates remain relative to the existing authenticated background and analytic-family premises, not an independently reproduced entire proof pipeline. No paper claim is changed.
+
+Current authoritative terminal pins
+Ninth clock:656717ab05667a55001a3f687a0a684dd3701d76d5f9b676ee8c5ce4f2e922b1
+Fifth bulk:9ea79c5e6713ff5ba04bec3a94c6b25f1459c4ca7cd5ef59883db852738fe409
+Fifth wall:b8735f32838bb5072e3089917c98adeba0ec95cea8a15e8c5da6c48f7f3a153f
+Global fifth bulk probe:f8557fe17948db2cac2cf4240ce094f61304bb6eed50c556bf42c7727f4ffb85
+
+Next bounded measurement
+Implement actual fifth endpoint and inverse bounds using the now-qualified sources and archived states; obtain an unsigned d5 enclosure; independently audit; then recompute every full-clock gate. No fresh lower-order evolution is required by the proposed route.
+Reviewed prospective design:../20261027_FIFTH_REAL_SOURCE_DESIGN/GLOBAL_HULL_SUCCESSOR.txt
+Review dispositions:../20261027_FIFTH_REAL_SOURCE_DESIGN/GLOBAL_HULL_REVIEW.txt
+The design is NOT executable/frozen yet. Required implementation/probe/audit remain. Key corrected traps: use F+5G, not F+4G; prove D5 and J5 positivity separately; distinguish distance d4, radial D4 and wall oscillator d4_wall.
+If distance becomes limiting, explicitly retain its already known coefficients in a separately reviewed certificate rather than silently changing frozen gates.
+
+Resource/ownership
+All scientific arithmetic and independent audits ran onLinux under the exclusive1core L001 lease and2GiB per-process ceiling; no foreign job displaced. Archives/source bytes preserved; no manuscript or inventory edits. No future launch authority arises from this report. Accepted audit scope distinctions and failed audit evidence remain in their owning packets.
+

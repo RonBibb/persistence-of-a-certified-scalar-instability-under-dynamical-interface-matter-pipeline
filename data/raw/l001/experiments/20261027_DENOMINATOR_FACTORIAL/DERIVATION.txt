@@ -1,0 +1,23 @@
+Prospective real/complex denominator factorial diagnostic.
+Authenticated realinverse alpha=min_cells(rlo^2 lower(E^2)),strict rlo>hhi.
+q_n=r^2+3rh/n-4h^2/n^2>=r^2,n>=2.
+Thus J_n/n^2>=3alpha and D_n/n^2>=3alpha; use minimum over both engines.
+Prior Picard collar and real|T|<=1,E<=16,q_n<=5/2048 unchanged.
+Exact common variation bound drift=delta+delta^2/2+
+(15/2048)(32delta+delta^2). Replay authenticated prior drift anddelta.
+Newcomplex normalized|D|lower=newreal-drift,require dominates olddc.
+Keep same rho and allrealinverse Cv/Cg split channels; no new realBVP.
+Separate real-only,complex-only,joint versus baseline. Real J/D lower enters
+boundaryload and real metric anchor. Complex D lower enters F source and
+complexinverse A_n=12+160/(dc n^2),B_n=9/n^2+289*5/2048+2080/(dc n^4).
+Rebuild split2x2inverse perharmonic,unchangedreal anchors and forcing flags.
+Real-only must not replace complexD; complex-only must not replace realJ.
+Use same matched source and metric/oscillator formulas as splitpacket.
+Finite n2..64 andtail>=65 forbothengines; tail usesuniformrealinverse and
+decreasingexplicit n payments. Fullpositive source coefficients sup overrows.
+Replay baseline allsplitinverse rows,allsource coefficientpairs andweights.
+Require allnewchannels/coefficients dominated by old; joint<=eachsingle.
+No full convergencegain claimed here; successor must recompute actual maps,
+seed and allobservable certificates. Physicalparameters/solution unchanged.
+600s Linuxoldlease,fixedno-new-testcutoff1793074031 before/afteradmission.
+No manuscript/inventory edits; preserve failures.

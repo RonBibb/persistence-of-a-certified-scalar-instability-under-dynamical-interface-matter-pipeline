@@ -1,0 +1,17 @@
+Independent Linux audit: PASS.
+Reviewer: /root/jet_bound_review, 2026-10-27, before successor launch.
+
+Recomputed alpha, drift, both denominator bounds, 128 rows times two
+channels times four lanes, all seven-source harmonic transfers, controlling
+maxima and ties, baseline replay and factorial order relations.
+Verified 2,934 bindings and 8,459 gates. The audit did not regenerate
+nonlinear envelopes or run an ODE.
+
+Terminal SHA-256:
+ad465ca51484f466b59aba13e3f43fa51b2032703def62f200fe5032e7b84931
+Result SHA-256:
+0722a3eeccc31429385069540a3007098573f66f152d114174bef6ed9516bfcd
+
+Prospective full DENOMINATOR_CERTIFICATE review also passed: unchanged
+typed sources, common collar, four-way routing, 283-row replay, seed1215
+baseline replay, full remainder gates and scaled source budgets.

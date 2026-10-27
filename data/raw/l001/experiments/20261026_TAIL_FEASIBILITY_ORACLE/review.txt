@@ -1,0 +1,88 @@
+INDEPENDENT SOURCE AND SAVED-RESULT REVIEW
+Reviewer: /root/jet_bound_review. Date: 2026-10-26.
+Disposition: PASS for optimistic scalar feasibility and estimate diagnosis.
+
+The source and contract were reviewed before launch. After completion I
+independently checked source/result/binding hashes against the terminal,
+the recorded classifications and decisive rational inequalities, and the
+source-level Taylor and convexity arguments. This is not a duplicate
+execution of every exact-arithmetic operation or a new physical certificate.
+
+Terminal SHA-256:
+cb18ff625e7727f3c4425d80c90d96018c0675c51c283daab8582748e3628988
+Result SHA-256:
+6f5db68a30b9aa83fa6022aa802f60894d74b164afa83b7c774152d89dff507e
+Source SHA-256:
+bf62887ae1d2c64456d5ec4a66b92af88fa3f298c6237d8e1a65e20b1a3f51c0
+Binding SHA-256:
+1ecd3136f924276b56b35333f5d85b5bb93667b36a6f6d7551fdef12c44c1c48
+
+For f(q)=q^2/(1-q)^2, h=f-q is strictly convex on[0,1).
+Its unique minimum has f'=1. The tangent evaluated at the upper endpoint
+of the root bracket is a valid lower bound because h'(qlo)<0. The
+dimensional self-map is independently re-evaluated by the producer for
+each positive result. The Taylor2 reciprocal/product formulas use ordinary
+coefficients and retain the source-weight conventions.
+
+All declared engineering arms are present. Gains1 through32 pass only the
+optimistic scalar test. At gain40 the recorded lower bound for the global
+self-map excess is strictly positive. At gain44 the necessary derivative
+is exactly50688/50653>1; gains48,64,128 fail the same necessary condition.
+Gain1000 and the two absolute engineering amplitudes fail the domain test.
+No actual a2/a3 analytic norm bounds were supplied, so none of these arms
+is a new finite-amplitude physical certificate.
+
+The joint degree-two budget reports BI as the largest sufficient-estimate
+term, about99.16 percent. Its hypothetical perfect deletion would improve
+that fixed-other-terms quadratic budget only about118.58-fold. Neither
+number measures a physical force, energy allocation or actual mechanism.
+
+PROSPECTIVE STRUCTURAL LEAD, NOT A NEW CERTIFICATE
+
+The exact neutral graph row has zero first graph coefficient. Thus its
+order-two geometric nonlinear terms vanish; the forcing is oscillator
+kinetic stress. With the existing orientation convention,
+
+ sigma_i E_i^2 [2r(2r-h)] xi_i,2
+       - (r^2 E_i^2/2) chi_i,1^2 = 0,
+
+so xi_i,2=r chi_i,1^2/[4 sigma_i(2r-h)] and
+|xi_i,2|<=chi_i,1^2/4 for r>h>0. The background E_i^2 cancels.
+A wall-specific graph envelope beginning at degree two, coupled to a
+separate oscillator envelope and retaining metric/graph transport at
+higher orders, is therefore a concrete estimate to investigate.
+
+Do not use the lower-wall oscillator bound for both walls. The sealed
+quadratic primary record has lower chi1 about7e-5 but upper chi1 between
+486307627/8589934592 and1065314263/17179869184 (about0.057 to0.062).
+Both remain much smaller than the aggregate seed bound, but a replacement
+all-order majorant must use their separate authenticated norms and prove
+the coupled source/response inequalities. The order-two cancellation alone
+does not establish that replacement or authorize a replay.
+
+ALL-ORDER NORMALIZED GRAPH IDENTITY: ANALYTICAL REVIEW ADDENDUM
+
+I independently checked NORMALIZED_GRAPH_CANDIDATE.txt by substitution,
+not by a new symbolic execution. Put u=S_t, A=B/N, d=Db-Dp and
+e=H-Lb+Lp. The total wall derivative gives A_t/A=d-e*u and hence
+v_t=A*(S_tt+d*u-e*u^2). In the exact S7 row, multiplication by
+sigma*N^2*(1-v^2)^(3/2)/B therefore gives
+
+ S_tt+d*u-e*u^2+(1-v^2)*u*(d-h)
+       -sigma*sqrt(1-v^2)*chi_t^2/(2B)=0.
+
+Rearrangement is exactly the proposed normalized equation. Both wall
+orientations are retained through sigma; no metric or boost contribution
+has been discarded. The nonzero prefactor establishes equivalence on
+the admitted chart. For complex estimates, the square-root branch and
+nonzero factors must also be controlled on the complex domain.
+
+For n>=2, nr(nr-h)>=n^2*r^2/2>=n^2/8192, so the normalized inverse
+bound is 8192/n^2. This removes the raw E^-2 estimate from this row,
+not from all other equations. The old BI response weight cannot simply
+be replaced: the normalized source and all coupled graph, oscillator,
+metric and pulled-chart derivative estimates require fresh closure.
+Disposition: PASS as an exact analytical successor identity and divisor
+bound; no new all-order coupled majorant or physical radius certified.
+
+Signed: /root/jet_bound_review.

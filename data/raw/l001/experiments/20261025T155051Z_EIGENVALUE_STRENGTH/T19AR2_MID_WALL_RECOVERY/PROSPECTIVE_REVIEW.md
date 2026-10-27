@@ -1,0 +1,5 @@
+# Independent prospective review — admitted
+
+Checked exact source delta against failed T19A and the frozen configurations. The only algorithmic delta is an explicit 1e-4 preliminary target at n4096, with n16384 retaining the original 1e-5 final target and a separate FINAL_WIDTH assertion. Independent g endpoint audit is n32768. All strict-sign, overlap, constraint, fixed-rate, count and source gates remain. The two packets split the four original low-stiffness coordinates without changing their physical wall settings or spectral search interval.
+
+This is a fresh higher-resolution calculation, not a rescore of the incomplete T19A trace. Coarse precision is intentionally a preliminary cross-check; final acceptance accuracy is unchanged. Two cases per bounded worker make the higher cost compatible with the original one-core 590/600-second limit, without promising completion. Preserve any case-prefixed failure. No numerical propagation was performed for this review. Admission binds failed T19A source/failure/review and inherited regular/count authority plus all current sources.

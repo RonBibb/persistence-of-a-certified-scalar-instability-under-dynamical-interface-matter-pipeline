@@ -1,0 +1,20 @@
+# Methods for tightening the local wall response
+
+The completed calculation reused certified continuum enclosures rather than estimating a norm from sampled profiles. It resolved positive bounds on both local coefficients and a decisive relative wall response. The remaining absolute-width bottleneck points to the spectral bracket, not a need to launch a new evolution.
+
+## Methods ranked by additional work
+
+1. **Monotone checkpoint bounds, now completed.** Prove the required background and mode monotonicity, then integrate interval bounds on each checkpoint slab. The accepted test used inexpensive exact arithmetic without a new physical solver. It inherits the original validated flows and retains dependence on the full eigenvalue strip. An operational width failure would not invalidate the enclosures.
+2. **Narrow the certified spectral bracket if it controls the coefficient width.** The wall-constraint expression contains the common factor (mu+4k)². The ratio cancels that factor exactly, while the absolute coefficients do not. If the completed certificate shows that this factor dominates their widths, a separately frozen endpoint-sign test on a narrower bracket is more targeted than increasing precision everywhere. New endpoint signs must be certified on the same exact background; a numerical best-fit eigenvalue cannot replace the existing bracket.
+3. **Accumulate the regular norm during a validated mode integration.** If the norm is the limiting quantity, append Z_s=2 exp(2W)(f²+6psi²), with Z(0)=0, to the same interval problem and preserve exact wall-event coverage. Positive integrand does not by itself control accumulated enclosure width. A bounded pilot must establish runtime and width before any long calculation.
+4. **Validate determinant sensitivities independently.** Differentiate the normalized IVP and use the accepted regular Green identity. This offers a complementary coefficient representation but needs exact-root coverage and consistent residual normalization; endpoint secants are not a certified derivative. It is more implementation work than reusing an existing norm enclosure.
+
+These are conditional priorities, not instructions to launch successors. A norm-free ratio can be scientifically informative even when absolute coefficients remain broad. A finite stability threshold requires a separately defined parameter-continuation problem and cannot be obtained by extrapolating the local slopes.
+
+## Primary source guidance
+
+The basic interval-quadrature inclusion is the interval length times an enclosure of the integrand over the entire interval. Johansson's description of rigorous integration uses that inclusion before applying higher-order quadrature when analytic bounds permit it. Here it motivates direct slab enclosures, not a claim that a black-box integrator can validate an uncertified profile. An implementation based only on interpolated samples would need its own error bound. [Arb author's explanation, algorithm section](https://fredrikj.net/blog/2017/11/new-rigorous-numerical-integration-in-arb/)
+
+Finite wall potentials changing radion masses is established prior work. Girmohanta and collaborators find reduced radion mass at reduced stiffness in a Minkowski-brane superpotential model, and treat the associated reduced scalar-product issue. Our background is curved, our stiffness convention and action differ, and the present deformation fixes the background wall values and first derivatives. Their numerical threshold cannot be imported. The potential contribution here is a certified, model-specific quantitative response and wall comparison, not the general idea that wall potentials affect stability. [Primary paper, introduction and sections 2–4](https://arxiv.org/html/2404.05141v2)
+
+The live official FLINT/Arb documentation URLs returned access errors during this round; no API claim or runtime dependency was inferred from those inaccessible pages. The current numerical test uses its own reviewed rational enclosure arithmetic, not the external quadrature implementation.

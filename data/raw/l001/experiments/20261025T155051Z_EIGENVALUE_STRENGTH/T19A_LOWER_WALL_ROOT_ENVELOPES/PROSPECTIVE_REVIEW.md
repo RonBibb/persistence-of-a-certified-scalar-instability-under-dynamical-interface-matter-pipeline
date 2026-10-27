@@ -1,0 +1,5 @@
+# Independent prospective review
+
+Admissible as a new bounded four-case root-envelope test. Checked the source delta against accepted T15: same compact launch, strict full-L endpoint signs, g audit, count identification and immutable per-case publication; prediction comparison removed and each case configuration now overrides shared search settings. Exact compact coordinates map to lower kappa .018,.1,.3,1, with upper kappa zero. All use the declared broad bracket. No numerical execution was used in this review.
+
+The original large-kappa broad-bracket feasibility issue is resolved prospectively in Group B by narrower predeclared lower endpoints, not an in-run change. Group A remains unchanged. Fixed-rate tube gates still determine feasibility. Preserve case-prefixed failures and completed cases; no automatic retry. These roots are only anchors for a separately admitted uniform-family proof, not that proof themselves. Bind inherited count, source and accepted compact solver dependencies. Original deadline and 590/600-second resource limits remain.

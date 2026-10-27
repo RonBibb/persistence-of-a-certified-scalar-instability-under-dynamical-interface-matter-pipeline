@@ -1,0 +1,15 @@
+# Scientific/prose review addendum through T20
+
+Read the updated STATUS.md, FINDINGS_IN_PROGRESS.md and ALLOCATION_REPORT_DRAFT.md through accepted T20. The quantitative F and reciprocal ranges are outward-rounded consistently with the immutable T20 result and terminal audit. The report correctly distinguishes inherited physical nonresonance from newly demonstrated numerical denominator exclusion, retains psi(a)=1 normalization, and does not call the reciprocal an operator norm or physical condition number.
+
+The optional-Q7 wording is now corrected: the proposed regular Eulerian forced solve uses Q6 and the source constraint directly; scalar reduction requires additional checks only if selected. The second-order coefficient, forced p2/f2 fields and amplitude radius remain explicitly unknown. The stated highest-value successor is appropriate and prospective, not launch authorization.
+
+The explicit CLOSEOUT_EXPECTED_DISPOSITIONS.json now names all 21 independently reviewed packets. Original T2 remains a technical failure, T12 remains UNRESOLVED, and neither is relabeled by later successes. T9's upper-channel comparison and the two unresolved T13 minors likewise remain unresolved in the findings. No source-algebra or readout result is promoted to formation, horizon, excitation, finite-amplitude evolution or astrophysical inference.
+
+Scientific interpretation is accepted as of this reading. Documentary finalization remains separate: finish remaining prospective implementation documentation, then perform final Linux integrity/resource checks after the fixed cutoff and before publishing the manifest. This addendum is not resource closeout and does not authorize further computation.
+
+## Implementation-map reading
+
+Read IMPLEMENTATION_MAP_SECOND_ORDER.md and checked its source entry conventions against T10's actual lower_state and homogeneous_multiplier fields. The 14/13-component coupled layout, separate first/second masses, shared background rather than adding backgrounds, particular/homogeneous launch choices, analytic Sp/Sg/Sc source construction and final Eulerian distance budget are consistent with the reviewed successor derivation. Full uncertain first-order multiplier treatment is conservative; it may cause wrapping and must not be narrowed without a separate justified contract. The new recurrences must be qualified: copied parent step functions retain their own globals and cannot be presumed augmented integrators.
+
+The map appropriately requires independent source/recurrence routes, a nonzero-forcing manufactured control, full-vector Picard inclusion and predeclared feasibility probes. Source-off agreement and endpoint overlap alone would not suffice. T20 is a reference denominator check for the same normalization/domain, not permission to substitute its value into a different augmented solve. No remaining scientific contradiction or missing chart term was identified in this architecture review; implementation, admission and the actual forced solve remain future work.

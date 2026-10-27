@@ -1,0 +1,13 @@
+Independent reviewer /root/jet_bound_review: prelaunch and postrun PASS.
+Postrun bounded Linux exact arithmetic under original lease, released.
+Verified 2872 bindings and 268 recorded gates. Independently replayed all
+finite harmonic and high-tail constants for both engines, every recorded
+component row/control tie, old Cf/common C0 transfer, separate Cv/Cg maxima,
+and A/B term and share sums. All reported maxima are high n>=65.
+Scope: exact aggregate-provenance replay, not a cell reduction, new ODE,
+or new full nonlinear convergence certificate.
+
+Terminal SHA256:
+2afc529ec3a71e5d6ad81efe45079aa3a531c596296d429537f1e6abed420a6c
+Result SHA256:
+a9926a168eb8bb9b7c49a11292f48f8b4b3ee49d99d10415a5738c5979e757fb

@@ -1,0 +1,24 @@
+Scalar-component diagnostic completed on Linux with exact rational arithmetic.
+
+The coupled two-component inverse was solved with explicit positive diagonal
+and determinant checks. Its value and gradient bounds are approximately
+3.06715e6 and 3.21368e6 per unit scalar source, whereas its curvature bound is
+5.05726e12. Curvature contributes 99.9998758 percent of the separated full
+scalar norm. The full scalar norm improves by a factor 1.79846.
+
+The metric continuation needs scalar value; the differentiated metric equation
+needs value and gradient, not curvature. Retaining the old full scalar norm
+where it genuinely belongs but routing components correctly reduces the
+scalar-source coefficient of the bulk response by 10.4828. Also using the
+separated full scalar bound reduces that coefficient by 16.5369 overall.
+These comparisons hold the other source channels fixed. They are neither
+physical energy shares nor full nonlinear response or radius gains.
+
+No ODE was solved and no new convergence radius was certified. The preceding
+REAL_AXIS_OSCILLATOR_ENDPOINT certificate remains the radius authority.
+
+Next bounded test: paired full response and convergence certificates on the
+same frozen 81-point grid, with original versus component-routed scalar bounds.
+Preserve source envelopes, real C0 anchors and oscillator endpoints. Recheck
+all geometry, clock, scalar-tail, contraction and active-K-branch gates.
+Ties or reduced gains are valid outcomes; do not require an improvement.

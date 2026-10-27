@@ -1,0 +1,72 @@
+Normalized coupled source majorant
+
+The exact normalized graph identity is in the bound predecessor
+NORMALIZED_GRAPH_CANDIDATE.txt. Keep the neutral selected mode and action.
+Let B=sum U_n(p,b,f), X=sum_wall n^3|xi_n|, C=sum_wall n^3|chi_n|.
+They are coefficient norms, not signed physical fields. Y=B+X+C.
+
+Set J=(1-2X)^-1, W=4XJ, d=B(1+W),
+Zx=64+1320X+37600X^2+64(4X/gap)^3/(1-4X/gap),
+v=Zx X/(1-B)^2. A positive normalized graph source envelope is
+ I=(2+v^2)2dX+(Zx+2JB)X^2+v^2X+C^2/[2(1-B)(1-v^2)].
+It retains both metric/graph terms, h v^2 S_t, and oscillator kinetic
+stress. r,h<=1 is conservative. The reciprocal boost majorizes the
+absolute square-root series. Products summed over walls are bounded
+by products of the summed norms, so no factor2 is needed for X here.
+
+For n>=2, nr(nr-h)>=n^2/8192. Each positive primitive factor in I
+retains at least one inverse harmonic power: a bulk first derivative
+costs at worst n^-1; graph/oscillator velocities cost n^-2. Thus the
+outer n loss is bounded by total primitive degree. The graph response
+is bounded by8192 times Euler degree applied to I.
+
+Use the five retained raw envelopes BM,BK,BR,BJ,BO: the old BI is
+replaced by the normalized graph source. Evaluate the five at Y. Use retained-transport
+trace response c=Ctrace(Y). Before Euler, assemble the positive raw map:
+ xnew=8192 I;
+ sp=1.5c+64BM; sc=18sp+28c+BR; sg=2c+6sp+BK;
+ force=sg+80sc/(4dc); rw=c+39xnew/4+2BJ+BO/2;
+ g=(1/2+1/(4d0))rw+sc/d0; uf=Cscalar(force+g);
+ xp=[Cm(sc+uf+sp)+rho(uf/6+sp/2)]/(1-3rho/2);
+ yp=3xp+uf/3+sp; up=2xp+4yp+2.5uf+9sp/rho;
+ F0_B=3up+c+uf; F0_X=xnew;
+ F0_C=32768(uf/2+xnew/4+BO).
+Here Cm=11/(4d0). The oscillator response doubles the conservative
+per-wall bound; xnew also bounds either individual wall. All constants
+and other source bounds are inherited unchanged. Applying the total
+Euler operator ONCE to the degree>=2 part of this complete raw map
+pays all source harmonic factors, including a harmless extra degree
+factor for the already bounded trace response. Do not Euler-transform
+xnew once internally and a second time in the complete map.
+
+The old six source envelopes have harmless degrees0/1; remove these
+from each complete raw response component. Positivity follows from
+positive source coefficients and linear response coefficients. In the
+actual order-n solve the lower inputs are truncated below n, so those
+degrees cannot contribute; no uncertain physical remainder is subtracted.
+
+On a ray (B,X,C)=(w,lambda*w,kappa*w), define the coefficient sequence
+Z_n=max(B_n,X_n/lambda,C_n/kappa). Restriction commutes with Euler degree.
+At evaluation a, let M be the maximum of the three nonlinear masses
+scaled by(1,lambda,kappa). Each component coefficient of degree m>=2
+is <=M/a^m. Therefore K=ceil max(1,1/a,2M/a^2) supplies the inherited
+majorant K W^2/(1-KW)^2, uniformly in harmonic order. This is scalar
+domination of the compatible recursion, not a trial-field PDE inverse.
+
+Authenticate the two actual wall chi1 coefficients in both representations
+and check their summed absolute upper bound <=1/8. With B1<=16444 and
+X1=0, the ray seed is max(16444,1/(8kappa)), not a sum. It equals16444
+on the declared grid. The missing first graph coefficient is recorded;
+the uniform ray still overestimates it and is not claimed optimal.
+
+Retain all45 candidates and choose smallestK. R=1/(96K), physical
+radius=R/(8seed), with the inherited factor4 radial-collar restriction.
+Individual bounds are B<=R,X<=lambda R,C<=kappa R; thus the inherited
+physical checks and observable bounds must use Ymax=(1+lambda+kappa)R.
+Recompute chart, timelike, inverse lapse, full separation sup9Ymax/(1-Ymax),
+proper-clock sup129/32 times that separation sup, cubic Cauchy tail,
+both signed motion checks and both oscillator-tail bounds usingYmax.
+Preserve authenticated F2,F3 and first-mode observable coefficients.
+
+A larger bound is a stronger local certificate, not a useful-amplitude
+evolution or endpoint. No new ODE or source parameter scan is performed.

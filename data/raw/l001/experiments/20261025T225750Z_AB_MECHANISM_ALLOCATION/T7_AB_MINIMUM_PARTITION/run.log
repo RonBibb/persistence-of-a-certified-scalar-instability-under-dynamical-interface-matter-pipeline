@@ -1,0 +1,4 @@
+{"completed": "homogeneous", "engine": "primary", "seconds": 6.445878211059608}
+{"completed": "particular_lower", "engine": "primary", "seconds": 6.52799833600875}
+{"completed": "homogeneous", "engine": "independent", "seconds": 12.859466381021775}
+{"completed": "particular_lower", "engine": "independent", "seconds": 12.93442154803779}

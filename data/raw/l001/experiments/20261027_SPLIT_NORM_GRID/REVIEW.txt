@@ -1,0 +1,6 @@
+Independent Linux postrun review PASS,jet_bound_review.
+Verified2918 bindings,960savedgates,exact unionorder283points,dedup,
+everyseed/K,old81replay,bothfullcertificates/first-admissibletails,
+budgets/branches/effects. No independent regeneration283nonlinear masses.
+TERMINALa8c1dd6f1be3d3132052a830afc4e0d5fb4ff226f6fd1df38d9dc9937d890f48
+RESULT40d4b2cef3895ec01c141bd674f05352f328cb23f57a20b922383c7f5a6284a1

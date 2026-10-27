@@ -1,0 +1,23 @@
+Targeted optimization review
+
+Original: for each canonical polynomial monomial, remove the selected variable's
+exponent from its key and add a one-term P object into the exponent's P bucket.
+New: perform the identical key transformation, add its Fraction coefficient into
+the corresponding dictionary bucket, then construct each P object once.
+
+Both compute coefficient_n[remaining_powers] as the exact sum over the same
+input terms. Rational addition is exact; P construction canonically removes
+zeros. Degree and bucket ordering are unchanged. No equation, constraint,
+pseudo-division formula, denominator clearing, reduction basis, mutation check
+or acceptance threshold was changed. Instrumentation writes timing records
+without changing those polynomial operations.
+
+Executable pre-run equivalence passed:21 polynomials across714 variable cases.
+Inputs comprise zero, a rational constant, deterministic rational monomials,
+and up to128 monomials from every saved seventh-order pseudo-elimination input,
+output and constraint. This is an exact implementation regression test, not an
+independent physical model validation or a replacement for full compatibility.
+The full eighth-order witness checks remain in the production calculation.
+
+The failed original packet is preserved. R1 has a separate namespace and the
+same600second total limit, including pre-run equivalence and authority checks.

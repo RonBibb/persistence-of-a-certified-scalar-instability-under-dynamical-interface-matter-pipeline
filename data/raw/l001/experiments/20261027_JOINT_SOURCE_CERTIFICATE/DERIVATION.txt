@@ -1,0 +1,30 @@
+Three-lane fixed81grid full certificates: baseline,forcing,joint.
+Raw seven sources cn=U(c),xn=sum n^3|xi|,bm/bk/br bulk loads,
+bj/bo=n times maximum wall loads. sp ALWAYS denotes n||Sp||_(2n+1).
+From exact Q2,Q3 and certified complex H<=3,T<=2,mPhi<=2:
+sp=3cn/n+64bm;sc=36sp/n+112cn/n^2+br;
+sg=(2/n+4/n^2)cn+12sp/n+bk. From Q3,Q6,Q7:
+F=sg+80sc/(dc n^2);rw=2cn/n+39xn/n^2+2bj+bo/2;
+g=(1/2+1/(d0 n^2))*rw+2sc/(d0 n), S=F+g.
+All equal previous source formulas at n2. Actual signs are bounded absolutely.
+Use SAME-row certified complex x,y,total and real Cv,Cg for each finite n
+and uniform tail n>=65. Existing derivative/continuation payments retained:
+xp=[Cm(sc+sp)+(Cg/n+9Cv/n^2)S/d0+rho(xS/6+sp/2)]/(1-1.5rho),
+yp=3xp+xS/3+sp;up=2xp+4yp+13xS/6+yS/3+9sp/rho;
+B=3up+cn+totalS;C=32768[(Cv/n)S+xn/4+bo].
+Tail uses uniform inverse constants and n65 for decreasing explicit payments.
+Forcing lane retains old sp/sc/sg but matches remaining source transfers and
+inverse. Joint lane also matches sp/sc/sg. Baseline is exact previous global
+response,NOT n2 substituted inverse. Take the supremum of each FULL positive
+B,C response coefficient for each raw source over all128rows. Positive sums
+then uniformly majorize every harmonic; no claim of shared maximizing row.
+Keep source envelopes,degree counting,graph response,seed,collar and grid.
+Exactly replay baseline81rows/full certificate; certify all3selected maps.
+Report independent lane gains,active K terms and source budgets. Ties valid.
+Budgets B and C are unscaled physical response masses; C/kappa reconstructs
+the scaled oscillator mass. Both reconstruction identities are exact gates.
+Original stricter single-core lease meets new3core/VM10 ceiling. No ODE.
+600s bounded computation,no >1hour jobs. Fixed launch cutoff1793074031.
+Recheck cutoff after lease acquisition. Per authority, already-started tests
+may finish their predeclared computation and audit after the launch cutoff.
+No manuscript/inventory edits,no charged-branch claim or physical endpoint.

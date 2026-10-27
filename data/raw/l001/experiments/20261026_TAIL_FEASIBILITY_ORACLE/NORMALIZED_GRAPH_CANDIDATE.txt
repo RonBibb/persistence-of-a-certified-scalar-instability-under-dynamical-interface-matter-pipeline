@@ -1,0 +1,77 @@
+Normalized neutral graph equation for the next estimate
+
+Status: analytical successor candidate, not substituted into the sealed
+majorant or a new physical-radius certificate. The measured BI share is
+a share of the sufficient proof budget, not a physical force allocation.
+
+Use the exact neutral S7 row with oscillator kinetic stress,
+
+  R_I = sigma/(N sqrt(1-v^2)) [v_t/(1-v^2)+v(Db-h-Dp)]
+        - chi_t^2/[2 N^2(1-v^2)] = 0,
+
+where N=a(S)exp(p), B=exp(b), v=(B/N)S_t, sigma=+1 or -1.
+All bulk fields and fixed-position derivatives in this expression are
+evaluated at the same moving wall. D is the fixed-position time operator;
+L is the physical radial derivative. Total wall derivatives obey
+
+  b_t^wall = Db+(Lb)S_t,
+  p_t^wall = Dp+(Lp)S_t,
+  (log N)_t^wall = H S_t+p_t^wall.
+
+On the already required nonzero-lapse, nondegenerate-metric, timelike
+domain, multiply R_I by sigma N^2(1-v^2)^(3/2)/B. This factor is
+nonzero. The resulting exactly equivalent equation is
+
+  S_tt-h S_t = -(2-v^2)(Db-Dp)S_t
+              +(H-Lb+Lp)S_t^2-h v^2 S_t
+              +(sigma/2)exp(-b)sqrt(1-v^2) chi_t^2.
+
+The square root is the branch equal to +1 at the static background.
+For complex-amplitude estimates its analytic domain must be bounded;
+real timelikeness alone is not a complex-domain certificate.
+
+Derivation check: put w=S_t, q=S_tt, t=sqrt(1-v^2), A=Db-h-Dp.
+Then (N/B)v_t=q+(Db-Dp+(Lb-Lp-H)w)w. After multiplication the row is
+
+  q+(Db-Dp+(Lb-Lp-H)w)w+t^2 w A
+       -sigma t chi_t^2/(2B).
+
+Substituting t^2=1-v^2 yields the displayed normalized equation.
+No dynamics, sign, wall orientation, boost or transport term is dropped.
+The warp/lapse prefactors cancel before absolute-value bounds are taken;
+their remaining effect through v is still retained.
+
+At order n, the new graph divisor is nr(nr-h), rather than the raw
+sigma E_i^2 nr(nr-h). For n>=2, r>h and r>=1/64 imply
+
+  nr(nr-h) >= n^2 r^2/2 >= n^2/8192.
+
+This is an inverse bound for the normalized row, not permission to reuse
+the old raw source weight. Rebuild the graph source and its contribution
+to all other response channels consistently.
+
+For the selected branch xi_1=0. At quadratic order all geometric products
+on the right vanish; the exact remaining equation is
+
+  2r(2r-h) xi_i,2 = (sigma_i/2) r^2 chi_i,1^2,
+  xi_i,2 = sigma_i r chi_i,1^2/[4(2r-h)].
+
+Consequently |xi_i,2| <= |chi_i,1|^2/4. The E_i^2 factor cancels exactly.
+Use separate bounds at each wall: the small lower-wall oscillator value
+must not be applied to the upper wall. The first graph envelope starts
+at order two; the oscillator envelopes start at order one. Higher-order
+metric-graph, oscillator-graph and boost contributions remain mandatory.
+
+Next qualification needed:
+1. Independently verify the normalized identity against exact S7 and the
+   existing quadratic/cubic graph coefficient identities for both signs.
+2. Construct a coupled positive envelope with separately bounded graph
+   and oscillator components, preserving outer harmonic weights and the
+   same radial norm. A finite-order check is not that all-order bound.
+3. Recompute the complete response map and other six sources. Even ideal
+   deletion of the present BI quadratic budget alone would yield only
+   about118.58-fold budget improvement with all other estimates fixed.
+4. Repeat the optimistic tail gate before deciding on cubic export.
+
+This candidate addresses estimate conditioning. It does not change the
+action or establish a larger nonlinear interval, endpoint or generic flow.

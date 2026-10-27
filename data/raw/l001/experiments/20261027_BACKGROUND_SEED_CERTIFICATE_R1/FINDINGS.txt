@@ -1,0 +1,7 @@
+Full independentauditPASS. Same backgroundcollar andsame cellarchives.
+Seed1215 versus12190componentparent and16444originalwindowseed.
+radius5.809553822045956e-26,clock_eta1.2899800832069e-41.
+Gain10.03292181069959radius,80.26337448559671clockrelativeseedparent.
+ComplexboundsH1.00881966,Phi.09902643,T.02166549,E7.40332011.
+No newODE,parameterchange orpracticaltrajectoryclaim. Sourceequations
+unchanged;field-specificbackgroundenclosures tighten sufficientestimates.

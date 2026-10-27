@@ -1,0 +1,39 @@
+Shared-response diagnostic: PASS with independent exact saved-record audit.
+
+Fixed sealed FIELD_SPECIFIC_MIXED sources and selected ray. Reconstructed
+the exact selected B mass, all8 corner partitions, and7-by-8 source/path
+matrix. Nine finite hypothetical sensitivities retained. Runtime15.0897s.
+No ODE or new convergence certificate. The last certified bounds remain
+unchanged:radius1.089758925263625e-37; clock1.153827142828409e-59.
+
+Disjoint shares of the sufficient bulk bound:
+scalar-inverse times metric-anchor:0.9999801837846284
+scalar-only:0.0000198162153716124
+explicit9Sp/rho derivative payment:8.691505314698972e-18
+metric-only:3.7378432084774333e-19
+direct:2.341340146746876e-25
+remaining derivative interaction paths:exactly zero.
+
+Thus approximately99.998 percent passes through the combined scalar and
+metric response estimates. These are proof-path shares, not physical
+energy/force or actual amplification measurements. Marginal dependencies
+overlap; do not add them. The scalar marginal rounds to1 in float display,
+but its exact positive complement is approximately9.065289869680731e-18.
+Hypothetical constant reductions/floors are not admissible new constants,
+and cannot be turned into certified radius improvements.
+
+The useful next candidate is concrete: use the already-certified real-axis
+scalar bound C0 at the real metric anchor, instead of the full complex
+derivative norm Cf there. Keep Cf in complex continuation and every other
+term. This changes no inverse theorem and discards no equation or source.
+The norm premise and constraint inequality were independently checked as
+an analytic candidate, but executable qualification and the full coupled
+certificate are still required. See NEXT_CANDIDATE.txt.
+
+No successor launched. This diagnostic does not establish finite-amplitude
+evolution, a nonlinear endpoint, horizon or child formation.
+
+Terminal SHA-256:
+4ca12caf85c1ebd8b81fda34ead7f1fb7bbefcfeec3d584357f61c54e49e1266
+Result SHA-256:
+7d9caca1259523e6b5f3bfc13ec90e75732d70058e93df3fa1675f79929a90bf

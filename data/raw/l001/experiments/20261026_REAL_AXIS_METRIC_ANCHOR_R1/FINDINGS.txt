@@ -1,0 +1,41 @@
+Real-axis metric-anchor certificate: PASS, independently reviewed.
+
+Namespace-only retry of the resource-held original. All3 scientific files
+were byte-identical to the reviewed originals. Original FAILURE.json was
+preserved. Retry admitted under the unchanged lease with occupied=[];
+no other job was stopped or resource cap relaxed.
+
+Runtime25.1825 seconds; all45 candidates retained;136 gates passed.
+Certified amplitude radius:9.994284962359775e-37
+Protected proper-clock amplitude:2.1163721618417335e-58
+Radius gain over FIELD_SPECIFIC_MIXED:9.171097139619244
+Clock gain:18.342194279238488
+Selected lambda1/16,kappa1,a2^-96.
+
+The certified real-axis C0 replaced the complex Cf ONLY in the real
+metric-anchor term. All complex continuation, other scalar terms and
+oscillator terms still use Cf. No physical equation or inverse changed.
+
+Independent audit confirmed that X and C masses are exactly unchanged
+against the prior parent at ALL45 matched candidate rays, while B never
+increases. At the selected ray, B decreased by about49619.34 times.
+The full majorant is now oscillator-controlled: scaled B/X/C relative to
+the maximum are0.0007759225946796071,3.711759018985895e-24,1.
+Thus improvement of one proof component is NOT an equal improvement of
+the whole coupled certificate. The full radius improved9.17 times only.
+
+Next bounded question: check whether the oscillator endpoint response can
+use the certified real-axis f bound, rather than the full complex norm.
+This requires explicit verification of the Q5 divisor and n^3 chi weight;
+no replacement or successor run is authorized by this report alone.
+
+These are conservative local proof bounds, not physical energy fractions
+or measured instability amplification. The certified amplitudes remain
+tiny. No finite-amplitude evolution, nonlinear endpoint, generic-data
+flow, charged extension, horizon or child formation follows.
+Producer exited; no successor launched. See REVIEW.txt for audit scope.
+
+Terminal SHA-256:
+176ba3e1f4e01ce09faad6a9a5597ce118fb631bdcabbc402060e92786e060a4
+Result SHA-256:
+c557bfd9c07a5e3fbf73302561b1f6f6578e53a85327dc3b3083d42deffb0f2e

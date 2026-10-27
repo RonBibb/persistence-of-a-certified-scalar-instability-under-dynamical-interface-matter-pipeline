@@ -1,0 +1,23 @@
+Traceback (most recent call last):
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T124003Z_CONTAINMENT_DIAGNOSTIC/producer.py", line 58, in main
+    next_y=p.step(y,hq,p.rhs,p.BG_RATES,True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T115424Z_TRANSITION_COORDINATES/producer.py", line 78, in step
+    need(all(b.contains_interior(v+dt*w) for b,v,w in zip(tube,y,f)), 'TUBE_CONTAINMENT')
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T115424Z_TRANSITION_COORDINATES/producer.py", line 43, in need
+    raise RuntimeError(message)
+RuntimeError: TUBE_CONTAINMENT
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T124003Z_CONTAINMENT_DIAGNOSTIC/producer.py", line 105, in <module>
+    main()
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T124003Z_CONTAINMENT_DIAGNOSTIC/producer.py", line 68, in main
+    vl,vu=p.bounds(v); bl,bu=p.bounds(b); cl,cu=p.bounds(candidate)
+                                                ^^^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T115424Z_TRANSITION_COORDINATES/producer.py", line 28, in bounds
+    return x.lower().fmpq(), x.upper().fmpq()
+           ^^^^^^^^^^^^^^^^
+  File "flint/types/arb.pyx", line 261, in flint.types.arb.arb.fmpq
+ValueError: fmpq requires an exact, finite value

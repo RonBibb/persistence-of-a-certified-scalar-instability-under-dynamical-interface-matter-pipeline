@@ -1,0 +1,7 @@
+# Independent terminal review — T1R1
+
+Disposition: TECHNICAL_INCOMPLETE preserved. All 20 source/proof bindings match. EXECUTION records start 15:57:51.278263Z, 26.202 seconds, exit 1, reaped child 1688505. The run stopped on AMBIGUITY_LIMIT at coarse n=4096 before publishing a LEVEL or performing the required full-system audit. It is not an accepted production bracket.
+
+Independent trace/source diagnosis identifies an algorithm-order issue, not failure of the 4096 enclosure to achieve the target width. The midpoint -963/1024 remains indeterminate and is cached. Each quarter-point pair narrows the strict-sign bracket around it. On the fourth ambiguous iteration, the new lower -15415/16384 has residual strictly positive (approximately 8.51e-6 to 1.37e-5), and new upper -15401/16384 has residual strictly negative (approximately -1.01e-5 to -4.94e-6). Their exact width is 14/16384 = 0.0008544921875, already below 0.001. The source nevertheless asserts the ambiguity count before returning to the width check, producing the declared failure.
+
+These retained endpoint values explain the failure but do not rescore it: fine-resolution and independent full-system checks never executed. A new frozen successor may reorder the successful-width check before enforcing an unsuccessful-ambiguity limit, or explicitly replace that limit with the already bounded total iteration cap. Either is an algorithm-contract change requiring fresh admission. No precision/rate/equation change is justified by this trace. The original failed files remain unchanged.

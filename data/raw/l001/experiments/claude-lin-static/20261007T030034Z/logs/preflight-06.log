@@ -1,0 +1,101 @@
+slot_run: line 02_lin_static priority 5 token 1 slot 5 start 2026-10-07T04:35:15Z avail_kib 28374872 load 8.82
+{
+ "passed": false,
+ "path": "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261007T030034Z/preflight/20261007T043515Z/PREFLIGHT.json",
+ "expectations": {
+  "main_label": true,
+  "main_walls": true,
+  "main_separation": true,
+  "main_upper_jets": true,
+  "main_D_prime": true,
+  "source_tamper_label": true,
+  "phase_map_tamper_label": true,
+  "preparation_tamper_label": true,
+  "D_prime_unrecorded_label": true,
+  "root_inconsistent_label": true,
+  "verifier_tamper_unresolved": true,
+  "unit_contains_root": true,
+  "unit_misses_empty": true,
+  "main_attribution_assigned_and_verified": false,
+  "main_prediction_scored_and_verified": false,
+  "mu_point_not_applicable": false,
+  "unit_wall_position": true,
+  "unit_edges": true,
+  "raising_phase_label": true,
+  "zero_slack_label": true,
+  "fingerprint_tamper_label": true,
+  "previous_bounds_readable": true
+ },
+ "labels": {
+  "main": "REPREPARED__A_DOMINATED_BY_COMPARISON_STEP__PHI_DOMINATED_BY_STATE_RADIUS",
+  "source_tamper": "TECHNICAL_REPLAY_MISMATCH",
+  "phase_map_tamper": "TECHNICAL_REPLAY_MISMATCH",
+  "preparation_tamper": "PREPARATION_PIPELINE_MISMATCH",
+  "D_prime_unrecorded": "PREPARATION_PIPELINE_MISMATCH",
+  "root": "ROOT_ITERATION_INCONSISTENT",
+  "vtamper": "UNRESOLVED_VERIFICATION",
+  "mu_point": "REPREPARED__A_DOMINATED_BY_COMPARISON_STEP__PHI_DOMINATED_BY_STATE_RADIUS",
+  "raising": "TECHNICAL_INCOMPLETE",
+  "zero_slack": "BUDGET_NOT_CLOSED",
+  "fingerprint": "TECHNICAL_REPLAY_MISMATCH"
+ },
+ "attribution": {
+  "main": "NEXT_WIDTH__MODE_JET_RADIUS__MU_BRACKET__A_CARRIED_BY_A_BOX__A_NEXT_WIDTH_UNDECIDED",
+  "mu_point": "ATTRIBUTION_NOT_APPLICABLE__A_CARRIED_BY_A_BOX__A_NEXT_WIDTH_UNDECIDED",
+  "unit_wall_position": {
+   "Q_c7": "DECISIVE_D",
+   "Q_W0": "DECISIVE_D",
+   "Q_W1": "DECISIVE_D"
+  }
+ },
+ "prediction": {
+  "main": "NEAR_NULL_REFUTED",
+  "mu_point": "NEAR_NULL_REFUTED"
+ },
+ "failed": {
+  "main": [],
+  "r0": [],
+  "r0m": [],
+  "r0p": [],
+  "d0": [],
+  "root": [],
+  "vt": [
+   "VM1.positive.all_material_blocks_bitwise"
+  ],
+  "mu": [],
+  "raising": [],
+  "zero_slack": [],
+  "fingerprint": []
+ },
+ "widths": {
+  "old": {
+   "positive": [
+    "1.461e-7",
+    "1.228e-15",
+    "2.271e-14"
+   ],
+   "negative": [
+    "1.473e-7",
+    "1.228e-15",
+    "2.271e-14"
+   ]
+  },
+  "new": {
+   "positive": [
+    "3.163e-10",
+    "1.185e-15",
+    "2.167e-14"
+   ],
+   "negative": [
+    "3.280e-10",
+    "1.185e-15",
+    "2.167e-14"
+   ]
+  }
+ },
+ "A": {
+  "positive": "5.047e-6",
+  "negative": "5.047e-6"
+ },
+ "seconds": 360
+}

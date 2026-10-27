@@ -1,0 +1,2 @@
+Same convergence radius9.760050421037206e-24. Proper-clock-controlled amplitude5.681097054060785e-34,32768x initialwindow1.7337332318300735e-38.
+Symmetric d4 bound2.397556297391573e68 and F4abs1.3042107049080434e67; no sign resolution. L3 enclosures overlap, broadly[-208.4,230.0]. Error budget/10eta²: known quartic.42093223, unknownfifthtail.04569454, knowncubic negligible. Scalar derivative ratio.09070136, scalar.04535068, distance4.08e-7. Thus next target is tighter separation-specific d4 bound; all other gates must be retained. No physical evolution inferred.

@@ -1,0 +1,9 @@
+# Independent prospective review — local material susceptibilities
+
+Accepted T2R1 supplies the selected neutral mode, whole mass strip, endpoint traces and original-action norm. Reviewed the full exact-rational producer, configuration, derivation and bounded lease-wrapper changes. This test performs no new ODE solve and must not substitute the baseline pure-potential mode.
+
+The normalization has no missing factor two. In the bulk Green identity, the varied wall contributes a_i^4 f_i² dGamma_i/2 and the mass variation contributes Z_A dmu/2. These halves cancel. Implicit differentiation of mu=alpha(Gamma(mu,p)) gives denominator Z_A-sum a_i^4 f_i² Gamma_mu=Z_A+sum a_i²u_i²=Zext. Thus the stated susceptibility a_i^4 f_i² Gamma_p/Zext is correct. The five Gamma derivatives are correct, including the sign of Gamma_mu and the eta dependence. omega_squared is the differentiated parameter, not omega.
+
+Exact dual-number controls include zero coupling, zero eta and negative eta. The interval implementation uses crossing-zero squares correctly, retains full mass/endpoint uncertainty, checks the oscillator denominator and norm identities, and forms conservative two-engine hulls. Ratios are omitted if their denominators contain zero. Positive response at the selected eta=1 is not generalized to negative eta. The common Arb ancestry of T2's two implementations remains acknowledged.
+
+The response is a local background-preserving neutral eigenvalue derivative, not an energy fraction, finite stabilization threshold, charged spectrum or causal allocation. The complete original count is inherited, not independently reproved here. Runtime/source authentication and accepted T2R1 terminal evidence must be bound before launch. Fixed 900/910-second limits, one normal leased core, Linux-only computation and the allocation's last-start boundary apply. No successor is admitted by this review.

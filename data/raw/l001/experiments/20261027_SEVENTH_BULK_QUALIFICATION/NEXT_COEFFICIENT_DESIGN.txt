@@ -1,0 +1,73 @@
+PROSPECTIVE ACTUAL SEVENTH COEFFICIENT ENCLOSURE — NOT EXECUTED
+
+Purpose: replace the generic d7 bound only if the complete audited clock
+readout identifies retained F7 as the next obstruction. Exact seventh bulk
+and wall qualifications are prerequisites, not the coefficient result.
+This document is a resumption design, not a frozen execution contract.
+
+1. Bind the successful seventh bulk/wall terminals and independent audits,
+   actual sixth real-source result and its resolved independent audit,
+   and the latest full clock certificate. Preserve the selected family,
+   homogeneous slicing, clock normalization, radius and acceptance gates.
+
+2. Whole-domain source input: retain all authenticated lower fields. Add
+   symmetric p6,f6,g6 enclosures from the actual sixth result's constants,
+   with g6=f6'. Evaluate qualified c7,Sp7,Sc7,Sg7 polynomials in these
+   intervals. Enclose r/[7*(7r-h)] with a strictly positive denominator.
+   Do not substitute the generic seventh majorant as an actual solution.
+
+3. Endpoint jets needed by the seventh wall qualifier:
+   first jets u5,g5prime,c5prime;
+   second jets u3prime,g3second,c3second;
+   third spatial jets u1second and g1third.
+   Here u_n=p_n' and g_n=f_n'. Derive them from the authenticated original
+   reduced equations and lower source polynomials. Exact differentiation
+   identities should be qualified before interval evaluation. Do not assume
+   that an algebraically equivalent interval expression nests another one.
+   The sixth audit history gives a concrete warning about this issue.
+
+   For example, differentiate u_n=-2H*p_n-T*f_n/3+Sp_n and
+   g_n'=-4H*g_n+(m-mu_n*e+2T^2)*f_n+B0*p_n+Sg_n.
+   Differentiate again for first-order third/fourth field derivatives.
+   Background H'',T'' are already among the lower derivative data; verify
+   exactly which additional derivatives each expression actually requires.
+
+4. At each endpoint use sixth saved inputs and quantities, plus bounded
+   p6,f6,g6 and chi6=(f6+T*xi6-o6)/d6_wall. Evaluate qualified seventh
+   o7,j7,qI7; xi7=-qI7/[7*sigma*E^2*r*(7r-h)]. Record both orientations,
+   all graph/oscillator/radial divisors, and the Robin loads. Any unresolved
+   sign/divisor or derivative enclosure is technical incompleteness.
+
+5. Use the already authenticated finite-order n=7 inverse only after
+   checking its domain, transfer multiplier and normalization match.
+   With source size S=|forcing7|+7*max|Robin7|, the inherited convention is
+   |f7|<=Cf7*S/49 and |f7'|<=Cf7*S/7. Derive the p7 enclosure from the
+   radial constraint and positive D7; do not silently change its norm.
+
+6. Proper-separation coefficient: expand exp(b) through7, inserting c7
+   but omitting unknown -2*p7 in the seventh density coefficient, then
+   enclose the latter by 2*length_upper*|p7|. Endpoint transport is the
+   eta^7 coefficient of
+      Xi*exp(b) + Xi^2/2 * partial_s exp(b)
+                   + Xi^3/6 * partial_s^2 exp(b).
+   With E_n=[eta^n]exp(b), Xi starting at2, this equals
+      xi7 + xi6*b1 + xi5*E2 + xi4*E3 + xi3*E4 + xi2*E5
+      + xi2^2*E3'/2 + xi2*xi3*E2'
+      + (xi2*xi4+xi3^2/2)*b1' + xi2^3*b1''/6.
+   Independently qualify this Taylor coefficient before using it. The
+   prime here is a spatial derivative, not a total wall-time derivative.
+
+7. Independent unrounded interval audit: reproduce all new derivatives,
+   wall quantities, source/Robin/field bounds and d7 containment using an
+   independent arithmetic implementation. Exact polynomial identities may
+   qualify equivalent expression grouping; preserve any failed audit and
+   use a separately versioned correction rather than relaxing a gate.
+
+8. Only after that audit, propagate d7 into retained clock F7..F9 and the
+   direct distance tail, keeping actual d6, retained inverse coefficients,
+   global radius and original complete gates. Use baseline/distance-only/
+   clock-only/combined arms and exact parent replay. A reduced individual
+   coefficient does not itself establish the next full certificate.
+
+No seventh field profile, physical trajectory, finite-amplitude fate,
+horizon or formation claim follows from these prospective steps.

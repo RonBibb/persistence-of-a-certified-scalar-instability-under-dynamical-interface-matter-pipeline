@@ -1,0 +1,9 @@
+# Independent review of the n2 nonresonance dependency
+
+I read NONRESONANCE_DEPENDENCY_NOTE.md and the current manuscript's restricted-count reconstruction, selected oscillator comparison, Appendix M stiffness argument and O.6 baseline certificate/inference. The dependency note is correct within its explicitly inherited numerical-premise trust boundary; this reading is not a historical arithmetic replay or new spectral certificate.
+
+At any candidate mu2=-108k, the selected oscillators have d_i=2-mu2 E_i²>0 and Gamma_i=21-1/d_i>41/2>20. A homogeneous physical solution would therefore solve the constant-Hessian pure-potential problem at that pair. Since mu2<-4k, the restricted one-root count applies. Stiffness monotonicity places that root at or above the separately authenticated Hessian-(20,20) baseline root. O.6 bounds the latter above -33/25000, whereas k>3/10000 gives mu2<=-18k<-27/5000<-33/25000. Contradiction. No remaining-band exclusion or new negative-spectrum scan is needed for this narrower mass exclusion.
+
+The selected oscillator root bracket from T2R1 alone would not justify that global exclusion; the note correctly distinguishes it from the baseline O.6 bracket and invokes the count/monotonicity chain. The constrained physical mode domain and the background identity linkage are essential. Other phase/graph divisors are separately nonzero and are not consequences of the scalar bracket.
+
+For the proposed numerical shooting implementation, this theorem does not provide the size or conditioning of the chosen homogeneous residual. Both validated engines must still exclude zero for the actual full-uncertainty residual before dividing. A zero-containing numerical enclosure would be unresolved numerical feasibility, not a discovered resonance. An accepted T20 would close that quantitative denominator prerequisite only, not the forced n2 source-integration or proper-distance gates.

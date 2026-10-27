@@ -1,0 +1,15 @@
+Provenance diagnostic of the inherited real scalar inverse and complex A,B.
+Replay all finite harmonic constants, high-order constants and f transfer
+from sealed ALL_ORDER_INVERSE results and authenticated initial lengths.
+Identify controlling harmonic/range and norm components in each engine.
+Separate value and first-derivative transfer to f=E^2 y:
+finite n: Cv=ratio*n^2*c0; Cg=ratio*(n*c1+2H*n*c0).
+high n>=N: Cv=ratio*C0high; Cg=ratio*(C1high+2H*C0high/N).
+Here ratio=Emax^2/Emin^2 accounts for both forcing and solution transforms.
+Take separate maxima over every harmonic/range and both engines. These are
+diagnostic candidate constants, not a changed full nonlinear certificate.
+Do not infer actual amplification from any sufficient upper estimate.
+Partition A and B into their exact inherited terms; no coefficient edits.
+No archive-cell re-reduction; cell-level argmin/argmax is not claimed where
+the aggregate authority did not record it. No new ODE or full grid run.
+Original L001 lease, one Linux core, 2 GiB, 300-second cap. Atomic outputs.

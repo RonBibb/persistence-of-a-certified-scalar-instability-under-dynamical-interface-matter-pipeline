@@ -1,0 +1,2 @@
+G value bounds improve for n21 through64 and uniform tail; primary tail decreases from about28063.88 to512. Full certificate unchanged: radius3.718114446109412e-24; clock-controlled amplitude6.604698026019328e-39.
+Controlling C/BK contribution remains primary n23 and is F-only. Therefore G improvement cannot reduce this coefficient. B/BK control is primary n2. This identifies a proof-cost bottleneck, not a physical mechanism or nonlinear trajectory.

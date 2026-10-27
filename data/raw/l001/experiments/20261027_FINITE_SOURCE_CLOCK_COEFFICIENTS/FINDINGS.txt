@@ -1,0 +1,2 @@
+Direct finite Taylor coefficients of the existing positive source envelope improve the admitted amplitude4x with unchanged global convergence radius and physical family. This is a proof-bound refinement, not an actual signed quartic solution.
+The measured bottleneck has changed: unknown degree6-and-higher clock tail now dominates. A bounded sixth-order coefficient enclosure is the justified immediate successor, before a new quartic radial solver.

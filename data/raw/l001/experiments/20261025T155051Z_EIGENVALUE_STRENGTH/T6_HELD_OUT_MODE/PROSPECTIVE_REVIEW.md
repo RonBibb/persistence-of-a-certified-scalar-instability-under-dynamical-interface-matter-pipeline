@@ -1,0 +1,5 @@
+# Independent prospective review — T6
+
+ADMISSIBLE after accepted T5 prediction publication. Read full plan/config and source delta: the ODE producer is accepted T2 plus exact rational postprocessing against the T5 equal-0.009 prediction window. The search [-0.7,-0.3], equal Hessians 0.009, precision, resolutions, rates, tube/sign/constraint/anchor gates and caps are explicitly frozen before execution. Uniqueness and the below-critical wall condition retain the same extra-mode identity.
+
+The comparison uses containment of the full accepted fine bracket, disjointness, or partial overlap exactly as predeclared. Scientific prediction outcome cannot change technical solver acceptance. No root midpoint or refitted coefficient is used. T5 RESULT and TERMINAL_REVIEW must be bound, and T5 publication precedes this admission. A one-point outcome does not establish uniform model accuracy. Source/hash/runtime and standard resource controls remain mandatory; no numerical solve was performed for this review.

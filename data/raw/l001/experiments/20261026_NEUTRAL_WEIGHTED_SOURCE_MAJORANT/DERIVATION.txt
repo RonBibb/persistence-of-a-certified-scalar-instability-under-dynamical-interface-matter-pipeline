@@ -1,0 +1,59 @@
+Seven-source weighted majorant: separate proof-conditioning successor
+
+Keep all prior background, spectral, source-envelope, analytic inverse,
+wall-identity and seed premises. Keep the same collar and evaluation a.
+No physical parameter, numerical trajectory, or earlier result is changed.
+
+1. Positive linear response map
+The raw load vector is (qT,qM,qK,qR,QI,j,o), with the first four entries
+the certified bulk weighted norms and the last three n times the maximum
+wall load. Propagate separate nonnegative loads through the same estimates:
+ c=Cc qT, xi=Cxi QI,
+ Sp=(3/2)c+64qM,
+ Sc=18Sp+28c+qR, Sg=2c+6Sp+qK,
+ F=Sg+80Sc/(4dc), Rwall=c+(39/4)xi+2j+o/2,
+ g=(1/2+1/(4d0))Rwall+Sc/d0,
+ Uf=Cscalar(F+g),
+ Xp=[Cm(Sc+Uf+Sp)+rho(T Uf/12+Sp/2)]/(1-rho H/2),
+ Yp=H Xp+T Uf/6+Sp,
+ Up=2Xp+4Yp+(5/2)Uf+9Sp/rho,
+ Uchi=Cchi(Uf/2+xi/4+o),
+ Y=3Up+c+Uf+2xi+2Uchi.
+Here H=3,T=2,Cxi=32768,Cchi=16384, and all other constants are
+the authenticated preceding ones. This is a positive linear map of
+the seven loads. Evaluate it on each basis vector to get alpha_i>=0.
+As a control, sum alpha_i must exactly reproduce the conditioned C
+obtained by putting every raw load equal to the same unit bound.
+
+2. Remove only the unused constant and linear envelope coefficients
+For each of the seven previously reviewed positive rational envelopes Fi,
+compute Mi=Fi(a)-Fi(0)-a Fi'(0) exactly. Every remaining Taylor coefficient
+is nonnegative and has degree at least2. Hence f_i,m<=Mi/a^m for m>=2.
+The literal rational Fi formulas are unchanged. The program computes
+Fi(0),Fi'(0) by exact dual arithmetic and checks against a separately
+derived coefficient table. No floating-point subtraction is used.
+
+At order n the inputs are truncated below n, so the constant and linear
+parts cannot contribute. The primitive wall harmonic factor is still m;
+using the same factor for bulk rows only enlarges the bound. Therefore
+the aggregate recurrence is bounded by
+ [eta^n] sum_(m>=2) m [sum_i alpha_i f_i,m] Y_<n^m,
+and sum_i alpha_i f_i,m<=Mweighted/a^m,
+Mweighted=sum_i alpha_i Mi.
+Choose K=max(1,1/a,2Mweighted/a²), rounded outward to an integer.
+Then (m-1)K^(m-1)>=m Mweighted/a^m at every m>=2, exactly as before.
+
+3. Recompute, do not inherit changed numerical radii
+Use the same contraction R=1/(96K), physical amplitude radius R/(8s),
+proper-separation sup9R/(1-R), both signed-remainder dyadic selections,
+and chart/lapse tests. Recheck the two-sided and scalar-observable
+departure bounds at the new selected clock amplitude. Authenticate the
+old lower-wall scalar coefficient and two-sided coefficient enclosures.
+Require strict improvement over the previous conditioned radius; a
+failure to improve would not invalidate any preceding certificate.
+
+The directional budget records each alpha_i Mi and its exact fraction
+of the total. It identifies which proof estimate limits this construction,
+not which physical force dominates the actual nonlinear solution.
+The source inventory and all derivative costs are retained. The result
+remains a local pure-growing family, not an endpoint or generic-data flow.

@@ -1,0 +1,66 @@
+slot_run: line 02_lin_static priority 5 token 1 slot 3 start 2026-10-06T20:13:10Z avail_kib 29891488 load 1.70
+{
+ "preflight_passed": true,
+ "path": "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T185122Z/preflight/20261006T201310Z/PREFLIGHT.json",
+ "units": {
+  "exact_encoding_roundtrip": true,
+  "knot_rule_emulation_matches_mpmath": true,
+  "triangle_bounds_dominate_samples": true,
+  "arb_sup_enclosure_dominates_samples": true,
+  "jacobian_lower_bounds_samples": true,
+  "raw_gate_rejects_1e-45_coefficient_change": true,
+  "cell_gate_rejects_1e-30_value_change": true,
+  "immutable_write_refuses_overwrite_and_orphans_ignored": true,
+  "plain_casts_numpy_bool": true,
+  "plain_numpy_float_serializes_as_float": true,
+  "plain_rejects_nan": true,
+  "ambiguity_flags_and_dual_evaluation": true,
+  "freeze_guard_accepts_valid_and_rejects_four_mutations": true
+ },
+ "expectations": {
+  "fixture_has_precision_dependent_knots": true,
+  "producer_tables_match_fixture_emulation": true,
+  "only_synthetic_original_equation_rows_fail": true,
+  "synthetic_rows_detected_as_non_solutions": true,
+  "old_map_reproduced_at_both_precisions": true,
+  "canonical_like_representation_passes": true,
+  "unlike_whole_cell_gates_pass": true,
+  "historical_type_failure_reproduced": true,
+  "port_controls_pass": true,
+  "root_bounds_pass": true,
+  "inherited_receipts_pass_with_required_families": true,
+  "classification_is_E_failure": true,
+  "verifier_resolved_and_confirms": true,
+  "verifier_integrity_checks_all_pass": true,
+  "verifier_only_gates_all_pass": true,
+  "shared_plus_producer_only_equals_producer_total": true,
+  "verifier_shared_gate_count": 239,
+  "producer_gate_count": 266
+ },
+ "negative_paths": {
+  "tampered_classification": "SAVED_MAP_NOT_REPRODUCED",
+  "tamper_classified_as_saved_map_not_reproduced": true,
+  "tamper_failures_are_exactly_expected": true,
+  "tamper_whole_cell_gates_still_pass": true,
+  "tamper_verifier_resolved_and_confirms": true,
+  "tamper_verifier_only_raw_reference_fails": true,
+  "disagreement_unresolved": true,
+  "disagreement_names_the_gate": true
+ },
+ "resume": {
+  "interrupted_exit_17": true,
+  "map_files_bitwise_equal": true,
+  "case_records_equal_except_timing": true,
+  "gate_lists_equal": true,
+  "terminal_rerun_refused": true,
+  "partial_maps_refused": true
+ },
+ "timing": {
+  "direct": 53.9,
+  "interrupted": 19.1,
+  "resumed": 65.1,
+  "refuse_terminal_rerun": 0.5,
+  "refuse_partial_maps": 0.6,
+  "verifier": 15.2
+ }
+}

@@ -1,0 +1,20 @@
+Prospective real-endpoint oscillator bound, analytically reviewed only.
+
+Reviewer checked Q5: chi_n=(f_n+T_i*xi_n-O_n)/d_n,
+d_n=2+nr(nr+3h)E_i^2>=n^2/16384.
+Therefore n^3|chi_n|<=16384[n|f_n|+|T_i|n|xi_n|+n|O_n|].
+Use n^2|f(real)|<=C0*S, |T_i|<=1, n>=2 and
+Xnew>=n^3|xi_n| at either wall to obtain the per-wall bound
+16384[C0*S/2+Xnew/4+o], where o bounds n|O_n|.
+Doubling for two walls gives32768(ureal/2+Xnew/4+BO).
+
+Replace ONLY the oscillator response's uf/2 by ureal/2, where
+ureal=C0*(force+g). Keep the newly corrected real metric anchor, every
+complex continuation term, all graph/scalar/oscillator nonlinear loads,
+sources,seed,norm,grid and full certification gates unchanged.
+The summed graph response bounds either wall; the factor2 is conservative.
+
+Before launch: verify actual Q5 and divisor authority, source bindings,
+harmonic weights and executable; independent source review required.
+No stronger full certificate or physical result is claimed until the
+separate successor passes all coupled and observable checks and audit.

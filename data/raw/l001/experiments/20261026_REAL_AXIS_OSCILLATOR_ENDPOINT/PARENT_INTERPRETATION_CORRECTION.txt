@@ -1,0 +1,16 @@
+Correction recorded BEFORE execution of this successor.
+
+The preceding REAL_AXIS_METRIC_ANCHOR_R1 selected record has K=1/a
+exactly, a=2^-96. Its mass branch relative to1/a is approximately
+0.8914162889583549. Although C is its largest scaled response mass,
+the active K constraint is the evaluation-point floor, NOT that mass.
+Earlier statements that the oscillator controls the full certificate
+were too strong. Both primary and independent reviewer accept this
+correction. No sealed parent file or numerical result is changed.
+
+Consequently source tightening on the original grid cannot improve
+radius beyond the sealed parent, because every original a<=2^-96.
+Before this packet ran, the design was amended to81 paired evaluation
+points by adding exponents64,72,80,88. Both frozen-parent and new maps
+are evaluated and certified; grid and endpoint effects are reported
+separately. Ties are valid outcomes and clock effects are independent.

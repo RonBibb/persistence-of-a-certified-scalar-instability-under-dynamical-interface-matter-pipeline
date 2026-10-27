@@ -1,0 +1,15 @@
+Actual seventh coefficient enclosure PASS; producer57.18seconds.
+Independent exact-rational interval audit PASS298433 checks,59.84seconds.
+Primary d7 enclosed approximately+-2.8345097628615914e32;
+independent input-engine enclosure approximately+-2.81169397640448e32.
+These are unsigned coefficient bounds, not field values or displacements;
+the seventh distance contribution is multiplied by eta^7.
+Positive divisors and full whole-domain inverse/Robin bounds verified.
+New spatial jets evaluated as independently qualified exact polynomials.
+Transport7 independently proven by symbolic coefficient convolution;
+strict unrounded interval audit does not import producer flow.py.
+No seventh profile, coefficient sign, physical evolution or amplitude gain
+is established by this packet alone. Full certificate is a separate test.
+Terminal107d629a3819ed40acb17a124728bddda08f17e3526f9277ad18bc7202a2b43f
+RESULT54ed09a1d13c2b0c68a7ed84cc25784159c62297dd12592560e7c3cdb21ed733
+Audite78e7b081ccb4ef6075f09e20914ad701068eb9a073bea3f3c320d1b1da0c399

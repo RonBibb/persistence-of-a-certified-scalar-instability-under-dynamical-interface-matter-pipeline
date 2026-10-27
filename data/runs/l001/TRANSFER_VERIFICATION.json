@@ -1,0 +1,21 @@
+{
+  "pass_status": true,
+  "files_checked": 19416,
+  "bytes_checked": 14040303990,
+  "manifest_sha256": "1f3aee718f6fc50284af9ea840a83061f38ef1c7d9f90440b12044bc2860e82f",
+  "failures": [],
+  "unexpected_files": [],
+  "missing_directories": [],
+  "scientific_producers_executed": 0,
+  "scope": "Relocated record identity only; no mathematical or interval-trajectory regeneration.",
+  "linux_compatibility_check": {
+    "pass_status": true,
+    "checked_paths": [
+      "legacy_line/experiments/latest_ninth_terminal",
+      "public_archive/latest_ninth_terminal",
+      "public_source_entry/latest_ninth_terminal"
+    ],
+    "terminal_sha256": "2a0f983f7ac60e5359c48b5a3219136347935b1ac6d5bcd0c26fb96fbd0d9642",
+    "scientific_producers_executed": 0
+  }
+}

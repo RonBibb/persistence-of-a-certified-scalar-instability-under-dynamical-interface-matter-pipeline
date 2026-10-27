@@ -1,0 +1,9 @@
+# Independent prospective review — T7
+
+ADMISSIBLE as a new persistent-mode test. Reviewed full plan/configuration and every source difference from the accepted remaining-band producer. The same reduced system is valid for either nonzero sign of lambda. Search [-12.2,-12.02] does not cross its pole. The constrained launch psi(a)=1 gives f(a)=3lambda/[a(a)^2(T(a)ka/2-T'(a))], L(a)=ka*f(a)/2; numerator and denominator are both negative for this band and nonnegative ka. The explicit launch-sign and full initial-constraint checks agree with that derivation.
+
+Full-system psi is initialized independently to one and evolved without reset. Reduced reconstruction and full evolution must agree at the audited bracket endpoints. The zero-mass anchor explicitly selects f=1, preserving the original M21 normalization. The changed derivative-rate bounds are prospectively declared, not adjusted after observations. Negative-lambda coefficient/identity controls extend the prior positive-band controls.
+
+The 24-iteration rule with strict contraction after ambiguous midpoints is bounded and only changes endpoints on definite signs. Removing the old ambiguity counter in this new contract is explicit; earlier failures remain unchanged. Width 0.0001, same resolutions/precision, all tube/constraint/background/overlap gates and runtime caps remain mandatory. A failure is technical incompleteness, not absence of the inherited unique persistent mode.
+
+T5's original prediction window is used only after numerical acceptance, with an exact containment/disjoint/overlap classification that cannot change technical acceptance. Root identity instead uses the inherited exactly-one below-threshold theorem. Bind all prior source/proof dependencies, T5 prediction/accepted review, current source/plan/config/review and authority. No physical growth, profile-participation or nonlinear inference is admitted by this bracket test alone.

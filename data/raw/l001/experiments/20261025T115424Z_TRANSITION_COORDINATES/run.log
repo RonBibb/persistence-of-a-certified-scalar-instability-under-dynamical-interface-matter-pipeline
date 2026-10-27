@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T115424Z_TRANSITION_COORDINATES/producer.py", line 186, in <module>
+    main()
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T115424Z_TRANSITION_COORDINATES/producer.py", line 164, in main
+    coarse = level(1024)
+             ^^^^^^^^^^^
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T115424Z_TRANSITION_COORDINATES/producer.py", line 120, in level
+    y = step(y,-h,rhs,BG_RATES,True)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T115424Z_TRANSITION_COORDINATES/producer.py", line 78, in step
+    need(all(b.contains_interior(v+dt*w) for b,v,w in zip(tube,y,f)), 'TUBE_CONTAINMENT')
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T115424Z_TRANSITION_COORDINATES/producer.py", line 43, in need
+    raise RuntimeError(message)
+RuntimeError: TUBE_CONTAINMENT

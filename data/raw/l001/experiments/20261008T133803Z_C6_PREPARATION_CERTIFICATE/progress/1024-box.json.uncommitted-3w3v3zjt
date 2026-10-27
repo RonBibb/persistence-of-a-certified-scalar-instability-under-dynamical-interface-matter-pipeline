@@ -1,0 +1,17 @@
+{
+  "bits": 1024,
+  "completed_cells": 0,
+  "cpu_seconds": 0.0,
+  "elapsed_seconds": 0.0,
+  "job": "1024-box",
+  "last_durable_checkpoint": {
+    "digest": "61d2ea6a8fb947a8369800761f8b2303304ad98d2e5df49b4ff07ea46243d4d5",
+    "guard": "add2ea9e06ba1a349cc32dd9a9f4f068350f4f7b627116ec69d901689b085398",
+    "path": "checkpoints/00-000000-61d2ea6a8fb947a8369800761f8b2303304ad98d2e5df49b4ff07ea46243d4d5.json"
+  },
+  "phase": "VALIDATED_FLOW",
+  "pid": 1070894,
+  "remaining_seconds_estimate": null,
+  "source_guard": "add2ea9e06ba1a349cc32dd9a9f4f068350f4f7b627116ec69d901689b085398",
+  "state": "RUNNING",
+  "total_cells": 

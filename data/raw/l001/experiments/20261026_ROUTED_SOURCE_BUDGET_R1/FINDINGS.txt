@@ -1,0 +1,40 @@
+Routed source/path budget: PASS, 29 gates, 13.582 seconds on Linux.
+No ODE solves and no new convergence certificate.
+
+The exact 7-by-14 positive contribution matrix reconstructs the sealed
+component-routed bulk mass. Finite-response and degree-two-Jet identities
+also reproduce the parent map exactly.
+
+Disjoint transfer-path shares of the bulk sufficient bound:
+  Scalar curvature, potential coefficient B*x: 62.2882316 percent.
+  Scalar curvature, gradient coefficient A*y/2: 10.0408790 percent.
+  Metric real scalar anchor, Cm*C0: 27.6702930 percent.
+  All remaining paths together are below 0.001 percent.
+
+Source-channel shares (separate view of the SAME total; do not add to above):
+  BM mixed-row source: 30.8045767 percent.
+  TRACE response: 27.4022494 percent.
+  BJ scalar wall load: 22.9724351 percent.
+  BR radial source: 15.2686958 percent.
+  BO oscillator wall load: 3.4936918 percent.
+  BK scalar bulk load: 0.0551628 percent.
+  GRAPH response: 0.0031884 percent.
+TRACE and GRAPH inputs are already response envelopes, not raw source norms.
+
+Interpretation: there is no overwhelmingly dominant single input channel.
+The scalar inverse and curvature estimates are shared amplification paths.
+This is an attribution of sufficient bounds, NOT physical energy or force
+shares. A large estimate does not prove that it is unnecessarily large.
+
+Next bounded diagnostic: trace the real inverse constant C0 and the complex
+ODE coefficient bounds A,B back to their exact numerator/denominator
+estimates. Separate what sharper existing background information could
+justify from hypothetical reductions. If a valid sharpening is derived,
+it must be tested through the full coupled map and certificate; preserve
+all source channels and real/complex domain distinctions.
+
+Original ROUTED_SOURCE_BUDGET packet remains TECHNICAL_INCOMPLETE. An integer
+unit-basis input made BO/2 a float in the diagnostic coefficient check.
+R1 changes only that input to Fraction(1), retaining all formulas/gates.
+The parent certificate is unchanged and was not invalidated by this failure.
+No successor was launched.

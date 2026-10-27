@@ -1,0 +1,17 @@
+PROSPECTIVE: pending analytic/source review, not execution authority byitself.
+Selected neutral Q5 scalarjunction:
+normalderivative(Phi)-sigma/2*(2sigmaT_i+21(Phi(S)-Phi_i*+f)-chi).
+nu=0. Actual pulledwall potentialderivative islinear inchi withconstant
+coefficient. Thus [z^n]chi_<n=0; no nonlinear knownjunctionload fromthisterm.
+The remaining scalarjunction depends on bulkfields andgraph,not independent
+oscillator. This doesnot remove its linear coupling in the response operator.
+For degree>=2 envelopeBJ only, evaluate atW=B+X instead ofY=B+X+C.
+The substituted envelope's linear chi-surrogate neednotboundchi itself:
+its constant/linearparts are removed before everymass comparison.
+Keep all six other primitive loads unchanged: fourbulkW,graphC²,oscillatorBO(Y).
+All source responseweights,includinglinearwallcoupling,remain unchanged.
+Same1123grid,seed1215,fullaggregateY inobservable/admissibilitybounds.
+OwnperlaneJets removeconstant/linear parts; gate sixunchangedloads andBJ
+nonincrease,baseline1123/fullcertificateexactreplay,andcompletecertificates.
+No physicaldecoupling,chargedsector,ODE or nonlineartrajectoryclaim.
+Linuxsharedlease600s,cutoff1793074031;no manuscript/inventoryedits.

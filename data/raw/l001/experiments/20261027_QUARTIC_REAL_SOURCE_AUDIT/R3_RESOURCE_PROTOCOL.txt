@@ -1,0 +1,19 @@
+Predeclared reviewer audit resource successor, 2026-10-27.
+Authorized by parent before execution: full endpoint audit R3, aggregate
+1800-second cap, unchanged exclusive one-core reviewed lease. No adaptive
+cap increase or resume. The R2 full audit was never launched; preserve its
+600-second source and successful 64-cell probe.
+
+R2 probe: 64 primary cells, 4,517 checks, 13.8384 seconds including setup;
+2.5642 seconds source work. Full source projection 983.54 seconds. R2 source
+SHA-256 e7dcd5c742fbab2d0e7d486235587fb4ec208d46932a2803ab4beecfe6d9b9b9.
+The separately approved R3 budget permits the measured work with padding,
+remaining below one hour. Launch cutoff remains 2026-10-27T06:30:11UTC.
+First require strict endpoint-wall preflight to pass for both representations.
+
+Scientific checks and endpoint arithmetic are unchanged from R2; only the
+resource cap and explicit durable audit reporting change. Production sources
+and bounds are not modified. Preserve any failure, including strict source
+or wall containment failure. ODE propagation and constraint computation are
+inherited; this audit recomputes sources from every archived canonical box
+and independently reconstructs archive/inverse/integral arithmetic.

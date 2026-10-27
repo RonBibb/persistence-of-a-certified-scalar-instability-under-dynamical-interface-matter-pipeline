@@ -1,0 +1,71 @@
+Joint trace/background-jet source feasibility certificate
+
+Scope: same neutral analytic family, background, mode, inverse and norms.
+Only two positive source estimates change, in one predeclared combined
+test. All earlier certificates remain immutable. This is not an evolution
+or a physical parameter scan, and no practical amplitude is promised.
+
+1. Retained-transport trace envelope
+Use the analytically reviewed TRACE_ROUTE_SCOPING.md in this goal folder.
+Ws=4Y(1+2Y)/(1-2Y)^3,
+V=3Y+22 Ws Y/rho,
+Ctrace=138 V²/[1-160Ws/rho-840Ws²/rho²].
+Its denominator must be positive at the evaluation point. It includes
+all pulled-chart transport terms; W_uu=0 follows from the affine graph.
+Ctrace starts at degree2, c1=0, and controls the trace RESPONSE norm,
+not its raw source. Accordingly replace alpha_BT*BT by
+ alpha_c*Ctrace, alpha_c=alpha_BT/Cc,
+in the positive aggregate response budget. The other six load weights
+remain unchanged. Each recursive transport input is lower-order, so
+the positive inverse denominator is a legitimate formal majorant.
+
+2. Background composition low jets
+On the same already-certified complex collar,
+ |H|<=3, |Phi|<=2, |T|<=2, |E|<=17, m<=1, k<=1/1024.
+The exact background equations imply
+ |H'|<=2, |T'|<=26, |E'|<=51,
+ |H''|<= (2/3)*2*26+2*17*51/1024 <37,
+ |T''|<=2+4*2*2+4*3*26=330,
+ |E''|<=2*17+3*51=187,
+ |T'''|<=26+4*37*2+8*2*26+4*3*330=4698<4700.
+Therefore all background functions in the original Z inventory
+(H,T,Phi,E,T') have uniform derivative bounds 64,330,4700 through
+order2. Their Taylor composition with |X|<=4Y is majorized by
+ Znew(Y)=64+1320Y+37600Y²+
+          64(4Y/gap)^3/(1-4Y/gap).
+Orders>=3 retain the old Cauchy bound. This is coefficientwise positive;
+it does not subtract an unknown signed remainder or change the action.
+Use Znew in the existing six source-envelope formulas, with every
+transport, moving-normal, oscillator and boost term retained.
+
+3. Aggregate and predeclared evaluation ladder
+Use the exact inherited seven directional response weights. The trace
+load is now a response; divide its weight by the old Cc exactly. For the
+other six rows remove only their constant and linear coefficients, using
+the same reviewed lower-order-truncation argument. The first derivative
+table is the previous table with Z'(0)=1320 instead of256/gap.
+
+At a=2^-k for k in [64,72,80,88,96,104,112,120], require every original
+denominator and the new trace denominator positive. Retain every arm.
+For the weighted degree>=2 mass M(a), choose integer
+ K(a)=ceil max(1,1/a,2 M(a)/a²).
+The harmless common factor m still majorizes all bulk and wall source
+coefficients, including the already bounded trace response. Hence the
+same scalar contraction applies. Select the smallest integer K, breaking
+ties by the listed order. This is an optimization of sufficient bounds,
+not data-dependent alteration of a scientific acceptance gate.
+
+4. Recompute all consequences
+R=1/(96K), rho_D=R/(8s), MD=9R/(1-R), with unchanged seed s.
+Recheck contraction, chart, timelike walls, inverse lapse, and the full
+proper-clock bound MF=129MD/32 on rho_D/2. Use the already authenticated
+|F3|<10000 and -50<F2<-21. Select the first dyadic q such that
+ 10000 eta³+MF q^4/(1-q)<=10 eta², eta=rho_D q/2,
+with distance and both oscillator tails satisfying the prior gates.
+Require strict improvement over both previous certified radius and
+clock interval; failure is insufficient proof improvement, not loss of
+the earlier solution. Retain both signs and the same limited physical
+departure interpretation. Do not infer a generic-data flow or endpoint.
+
+Deadline:1793047195. One bounded Linux exact-arithmetic run, existing
+lease/runtime, then independent audit. No new ODE or physical evolution.

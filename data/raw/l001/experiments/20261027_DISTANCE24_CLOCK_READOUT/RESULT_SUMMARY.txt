@@ -1,0 +1,24 @@
+Degree24 distance full-clock readout: independently verified.
+
+No amplitude gain: eta remains1.5250078782870635e-25,128 times goal entry.
+At that amplitude, extending the distance majorant reduces the high-order
+clock-tail allowance from0.7882329262 to0.05054178839 of the fixed budget.
+Almost all the remaining candidate is the unknown inverse-lapse product.
+
+At the next doubled amplitude, its normalized cost is13.14738650194,
+whereas the distance tail costs3.352104095e-8. Retained F7 costs0.438467464.
+Thus the unresolved inverse-lapse tail, rather than distance truncation,
+is the immediate obstruction. The separate finite inverse-lapse coefficient
+test is prospective and is not part of this result. These are conservative
+proof-budget components, not measured physical fluxes or signed coefficients.
+
+Producer:195.74seconds. Independent corrected audit:6752checks,167.48seconds.
+The original audit stopped at an integer-key versus JSON-string-key
+dictionary comparison before remainder arithmetic. Its source and failure
+report are preserved. Separate R1 changes key normalization only; it does
+not change the producer, arithmetic, tolerances or acceptance conditions.
+
+Terminal SHA-256:
+b6744c7b13193b14abd3758c48097bcc6a2bb1ed77f826f3af55953da1446ad9
+R1 independent audit SHA-256:
+2975b197830b79b1d97023ab2f26e2cdc8e2ec7b04e4df23ad63c5a3eaecadeb

@@ -1,0 +1,46 @@
+EIGHTH BULK R1: PASS, independently audited
+2026-10-27
+
+User-authorized scope: targeted coefficient-grouping optimization, exact
+equivalence verification, stage-timed rerun under unchanged600second cap.
+Original failed packet untouched. No wall/jet/enclosure successor launched.
+
+Results
+- Exact grouping regression:714 variable cases over21 polynomials, PASS.
+- Producer:58 unchanged scientific checks PASS.
+- Independent dictionary-polynomial witness/integrity audit:7036 checks PASS,
+  39.766seconds. It does not independently regenerate the original PDE source.
+- Qualification elapsed148.837seconds; total through terminal publication
+  173.594seconds, including integrity checks and output serialization.
+- Same1CPU,2GiB and600second resource contract.
+
+Stage timings from main entry
+20.259s: equivalence begins
+23.298s: equivalence passes, qualification begins
+40.006s: lower sources constructed
+41.046s: raw equations constructed
+47.238s: all48 pre-elimination equation checks pass
+49.894s: seven-variable elimination begins
+59.253s: elimination complete
+148.450s: denominator clearing complete, polynomial exactly zero
+148.452s: background reduction complete, remainder zero
+148.837s: qualification complete
+
+All seven coefficient-grouping operations combined:0.498seconds. The prior
+run timed out during this grouping implementation; it had no stage timings,
+so no exact old/new speedup ratio is claimed. Denominator clearing is now the
+largest measured stage (~89.2seconds), but completion is comfortably within
+the unchanged limit. No additional optimization is needed for this test.
+
+Scientific meaning: exact eighth-order bulk source and compatibility identities
+qualified on the inherited selected analytic background. This is not an eighth
+coefficient enclosure, amplitude enlargement, nonlinear trajectory, or fate
+result. The next separate gate is eighth moving-wall qualification, followed
+by spatial-jet qualification and coefficient enclosure if those pass.
+
+Terminal SHA256:
+60d3c7d5f6dfbf9118370efe87753be8db8390ddfad759f95bfd44f6ae0d898f
+Result SHA256:
+f293fc25721fdbe2bea9196cb8d3d5de8cd23d9b6070c08183ba58c15661204f
+Independent audit:
+../20261027_QUARTIC_REAL_SOURCE_AUDIT/EIGHTH_BULK_AUDIT_R1.json

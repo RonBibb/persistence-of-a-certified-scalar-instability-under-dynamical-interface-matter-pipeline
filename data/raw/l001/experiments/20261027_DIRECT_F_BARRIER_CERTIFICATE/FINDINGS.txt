@@ -1,0 +1,7 @@
+Direct original-field forcing bound gives auditedgain1.2321465951 inradius
+and2.4642931902 inproper-clock-controlamplitude.
+Radius3.718114446109412e-24;clock_eta6.604698026019328e-39.
+Samea2^-58,lambda1/256,kappa1,seed1215;inverse-afloor nowcontrols.
+Mass/floor.92590219,B/C.9594453. Scalarforcingbound improved without a
+field-rescalingpenalty; inadmissibledirectboundsretainoldvalidproof.
+Nextprospectiveoriginal-fieldgradientbound is separate,notpartofthisresult.

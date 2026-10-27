@@ -1,0 +1,7 @@
+Independent Linux postrun audit PASS, jet_bound_review.
+Verified2908 binding entries,2129 gates,all2x7x128 exact harmonic transfer
+pairs/suprema/ties,243 savedK/selections,81parentrows/fullconstants,
+all3 complete certificates and first-admissible tails,budgets/effects.
+No independent regeneration of all nonlinear envelope maps.
+TERMINAL80197ca05cee5888dea8e91f769985f09ff3cce9d0574ac1a76b00f5c609a118
+RESULTe8fa0882509dad0ebfb32d33b1f03f0e3643571958d632ef995aa49ff0582160

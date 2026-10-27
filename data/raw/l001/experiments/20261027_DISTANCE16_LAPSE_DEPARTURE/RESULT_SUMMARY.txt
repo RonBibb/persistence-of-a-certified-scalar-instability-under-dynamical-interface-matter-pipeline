@@ -1,0 +1,23 @@
+Independently audited PASS:6,709checks60.17seconds; producer63.00seconds.
+Combined certified amplitude7.625039391435317e-26,32x immediate parent,
+64x the two-hour goal-entry certificate. This is proof-domain enlargement,
+not physical amplification or a changed solution.
+
+Factorial: distance16alone gains2x; lapse-departurealone gains1x; both32x.
+Their separate remaining obstructions explain the substantially larger
+combined improvement. All original physical/sign/observable gates retained.
+
+Accepted clock budget0.3289634465:
+  retained sixth bound0.2334660203;
+  retained seventh bound0.0004281909;
+  unknown tail0.0950692351;
+  other terms negligible at this amplitude.
+Next doubled amplitude fails clock alone; distance and scalar gates pass.
+Both retained sixth and unknown tail require attention, not sixth alone.
+
+Terminal:d281d26a7a44ea246ea419df675603033c9314aa44660e4444c4006c42ea691b
+Result:b1505dc8f4c119fb807054c2ef401d31d6669ff5ebd495b7525f697667005fc8
+Audit:db81ec05112d81dee4723b38d4f4905ec07a22e8475ef999eb96f2e6cdad5d19
+Audit file:../20261027_QUARTIC_REAL_SOURCE_AUDIT/DISTANCE16_LAPSE_AUDIT.json
+No new evolution, global analytic radius, or late-time fate claim.
+Documentary summary, outside frozen mathematical source inventory.

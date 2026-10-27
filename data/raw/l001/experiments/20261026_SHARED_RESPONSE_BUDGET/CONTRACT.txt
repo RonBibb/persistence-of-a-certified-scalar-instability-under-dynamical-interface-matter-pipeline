@@ -1,0 +1,22 @@
+Fixed-input shared-response diagnostic; no new convergence certificate.
+
+Use the sealed FIELD_SPECIFIC_MIXED selected ray, source envelopes, norm
+and constants. Reconstruct the exact bulk mass before any attribution.
+Track three formal multipliers in the positive linear response chain:
+Cscalar (scalar inverse), Cm (metric reconstruction), and9Sp/rho (explicit
+source-derivative payment). These are bookkeeping variables, not model
+parameters or admissible replacement bounds.
+
+Evaluate all8 zero/one corners and recover disjoint multilinear coefficients
+by exact inclusion-exclusion. Verify nonnegative coefficients, all8 corner
+reconstructions, and the seven-source by eight-path matrix column sums.
+The scalar-times-metric interaction is counted ONCE in the disjoint table.
+Marginal dependency shares overlap and must NEVER be summed as independent
+contributions. Check finite sensitivities for factors2,10,100 reductions
+one constant at a time, with fixed sources; record zero-constant floors
+as hypothetical diagnostics only. No inferred certified radius or physical
+cause is authorized by these hypothetical replacements.
+
+Linux-only exact arithmetic, original L001 lease, one CPU/two GiB/300s.
+Frozen source/runtime authentication, parent untouched, failure retained.
+Independent source review before execution and bounded post-run audit.

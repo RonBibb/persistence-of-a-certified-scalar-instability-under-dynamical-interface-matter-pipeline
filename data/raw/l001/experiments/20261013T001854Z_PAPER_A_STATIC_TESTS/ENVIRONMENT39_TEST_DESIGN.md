@@ -1,0 +1,9 @@
+# Saved archive replay under a second Python version
+
+This fifth test asks whether the two unchanged original saved-evidence entrypoints produce the same outputs under system CPython 3.9.6 as their sealed CPython 3.14.4 runs. It is an execution-environment portability test, not another mathematical reconstruction. It must follow independent audit of the central-mode test and receive a separate gate before execution.
+
+Use the previous portable archive packet, `20261012T203556Z_PAPER_A_PORTABLE_ARCHIVE`, read-only. First verify all files in its authority and consolidation manifests, reject path escapes and symlinks, and authenticate the old stdout against its saved metadata. These integrity checks are prerequisites. Execute only the original `verify_upgrade.py` and `verify_evidence.py` through `/usr/bin/python3 -I -B`, sequentially from `/private/tmp`, with a 120-second timeout per entrypoint. Do not invoke staging scripts, archived producers, or the old capture driver.
+
+The pass criteria are Python 3.9.6 reported by the selected interpreter, return code zero, empty stderr, JSON status PASS, and byte-for-byte stdout equality with the corresponding sealed primary-archive Python 3.14.4 output. The archive root is identical for each version, so the consolidation root field does not require normalization. Save new command, version, UTC time, stdout, stderr, return code, hashes and comparisons only in the new static-test packet. Preserve an incompatibility as a failure, without patching either original verifier.
+
+The conclusion is limited to these two standard-library entrypoints on one macOS host with two Python versions. It does not validate Linux, numerical libraries, producer replay, all archived scripts, or the entire paper archive. After independent audit, assess remaining work against the original deadline; no further test is implied by a pass.

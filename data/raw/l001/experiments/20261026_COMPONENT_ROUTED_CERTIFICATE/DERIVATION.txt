@@ -1,0 +1,17 @@
+Paired component-routed scalar/metric certificate, fixed 81-point grid.
+Use the positive two-by-two inverse certified in COMPLEX_SCALAR_COMPONENT_BUDGET.
+X=n^2||f||p, Y=n||f'||p+1, Z=||f''||p+2 are separately bounded by xS,yS,zS.
+The prior closed-stadium argument establishes finite norms before inversion.
+For S=force+g, retain real anchor C0*S and real oscillator endpoint C0*S.
+Metric continuation uses only value xS: xp=[Cm(sc+C0S+sp)+rho(xS/6+sp/2)]/(1-1.5rho).
+Then yp=3xp+xS/3+sp and up=2xp+4yp+(13/6)xS+(1/3)yS+9sp/rho.
+Bulk response remains 3up+cn+(x+y+z)S. Graph and oscillator responses unchanged.
+All source envelopes, geometry, norm definitions and seeds are inherited.
+Replay all 81 sealed-parent rows exactly. Compare new and old on the SAME grid;
+no grid search extension. Select least exact K; ties retain declared order.
+Run all inherited selected-map contraction, geometry, clock and scalar-tail
+checks on both maps and reproduce parent selected constants exactly.
+Record active K terms and radius and clock gains separately. No gain is required.
+One Linux core, 2 GiB, original aggregate lease, 600-second timeout. Failure
+is immutable and requires fresh-namespace recovery; sealed parents never written.
+This is a local neutral analytic certificate, not finite-amplitude evolution.

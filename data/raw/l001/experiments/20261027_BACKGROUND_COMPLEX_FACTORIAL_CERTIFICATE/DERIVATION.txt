@@ -1,0 +1,30 @@
+Prospective complex-background factorial, analytically reviewed before code.
+Same authenticated background collar, rho, real F/G inverse rows and family.
+Write B0abs=12H*T+4m*Phi and Tp=m*Phi+4H*T with audited positive complex
+field bounds and full parameter upper endpoints from BACKGROUND_SEED_R1.
+Exact Q3/Q4 scalar elimination implies
+  A_n=4H+B0abs*T/(dc*n^2),
+  B_n=(m+2T^2)/n^2+(5/2048)*E^2+B0abs*Tp/(dc*n^4).
+Keep the inherited qmax5/2048; no mode-rate assumption tightened.
+These replace coarse12+160/(dc*n^2),9/n^2+289*5/2048+2080/(dc*n^4).
+Independently, F-source elimination80*Sc/(dc*n^2) can use B0abs instead.
+
+Four lanes: baseline, inverse-only, source-only, both.
+For inverse axis rebuild positive2x2 complex extension of each unchanged
+real F/G row with its forcing flag; same rho and complete128-row coverage.
+For source axis change only the80 coefficient in F; keep sp,sc,sg and
+Robin sourceG unchanged. Retain audited real metric anchor T0/Tp0 and
+improved summed oscillator coefficient2/alpha in every lane.
+Require A/B/source domination, positive determinants, exact old baseline
+rows/weights/full certificate and source-wise pair factorial domination.
+Take complete positive B/C source-pair suprema, never mix row maxima early.
+Finite2..64 plus tail>=65 with decreasing explicit n payments and uniform
+real inverse constants; background changes introduce no growing n factor.
+
+Then same883 grid, source maps,seed1215 and full aggregate geometry and
+clock/scalar remainder gates for all four certificates. No guaranteed gain.
+Selected exponent60 was previous grid edge; report boundary limitation
+without silently extending grid. Any extension is a separate next test.
+Linux reviewed shared lease,600s cap,cutoff1793074031 before/afteradmission.
+No manuscript/inventory changes or nonlinear-trajectory claim.
+Source prepared for prospective review. No test launched.

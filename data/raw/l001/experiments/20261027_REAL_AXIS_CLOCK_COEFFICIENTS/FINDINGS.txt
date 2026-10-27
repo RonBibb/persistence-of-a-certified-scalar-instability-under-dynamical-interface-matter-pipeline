@@ -1,0 +1,3 @@
+Removing the inner-complex-collar factor from real-axis finite coefficient extraction improves the admitted proper-clock remainder amplitude by 16x. The global complex majorant and convergence radius are unchanged.
+Independent audit passed. The remaining dominant restriction is the unsigned quartic coefficient enclosure, not the next unknown tail order. A genuinely sharper fourth-order coefficient or source-resolvent enclosure is the next justified target.
+The improvement concerns sufficient analytic bounds. It does not measure a physical instability timescale, nonlinear trajectory, collapse or horizon.

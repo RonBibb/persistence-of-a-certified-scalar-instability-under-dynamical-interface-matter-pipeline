@@ -1,0 +1,48 @@
+slot_run: line 02_lin_static priority 5 token 1 slot 5 start 2026-10-07T00:41:44Z avail_kib 28577528 load 10.99
+{
+ "passed": true,
+ "path": "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T230904Z/preflight/20261007T004145Z/PREFLIGHT.json",
+ "expectations": {
+  "seam_label": true,
+  "seam_contains": true,
+  "seam_walls": true,
+  "seam_separation": true,
+  "inflated_label": true,
+  "inflated_contains": true,
+  "inflated_radius_limited": true,
+  "inflated_walls": true,
+  "inflated_separation": true,
+  "tamper_label": true,
+  "inconsistent_label": true,
+  "not_narrowed_label": true,
+  "unit_contains": true,
+  "unit_both_exclude": true,
+  "unit_flipped_empty": true
+ },
+ "labels": {
+  "seam": "DSTAR_NARROWED__A_DOMINATED_BY_COMPARISON_STEP",
+  "inflated": "DSTAR_NARROWED__A_DOMINATED_BY_STATE_RADIUS",
+  "tamper": "ACCEPTED_FLOW_REPLAY_MISMATCH",
+  "inconsistent": "EVENT_EXCLUSION_INCONSISTENT",
+  "not_narrowed": "DSTAR_NOT_NARROWED__A_DOMINATED_BY_COMPARISON_STEP"
+ },
+ "widths": {
+  "seam": 2.0,
+  "inflated": 22.0
+ },
+ "units": {
+  "contains_s_star": true,
+  "excluded_by_e_I": 4094,
+  "excluded_by_e_R": 4094,
+  "both_functions_exclude": true,
+  "sign_flipped_robin_gives_empty": true,
+  "kept": 2
+ },
+ "failed": {
+  "seam": [],
+  "inflated": [],
+  "tamper": [],
+  "inconsistent": []
+ },
+ "seconds": 609
+}

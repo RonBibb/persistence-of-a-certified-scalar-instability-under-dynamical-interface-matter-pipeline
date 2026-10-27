@@ -1,0 +1,20 @@
+PASS independently audited: 6,669 checks, 33.13 seconds.
+Four-arm result on unchanged physical-amplitude dyadic grid:
+baseline, distance-only, contour-only and both all certify
+eta=1.1914124049117683e-27. No amplitude gain in this packet.
+
+The joint arm selects theta=9/10. Clock gate usage improves from
+0.3656455656 to 0.00915226039. Distance gate usage improves from
+0.8560699243 to 7.24659727e-26. The next doubled amplitude now fails
+ONLY the clock gate (ratio2.34329319276). Thus the distance obstruction
+is removed within this certificate; the clock estimate still needs work.
+
+These are improvements to sufficient proof bounds, not changes in the
+physical solution or evidence of a new dynamical effect. Global analytic
+radius, same-family assumptions and acceptance criteria are unchanged.
+
+Terminal SHA256:6df0d6cd82df75e68df5168a8d06985ec821bd975d7a48f65bb3e25d09600ba5
+Result SHA256:fa88444820521472c83953623cbbb556631528040e66d9deb2ae67d47d59c4c2
+Audit SHA256:d2db2712280600ccf7925c8a49994ce6817bd96650280de7224c8b105d4d795e
+Audit file:../20261027_QUARTIC_REAL_SOURCE_AUDIT/CONTOUR_DISTANCE_AUDIT.json
+Documentary summary, not part of frozen mathematical source inventory.

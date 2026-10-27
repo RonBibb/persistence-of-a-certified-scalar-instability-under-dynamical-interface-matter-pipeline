@@ -1,0 +1,21 @@
+slot_run: line 02_lin_static priority 5 token 1 slot 9 start 2026-10-07T04:31:33Z avail_kib 29337348 load 8.58
+Traceback (most recent call last):
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261007T030034Z/code/preflight4.py", line 540, in <module>
+    sys.exit(0 if run_all() else 3)
+                  ^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261007T030034Z/code/preflight4.py", line 434, in run_all
+    main, mbase, lam, st, Dp, boxes, C, files = main_fixture(root)
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261007T030034Z/code/preflight4.py", line 255, in main_fixture
+    status, prod, ver = campaign(base, P, V4, Dp, previous=previous)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261007T030034Z/code/preflight4.py", line 219, in campaign
+    cases = {w: verify4.verify_case(V4, w) for w in CASES}
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261007T030034Z/code/verify4.py", line 414, in verify_case
+    own, S = own_stage_a(C, w)
+             ^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261007T030034Z/code/verify4.py", line 204, in own_stage_a
+    'cells': {i: cells[i] for i in (last - 1, last)}}
+                 ~~~~~^^^
+KeyError: 127

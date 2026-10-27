@@ -1,0 +1,27 @@
+Seventh bulk algebra prerequisite: independently audited PASS.
+
+Producer53checks,153.53seconds. Independent audit6873checks,26.93seconds.
+The original bulk trace/mixed/scalar/radial equations were extracted
+through degree7, with all authenticated lower rows through6 reproduced.
+New source polynomials depend only on lower-order fields. Compatibility
+uses six exact triangular elimination witnesses, cumulative T power14,
+specified rational-factor clearing and the background first-integral ideal.
+The audit independently verifies those polynomial witnesses, divisor
+clearing and reconstruction. Direct nonlinear extraction and lower/full
+row generation are source-reviewed qualifier evidence, not a second
+independent PDE oracle. Analytic continuation across isolated T zeros
+retains the selected-background hypotheses; no physical division by T.
+
+This is not a seventh field solution, signed coefficient, d7 enclosure,
+moving-wall qualification, amplitude gain or finite trajectory. The full
+audited amplitude remains3.050015756574127e-25,256 times goal entry.
+The separately staged wall qualifier remains unrun at window closeout.
+
+Terminal SHA-256:
+3e15ac94e14bdcb1a042f7af90c4fc78ee91250389bdae761ee6dcfb3715a049
+Independent audit SHA-256:
+89f0d76a6d906e38d4954cd11c3ff75a1b92a3bc0d3965ee85c25eae895c63fb
+
+Next steps are specified in NEXT_COEFFICIENT_DESIGN.txt and its documentary
+review. Current launchers contain this window's fixed cutoff, which must
+not be extended. They cannot authorize a later execution window.

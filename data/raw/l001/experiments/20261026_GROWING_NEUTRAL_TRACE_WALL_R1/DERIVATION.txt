@@ -1,0 +1,69 @@
+Conditional all-order trace and wall closure, neutral growing family
+===================================================================
+At a static background take the exact first variation with a general
+temporal rate lambda. The exact polynomial qualifier verifies the rows
+  trace: lambda(lambda-h)c,
+  graph: sigma E^2 lambda(lambda-h)xi,
+  oscillator: [2+lambda(lambda+3h)E^2]chi-f-Txi,
+  scalar normal: g+T'xi-Tc+2Tp-sigma[21(f+Txi)-chi]/2.
+It retains displacement, moving evaluation of the background scalar, and
+oscillator coupling. Velocity-square/boost effects have no linear term.
+
+Why this is the principal operator at every order, not an extrapolation
+from the quadratic and cubic results: expand in positive ordinary powers
+of eta with eta_t=r eta, fixed static zeroth-order data and zero currents.
+At order n, a new nth-order coefficient enters linearly, with derivative
+rate lambda=nr. Multiplying it by any positive-order perturbation gives
+order greater than n. Analytic inverse lapse/boost/composition expressions
+therefore contribute the exact first variation as the new-order operator;
+all other nth-order terms involve only lower coefficients. Calling those
+known sources QT,QI,o,j does not supply a bound on them or prove convergence.
+
+The forced rows are
+  nr(nr-h)c_n=-QT_n,
+  sigma E^2 nr(nr-h)xi_n=-QI_n,
+  d_n chi_n-f_n-Txi_n=-o_n, d_n=2+nr(nr+3h)E^2,
+  scalar-normal-principal+j_n=0.
+Since r>h>0 and n>=2, nr(nr-h)>=n^2 r_min^2/2.
+The growth rate is constant in the radial variable. Thus for
+  U_n(v)=n^2||v||+n||v'||+||v''||,
+  U_n(c_n)<=Cc[||QT_n||+||QT_n'||/n+||QT_n''||/n^2],
+  Cc=2/r_min^2.
+The two derivatives are explicit supplied regularity, not a derivative gain.
+With Emin2=min E^2,
+  n^2 max|xi_n|<=Cxi max|QI_n|, Cxi=Cc/Emin2,
+  n^2 max|chi_n|<=Cchi[max|o_n|+U_n(f_n)/4
+                                  +T0*Cxi*max|QI_n|/4],
+  Cchi=1/(r_min^2 Emin2).
+The latter uses d_n>=n^2 r_min^2 Emin2 and n>=2.
+
+Exact scalar/oscillator elimination gives the metric packet's Robin load
+  R_n=2sigma T c_n-2sigma T'xi_n+Gamma_n Txi_n
+      -2sigma j_n+o_n/d_n,
+  Gamma_n=21-1/d_n, 0<Gamma_n<21.
+Both orientations are polynomial-qualified after multiplying by d_n.
+Consequently
+  n max|R_n|<=T0*Cc*||QT_n||
+      +(Tp0+21T0/2)*Cxi*max|QI_n|
+      +2n max|j_n|+(Cchi/2)max|o_n|.
+
+Define M_n as the sum of ||Sc||,||Sg||,n||Sp||,||Sp'||,
+||QT||,||QT'||/n,||QT''||/n^2,max|QI|,n max|j|,max|o|.
+Compatibility Sc'+4HSc-TSg-DSp=0 remains required, with Sc differentiable.
+The previous metric input norm is at most loadfactor*M_n, where
+  loadfactor=max(1,T0*Cc,(Tp0+21T0/2)*Cxi,2,Cchi/2).
+Multiply its scalar and p response constants by this factor. Then
+  U_n(b_n)<=U_n(c_n)+2U_n(p_n), b_n=c_n-2p_n.
+The oscillator constant is Cchi*(1+Cscalar/4+T0*Cxi/4).
+
+This closes the conditional real-axis LINEAR response map for all neutral
+orders n>=2, including raw junction, graph and oscillator loads. It does
+not close the nonlinear fixed-point map. No complex collar/source estimate,
+analytic-family radius, controlled finite-amplitude dynamics or endpoint
+follows without those additional proofs. The n=1 eigenmode is prescribed
+with fixed normalization; the n=0 background is held fixed.
+
+Revision R1: explicitly authenticate the independently qualified wall-series
+source. The predecessor stopped before qualification on missing provenance;
+its failure and source remain untouched. No scientific equations or gates
+were changed.

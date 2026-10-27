@@ -1,0 +1,16 @@
+Prospective background-resolved real metric anchor, isolated from other estimates.
+Exact compatible constraint Q3: Dp=Sc-T fprime+Tprime f.
+For each separate F/G real inverse row, replace scalar anchor payment
+(Cg/n+9Cv/n^2) by(T0 Cg/n+Tp0 Cv/n^2), all same harmonic/range.
+T0=audited background complexT; Tp0=mPhi+4HT using full audited parameter
+upper bounds. These complex bounds also enclose the real interval.
+Require T0<=1,Tp0<=9. Keep direct Sc/d0 and all complex continuation,
+source transfer, Robin, oscillator response and source maps unchanged.
+Rebuild all128rows for seven sourcebasis vectors; replay every old pair,
+keep C coefficients identical, prove B nonincrease then take full sup.
+Common tail realCv/Cg unchanged and explicit1/n payments decrease.
+Actual C weights remain the latest tighter oscillator weights; old Cpair
+replay uses unscaled diagnostic32768 only as bookkeeping crosscheck.
+Same883grid,seed1215,own lowJets,baseline exact rows/fullcertificate,
+all geometry/contraction/observable gates retained. Not a physics change.
+Linux sharedlease600sec;cutoff1793074031;no manuscript/inventory edits.

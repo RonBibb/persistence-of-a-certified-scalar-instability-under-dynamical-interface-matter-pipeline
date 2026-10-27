@@ -1,0 +1,9 @@
+PASS: independent6899-check audit,101.21seconds; producer106.40seconds.
+All five gates pass at bothR/16 andR/8. R/8 eta1.2200063026296508e-24
+is four times this goal's entry certificate. Clock0.0027847019859,
+distance7.42158e-23, scalar7.35509e-8, scalar derivative2.95918e-7.
+F8 cost0.00272108; F9 cost0.0000636188; unknown tail4.30383e-9.
+Old enormous clock failure was conservative tail accounting, not an
+observed physical failure. Same family, radius, actual coefficients/gates.
+Terminal8b4f152a0e9bd3feb292d1a7834126dac87c8d585692dd37f99242f2c42fb5ac
+Audit40c7798f1dd6f085fcaeb861b9dbf7dfe6d91a23b42ad89e8329622269ebc5c1

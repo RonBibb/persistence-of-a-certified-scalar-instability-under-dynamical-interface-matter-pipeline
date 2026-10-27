@@ -1,0 +1,15 @@
+# Transition asymmetry and interaction bounds
+
+Question: can the certified two-wall transition be explained by unequal linear wall responses plus a bounded nonlinear interaction, robustly across both propagation routes and arithmetic implementations? This is exact algebra on accepted T4,T6,T7 enclosures, not new integration, eigenmass computation or a changed model. Prerequisite: all three terminally accepted.
+
+Construct coefficientwise UNION of the three fine transfer boxes, not an intersection or selected narrowest result. Retain all individual inputs and exact rational endpoints. For positive a,b,d and negative c the exact transition is y=-(2c+dx)/(a+bx/2),0<=x<=xcrit=-2c/d. The threshold ratio ycrit/xcrit=d/a measures boundary-response asymmetry without depending on c. Lower-wall total-budget saving relative to upper-only is1-a/d. Bound both by sign-aware exact Fraction arithmetic; d_low>a_high must be certified before claiming a lower-wall advantage.
+
+Derive the interaction identity y_linear-y=(b*x/(2a))*y, where y_linear=-(2c+dx)/a. Since0<=y<=ycrit*(1-x/xcrit), x*y<=xcrit*ycrit/4, so the global absolute interaction shift is bounded by b*xcrit*ycrit/(8a). Report a conservative bound relative to the upper-only intercept using that absolute upper bound divided by its lower bound. No sampled grid is used to infer this uniform bound.
+
+For equal walls k, k_linear-k=b*k^2/[2(a+d)] exactly. Bound k with48-step exact coefficient-envelope bisections on[0,.1], then obtain lower/upper bounds on the positive interaction shift by positive factor bounds. Report k and k_linear independently; do not subtract broad intervals to manufacture a signed small effect. This identity retains correlation analytically. Actual zero-containing numerical classification bands remain unresolved.
+
+Controls: exact synthetic coefficients(a,b,c,d)=(2,1,-1,3) verify the fullcurve identity at x=0,1/6,1/3,1/2,2/3 and chord inequality; equalwall identity verified at synthetic k=1/4 with c selected exactly by the same polynomial (control only, not changed physical model). Crosscheck sign-aware ratio intervals against coefficient corners. Check union contains each input; actual global slope<-1 proof from T5 repeated on union; positive rootwidth<=1e-4. PASS requires controls/proof inequalities/bindings; size of interaction is reported, not adjusted to meet a selected smallness target.
+
+Scope: one/two negative regular scalar modes of fixed concave background with normalized wall Hessians; one mode persists. No statement about generic backgrounds, nonlinear stability, growth rates or original central example. Independent prospective and terminal reviews; if no indispensable validation remains after this synthesis and T7 audit, assess defensible completion of this allocation objective rather than launch unrelated scans.
+
+Bind own3,T5producer used for exact S/bisection/formatting, allthree fineLEVEL/RESULT pairs, originalanalyticalproof. Python3.12.3 pinned, Fraction only. Normal1core admission/HOLD/CPU/L001 leases,1GiB,600/590secondcaps,startbefore16:12:07Z,noretry/queue.

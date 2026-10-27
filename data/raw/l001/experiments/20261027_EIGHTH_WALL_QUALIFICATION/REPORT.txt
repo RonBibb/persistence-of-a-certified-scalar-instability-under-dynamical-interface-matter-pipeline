@@ -1,0 +1,29 @@
+Eighth moving-wall qualification and audit: PASS
+2026-10-27. Authorized fresh window13:45:16–14:15:16UTC.
+Each calculation retained600second cap and exclusive1CPU/2GiB lease.
+
+Producer:192 checks PASS,23.9207seconds through qualification.
+Audit:6962 checks PASS,27.7612seconds.
+Both processes completed normally. No downstream calculation launched.
+
+The producer checks both wall orientations, replay through seventh order,
+eighth oscillator/scalar/graph identities, Robin elimination, lower-only source
+loads, complete normal-boost convolution including3v^4/8, omission detection,
+and Taylor coefficients of the newly required spatial/background derivatives.
+
+Audit scope: source-reviewed exact qualifier replay, explicit control coverage,
+and immutable bindings. It is not a second independently generated nonlinear
+wall equation oracle. High background derivatives remain independent symbols
+here; their differential identities and interval bounds are separate work.
+
+Meaning: the moving-boundary algebra gate for eighth order is closed under
+the stated qualifier and audit. No d8 enclosure, larger admitted amplitude,
+nonlinear trajectory or physical fate has been established by this test.
+Next separate gate: spatial-jet qualification, then coefficient enclosure if
+the jet qualification passes. These were not launched in this authorization.
+
+Terminal SHA256:
+854a5137e4a89320140963d3bd5ff8eee1196c6ba4ed64ed142dcf8839e6a4db
+Result SHA256:
+bdf60604b827c0b78ac65238c29f8b487689e6c74e35e18585450659e728ce47
+Audit:../20261027_QUARTIC_REAL_SOURCE_AUDIT/EIGHTH_WALL_AUDIT.json

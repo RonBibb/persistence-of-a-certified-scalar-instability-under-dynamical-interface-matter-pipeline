@@ -1,0 +1,8 @@
+Independent audit PASS: 6712 checks, 124.83 seconds. Producer 141.24 seconds. No amplitude gain from this packet; accepted eta remains 7.625039391435317e-26, 64 times current goal entry.
+Direct product tail allowance at accepted eta decreases from 0.09506923511099812 to 0.0002181984305329947 of the clock budget. The retained sixth allowance is 0.23346602030317093. Existing actual d4,d5 substitution has negligible effect.
+At next dyadic, clock ratio 4.53739137: sixth 3.73545632, unknown tail 0.788232926, seventh 0.0137021. All nonclock gates pass. Thus sixth alone fails at that point, though passing it does not by itself prove the sum passes.
+Read-only independent term diagnostic: the leading 5*r*d6 enclosure is about 6.9064570e100. Largest nonleading d1*e5 term is only 1.3613e-18 of that bound. This identifies the generic d6 estimate, not L5, as the next useful target. These are proof-budget terms, not measured physical components.
+Terminal SHA256 5ff61d0af49e68db3eb46f29a3720ef649ce7fdd49facbeda48a9ccdbf2187c7
+Result SHA256 bffde8da97e3f08e24312622cae919193170eff99e9c7fc53308f307ca193b6b
+Independent audit SHA256 43b54ca29a55480029ef987ac94af6341d80ea6d64a7a5706394baadb895a237
+No physical evolution, finite-amplitude fate, or signed sixth coefficient claim.

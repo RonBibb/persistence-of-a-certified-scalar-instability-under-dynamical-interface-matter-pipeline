@@ -1,0 +1,67 @@
+Remaining lower H5 and upper H7 enclosure widths
+
+Both targets are correction coordinates b=-C F(c), indices 1 and 4.
+F itself is unchanged: upper spatial Israel, lower/upper scalar C4,
+lower/upper scalar C6, in the original scaled-coordinate clock.
+Exact |C_ij| times literal halfwidth(F_j) is an additive linear upper
+budget before intersection with any direct b enclosure. Direct b
+intersections are logged separately; the final smaller radius is not
+assigned fictitious disjoint shares of the original F channel budget.
+
+Only one new exact correlation is introduced. The inherited static flow
+and normalized mode obey (M=m2, K=mu+4k)
+  H'=-T^2/3-k E^2, E'=-HE, T'=MP-4HT,
+  psi'=-2Hpsi-Tf/3, f'=g,
+  g'=-4Hg+(M-mu E^2+2T^2)f+(12HT-4MP)psi.
+For I=Tg-T'f+(2T^2-3K E^2)psi, direct differentiation gives I'=-4H I.
+The authenticated lower launch uses E=psi=1,
+  g=c f-2T, f=3(mu+4k)/(cT-MP+4HT),
+so I(0)=0 and I is identically zero for the SAME admitted source mode.
+At either exact source wall, g=c f-2Tpsi. Therefore
+  B f=3(mu+4k)E^2 psi, B=cT-MP+4HT, c=sigma*gamma/2.
+The division f=3(mu+4k)E^2 psi/B is allowed only after proving
+0 not in B over the complete derivative rectangle at both walls.
+
+Keep the prior exact static Hamiltonian identity and positive E branch:
+  E=sqrt((H^2-T^2/12+V(P)/6)/k), V=-6+M P^2/2.
+Its radicand and k must be positive over the same rectangle. Primitive
+variables are W,P,psi,w,w_s at each endpoint and D,k,mu. All exact model
+constants, epsilon and physical center coefficients retain the original
+interval representations, including their rounding enclosure.
+
+The source and mode constraints above belong to the original static
+background and its linear mode. They do NOT impose the finite-amplitude
+upper Israel equation. Both actual integrated metric compensation
+variables remain in A and A_s. The exact finite-epsilon canonical C7,
+H5/H7 controls, Hamiltonian high jets, dependent q3/q5/q7 and original
+conformal time recursion are unchanged. In particular exp(-4B)h_tttt
+is not replaced by d^4h/dtau^4 off root.
+
+The new field builder is explicit. The residual/time-recursion driver
+reuses the identical frozen upper-C4 kernel bytecode, with only its
+make_fields dependency replaced in a private globals dictionary. No
+frozen module/file is modified. A whole-box derivative evaluates the
+composition, retaining the derivatives of f's exact source constraint.
+
+Mean-value domain proof: literal original primitive endpoints are the
+target. Exact binary pivots m and radii r cover those endpoints. An
+outward native-canonical derivative rectangle contains [m-r,m+r].
+These domains are recorded separately and checked by exact endpoints.
+For fixed interval-valued constants z, the bound is
+  b(m,z)+Db(X,z)(target-m).
+Both the pivot evaluation and derivatives retain all z uncertainties;
+the pivot is not asserted to be a physical source. Whole-box derivatives
+bound every nonlinear/mixed term along the required segments.
+
+The original saved source/root, event-localization, validated IVP and
+wrapping uncertainties remain enclosed; no missing cellwise ledger is
+reconstructed or dropped. The exact C7 evaluation is of the same finite-
+amplitude function, not an epsilon truncation without its remainder.
+The earlier last-cell inventory and epsilon-remainder evidence remain
+read-only, separately classified and bound into this round.
+
+Strictly smaller exact literal correction intervals at BOTH precisions,
+plus all coverage/identity/integrity gates, make a target eligible for
+Initial's independent admission. No producer inclusion test is run.
+Any remaining mixture is unresolved at this archive layer, not a proof
+of an irreducible physical residual or nonexistence of a root.

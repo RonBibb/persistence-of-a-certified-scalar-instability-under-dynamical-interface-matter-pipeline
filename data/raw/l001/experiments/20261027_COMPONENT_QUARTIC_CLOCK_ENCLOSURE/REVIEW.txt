@@ -1,0 +1,3 @@
+Independent jet_bound_review prospective PASS and terminal auditPASS:3016 bindings49gates; harmonic component coefficients, explicitexp-through4 convolution,d4/F4 interval and full first-passing disk replay. No newODE or quarticsignclaim.
+Terminal5ddbb26ca8413c0441db1743dfc7697ee8ef8c331c9c14f776b054cf217e9570
+Resultd92d609221580ae0ed36e6f8247f329765add5bac043bcec917721375d60e66a

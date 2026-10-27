@@ -1,0 +1,14 @@
+All2218 producer gates and independent postrun audit pass.
+Baseline radius1.3913273001736354e-28, clock_eta4.827136260757271e-46.
+Forcing and joint radius1.9933893935071217e-27,
+clock_eta2.766383502143979e-44: gains14.3272499092 and57.3089996368.
+Selected grid remains lambda1/256,kappa1/16,a2^-64.
+Both mass-controlled; mass/(1/a)=2.1533739068, oscillator/bulk=.1635636768.
+All source coefficients except BK maximize primary n2; BK primary tail>=65.
+Thus forcing and joint coefficient weights coincide: extra source-triangle
+resolution gives no additional gain, a measured null comparison retained.
+Bulk budget BJ47.3313%,BM17.0228%,TRACE15.1427%,BK9.3802%,BR8.4376%.
+Oscillator budget BK56.8048%,BJ22.5611%. These are proof-cost contributions,
+not measured physical mechanisms or a finite nonlinear trajectory.
+Next prospective test: exact real metric source anchor and harmonic-matched
+metric continuation, separately, on same frozen grid and full certificate.

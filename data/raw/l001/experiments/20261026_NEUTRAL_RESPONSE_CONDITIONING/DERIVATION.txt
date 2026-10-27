@@ -1,0 +1,44 @@
+Separate conditioning refinement of the certified metric response
+
+This successor leaves every earlier certificate unchanged. Same action,
+background, first mode, collar, scalar inverse, seven source envelopes,
+source constants, and ordinary-power normalization. No ODE is rerun.
+Purpose: remove an avoidable derivative estimate on the entire metric
+first derivative while preserving the actual derivative cost of Sp.
+
+At order n>=2 let pindex=2n. Write the scalar norm load as Uf, the
+constraint-source load as Csc, and n||Sp||_(pindex+1) as Csp, all per
+unit raw nonlinear source budget. The previous certificate uses
+Up_old=Cmetric(Csc+Uf+Csp), where Cmetric arose from applying Nagumo
+to the entire p' expression. That is safe but charges every term a
+factor1/rho even when its derivative is explicitly controlled.
+
+The real constrained anchor is unchanged: n²|p(real)|<=
+Cm(Csc+Uf+Csp), Cm=(11/4)/d0. Continue with
+p'=-2H p-T f/3+Sp. The same weighted primitive gives
+ Xp <= [Cm(Csc+Uf+Csp)+rho(T Uf/12+Csp/2)]/(1-rho H/2),
+ Yp <= H Xp+T Uf/6+Csp,
+where Xp=n²||p||_(2n), Yp=n||p'||_(2n+1), H=3,T=2.
+
+Now differentiate the actual first-order equation once:
+p''=-2H' p-2H p'-T' f/3-T f'/3+Sp'.
+The certified complex background obeys |H'|<=2 and |T'|<=26:
+4/3+289/1024<2 and2+4*3*2=26.
+For n>=2, all terms except Sp' are directly controlled. Nagumo is
+needed only for Sp', giving
+ ||Sp'||_(2n+2)<=3(2n+2)||Sp||_(2n+1)/rho<=9 Csp/rho.
+Thus
+ Zp <= Xp+3Yp+(26/12+2/6)Uf+9Csp/rho,
+ Up_new=Xp+Yp+Zp=2Xp+4Yp+(5/2)Uf+9Csp/rho.
+No derivative of Sc and no new smoothness assumption is introduced.
+
+Substitute Up_new, and only that response bound, into the previously
+reviewed C=3Up+Cc+Uf+2Cxi+2Uchi. Recompute the same K majorant,
+convergence disk, proper-separation Cauchy tail, and proper-clock bound.
+Use the same first-admissible dyadic conditions as the original tests.
+The test must verify Up_new<Up_old and that all chart, contraction,
+velocity and inverse-lapse gates still hold. A failure to improve the
+constant would not invalidate the original certificate.
+
+This is a sharper sufficient proof radius, not evidence of different
+dynamics, a convergence study in grid spacing, or a new physical scale.

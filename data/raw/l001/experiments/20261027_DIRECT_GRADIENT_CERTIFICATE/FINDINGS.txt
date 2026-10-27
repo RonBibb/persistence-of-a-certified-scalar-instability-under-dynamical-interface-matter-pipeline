@@ -1,0 +1,5 @@
+Null fullcertificate gain despite lower gradient/metricbound.
+Radius3.718114446109412e-24,clock-control eta6.604698026019328e-39 unchanged.
+The oscillatorCbound is exactly unchanged as required;B/C.959445->.929585.
+Gridfloor stillcontrols. This isolates a reduced butnoncontrolling proofcost.
+NextG-only originalfieldbarrier isseparateandretains allF/allgradientbounds.

@@ -1,0 +1,15 @@
+Independent reviewer /root/jet_bound_review: prelaunch and postrun PASS.
+Bounded Linux audit under original lease, released after completion.
+Verified2882 bindings and all source/contract/result/terminal hashes.
+Independently reconstructed all128 saved rows from authenticated real-inverse
+provenance using Fraction arithmetic, without importing producer code.
+Checked common baseline against previous certificate, finite/tail coverage,
+positive2x2 inverse, domination,maxima,ties,gains and all527 recorded gates.
+All four matched maxima belong to primary tail n>=65.
+No primitive-envelope regeneration, background-cell reduction or ODE.
+No full coupled-radius claim: real metric anchors remain unchanged.
+
+Terminal SHA256:
+41f42195adbbe27af7b74f903c5d138225c659261210db4cb938ad57e969d134
+Result SHA256:
+01681430dffd70d7171f791d56aa2d54111c916133e4933c15b2df887c516bcd

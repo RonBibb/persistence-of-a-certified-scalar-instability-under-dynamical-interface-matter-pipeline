@@ -1,0 +1,20 @@
+Same-grid paired real endpoint payment matching. No change of equations.
+For each certified finite harmonic or high range, use its real Cv_n,Cg_n.
+The real metric constraint D>=d0*n^2 and |T|<=1,|Tprime|<=9 imply
+n^2|p| scalar contribution <=(Cg_n/n+9Cv_n/n^2)*S/d0.
+Define metric payment as supremum of that combination, keeping each pair
+within its own harmonic/range. The unchanged source anchor Cm*(sc+sp)
+and all complex continuation payments are retained.
+The oscillator bound n^3|chi|<=16384[n|f|+n|xi|+n|O|] permits
+scalar payment Cv_n/n, multiplied by unchanged summed-wall factor32768.
+Graph payment xn/4 and nonlinear oscillator source BO are unchanged.
+For n>=65 use the certified uniform real Cv,Cg and denominator n=65;
+positive explicit payments decrease in n. Cover both engines/all128 rows.
+Real payment bounds may have different maximizing harmonics. Retain both.
+Complex value/gradient/full inverse constants are unchanged from parent.
+Replay all81 old rays and full old certificate exactly. New graph equal,
+new bulk/oscillator nonincreasing. Both selections undergo full geometry,
+contraction,clock/scalar-tail gates. No strict gain required, no grid extension.
+Report active K branch, separate radius/clock gains and new anchor share.
+These are sufficient proof bounds, not energy or physical-force allocations.
+One Linux core,2GiB,original lease,600s cap. Preserve failed packets.

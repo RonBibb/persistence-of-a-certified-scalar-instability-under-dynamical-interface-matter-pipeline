@@ -1,0 +1,7 @@
+Isolated full-certificate readout: replace ONLY symmetric generic d5 by independently audited actual d5 in the operative F5 enclosure inherited from SIXTH finite_coefficients. Keep its d4,L2,L3,L4 and all other coefficientbounds unchanged.
+Exactly reproduce oldF5 for eachengine usingoriginalintervalgrouping, oldglobalF5max, then wholeF9certificate/dyadic/pertermcosts/gateratios. Formula:
+F5=r[4d5-4d4+3d3(1/2-L2)+2d2(-L3+L2-1/6)+d1(-L4+L3+L2²/2-L2/2+1/24)].
+Select min(oldvalidabsoluteF5bound,newmaxengineabsoluteF5bound). This permits validno-gain outcome; no gatealteration.
+All F4,F6..9,analyticradius,unknown degree10tail,distance/scalar/derivative/openingsigncriteria unchanged. Searchfirstpassingdyadic j1..8192; explicitly report immediate nextlarger dyadicfailedgates so simultaneousconstraints are notmisidentified as asinglecause.
+Exact rational arithmetic/Linuxonly.600seconds,2GiB1corelease. NoODE. Independentreview beforelaunch and independentterminalaudit beforeclaimingamplitudeimprovement. No finite nonlinear physicaltrajectory.
+

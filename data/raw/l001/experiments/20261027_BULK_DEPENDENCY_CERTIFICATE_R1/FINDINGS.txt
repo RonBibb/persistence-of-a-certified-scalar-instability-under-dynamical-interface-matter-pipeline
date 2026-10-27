@@ -1,0 +1,8 @@
+No certified radius or clock gain on the frozen283-point grid.
+Removing independent oscillator amplitude from four explicit bulk envelopes
+reduces mass/(1/a) from0.7664910025393737 to0.6741336110274897.
+The chosen point stays a2^-61,lambda1/256,kappa1/16;1/a still controls K.
+Radius4.647643057636765e-25,clock_eta2.06396813313104e-40 unchanged.
+This is a reduced proof overestimate, not physical oscillator decoupling.
+Graph and wall oscillator sources and all indirect feedback remain intact.
+Next bounded question: does a finer rational grid realize that saved margin?

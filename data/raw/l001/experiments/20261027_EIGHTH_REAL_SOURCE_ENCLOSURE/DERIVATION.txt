@@ -1,0 +1,16 @@
+Actual eighth coefficient enclosure on the same selected analytic family.
+Use audited eighth bulk/wall/jets and unsigned seventh field bounds. Evaluate
+qualified sources with inherited exact outward-rounded rational intervals.
+Use inherited finite-order8 inverse and scalar transfer once: source size is
+forcing_abs+8*Robin_abs; f8_bound=Cf8*size/64, derivative_bound=Cf8*size/8.
+Reconstruct p8 with strictly positive D8 and enclose its metric integral.
+Compute both endpoint displacements via qualified graph and Robin equations.
+
+Transport8 is the coefficient of E*xi+Eprime*xi^2/2+Esecond*xi^3/6.
+The xi^4 contribution vanishes: background E0=1 has zero third spatial
+derivative. Pre-run exact polynomial check validates the explicit formula.
+Evaluate independently at each wall, subtract lower from upper, and add bulk
+distance integral. Ordinary series coefficients, not factorial derivatives.
+Two inherited parameter enclosures must overlap; this is compatibility, not
+an accuracy estimate. No coefficient sign or trajectory claimed. No expanded
+amplitude certificate until separate complete-clock readout and audit.

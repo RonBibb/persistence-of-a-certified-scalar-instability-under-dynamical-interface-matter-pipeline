@@ -1,0 +1,15 @@
+# Uniform mechanism for both strong scalar boundaries
+
+Extend the fixed-domain Dirichlet profile finding to every nonnegative wall pair with kappa_a,kappa_b>=100, including either infinite endpoint. No new background or interval. The accepted persistent branch is monotone in both physical Hessians, so mu_100,100<=mu<=mu_DD. Use the lower endpoint of accepted T15 equal100 and upper endpoint of accepted T12 DD as one conservative spectral rectangle. Every actual root is covered; not every rectangular-box IVP is an eigenmode.
+
+Use t_a in[0,1/101], j_a=-(1-t_a)/2, E_a=t_aU_a+j_aT_a>0, psi_a=1, fa=-3lambda t_a/(a_a²E_a), La=3lambda j_a/(a_a²E_a). Propagate the entire interval domain with both regular L/g systems, n4096/8192 and the unchanged rate/tube/constraint/runtime gates. Upper t_b need not enter the IVP; coverage is conditional on an actual root satisfying some t_b in the same compact interval.
+
+Measure full-cell psi, f'', kinetic contributions, separation coherence and curvature budget as T14. For an actual upper-wall root,
+fb=-3lambda t_b psi_b/[a_b²(t_bU_b+(1-t_b)T_b/2)].
+Certified U_b,T_b>0 and psi_b>0 then imply fb>=0, including fb=0 at Dirichlet. The lower launch similarly has fa>=0. Strict f''<0 therefore forces f>0 in the open interval. If the negative metric-forcing term dominates the sum of absolute drag/scalar terms, that supplies the uniform measured mechanism rather than an inference from a single corner.
+
+Keep raw nonroot-box norm bounds separate from actual-root consequences. Raw Zf may have zero lower bound because independent parameter intervals include nonroots. If -f''>=Gmin>0, actual roots satisfy f(r)>=(Gmin/2)(r-a)(b-r), hence Zf>=a_min²Gmin²D^5/60 with the inherited a_min=.9. Record this explicit theorem-derived positive floor, and corresponding scalar-share floor, separately from the raw quadrature bounds. Do not replace or intersect them. The center constraint also gives the lower gap bound Gmin D²/(24psi0_max). Only its lower endpoint is meaningful; unlike two Dirichlet walls, no matching upper gap bound follows from curvature alone with positive endpoint values.
+
+Derive those actual-root lower bounds only after taking the conservative fine representation hull and only when both global psi positivity and strict concavity are established. They are exact rational lower bounds, not intervals enclosing a common observable; do not apply cross-resolution overlap gates to the values of different certificates. Retain all raw quadrature and profile records separately.
+
+Consequences are conditional structural explanations using an already negative root domain, not an independent exclusion proof or pure-radion assertion. Scientific booleans do not alter technical gates. Onecore1GiB590s/600s wrapper, original cutoff, sharedleases/HOLD, atomicnooverwrite/finalbindings, independent admission and terminal review. Bind T15/T12 accepted results/reviews and the actual monotonicity/count proof, inherited norm/regular equations and current sources.

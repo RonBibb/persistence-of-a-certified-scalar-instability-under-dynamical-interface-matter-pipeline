@@ -1,0 +1,21 @@
+Independent audit PASS:6,666 checks,31.73seconds. Producer30.41seconds.
+All four arms retain eta1.1914124049117683e-27. No dyadic amplitude gain.
+Best finite-contour arm selects theta2/5 and reduces clock gate usage
+to0.00672006956. Next doubled amplitude fails clock alone at1.72085979320.
+
+This packet changes only a valid full-clock supremum estimate and the
+predeclared contour list. No physical solution, global radius, coefficient
+bound or acceptance threshold changed.
+
+Original FINITE_CONTOUR_CERTIFICATE failed its final runtime-integrity check.
+Preserved separately without a result. A synthetic runtime diagnostic showed
+large integer-string conversion loads inherited /usr/lib/python3.12/_pylong.py
+lazily. R1 explicitly warms that conversion before binding; scientific formulas
+are unchanged. Its final runtime equality check passed. Original failure does
+not supply scientific evidence and was not silently repaired.
+
+Terminal:ad39518b3c879f18124b23a573110cc272bd90e09beb254b448790337ee17348
+Result:355a2ce6d083b1368d26b4456ef46979fcada5ff28ed56bb87128d7299c9a8f6
+Audit:9d3bcc285ed22fb11b56b32d58ed02dfc956bd372999e5f58974bd3878fa86ab
+Audit file:../20261027_QUARTIC_REAL_SOURCE_AUDIT/FINITE_CONTOUR_AUDIT_R1.json
+Documentary only, outside frozen mathematical source inventory.

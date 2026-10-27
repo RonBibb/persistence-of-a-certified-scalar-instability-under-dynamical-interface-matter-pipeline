@@ -1,0 +1,6 @@
+Independent postrun audit rejects unqualifiedPASS for this packet.
+All24548wholecells/native/hashchains replayed, but RESULT.parameters.h is
+a SHA256string because finalfor p,h hashloop shadows Hubbleparameterh.
+Scientific matrix/seed/certificate calculations preceded shadowing; their
+full audit disposition remains pending. SealedRESULT/source preserved.
+No downstream authoritative use until corrected independent successor.

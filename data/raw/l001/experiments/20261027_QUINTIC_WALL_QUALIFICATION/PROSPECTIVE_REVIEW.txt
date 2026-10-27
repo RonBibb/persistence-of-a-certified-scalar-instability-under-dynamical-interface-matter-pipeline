@@ -1,0 +1,3 @@
+Independent reviewer jet_bound_review prospectively PASS before launch: spatial Taylor transport including second shift contributions, fixed-time harmonic derivatives before pullback versus total wall derivative, fifth homogeneous operators, both orientations, eliminated Robin row and boost correction. Hwall quadratic shift cannot contribute at degree5. Gamma terminology corrected before launch; inherited code variable inverseboost denotes gamma.
+Producer PASS118controls8.601413086988032seconds. Postrun audit initially failed exact Python-dict comparison; preserved under QUARTIC_REAL_SOURCE_AUDIT/QUINTIC_WALL_AUDIT.json. A separate R1 serialization-normalized auditor is approved; do not treat this note as its result. No wall-source bounds or d5 yet.
+

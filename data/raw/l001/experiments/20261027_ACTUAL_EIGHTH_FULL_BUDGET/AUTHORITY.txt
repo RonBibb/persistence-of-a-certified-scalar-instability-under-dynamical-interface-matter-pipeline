@@ -1,0 +1,4 @@
+User explicitly requests full remainder budget recomputation using audited
+eighth coefficient and measurement of certified amplitude improvement.
+Retain current window ending2026-10-27 14:52:09UTC,600second calculation cap,
+exclusive1CPU2GiB Linux lease. Scope full readout and independent audit only.

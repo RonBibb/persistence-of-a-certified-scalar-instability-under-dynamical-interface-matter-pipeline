@@ -1,0 +1,148 @@
+Explicit nonlinear source budget and neutral majorant
+PREDECLARED ANALYTIC CONSTRUCTION; numerical outcome not asserted here.
+
+1. Fixed chart and norm
+Use the manuscript S2 chart s=u+X, X=xi_a+(u-a)(xi_b-xi_a)/L,
+J=1+X_u, D0=r eta d_eta, W=D0X/J, D=D0-W d_u, Lrad=J^-1 d_u.
+Background quantities are composed with u+X. D of a composed background
+is identically zero; no extra pure graph/background temporal term is added.
+All exact S6, S7 and Q5 equations retain their indicated orientation/signs.
+Both currents are zero. k=h², mu_n=-nr(nr+3h), and all parameters/mode
+are the same exact ones as the authenticated preceding packets.
+
+On the certified smaller stadium radius rho, let p=2n and use the sum
+Y_n=U_n(pfield)+U_n(bfield)+U_n(f)+n³ sum_i(|xi_i|+|chi_i|),
+U_n(v)=n²||v||_(2n)+n||v'||_(2n+1)+||v''||_(2n+2).
+Thus a bulk jet with a radial and b temporal derivatives, a<=2,a+b<=2,
+has coefficient bound n^(a+b-2)Y_n at radial index2n+a (r<=1).
+Graph/oscillator b-jets have n^(b-3)Y_n, b<=2. Two walls are already
+included in the sum. Gate 1<=L<=3 and rho<=1/4. The affine graph and
+its slope on the stadium are bounded coefficientwise by4Y and2Y.
+
+2. Absolute envelope inventory
+Let x be a nonnegative scalar argument, gap=R0-rho, and define
+ G=1/(1-2x), Z=64/(1-4x/gap), E1=1/(1-x), E2=1/(1-2x),
+ w=4xG, w_u=2xG, w_t=4xG+8x²G²,
+ d=x(1+w), dd=x(1+2w+w*w_u+w_t+w²), l=Gx, ll=G²x.
+Here d,dd bound Dv,D²v for any bulk field, l,ll bound Lrad v,Lrad²v.
+X_uu=0 is used. Z bounds each composition of H,T,Phi,E,T' separately:
+the prior-collar suprema are <=64 and Cauchy on gap gives coefficients
+64(4/gap)^j. Composite E² is Z², not Z. No E'' bound is assumed64.
+E1,E2 majorize the appropriate exponentials coefficientwise because
+1/j!<=1. Background coefficients m,h and r are bounded by1.
+
+The four bulk residual envelopes, including their harmless degree0/1
+terms before truncation, are
+ BT=3dd+3d+6d²,
+ BM=Gx(1+w_u+w)+(4/3)d(Z+l),
+ BK=Z² E2[dd+(3+3d)d]+E2[Z+ll+(4Z+5l)(Z+l)]+Z+x,
+ BR=(13/2)E2(Z+l)²+6+(Z+x)²/2
+       +Z² E2[6+3(dd+3d)+(7/2)d²].
+These follow term by term from S6 after replacing each coefficient by
+its absolute upper bound. For BM, Lrad(Dv)=G[D0v_u-W_u v_u-Wv_uu].
+For BK and BR, the quadratic potential has m<=1. The background
+first integral and composed KG identity supply the exact degree0 zeros.
+
+At the wall define the envelope of inverse lapse, velocity, total wall
+time derivative of velocity and boost denominators by
+ Ninv=Z E1, v=4x Z E1²,
+ vt=Z E1²[4x+(2x+4Zx)4x], Bst=1/(1-v²).
+The velocity derivative follows from v=exp(b-p)E(S) S_t:
+v_t=exp(b-p)E(S)[S_tt+(b_t^wall-p_t^wall-H(S)S_t)S_t].
+All wall time derivatives here are total derivatives of pulled traces.
+The fixed-position Db,Dp appearing separately in S7 are bounded by d.
+The three wall residual envelopes are
+ BI=Ninv Bst[vt Bst+v(2d+1)]+Ninv² Bst x²/2,
+ BJ=Bst[E1(Z+l)+v Ninv d]+[2+21(Z+1+x)+x]/2,
+ BO=Ninv² Bst[x+(3+8Zx+2x+v vt Bst)x]+2x+Z+1+x.
+The scalar potential derivative is 2 sigma T_i+21(Phi(S)-Phi_i*+f)-chi;
+|T_i|,|Phi_i*|<=1. The neutral oscillator friction is the exact Q5
+expression; its boost contribution uses v vt/(1-v²). The graph kinetic
+source is chi_t²/(2 lapse²). The bound (1-v²)^-1/2 <= Bst is coefficientwise.
+
+3. Radial indices and outer wall factor
+Every displayed bulk jet has temporal/radial total order<=2. For BT,
+any added radial derivative in a transport term is accompanied by a
+positive-order graph: W D0v_u, D0W v_u or W² v_uu. Its positive
+order pays the extra1/2 radial indices at the target2n. Other trace
+products have no added radial index. BM targets2n+1; its exceptional
+W v_uu fits because2j+2<=2(i+j)+1 for i>=1. BK,BR target2n+2.
+Products add Nagumo indices; increasing an index decreases the norm.
+Thus each raw bulk source is bounded by the corresponding envelope's
+degree>=2 part after substituting Y_<n.
+
+For wall rows, expand envelopes into PRIMITIVE positive-order bulk,
+graph and oscillator factors before counting degree m. Every such
+factor retains at least one inverse harmonic power: the least favorable
+are a first bulk derivative, a graph acceleration or oscillator
+acceleration. There is no bare second temporal bulk derivative in Q5/S7.
+For positive indices summing to n, n/(i1...im)<=m. Hence multiplying
+a wall source by n is bounded by multiplying the degree-m envelope
+coefficient by m. Composed velocities, reciprocals and background
+compositions are not counted as single primitive factors; their Taylor
+expansions preserve this count. Constants do not contribute to m.
+
+At order n, all inputs are truncated below n. Degree0 terms have no
+positive coefficient and degree1 terms are proportional to Y_n=0.
+Discarding degree0/1 of the absolute envelopes is therefore legitimate;
+it does not rely on cancellation of upper bounds or on numerical fitting.
+The new trace and graph coefficients are reconstructed separately below.
+
+4. One explicit source function
+Set a=min(gap/16,1/4096), F=BT+BM+BK+BR+BI+BJ+BO. Require all
+denominators at x=a positive and v(a)<1/2. Every envelope has
+nonnegative Taylor coefficients and is analytic on |x|<=a. Let M=F(a).
+Its degree-m coefficients are <=M/a^m. Thus ALL raw load quantities
+ ||qT||2n, ||qM||2n+1, ||qK||2n+2, ||qR||2n+2,
+ n max|QI|, n max|j|, n max|o|
+are bounded by B_n=M[eta^n] sum_(m>=2) m (Y_<n/a)^m.
+
+5. Explicit triangular linear-response constant
+Use real bounds Tr=1,Tpr=9,Ermin²=1/4,rmin²=1/4096,d0=3/16384;
+complex H=3,T=2,Phi=2,B0=80,D>=dc n² with dc=d0/2.
+For the raw budget B_n the following constants are sufficient:
+ Cc=8192(1+9/rho+81/rho²), Cxi=32768, Cchi=16384,
+ Csp=(3/2)Cc+64,
+ Csc=18 Csp+28 Cc+1,
+ Csg=2 Cc+6 Csp+1,
+ CF=Csg+80 Csc/(4dc),
+ CR=Cc+(18+21)Cxi/4+5/2,
+ CG=(1/2+1/(4d0))CR+Csc/d0.
+Cc pays two Nagumo derivatives of c=-qT/[lambda(lambda-h)], using e<3.
+Csp bounds n||Sp||2n+1; Csc and Csg use exact Q3 and the complex bounds.
+CR bounds n|Rwall| using exact Q6 at the real endpoints, Gamma<=21,
+oscillator divisor>=2. CG uses D/J<=1+2/(d0 n²) and Q7.
+
+Let Cf,Cp be the certified scalar and metric analytic inverse constants.
+ Uf=Cf(CF+CG), Up=Cp(Csc+Uf+Csp),
+ Uchi=Cchi(Uf/2+Cxi/4+1),
+ C=3Up+Cc+Uf+2Cxi+2Uchi.
+These bound the aggregate Y_n by C B_n. In particular b=c-2p; the
+factor2 in the last two terms covers both walls. This is a deliberately
+coarse chain of inequalities, not a measured response amplification.
+
+6. Scalar majorant and observable
+Choose K=max(1,1/a,2CM/a²). For every m>=2,
+(m-1)K^(m-1)>=CM m a^-m. Thus the actual recursion is majorized by
+ W=s eta+K W²/(1-KW)² with the independently certified first-mode s.
+Use R=1/(96K), eta_radius=R/(2s). The reviewed scalar contraction lemma
+with M_exponent=2 proves W analytic and <=R on this disk. Restrict the
+radial collar to its inner half and amplitude to eta_radius/4 so d>=1/2
+pays the coefficient factor d^-2n. Every fixed derivative converges on
+strict inner compact subsets. Formal compatibility and exact source
+coefficient identities then make the summed bulk and wall residuals zero.
+Current phases are constant in this zero-current sector.
+
+For proper separation D(eta)=integral_I exp(b(eta,u))[1+X_u(eta)]du,
+on the real radial interval |b|<=R,|X_u|<=2R. Hence on the smaller
+amplitude disk rho_eta=eta_radius/4,
+ |D-D0|<=3 Lmax R/(1-R)=MD (Lmax<=3).
+Cauchy gives the tail after cubic as MD q^4/(1-q), q=|eta|/rho_eta<1.
+The D coefficients coincide with the earlier Eulerian coefficients:
+the chart is an exact pullback, xi1=0, and homological uniqueness for
+n>=2 fixes the transformed series. A test must bind those coefficient
+packets before claiming a sign beyond the cubic truncation.
+
+This construction establishes only a local analytic pure-growing family
+if every numerical/analytic gate above is certified. It supplies no
+saturation, large-amplitude evolution, contact, horizon or endpoint.

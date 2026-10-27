@@ -1,0 +1,9 @@
+# Independent terminal review — T3
+
+ACCEPTED: CERTIFIED_MODE_PARTICIPATION with the stated norm/overlap interpretation. All 29 bindings match. Execution started 16:08:44.860717Z, ran 28.648 seconds on one core, exited 0 and reaped child 1690683. Independently checked the recorded coarse/fine and full/reduced overlap predicates for every quantity and full-system endpoint constraint containment using exact rational endpoints. Reviewed source supplies the strict whole-cell gates and root-interval enclosure, not midpoint interpolation.
+
+The conservative fine-representation hulls give scalar kinetic-norm shares approximately 0.994555–0.994599 at soft walls and 0.995334–0.995378 at equal 0.018. These are kinetic-norm shares in the declared regular scalar decomposition, not percentages of physical energy or pure scalar/radion identity. The metric component is nonzero and the signed separation overlaps exclude zero: approximately 0.001206101–0.001206302 and 0.001115656–0.001115836 respectively under f(a)=1. Canonical separation coefficients are approximately 0.006013607–0.006014678 and 0.005564642–0.005565603. Their sign reflects normalization; nonzero overlap establishes a separation component.
+
+Equal-wall eigenvalue sensitivities are approximately 49.84929–49.85056 and 49.88534–49.88660; lower-to-upper response ratios are approximately 1.17353292–1.17353933 and 1.17351590–1.17352227. Thus actual-mode lower-wall response is strictly stronger at both cases. These are derivatives at the two actual eigenmodes, not a proven uniform derivative bound over every intervening stiffness. Finite hull bounds are not intersected to artificially sharpen them.
+
+The nearly constant global f range supports a broad mode in this short interval; the data do not independently identify a pointwise density of gravitational energy. No persistent-mode eigenprofile was measured here, and no nonlinear fate follows.

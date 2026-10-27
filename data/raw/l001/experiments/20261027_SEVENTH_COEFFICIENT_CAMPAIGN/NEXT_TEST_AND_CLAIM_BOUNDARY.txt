@@ -1,0 +1,89 @@
+NEXT TEST AND CLAIM BOUNDARY
+Independent read-only review, /root/jet_bound_review, 2026-10-27.
+No eighth-order work authored or launched by this note.
+
+Evidence read: QUARTIC_REAL_SOURCE_AUDIT/POSITIVE_TAIL_HALF_READOUT_AUDIT.json
+(PASS6952), producer terminal
+c43f66888ac5708ad65230b1d02edcb4b42984a68c1c0ce50b4e39c047d98be1,
+producer result
+cb7b4b769f1041a4c22bb884ea6d53760427226a7ad1c5a82ee8f6aee76c3f6d.
+Numbers below are the independently audited report's displays, not new
+off-host arithmetic. Uniform bracket was still running when written.
+
+At eta=R/4=2.4400126052593015e-24 all five gates pass:
+clock0.18229249178927612, distance1.4980412977728119e-22,
+scalar6.02120829170065e-7, scalar derivative2.4359104040584553e-6.
+At eta=R/2=4.880025210518603e-24 only the clock gate fails:
+clock12.187932579008503. Its retained eighth contribution is
+11.145539203472705; retained ninth1.0423299950323832; total unknown
+tail6.338044336111812e-5, almost entirely finite distance orders10..24.
+The unresolved distance and inverse-lapse pieces are respectively
+1.3277171948715475e-44 and3.104621388843215e-62 in that normalized budget.
+
+Recommendation: pursue the retained eighth coefficient before any further
+unresolved-tail refinement. The current arithmetic decisively identifies
+F8, not the beyond24 remainder, as the principal proof bottleneck. An actual
+d8 enclosure is the natural candidate because
+F8/r=7d8+sum(j=1..7) j*d_j*e_(8-j), and current d8 is still a positive
+generic-majorant bound. The owning source EIGHTH_CLOCK_ENCLOSURE/check.py
+uses this formula; ACTUAL_SEVENTH_CLOCK_CERTIFICATE/check.py:63-70 preserves
+its separate leading and lower-product interval terms in coefficient_records.
+
+Do not infer solely from F8's budget share that 7r*d8 dominates F8 internally.
+The shortest admission step is a saved-record term attribution of that
+leading interval versus the lower-product/lapse intervals, under the normal
+Linux arithmetic policy. It requires no new ODE. If the leading contribution
+dominates, qualify eighth bulk/wall/endpoint-jet formulas and a bounded
+source-informed unsigned d8 enclosure with a prospective resource gate,
+then propagate it through the same full certificate. If lapse products
+instead dominate, target those bounds first. No amplitude gain is promised.
+
+Even removing F8 entirely would not make the recorded R/2 point pass:
+F9 alone exceeds1 there. Propagating actual d8 into F9 may help, but must be
+calculated and audited; it is not an automatic independent ninth-coefficient
+improvement. The fixed-radius bracket will measure the present sufficient
+boundary without changing these facts.
+
+Current valid nonlinear conclusion, conditional on the documented same-action
+background, mode, all-order source/inverse and compatibility premises:
+a local analytic pure-growing neutral solution family exists, with a signed
+proper-clock departure certificate through the admitted amplitude. The
+nonlinear correction reinforces shortening on one sign and retards opening
+on the other without reversing the local departure. The nonzero lower-wall
+oscillator is an additional physical scalar departure witness. Proper
+separation remains defined on the selected homogeneous slicing; it is not
+claimed fully gauge independent.
+
+Not shown: useful-amplitude nonlinear evolution, arbitrary-initial-data
+stability/flow, a full unstable manifold, saturation, collision, horizon,
+collapse, baby-universe formation or a physical endpoint. The radius R is
+unchanged and sufficient; it is neither a singularity nor the actual maximal
+solution amplitude. A clock-gate failure is insufficiency of this bound,
+not evidence that the physical solution changes sign or ceases to exist.
+Higher retained coefficients can improve the readout within R, not remove
+the eventual need for a stronger existence-domain certificate or separately
+validated nonlinear continuation to reach finite physical development.
+
+POST-AUDIT ADDENDUM (2026-10-27; prior prospective wording preserved)
+RETAINED_BOUND_ATTRIBUTION_AUDIT.json is now PASS6955 checks,24.657seconds.
+Producer terminal b55c9f52dd7f110db4d5180a1a9c5c6d4a91f46eaae7be33e1a40e08bb800350;
+producer result135a84f3c12e0d373cbce53793bcd32e835cafaa84a4da8428c92e2466600e90.
+The saved-record diagnostic confirms the proposed admission discriminator:
+at R/2 the primary normalized eighth leading bound is11.145539203472705,
+while all lower-product triangle bounds sum to6.673322628211808e-18.
+The ninth leading bound is1.0423299950323832, with lower products
+2.0083277625483752e-22. Independent-engine lower totals are respectively
+6.672300656798715e-18 and2.0081153960517212e-22. Both distributed interval
+sums equal their stored grouped intervals exactly. Displayed leading shares
+round to1.0; they are not asserted exactly1 and are not physical shares.
+
+Thus the next high-value prerequisite is now specifically an actual d8
+source/inverse enclosure, following exact bulk/wall/jet qualification and
+resource admission. Further unresolved-tail polishing has no comparable
+leverage on the current bound. The separate generic leading d9 term also
+dominates F9, so updating only d8 cannot remove that independent obstruction
+at R/2. Do not promise that d8 alone will certify R/2 or an enlarged radius.
+No eighth-order source, field solve, enclosure or new test was launched
+by this review. The full uniformly scaled-tail bracket has independently
+passed7001 checks, with admitted eta3.2325997076268554e-24; its sufficient
+boundary is dominated by retained F8/F9 estimates, not unresolved tails.

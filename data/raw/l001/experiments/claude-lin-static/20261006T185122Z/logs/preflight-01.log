@@ -1,0 +1,17 @@
+slot_run: line 02_lin_static token 1 slot 5 start 2026-10-06T19:17:43Z avail_kib 29349216 load 5.85
+Traceback (most recent call last):
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T185122Z/code/preflight.py", line 424, in <module>
+    sys.exit(0 if all_controls() else 3)
+                  ^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T185122Z/code/preflight.py", line 372, in all_controls
+    units = unit_controls(base)
+            ^^^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T185122Z/code/preflight.py", line 277, in unit_controls
+    checks['plain_casts_numpy_bool'] = plain({'x': np.bool_(True)}) == {'x': True}
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T185122Z/code/common.py", line 88, in plain
+    return {str(k): plain(v) for k, v in x.items()}
+                    ^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T185122Z/code/common.py", line 101, in plain
+    raise TypeError('Unserializable record value of type ' + type(x).__name__)
+TypeError: Unserializable record value of type bool

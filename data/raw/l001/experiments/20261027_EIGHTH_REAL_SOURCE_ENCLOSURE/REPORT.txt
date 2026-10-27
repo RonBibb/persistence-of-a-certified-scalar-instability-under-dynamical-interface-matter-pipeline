@@ -1,0 +1,40 @@
+EIGHTH COEFFICIENT ENCLOSURE: PASS, independently audited
+2026-10-27. Fresh authorized window14:07:09–14:52:09UTC.
+Producer and audit both completed within600second individual caps.
+
+Producer qualification/enclosure time:93.1876seconds.
+Independent exact interval audit:809654 checks PASS,163.5059seconds.
+Exact polynomial moving-endpoint transport identity passed before interval arms.
+
+Unsigned d8 coefficient bounds, decimal display only:
+primary:     [-4.152870074675585e38, +4.152870074675585e38]
+independent: [-4.114188461521399e38, +4.114188461521399e38]
+Combined conservative hull uses the primary endpoints. Authoritative exact
+rational endpoints are in RESULT.json. Overlap is a compatibility check, not
+an accuracy estimate or an independent eighth physical trajectory.
+
+Audit reconstructs qualified spatial derivatives and source polynomials with
+independent unrounded interval arithmetic; checks both wall orientations,
+transport8 coefficient convolution, finite-n8 inverse, metric reconstruction,
+distance integral, saved containment and immutable bindings. It never imports
+the producer flow.py. Qualified source/wall formulas and prior bounds remain
+inherited evidence; this is not an independent new PDE derivation.
+
+Meaning: an actual-source unsigned eighth distance coefficient enclosure is
+now available to replace the generic order8 estimate in a separate full-budget
+readout. The coefficient multiplies eta^8; its displayed magnitude is not a
+physical distance or instability amplitude. No eighth profile/sign, expanded
+amplitude certificate, saturation, horizon, child formation or fate is claimed.
+Next bounded test: full clock/remainder readout using this audited coefficient,
+retaining all lower terms and higher-order tails. Ninth-order generic budget
+remains separate; do not assume order8 alone admits the previously failed point.
+
+Earlier PREFLIGHT_STATUS.txt is a historical snapshot before the fresh user
+authorization. It is superseded for execution state by this completed report.
+No downstream readout or calculation is running from this work.
+
+Terminal SHA256:
+f9cf4da45aec7f49c222878c9b6044aae66fd52eaea5eac60f24a6913c0cb8c1
+Result SHA256:
+4131088a9f0210c9f523f078826982890423c0e5d1c3a665c16089ea471fdd11
+Audit:../20261027_QUARTIC_REAL_SOURCE_AUDIT/EIGHTH_REAL_AUDIT.json

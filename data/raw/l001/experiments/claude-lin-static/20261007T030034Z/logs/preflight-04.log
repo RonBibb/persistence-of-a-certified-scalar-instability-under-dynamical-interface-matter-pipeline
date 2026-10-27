@@ -1,0 +1,71 @@
+slot_run: line 02_lin_static priority 5 token 1 slot 4 start 2026-10-07T03:43:01Z avail_kib 28842776 load 7.34
+{
+ "passed": true,
+ "path": "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261007T030034Z/preflight/20261007T034301Z/PREFLIGHT.json",
+ "expectations": {
+  "main_label": true,
+  "main_walls": true,
+  "main_separation": true,
+  "main_upper_jets": true,
+  "main_D_prime": true,
+  "source_tamper_label": true,
+  "phase_map_tamper_label": true,
+  "preparation_tamper_label": true,
+  "D_prime_unrecorded_label": true,
+  "root_inconsistent_label": true,
+  "verifier_tamper_unresolved": true,
+  "unit_contains_root": true,
+  "unit_misses_empty": true
+ },
+ "labels": {
+  "main": "REPREPARED__A_DOMINATED_BY_COMPARISON_STEP__PHI_DOMINATED_BY_STATE_RADIUS",
+  "source_tamper": "TECHNICAL_REPLAY_MISMATCH",
+  "phase_map_tamper": "TECHNICAL_REPLAY_MISMATCH",
+  "preparation_tamper": "PREPARATION_PIPELINE_MISMATCH",
+  "D_prime_unrecorded": "PREPARATION_PIPELINE_MISMATCH",
+  "root": "ROOT_ITERATION_INCONSISTENT",
+  "vtamper": "UNRESOLVED_VERIFICATION"
+ },
+ "failed": {
+  "main": [],
+  "r0": [],
+  "r0m": [],
+  "r0p": [],
+  "d0": [],
+  "root": [],
+  "vt": [
+   "VM1.positive.all_material_blocks_bitwise"
+  ]
+ },
+ "widths": {
+  "old": {
+   "positive": [
+    "1.461e-7",
+    "1.228e-15",
+    "2.271e-14"
+   ],
+   "negative": [
+    "1.473e-7",
+    "1.228e-15",
+    "2.271e-14"
+   ]
+  },
+  "new": {
+   "positive": [
+    "3.163e-10",
+    "1.185e-15",
+    "2.167e-14"
+   ],
+   "negative": [
+    "3.280e-10",
+    "1.185e-15",
+    "2.167e-14"
+   ]
+  }
+ },
+ "A": {
+  "positive": "5.047e-6",
+  "negative": "5.047e-6"
+ },
+ "seconds": 72
+}

@@ -1,0 +1,7 @@
+Prospective reviewer jet_bound_review approved after additions: positive5r-h gate, signed/zero-crossing/exact interval containment controls, direct accepted input-audit pins, arithmetic controls moved after bindingpublication.
+Producer PASS48.83657410601154seconds;8183primary+16365independentcells. Terminalf8557fe17948db2cac2cf4240ce094f61304bb6eed50c556bf42c7727f4ffb85; resulte5ce4f7418e6105e02e45ef0989439d254aa968c78029e532a61f4aae48e26ae.
+Independent unrounded rational interval auditor PASS58048checks38.92seconds. Rebuilt every globalhull/coveragechain and actualvariableenclosure; exact evaluation of qualified polynomials contained by512-bit outwardproducerbounds.
+Auditor source63316abe545ba26e887d934a2c77a6bbd82863b4e919ed74f582b8ecb176bffe; auditrecord903dbf07bf1828364d7a2273fd28e4e4d4a36d5a910662581729213fbe1c821a.
+Primary approximate absoluteenvelopes:c5=1.616e15,Sp5=4.350e15,Sc5=2.410e15,Sg5=5.888e15; independentengine similar. These are deliberately coarse enclosing bounds, NOT measured amplitudes/signs.
+NoODEsolve,inverse,wallbound,d5,ornewclockcertificate. Purpose established: full-domain archived-field source evaluation is inexpensive enough to pursue a bounded successor.
+

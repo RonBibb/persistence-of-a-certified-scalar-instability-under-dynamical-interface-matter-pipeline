@@ -1,0 +1,31 @@
+Independent prelaunch and post-run review: PASS
+Reviewer:/root/jet_bound_review. Primary recorded completed reports.
+
+Initial prelaunch review checked Q5, divisor n^2/16384, n^3chi weight,
+real endpoint C0 and two-wall factor. Before launch primary identified
+the old K=1/a floor; reviewer confirmed and corrected earlier wording.
+No numerical run preceded the amended81-point paired contract.
+
+Second executable review approved paired same-input maps, exact old45
+replay, matched B/X and monotone C checks, both complete certificates,
+separate radius/clock effects, ties valid and exact active-K reporting.
+Minor 'grid unchanged' wording was corrected before execution.
+
+Reviewed production source SHA-256:
+b6e7e07f6a4cbfff04ca6f1678964222708b7596ccd504c74b2c6688dfa0cb49
+
+Independent bounded Linux saved-fraction audit verified2856 hashes,
+354 recorded gates, both81-grid selections and exact K ceilings, all45
+parent dictionary-exact replay, matched B/X equality and C monotonicity,
+BOTH full physical/observable certificates, separated effects and exact
+active-K branches. All passed. Radius and clock effects were not conflated.
+
+Terminal SHA-256:
+d71230e13b956f8b3e7a3469d429a9add68700e3f44d70359eaa99cf4b811173
+Result SHA-256:
+fd05106a2f729f09eeb7b6831a4689bd176a5ed2d023c9490f1e6e673e5f5786
+
+Scope: independently authored saved-fraction/hash audit plus analytic and
+source review; not independent regeneration of all162 nonlinear envelope
+masses or an ODE replay. Reviewer wrote no files. Internal review is not
+external peer review, nor evidence for a nonlinear physical endpoint.

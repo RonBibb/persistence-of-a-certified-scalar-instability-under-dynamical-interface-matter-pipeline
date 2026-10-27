@@ -1,0 +1,3 @@
+Independent jet_bound_review prospective analytic/executable PASS and post-run PASS.3002 bound entries12402 gates; independently reconstructed128 finite/tail mass barriers, F/G complex inverse lanes, seven-source transfers/maxima,2246 saved K/selection calculations, baseline/full constants, first-passing remainder disks/effects. Unchanged nonlinear primitive source reviewed and inherited from independently regenerated junction packet; not regenerated again here. No ODE.
+Terminal4a7c460f23f3f248256e9a235233f4aa77702c8e6481cd75188b1d3cad15c07d
+Result2da6ff179ffb3298cead2fb3c22c90bf3dacc5426757e1f4fb665b395e58cd80

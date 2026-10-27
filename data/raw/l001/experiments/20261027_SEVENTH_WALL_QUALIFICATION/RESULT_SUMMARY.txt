@@ -1,0 +1,9 @@
+Seventh wall qualification complete in new authorized window.
+Producer PASS164 controls,21.75seconds. Source-reviewed replay audit
+PASS6789 checks,22.79seconds. Both orientations and inherited orders0..6
+reproduced; seventh linear rows, Robin elimination, boost correction and
+third-spatial Taylor terms checked. No seventh field or coefficient bound.
+Terminal d59ed9a465d3e067efd4838d2777ba50a76268dd6357a50746ccf8af4c9a502d
+Audit7141ba421b94422024179f48e67765f08c4f410d2e66a0b86630c81e1c17c224
+Historical STATUS.txt describes staging at the end of the prior window;
+this RESULT_SUMMARY and immutable terminal supersede that status.

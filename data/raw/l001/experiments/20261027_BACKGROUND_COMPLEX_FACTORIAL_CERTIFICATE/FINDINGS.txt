@@ -1,0 +1,6 @@
+All four certificates unchanged on883 grid points: radius9.29528611527353e-25,
+clock-control amplitude8.25587253252416e-40. Selected a2^-60 floor binds.
+mass/(1/a): baseline.67605999,inverseonly.48029197,sourceonly.59970303,
+joint.46384088. Joint B/C=.0224303, so remaining C bound controls the mass.
+No gain is claimed from coefficient reductions alone. Forward grid extension
+is a separate test. These remain sufficient-bound costs, not physical shares.

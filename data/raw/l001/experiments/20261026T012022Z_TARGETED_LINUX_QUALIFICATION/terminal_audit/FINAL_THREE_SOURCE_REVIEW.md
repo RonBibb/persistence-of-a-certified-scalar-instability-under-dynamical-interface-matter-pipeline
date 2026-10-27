@@ -1,0 +1,5 @@
+# Independent prospective review: final three evidence audit
+
+Main read all of final_three.py before execution. Approved for Linux administrative binding and then one admitted terminal evidence check. It reconstructs frozen-source/input integrity, zero-exit/reaped status, exact full producer JSON reproduction and six program receipts, bridge gate inventory/model linkage, mass-auditor original identity/coverage, and runtime before/after consistency. It imports no underlying mathematical producer and makes no claim to re-integrate or independently re-prove background existence.
+
+Bind this source, this review, all checked completed packet/result/runtime files, and auditor interpreter/standard-library/native identities before running. Normal self-leased line/CPU/HOLD policy, at most two aggregate cores, 2 GiB and 180-second alarm. Capture stdout/stderr and exit without overwrite. Runtime unbound records explicitly require review and cannot be silently relabeled fully prebound; preserve that classification if it occurs. No rescore or scientific successor authorized.

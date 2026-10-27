@@ -1,0 +1,8 @@
+Resolved without changing producer source, bounds, parameters or gates.
+The separate exact diagnostic proved ten generic dual-versus-expanded derivative identities. Expanded interval containment passed all new derivative jets at all four endpoints. The original independently grouped dual Gpp enclosure was nonnested at both upper endpoints, explaining the original audit failure. Both expressions enclose the same exact derivative; nesting between differently grouped interval expressions is not required by that mathematical fact.
+Diagnostic SHA256 f1ea12aafd6f87575e5d0cfee2c468ee91095a28a2f5711718f5515e3c914e96
+Independent full R1 audit requires that exact identity evidence, uses the qualified expanded grouping with independent unrounded rational interval arithmetic, and retains strict saved-bound containment without tolerance or widening. PASS119581checks29.63seconds.
+R1 audit SHA256440f106140813b08f21548128f735a1989dd1c3996ce9ad39b96268424db4b97
+Producer terminal4f1f3c44fee76ed158ebb40c773f29b82ce3e8b0fddfa6fd6ceb39231da56a85
+Unsigned d6 primary[-1.8549955037038614e26,+1.8549955037038745e26], independent[-1.8427287566552313e26,+1.8427287566552444e26]. Their overlap is compatibility, not accuracy or sign evidence.
+The original failure and AUDIT_HOLD.txt remain as historical records; hold is resolved by this separately versioned audit. A full-clock certificate still requires its own test.

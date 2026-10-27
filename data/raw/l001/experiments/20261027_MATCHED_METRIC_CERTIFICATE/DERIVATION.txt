@@ -1,0 +1,35 @@
+Prospective exact metric anchor and harmonic continuation comparison.
+Baseline is sealed JOINT_SOURCE_CERTIFICATE joint lane, exact81row replay.
+All sources, common collar, seed, grid, scalar inverse, oscillator response
+and full certificate/remainder tests retained. No ODE solves.
+
+Write Xp=n^2||p||_(2n), Yp=n||p'||_(2n+1), sp=n||Sp||_(2n+1).
+Real constraint p=(Sc-Tf'+T'f)/D, |T|<=1, |T'|<=9, D>=d0 n^2:
+Xp(real)<=[sc+(Cg/n+9Cv/n^2)S]/d0. This exact anchor needs no Sp;
+previous Cm*(sc+sp) was a conservative enlargement, not a separate source.
+Let anchor denote that right hand side, mp=Cg/n+9Cv/n^2.
+
+Complex momentum p'=-2Hp-Tf/3+Sp, |H|<=3, |T|<=2, primitive
+from index2n+1 to2n costs rho/(2n). Therefore
+Xp<=[anchor+rho*(xS/(3n)+sp/2)]/(1-3rho/n),
+Yp<=6Xp/n+2xS/(3n)+sp.
+Complex |H'|<=2 and |T'|<=26 give curvature via differentiated momentum:
+||p''||<=4Xp/n^2+6Yp/n+26xS/(3n^2)+2yS/(3n)+||Sp'||.
+Nagumo, e<3: ||Sp'||_(2n+2)<=(6+6/n)sp/rho.
+Thus Up=(1+4/n^2)Xp+(1+6/n)Yp+26xS/(3n^2)+2yS/(3n)
+ +(6+6/n)sp/rho. These continuation factors recover baseline at n2.
+No uncharged source derivative is introduced. Compatible inherited sources
+and constraint/momentum identity remain hypotheses of the certificate.
+
+Anchor lane changes only real source anchor; continuation factors use n2.
+Metric lane additionally uses same n for all continuation/derivative factors.
+Both retain fully matched joint source transfers and inverse per harmonic.
+Take each full positive B,C coefficient supremum across finite n2..64 and
+uniform tail>=65, where explicit n payments decrease and inverse is uniform.
+Require metric coefficients<=anchor<=baseline; exact prior81rows and full
+certificate replay; all3 full certificates and budgets. C budget is unscaled,
+sum(C)/kappa reconstructs scaled oscillator mass, an exact gate.
+Independent analytic review PASS before source execution; source review next.
+Linux only, old single-core lease,600s cap; fixed no-new-test cutoff1793074031
+checked before and after lease. Pre-cutoff tests may finish predefined work.
+No manuscript/inventory edits. No finite-amplitude evolution/endpoint claim.

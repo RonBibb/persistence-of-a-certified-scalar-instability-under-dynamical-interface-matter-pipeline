@@ -1,0 +1,9 @@
+# Prospective R1 independent terminal-record checker
+
+Preparation only; no scientific code or hash computation executed. Main must source-review this checker, bind audit.py, its runtime and every consumed producer result/runtime/admission/terminal record, then publish ADMISSION.json with `admitted`, absolute `files` map, `executable_realpath`, and `producer_frozen_sha256`. This last value must equal the separately accepted R1 freeze, not an arbitrary late mutable producer hash. Normal leased Linux execution only, one CPU/max-two aggregate, proposed2GiB cap and300-second checker/330-second supervisor cap. No ODE or Arb import and no automatic retry.
+
+Coverage: full saved domain/cell partitions, exact dyadic budget sums contained in reported totals, exact Fraction reconstruction of FH/FP and A2 quotient from exported preassembly states/source, common A2 assembly at both walls, upper bound-source relation, Q5/Q6/oscillator/graph rows, final Eulerian/pulled distance accounting and conservative cross-engine sign classification. A zero final sign remains a legitimate unresolved outcome.
+
+R1's raw lower/upper states and FP/Rb exports remove the original candidate's missing A2 witness. There is no circular reconstruction of the particular field from an already assembled solution. Re-evaluations using saved outward input endpoints are interval-formula consistency checks: require overlap where re-evaluation widens, and exact outward containment for exported dyadic sums. They do not independently prove each underlying Picard/Taylor tube or create new correlations between uncertain inputs. Successful source/guarded flow remains an explicit premise.
+
+The checker must not run if either engine result or production terminal evidence is absent. Original failed candidate remains untouched. No new source repair, parameter/precision change, manuscript edit or successor is authorized by this plan. Historical syntax failure is not rescored.

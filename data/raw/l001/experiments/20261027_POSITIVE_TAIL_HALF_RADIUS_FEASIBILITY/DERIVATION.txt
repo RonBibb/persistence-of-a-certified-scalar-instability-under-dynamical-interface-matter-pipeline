@@ -1,0 +1,12 @@
+Fixed successor qualification at eta/R=1/4 and1/2, strictly below1.
+Identical tail.py to independently audited POSITIVE_TAIL_FEASIBILITY_R1.
+Same all-order positive-source proof, fixed ystar=2*seed*eta, finite24
+prefix, analytic radius, weights, exact interval arithmetic and every gate.
+Each point must pass independently; no inference from smaller points.
+No modification of failed or sealed packets, no actual eighth coefficients.
+Require previous two-point full-readout audit PASS before launch.
+These are tail-method qualifications, not complete five-gate certificates.
+Only qualified points can be propagated through the later full readout.
+Purpose: distinguish retained F8/F9 bounds from the old generic unresolved
+tail obstruction. Neither failure is a physical instability observation.
+Linux1CPU2GiB600seconds; fixed deadline13:42:44UTC; no restart.

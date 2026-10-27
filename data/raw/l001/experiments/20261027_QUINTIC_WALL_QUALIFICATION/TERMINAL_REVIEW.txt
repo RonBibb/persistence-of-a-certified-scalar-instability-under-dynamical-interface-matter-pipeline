@@ -1,0 +1,6 @@
+Accepted scoped independent audit: reviewer jet_bound_review, R1.
+Producer terminalb8735f32838bb5072e3089917c98adeba0ec95cea8a15e8c5da6c48f7f3a153f; result252b21757dc107d0033fe19df065a5d5a10f1d0549528f27adb34e064aad92df.
+R1PASS6003checks,118qualifiercontrols,18.20seconds. Auditor source6eb87b0439666601b74e302f63e7a1960de3577dd70d210525de6accd8715dfb; auditrecord6e98b74ce3b98c5d5b5defca5963f8ce4c06fde5ac8fe97a97f3c0fdd5bede96.
+Original exact-dict auditor failed solely because producer Python variables tuple becomes JSON list. The diagnostic confirmed every other field and sequence entry exact. Original auditor/failure preserved; R1normalizes JSON representation, without changing producer or physics.
+Scope: independent manual Taylor/fixed-time/boost derivation review plus exact replay and full binding audit. This is not a second generated nonlinear wall-source oracle. No fifth-order source enclosure,d5,ortrajectoryclaim.
+

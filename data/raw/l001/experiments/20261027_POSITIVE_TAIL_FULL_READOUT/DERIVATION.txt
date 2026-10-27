@@ -1,0 +1,32 @@
+POSITIVE UNRESOLVED TAIL: TWO-POINT COMPLETE READOUT
+Fixed q=eta/R in {1/16,1/8}. No new amplitude search or radius.
+Requires independent positive-tail R1 audit before launch. All parent
+complete certificates are replayed exactly at those two fixed points.
+
+Let D24,E24 be existing unsigned proper-distance and J-1 inverse-lapse
+coefficient bounds. Known F3..9 remain unchanged. Positive-tail packet
+provides T_D >= sum(n>=25)|d_n|a^n and U_D >= sum(n>=25)n|d_n|a^n.
+Jtail=JC*q^25/(1-q), Efull=sum(E24_n*a^n)+Jtail bounds J-1, not J.
+Clock unresolved numerator is bounded by
+ sum(n=10..24)(n-1)D_n*a^n
+ +sum(n,m<=24,n+m>=10)n*D_n*E_m*a^(n+m)
+ +U_D*(1+Efull)+sum(n<=24)n*D_n*a^n*Jtail.
+Divide by32, then by original clock allowance10*a^2.
+The unknown-distance term safely overpays n-1 with n. Its product with
+full E includes unknown-distance times unknown-lapse exactly once.
+Known-distance times unknown-lapse is separate. No subtraction of two
+upper bounds is used. All coefficients and products are nonnegative.
+
+Distance uses retained2..24 plus T_D. Scalar coefficient bounds2..24
+are min(existing actual/finite bound if present, kappa*z_n/n^3), with
+positive-tail scalar and Euler-scalar tails for n>=25. Every order10..24
+is included explicitly, unlike the old retained9 scalar formula.
+All new candidates take min with original valid candidates. Preserve
+clock, distance, scalar, scalar derivative, opening gates exactly.
+Report technical completion separately from either point's acceptance.
+
+Infinite coefficient domination is inherited from the all-order analytic
+source/norm proof; finite24 data do not establish that proof by themselves.
+This refines a sufficient certificate, not a physical amplitude threshold,
+new solution, saturation, collision, horizon or child formation claim.
+Exclusive Linux1CPU2GiB,600seconds, no retry, fixed campaign deadline.

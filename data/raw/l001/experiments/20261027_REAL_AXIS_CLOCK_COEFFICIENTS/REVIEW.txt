@@ -1,0 +1,8 @@
+Independent terminal audit: PASS, /root/jet_bound_review, 2026-10-27.
+3026 bindings and 70 gates reproduced under the Linux resource lease.
+Real-axis component exponential coefficients, L4/F4/F5, all four factorial controls and full certificates checked.
+Terminal SHA256: c2e10b6756e68bbfdada50034d212a13f56d7a09ad95827c72ab89477088351b
+Result SHA256: 5f47b7c92cd1c9d55a0f64818f34028a55a5dd3a3ff2ab447034d2517579a2ab
+Amplitude 7.271804229197805e-32, sixteen times the prior joint certificate.
+Quartic contribution 0.280621485 dominates the normalized clock gate. Unknown sixth-and-higher tail 0.001427954; known fifth contribution approximately 1.16e-11. Next dyadic clock gate 1.145333209 fails. Distance and scalar gates are far below their thresholds.
+No change to global radius, physical family, normalization or clock. This is a sufficient local amplitude certificate, not finite nonlinear evolution.

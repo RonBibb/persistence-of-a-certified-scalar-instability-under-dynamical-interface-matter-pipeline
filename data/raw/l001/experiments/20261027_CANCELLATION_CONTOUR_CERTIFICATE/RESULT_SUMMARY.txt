@@ -1,0 +1,15 @@
+PASS independently audited:6,684checks43.23seconds; producer41.82seconds.
+Certified amplitude2.3828248098235366e-27:2x previous and goal-entry value.
+The gain comes from preserving exact linear cancellation in the full-F
+supremum. No favorable uncertain-coefficient cancellation or changed gate.
+Best contourtheta1/64. Clock usage0.00662042380; next doubling clock1.72211008
+alone fails. Finite scalar coefficient bounds reduce current scalar and
+Euler-derivative ratios to5.35e-16 and2.14e-15, respectively. Distance passes.
+
+No physical evolution was computed. Same global radius, solution family,
+background and clock. This is a larger sufficient local certificate only.
+Terminal:b82e1f7d8bda3b3ea317b7646f932b2462c5a6d129dc989691aa528adfdf229d
+Result:200d01a3a7761832dd941f89c0906807be18833c6a477ee7ad2cbd1321d95d24
+Audit:2c505a024ec2712555391d98cbb009f4d68ee595069054a84248ce6d2858562a
+Audit file:../20261027_QUARTIC_REAL_SOURCE_AUDIT/CANCELLATION_CONTOUR_AUDIT.json
+Documentary summary outside frozen source inventory.

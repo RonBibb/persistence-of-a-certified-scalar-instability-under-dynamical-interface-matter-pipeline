@@ -1,0 +1,17 @@
+2026-10-27 separately versioned saved-record audit preflight.
+verify_r1.py SHA-256:
+eb1078148f943b61b56fe15c30001bc4fffeca499738ad0af209baa91a8f811d
+
+The approved A2/A3 conversion-aware checks passed. First-primary-cell strict
+Arb re-evaluation failed at SOURCE_ENCLOSURE:primary:0:T after the forcing and
+Sc4 enclosure checks passed. Tool session 20129, exit 1. No full cell audit
+was launched; lease released in finally. No producer source, saved enclosure,
+acceptance criterion or scientific artifact was changed.
+
+This is consistent with a known archive-replay limitation: reconstructing an
+Arb ball from stored rational endpoints can enlarge its radius. T is itself
+a directly archived canonical component. Exact endpoint equality/containment
+must be diagnosed before drawing any scientific conclusion. The failure is
+preserved and has not been rescored. Production remains independently
+unqualified. A separate exact-endpoint arithmetic audit can avoid this
+representation issue without widening any producer bound.

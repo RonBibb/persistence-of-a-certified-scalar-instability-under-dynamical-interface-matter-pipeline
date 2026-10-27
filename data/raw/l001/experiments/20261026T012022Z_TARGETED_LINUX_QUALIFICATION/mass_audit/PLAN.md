@@ -1,0 +1,11 @@
+# Current Linux witness for the unchanged historical mass auditor
+
+Prospective qualification only. Main dispatch after independent SOURCE_REVIEW, Linux administrative freeze and ADMISSION. No ODE, producer import, endpoint replay, source edits, or parent writes.
+
+Run the original `academic2-event-horizon/lin-central-validated-mode-r1-20261005T172800Z/postrun_audit.py` unchanged through a bootstrap loading that file by absolute path. Under isolated Python `-I -B`, explicitly insert only the declared Flint package root `/home/parallels/research-runs/cap-interval-arb-2026-09-12` before importing the original auditor; its main function imports Flint and enforces the historical resolved `/usr/bin/python3.12` executable/hash and all 42 native library hashes. No native scientific import during administrative freeze. Fail closed if any original runtime/path is unavailable; no substitute binary or patch.
+
+Freeze all parent packet files, originals referenced by BINDINGS and previous manifest, actual runtime executable/stdlib/mapped native dependencies, original declared Flint tree and native library bindings. Record current before/after runtime identity including loaded Flint/native modules. Capture the unchanged auditor stdout into a new local output file; require audit_pass, the original classification, endpoint and strip certificates, 288 checkpoints, 11808 native roundtrips, 42 libraries, no physical integration, and identical original result/source digests. These are semantic coverage gates, not substitutes for the auditor's checks.
+
+One Linux core, 1 GiB address space, normal L001 exclusive lease and global <=2 CPU policy. Internal alarm 180 seconds includes authentication and audit; external supervisor 210 seconds. No resume/restart or overwrite. Child-group cleanup on timeout. Parent hashes rechecked after completion by both bootstrap and supervisor. Preserve failures; no source repair inside the same namespace.
+
+Success means CURRENT_LINUX_HISTORICAL_MASS_AUDITOR_VERIFIED: a fresh actual Linux computational-auditor receipt. It does not reconstruct all IVP steps, recalculate the eigenvalue, or replace analytic boundary-action bridges. Exact signs/native roundtrips and the original independent rational norm check retain their original scope. Expected seconds to a few minutes; no promise before measurement.

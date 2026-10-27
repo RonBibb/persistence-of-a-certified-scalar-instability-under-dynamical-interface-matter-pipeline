@@ -1,0 +1,37 @@
+Field-specific radial certificate: PASS with independent post-run review.
+
+Only BR background coefficients were tightened, using already-certified
+complex-collar bounds and unchanged all-order tails. No physical equation,
+seed, inverse, source other than BR, or acceptance threshold changed.
+All45 declared candidates retained; all131 gates passed. Runtime20.9016s.
+No ODE solves; producer exited and no successor was launched.
+
+Certified amplitude radius:1.0409543765728897e-38
+Protected proper-clock amplitude:2.7553832923306175e-61
+Scalar departure threshold:6.888458230826543e-66
+Improvement over radial-background-cancellation parent:
+radius3.630291427840296 times; clock7.260582855680592 times.
+Selected lambda1/256,kappa1/16,a2^-96 (parent used a2^-104).
+
+Updated proof-budget attribution, independently exact-reconstructed at
+each record's selected ray before rounding percentages:
+Parent: BR72.8568%, BM25.7274%, TRACE0.722862%.
+New: BM93.3979%, TRACE2.62420%, BJ2.17644%, BR1.46222%,
+BO0.334065%, BK0.00489757%, GRAPH0.000305339%.
+The radial estimate is no longer the principal limitation; the mixed
+equation estimate is. These are positive proof-bound contributions, NOT
+physical energy, force, or actual residual shares. The smaller relative
+gain is consistent with the unchanged mixed estimate becoming dominant.
+
+Next bounded candidate: field-specific treatment of the exact S6 mixed
+equation, retaining all L(Dp) transport and the existing norm allocation.
+See NEXT_CANDIDATE.txt; this recommendation does not launch a successor.
+
+The certificate remains local and its amplitudes remain extremely small.
+No useful-amplitude evolution, nonlinear endpoint, generic initial-value
+flow, charged-family result, horizon or child formation is established.
+
+Terminal SHA-256:
+18f78dec451ed83b1060e403ea7e8ddfb1d70ea4996a14c29342040f2939d475
+Result SHA-256:
+ec8e20821fbd67574a0848270aff2ff6edcb3837143f00aab46ced118c909edc

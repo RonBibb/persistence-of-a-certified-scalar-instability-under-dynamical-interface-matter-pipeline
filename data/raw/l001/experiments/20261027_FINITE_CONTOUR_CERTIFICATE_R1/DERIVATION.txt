@@ -1,0 +1,32 @@
+Finite-distance contour supremum, same analytic family and global disk.
+Authorized window ends 2026-10-27 11:38:31 UTC, no extension.
+
+For each fixed theta in (0,1) and Bn>=|dn| through9, let
+V=sum(n=1..9) Bn(theta R)^n + MD theta^10/(1-theta),
+W=sum(n=1..9) n Bn(theta R)^n
+  + MD theta^10(10-9theta)/(1-theta)^2.
+Cauchy on the unchanged R disk supplies the unknown coefficients. Thus
+V bounds |D-D0| and W bounds |eta D'| on theta R. The same global
+inverse-lapse bound128 and r<=1/32 imply sup|F|<=(128W+V)/32.
+Take the minimum of this and the previously valid contour supremum.
+Subtract retained F terms only via Cauchy coefficient tail, not by claiming
+cancellation in the sup. Unknown>=10 tail remains MFtheta z^10/(1-z).
+
+Baseline exactly reconstructs the accepted contour-distance BOTH arm.
+Four fixed arms: baseline; extended contours only; finite supremum on
+original contours; finite supremum with extended contours. Original contours
+are 1/2,2/3,3/4,4/5,9/10,10/11,15/16. Extended additionally include
+1/8,1/4,1/3,2/5, in that order before the original list. Ties pick first.
+Same physical-amplitude grid R*2^(-j)/2 and all original acceptance gates.
+Actual d1 is the containing absolute max across two engines; d2..9 remain
+the parent bound inventory. Scalar bounds and all retained F terms unchanged.
+All positive-tail/normalized gate bounds are monotone, so a selected fixed
+contour certifies the complete smaller two-sided subinterval.
+
+Linux exact rational arithmetic; exclusive1core lease,2GiB,600second cap,
+binding before arithmetic and after; independent pre/post review. No ODE,
+no new physical radius, no finite nonlinear trajectory or fate assertion.
+
+R1 is a separate correction of runtime preparation only. Warm integer-string
+conversion before binding; record exact runtime differences if any remain.
+Original failed packet preserved. Scientific formulas and gates unchanged.

@@ -1,0 +1,13 @@
+# Physical clock interpretation of the extra mode
+
+Translate accepted physical-mass brackets to the growing homogeneous de Sitter harmonic in the existing action and original normalization. This is a finite separated-mode interpretation, not an evolution or completeness theorem for arbitrary initial data.
+
+Check the inherited main-text signature (-++++), gamma curvature Ric=3k gamma, harmonic convention Box_gamma Q=mu Q and k=3. In the flat de Sitter patch gamma=-dt²+exp(2Ht)dx² with H=sqrt(k), derive Box Q=-Qddot-3H Qdot for a spatially homogeneous scalar. The positive exponential branch has sigma/H=(-3+sqrt(9-4mu/k))/2. Verify rather than assume the generic-harmonic qualification: its traceless Hessian is proportional to sigma(sigma-H), so for -4k<mu<0 it is nonzero. Constant and shifted-zero endpoint examples are controls only, not admitted eigenmodes.
+
+At a fixed wall, proper time tau_i=a_i t gives sigma_i=sigma/a_i and H_i=H/a_i; sigma_i/H_i is invariant. A lower-normalized metric rescales mu and k by the same factor a_a^-2. Do not equate the warp gradient H=a'/a=-2 at the center to the cosmological sqrt(k). Report growth per local Hubble time, not seconds or years without a dimensional calibration.
+
+Use exact outward integer interval square roots at 256 fractional bits on the accepted T1R2 and T2 mass boxes. Report sigma/H, Hubble times per e-fold=1/(sigma/H), and the stiffness-to-soft growth-rate ratio plus suppressed fraction. Controls at mu=0 and mu=-12 must contain exact0 and1 respectively; a further rational square discriminant must reproduce its exact rate. Check monotonicity by endpoint orientation. Frozen scientific consequences: persistence of the second mode is unchanged; because its mu<-4k, its corresponding growing homogeneous harmonic has sigma/H>1, while the additional mode is between0and1. This compares allowed separated harmonics, not their excitation by unspecified data.
+
+Independent prospective review must approve the clock and generic-sector derivation before calculation. Independent terminal review checks proof, arithmetic, dependencies and claims. Same one-core wrapper and resource/cutoff/HOLD rules; finite590s cap. No source manuscript edits or new physical dynamics. Technical acceptance requires bound inputs, square-root controls, correct open-band inequalities and runtime identity. Reject any dimensional timescale claim not supported by explicit scale calibration.
+
+Before admission, include the exact interval ratio of stiff to soft |mu| and its suppressed fraction alongside the growth-rate ratio. These are distinct observables; the nonlinear de Sitter relation means their percentage suppressions need not coincide. Use the full accepted brackets for both, without midpoint substitution.

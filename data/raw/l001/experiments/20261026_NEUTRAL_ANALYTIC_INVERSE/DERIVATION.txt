@@ -1,0 +1,69 @@
+Common analytic collar and all-order neutral scalar inverse
+
+PREDECLARED METHOD. No outcome is asserted by this source file.
+
+1. Inputs: both fresh background cell archives, their audited all-order
+real-axis inverse and selected r/h bounds. The program verifies broad real
+bounds |H|<=2, |Phi|<=1, |T|<=1, 1/2<=E<=16, 0<m<=1,
+0<k<=1/1024, 1/64<=h<r<=1/32 on the entire real interval.
+These are sufficient enclosures, not substituted midpoint parameters.
+
+2. Complex background Picard bound. Use delta=2^-16 and R0=delta/128.
+At every real point the complex polydisc of coordinate radius delta is
+contained in |H|<=3, |Phi|<=2, |T|<=2, |E|<=17. The polynomial vector
+field H'=-T^2/3-kE^2, Phi'=T, T'=mPhi-4HT, E'=-HE has sup norm <=64
+and row-sum Jacobian norm <=32 there. R0*64=delta/2 and R0*32<1/2.
+Complex Picard contraction provides an analytic solution on each radius-R0
+disk about the exact real solution, with coordinate difference <=delta/2.
+Uniqueness glues these disks to a stadium about the entire real interval.
+Use the weaker difference <=delta below. The exact analytic background
+identity E=exp(-W) is inherited from the real equations and continuation.
+
+3. Uniform denominator. Let q_n=r^2+3rh/n-4h^2/n^2, n>=2.
+r>h implies q_n>=r^2; also q_n<=5/2048. Thus D_n/n^2=
+2T^2/n^2+3q_n E^2 has real lower bound d0=3/16384.
+Its change inside the prior collar is at most
+ delta+delta^2/2+(15/2048)(32delta+delta^2) < d0/2.
+Consequently |D_n|>=d0*n^2/2 on this common collar. Also |E|>=1/2-delta.
+The scalar coefficient A=4H+B0*T/D and V=m-mu_n E^2+2T^2+B0*T'/D
+obey |A|<=12+160/[4(d0/2)] and
+ |V|/n^2<=1/4+(5/2048)*17^2+2+80*26/[16(d0/2)].
+Here B0=12HT-4mPhi, |B0|<=80, |T'|<=26. For V the coefficient
+(-mu_n)/n^2=r^2+3rh/n also has the same upper bound 5/2048.
+
+4. Weighted inverse. On a smaller stadium radius rho<R0, set
+d=1-dist(z,I)/rho, ||v||p=sup d^p |v|, p=2n.
+Let S=||F||p+2+n max|g|. The real inverse yields
+n^2|f(real)|, n|f'(real)| <= C0 S (each separately).
+Analytically continue the linear ODE from the real solution. Its
+coefficients are holomorphic with no denominator zero on the prior collar.
+Along a straight segment from the closest real point, primitive from
+index p+2 to p+1 costs rho/(p+1), double primitive to p costs
+rho^2/[p(p+1)], and the weighted linear initial term costs rho/(p+1).
+Writing X=n^2||f||p and Y=n||f'||p+1 gives for n>=2:
+ X <= [C0(1+rho/2)+rho^2/4]S + B*rho^2*X/4 + A*rho^2*Y/8,
+ Y <= [C0+rho/2]S + B*rho*X/2 + A*rho*Y/5.
+The program picks the first rho=R0/2^j, j=1,...,64 satisfying
+rho<=1 and q=max(B(rho/2+rho^2/4),A(rho/5+rho^2/8))<=1/4.
+Then X+Y<=[C0(2+rho/2)+rho/2+rho^2/4]S/(1-q).
+Finally ||f''||p+2<=B X+(A/2)Y+S. Each inequality is first used on
+closed smaller stadia with the original d; taking the increasing limit
+justifies the suprema without assuming finite weighted norms beforehand.
+
+5. Compatible metric. For Sm=||Sc||p+2+U(f)+n||Sp||p+1,
+the real constraint gives n^2|p(real)|<=Cm Sm with
+Cm=max(1,Treal/2+Tpreal/4)/d0. Broad bounds Treal<=1,
+Tpreal<=9 give Cm=(11/4)/d0. Continue using p'=-2Hp-Tf/3+Sp.
+The primitive from index p+1 to p costs rho/p, not rho/(p+1).
+It follows Xp=n^2||p||p <= Cm Sm+(rho*H/2)Xp+
+rho(T/12+1/2)Sm. With H<=3,T<=2 this is absorbed explicitly.
+Then Yp=n||p'||p+1 <= H Xp+(T/6+1)Sm. Nagumo gives
+||p''||p+2 <=3e*Yp/rho <=9*Yp/rho. Compatibility identifies
+this continuation with the constrained solution. No twice differentiated
+algebraic source Sc is used and no free source derivative is assumed.
+
+Scope: an analytic linear inverse for all positive harmonics n>=2,
+conditional on the authenticated background and real inverse. Actual
+nonlinear source constants, first-mode analytic norm, majorant and
+observable remainder are separate next stages. Standard analytic Picard,
+linear holomorphic ODE and Nagumo inequalities are analytic premises.

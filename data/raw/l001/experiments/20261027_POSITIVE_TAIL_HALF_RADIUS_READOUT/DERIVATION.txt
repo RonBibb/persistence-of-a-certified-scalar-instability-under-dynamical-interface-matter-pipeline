@@ -1,0 +1,17 @@
+Complete five-gate evaluations at fixed eta/R=1/4 and1/2.
+Requires independent audits of positive distance/scalar and inverse-clock
+tail qualifications at these exact points. Same original radius and fields.
+Replay the original actual-seventh full certificate at R/16 andR/8 exactly.
+New-point original Cauchy readouts are recorded, not assumed admissible.
+
+Use identical finite24 distance/inverse prefixes, scalar2..24, F3..9 and
+clock partition as POSITIVE_TAIL_FULL_READOUT. First record the candidate
+using the old inverse Cauchy tail, then replace it by the audited inverse
+tail minimum in BOTH Efull multiplying unknown distance and known-D times
+unknown-J. Thus unknown-D times unknown-J is counted once, no term lost.
+Report both inverse options separately. Require new candidate no worse.
+Preserve all old fallback minima and all five gates. No scan or tuning.
+Technical completion does not imply either amplitude passes. A failure
+is a sufficient-certificate limitation, not a physical instability.
+All-order composition/norm domination is inherited from the same proof.
+Linux1CPU2GiB600seconds; deadline13:42:44UTC; no restart.

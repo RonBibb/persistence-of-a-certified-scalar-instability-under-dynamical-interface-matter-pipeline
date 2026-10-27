@@ -1,0 +1,24 @@
+Prospective bounded real-anchor separation; no successor launched.
+
+Inherited scalar inverse supplies each real-axis n^2|f| and n|f'|<=C0*S,
+where S=||F||_(2n+2)+n max|g|. The complex full derivative norm uses Cf.
+These are different certified bounds, not alternative physical parameters.
+
+For the real constraint p=(Sc-Tf'+T'f)/D and D>=d0*n^2, n>=2:
+n^2|p| <= [||Sc||+(Treal/2+Tpreal/4)C0*S]/d0
+          <= Cm*(Sc+C0*S), with Cm=(11/4)/d0.
+Keeping an extraSp is conservative. Source upper bound S<=force+g is
+the same as in the current scalar step.
+
+Define uf=Cf*(force+g), ureal=C0*(force+g). Replace only
+xp=[Cm*(sc+uf+sp)+rho*(uf/6+sp/2)]/(1-3rho/2)
+by
+xp=[Cm*(sc+ureal+sp)+rho*(uf/6+sp/2)]/(1-3rho/2).
+Every complex continuation and later term keeps uf unchanged, as do all
+source envelopes, trace, graph, oscillators, seed, norms and grid.
+
+Bind the exact C0 result and real-inverse ancestry/norm premise. Verify
+the anchor inequality with explicit n>=2,real T/T' bounds and d=1.
+Use a separate frozen packet, independent executable review, same45-grid
+and complete geometry/contraction/clock/scalar checks. Any actual gain is
+unknown until this runs; hypothetical zero constants are not substitutes.

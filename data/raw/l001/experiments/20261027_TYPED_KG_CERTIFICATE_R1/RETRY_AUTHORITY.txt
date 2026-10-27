@@ -1,0 +1,8 @@
+Retry the identical reviewed source and derivation in a new namespace.
+Original20261027_TYPED_KG_CERTIFICATE preserved RESOURCE_HOLD; no START,
+binding or numerical result was produced. No scientific gates changed.
+Retain original lease and same two-hour authority/cutoff1793074031.
+Live read-only check confirms L002 supervisor and worker are both pinned0;
+initial speculation about unpinned L002 supervisor was incorrect. L005
+terminal_metadata.py appeared briefly active in subsequent resource snapshot.
+Admission must independently pass; never ignore or alter another job.

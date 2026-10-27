@@ -1,0 +1,15 @@
+Eighth moving-wall qualification. Ordinary eta coefficients, not factorial jets.
+The displacement begins at eta^2. Degree eight therefore requires first field
+jets through order six, second through four, third through two, and fourth
+background derivatives. No fourth perturbation jet can contribute before nine.
+The normal boost includes 1+v^2/2+3v^4/8; the squared factor includes 1+v^2+v^4.
+Fixed-coordinate time derivatives retain n*r, not the pulled-back derivative.
+Both wall orientations replay all prior coefficients through seven. The new
+oscillator divisor is 2+8r(8r+3h)E^2; the graph divisor is 8*sigma*E^2*r*(8r-h).
+Qualification checks exact Robin elimination, lower-only loads, complete normal
+boost convolution, omitted quartic boost detection, and all new jet locations.
+These are formal polynomial identities. New jets are independent symbols until
+separately differentiated and enclosed. No eighth coefficient, finite-amplitude
+trajectory, or physical fate follows from this qualification alone.
+Only run after authenticated eighth bulk qualification and independent audit.
+Linux exclusive lease: one CPU, 2 GiB, 600 seconds. Original cutoff retained.

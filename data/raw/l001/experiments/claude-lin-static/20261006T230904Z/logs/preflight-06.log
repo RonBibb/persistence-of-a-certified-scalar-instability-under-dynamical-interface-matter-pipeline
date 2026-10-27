@@ -1,0 +1,18 @@
+slot_run: line 02_lin_static priority 5 token 1 slot 3 start 2026-10-07T00:03:32Z avail_kib 29766816 load 2.08
+Traceback (most recent call last):
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T230904Z/code/preflight3.py", line 327, in <module>
+    sys.exit(0 if run_all() else 3)
+                  ^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T230904Z/code/preflight3.py", line 289, in run_all
+    seam, seam_base, lam, h0, Dn, ckdirs, finals = crossing_fixture(root, 'seam', Fraction(2), fmpq(1, 10 ** 15))
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T230904Z/code/preflight3.py", line 183, in crossing_fixture
+    status, prod, ver, files = pipeline(base, lam, h0, Dn, ckdirs, finals)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T230904Z/code/preflight3.py", line 169, in pipeline
+    ver = verify3.verify(C)
+          ^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T230904Z/code/verify3.py", line 214, in verify
+    lo, hi = max(lo, Fraction(rec['interval'][0])), min(hi, Fraction(rec['interval'][1]))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: '>' not supported between instances of 'Fraction' and 'flint.types.fmpq.fmpq'

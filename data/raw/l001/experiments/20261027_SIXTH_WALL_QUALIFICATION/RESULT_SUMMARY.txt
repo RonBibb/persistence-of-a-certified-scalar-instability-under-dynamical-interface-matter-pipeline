@@ -1,0 +1,4 @@
+Producer PASS144checks11.18seconds. Independent source review and exact replay audit PASS6675checks21.38seconds. Both wall orientations, all degree0..5 rows, sixth linear operators, lower-only loads and explicit boost correction checked.
+Terminal9474474acde4c88cd0d0b85cc27f78ad67a86072b2e7ff0e32467d6d529d4ca8
+Audit b6013b9b34921979d73589346d2335ff83728ced05142fd5a164ba7309eb71bd
+New spatial jets are symbolic inputs here; qualification alone is not a sixth coefficient enclosure or physical evolution.

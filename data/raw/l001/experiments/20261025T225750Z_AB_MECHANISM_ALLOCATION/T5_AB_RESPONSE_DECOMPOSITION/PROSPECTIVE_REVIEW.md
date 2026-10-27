@@ -1,0 +1,9 @@
+# Independent prospective review — saved response decomposition
+
+Reviewed the full source, configuration and PLAN against accepted T4 and T2R1. For fixed regular operator, substituting the forced upper multiplier gives integrated response Ra Ba+Rb Bb, with Ba=(IP-FP IH/FH)/Ra and Bb=-IH/(2FH). The implemented split R=(Gamma T-2sigma T')xi-n/1000, bulk factor -2 and explicit upper-minus-lower displacement are correct. Nonzero inverse and normalization intervals are required. Exact controls cover the independent assembly expression, additive split, force-sign mutation and density normalization.
+
+The stored interval sources and basis integrals retain background/wall uncertainty; comparisons use overlap and hull rather than favorable intersections. Individual pieces are chart-dependent linear source-response terms, not independently gauge-invariant causes or separate realizable nonlinear models. The PLAN now states this explicitly. Proper-density normalization is distinguished from conserved-label normalization.
+
+The neutral metric fraction complement 1-Fs-Fw is an exact same-mode normalization identity and gives a legitimate alternative enclosure. It is separately reported, checked against the raw ratio, and neither silently replaces nor rescores T2R1. The neutral mode and forced mu=-18k response are kept distinct.
+
+Fresh admission must bind accepted parent results, all basis/assembled/strip records, terminal reviews, current source, exact interval helper, runtime and authority. The unchanged standard one-core wrapper has a 910-second limit around the 900-second producer alarm. All computation/auditing must run on academic-linux under normal shared leases and allocation cutoff; no ODE solve, rescue or successor is admitted here. This reviewer has executed no scientific calculation for T5.

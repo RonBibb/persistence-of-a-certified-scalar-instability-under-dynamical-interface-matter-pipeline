@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T225750Z_AB_MECHANISM_ALLOCATION/T2_AB_SELECTED_MODE/producer.py", line 263, in <module>
+    if __name__=='__main__': main()
+                             ^^^^^^
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T225750Z_AB_MECHANISM_ALLOCATION/T2_AB_SELECTED_MODE/producer.py", line 219, in main
+    controls={name:semantic_controls(load(name)) for name in ('primary','independent')}; put('CONTROLS.json',controls)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T225750Z_AB_MECHANISM_ALLOCATION/T2_AB_SELECTED_MODE/producer.py", line 119, in semantic_controls
+    need(square(m,m.interval(fmpq(-1),fmpq(2))).lower()==0,'CROSS_ZERO_SQUARE')
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T225750Z_AB_MECHANISM_ALLOCATION/T2_AB_SELECTED_MODE/producer.py", line 16, in need
+    if not x: raise RuntimeError(why)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: CROSS_ZERO_SQUARE

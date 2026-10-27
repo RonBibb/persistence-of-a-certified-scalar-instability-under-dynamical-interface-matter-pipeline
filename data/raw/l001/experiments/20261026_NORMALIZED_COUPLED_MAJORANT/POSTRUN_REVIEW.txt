@@ -1,0 +1,33 @@
+Independent post-run review: PASS
+Reviewer: /root/jet_bound_review
+Recorded by the primary agent from the reviewer's completed response.
+
+Terminal SHA-256:
+e37fb26ee9c3fb8625887852c28bed63674d18e9e20a50a3ede78ee6d717627f
+Result SHA-256:
+3190b707f09a0ff14b88a273e476dc31160b9a632c5c8f385455a00e9d1c434a
+
+A separately written read-only Linux Fraction checker verified all 2825
+bound hashes; terminal/result/source/derivation links; exact 45-arm grid
+coverage; recorded-mass K ceilings; exact minimum-K selection; separate
+wall seeds; contraction; aggregate chart/timelike/lapse gates; clock,
+distance and scalar tail arithmetic; signed-opening gate; displayed gains.
+
+Physical amplitude radius: 2.8626059682587923e-40
+Radius gain over inherited joint certificate: 106.98206512414254
+Protected proper-clock eta: 9.471568633289043e-64
+Clock eta gain: 855.8565209931403
+Scalar departure threshold: 2.3678921583222607e-68
+Selected lambda=1/256, kappa=1/16, evaluation a=2^-104.
+Selected scaled masses B/X/C relative to B: 1, 2.81348e-28, 0.415576.
+K is controlled by 2M/a^2, not 1/a.
+
+Review scope: independent exact saved-record reduction plus prelaunch
+source/analytic review, not a separate recomputation of the 45 nonlinear
+envelope masses and not an ODE replay. The first inline audit invocation
+had a shell-quoting SyntaxError before execution. The corrected checker
+passed without writes. The numerical producer itself had no failure.
+
+Primary verification separately confirmed 121 gates, 45 admitted candidates,
+2825 hash entries, no FAILURE.json and no remaining worker. Production
+runtime was 14.787102131987922 seconds. No sealed ancestor was changed.

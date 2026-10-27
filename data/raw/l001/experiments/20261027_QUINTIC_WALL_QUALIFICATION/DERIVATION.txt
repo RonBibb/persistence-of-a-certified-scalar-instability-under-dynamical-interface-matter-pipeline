@@ -1,0 +1,10 @@
+Fifth-order moving-wall exact qualification, prepared before launch.
+Same selected neutral growing analytic family, original wall equations and original clock. No field solve or finite trajectory.
+Write shift=xi2 eta^2+xi3 eta^3+xi4 eta^4+xi5 eta^5, ordinary (not factorial) coefficients.
+Pull back background and perturbation fields by Taylor expansion to degree5; include xi2^2 p1''/2 in pwall, xi2^2 f1''/2 in deltaPhi, and xi2^2 f1'''/2 in radial scalar derivative. Background scalar degree5 term is Phi'' xi2 xi3. Fixed-time derivatives are taken before pullback, unlike total wall derivatives.
+The Lorentz factor gamma is 1+v^2/2 through degree5, since v begins at degree2 (the inherited code variable is called inverseboost). Graph uses inverseboost2=1+v^2. All equations are expanded as rational polynomials on independent wall jets and both orientations.
+Predeclared acceptance: coefficients0..4 equal authenticated quartic wall equations; fifth new rows have expected linear oscillator, scalar and graph operators; eliminate chi5 to Robin row; residual loads independent of all new fifth variables; omission of scalar normal boost changes J5 by T*v2*v3+(g1+2*T*p1)*v2^2/2 and is detected.
+d5=2+5r(5r+3h)E^2; graph divisor=5 sigma E^2 r(5r-h).
+Only algebraic source qualification; bulk compatibility is a separate packet, physical fifth-source enclosure remains unimplemented. Passing neither measures d5 nor increases amplitude.
+Linux-only, reviewed exclusive1core lease,2GiB address limit,600second cap. No restart/overwrite; immutable source and parent/runtime binding; launch cutoff2026-10-27T06:30:11Z. Independent prospective and terminal review required.
+

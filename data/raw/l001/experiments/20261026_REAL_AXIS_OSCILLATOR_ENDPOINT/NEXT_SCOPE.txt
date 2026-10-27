@@ -1,0 +1,18 @@
+Verified active constraint and bounded next diagnostic, not a new launch.
+
+Independent audit: endpoint selected(1/256,1/16,2^-80) has scaled B/X/C
+relative to maximum[1,5.31446e-21,0.00695376094]. K is mass-controlled,
+with mass branch/(1/a)=12.11308. Expanded parent selected(1/256,1,2^-88)
+is C-mass controlled, ratio215.3758. Only the old sealed parent was
+limited by1/a, ratio0.8914163.
+
+The current bulk map can be written
+B=42Xp+(25/2)Uf+(12+27/rho)Sp+c.
+Its real anchor now uses C0, but its continuation still includes rho*Uf/6.
+Uf is the full complex second-derivative-inclusive scalar norm, whereas
+some metric continuation/derivative terms need only scalar value or first
+derivative. Proposed next step: a bounded provenance decomposition of the
+already-certified scalar X,Y,Z bounds versus collapsed Cf, before changing
+any estimate. Check which component each metric term actually needs.
+Do not assume all B is scalar-driven from the selected-component label,
+or predict gains until the decomposition and source identities are checked.

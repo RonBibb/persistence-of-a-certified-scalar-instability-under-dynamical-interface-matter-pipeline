@@ -1,0 +1,23 @@
+# Extra mode strength continuation
+
+Received 25 October 2026 at 11:50:51 AM EDT. Last new test start is 1:50:51 PM EDT. This is a new packet after the sealed predecessor, not a restart. Maximum aggregate allocation is two CPU cores, subject to shared admission and HOLD.
+
+T1 and T1R1 remain reviewed TECHNICAL_INCOMPLETE: respectively coarse enclosure ambiguity and premature ambiguity-counter failure after a successful contraction. T1R2, T2, T3, T4, T5 and T6 are independently accepted. No long numerical job or automatic queue exists. The research window remains active, not exhausted by those completions.
+
+Accepted extra-mode physical mass brackets: zero Hessians [-.9404296875,-.9395751953125]; equal .009 [-.4921875,-.49140625]; equal .018 [-.0429765625,-.04219921875]. T3 measures the actual-mode norm and wall sensitivities over entire root intervals. T4 supplies conditional local homogeneous growth rates with checked clock normalization. T5 publishes a parameter-free leading model; T6 genuinely tests its prepublished .009 prediction and supports its declared .002 absolute accuracy at that held-out setting. The .018 retrospective bracket is not wholly inside that approximate window; no uniform approximation claim is made.
+
+T7 and T8 persistent-mode brackets, T9 prepublished two-component predictions, and T10 mode participation are independently accepted. Persistent mu is approximately -12.0603 at soft walls and -12.0558 at equal .018. T10 finds approximately 99.5 percent metric kinetic-norm contribution and near-maximal coherent separation overlap; this contrasts with the extra mode's approximately 99.5 percent scalar contribution. Both prepublished mixture windows are supported. These are kinetic components, not energy fractions or a pure-radion assertion.
+
+T11 is independently accepted: every surviving extra mode in the nonnegative-wall family has scalar kinetic share above .99457 and lower-to-upper response ratio above1.17264. T12's double-Dirichlet persistent ceiling is accepted, with positive shifted gap [0.0000634375,0.0000712421875]. This strongest boundary limit reduces the soft persistent mass-squared magnitude by only approximately0.5percent and retains conditional growth above one Hubble rate.
+
+T13 published its D²/6 leading-gap prediction before T12 began; the whole T12 gap lies in that predeclared20percent window. This is one-width support, not a measured scaling law. T14 is independently accepted: the metric forcing dominates the scalar curvature budget, the actual Dirichlet scalar profile is strictly concave and positive inside, and the metric kinetic share exceeds0.9999999957. Its nonzero scalar contribution and coherent separation remain coupled; no pure-mode or nonlinear assertion follows.
+
+T15 and T16 are independently accepted: all three mixed-wall/large-stiffness root intervals lie in the previously published prediction windows. T17 independently verifies the response factorization: at the measured settings, the endpoint-to-scalar-bulk factors differ from unity by less than one percent, accounting for the sensitivity contrast through scalar participation. T18 establishes the forced-profile mechanism uniformly when both wall Hessians are at least100, including Dirichlet limits.
+
+Closed at the original17:50:51Z cutoff, with documentary finalization immediately afterward. T19B/T19AR1/T19AR2, T20, T21, T22 and T23 are independently accepted. T19A remains TECHNICAL_INCOMPLETE; its coarse contraction failed and was not rescored. The all-wall persistent mechanism is certified on this fixed background, including positive metric profile, strictly concave interior scalar profile and metric kinetic fraction above0.99418. T21 establishes relative branch geometry and conditional clocks. T22 gives local analytic width coefficients without a fixed-width remainder. T23 distinguishes asymptotic endpoint pinning from low-stiffness participation suppression. All28 workers are terminal and reaped; the final live-process check found no packet worker, and all943 dependency checks passed. No new test was launched after the cutoff; no successor is queued.
+
+## Next prospective question
+
+The original six questions have been answered within their declared scopes. A separately specified half-width Dirichlet restriction test would test the leading factor-of-four gap prediction at a second width. This is not launched or authorized by this status note; endpoint/background and boundary-contract admission must be explicit. See FINDINGS.md for its purpose and limits.
+
+Each successor requires its own evidence-based scope, prospective admission and terminal review. The current window is being closed at its original cutoff, not extended automatically.

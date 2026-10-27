@@ -1,0 +1,25 @@
+Snapshot2026-10-27T16:10:18Z. COMPLETED; see FINAL_REPORT.txt and sealed audits.
+Authorized cutoff17:10:42UTC; last600second launch17:00:42UTC.
+Active goal: actual ninth qualification/enclosure/full-budget plus audits.
+Original ninth bulk: TECHNICAL_INCOMPLETE, inherited50k polynomial term cap.
+R1: TECHNICAL_INCOMPLETE,600second timeout in denominator accumulation.
+R2: producer PASS133.323s,63checks, exact cleared remainder zero.
+R2 terminal b3d3866eac83a573dcda1c06730fb0c3ddf71db2cd62af5b562288e85ac19227.
+Independent R2 audit PASS:7207checks,97.705s.
+Wall producer PASS:210checks,20.562s; audit PASS:7092checks,34.910s.
+Jet producer PASS:11checks,33.388s; audit PASS:74567checks,32.718s.
+Actual ninth enclosure PASS151.039s; audit PASS2279342checks,553.117s.
+Unsigned d9 bound6.148081161221728e44; not a physical amplitude.
+Three-quarter positive tail PASS41.520s; audit PASS7325checks47.662s.
+Inverse tail PASS55.003s; audit PASS7257checks31.047s.
+Full budget PASS170.927s; independent audit PASS7264checks207.913s.
+New certified amplitude7.320037815777903e-24, gain1.5089308574440226.
+All five gates pass at predeclared3R/4 endpoint; not a failure threshold.
+No campaign calculations remain running. No successor launched.
+Fixed R2 resource contract200k polynomial terms,1M product pairs,100k reduction,
+600seconds,2GiB,exclusive1CPU. Failed parents source-bound and preserved.
+All requested stages now have passing producers and independent audits.
+Independent source-review/audit scripts are in QUARTIC_REAL_SOURCE_AUDIT.
+Old amplitude4.851141972255318e-24 is superseded by the above audited endpoint.
+The former ninth estimate bottleneck is removed; finite higher-order distance
+estimates dominate the remaining cost, still far below allowance at3R/4.

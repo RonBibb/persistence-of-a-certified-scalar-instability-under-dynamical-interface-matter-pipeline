@@ -1,0 +1,12 @@
+Prospective grid-only extension after joint complex-background factorial.
+Keep all883 priorjoint rows first, same source maps,responseweights,seed1215,
+domain and full geometry/clock/scalar remainder bounds. No physics changes.
+For each distinct graph/oscillator ray in original first-occurrence order,
+add a=2^-exponent for exponent48,49,...,59. Exact tuple dedup, rationalonly.
+Original883 rows and fulljointcertificate replay exactly. Every addedpoint
+must pass full domain/seed/nonnegative load and nonlinear majorant gates.
+Choose minimumexactK,tiesfirst. NestedgridK/radius nonworsening explicit.
+Recompute actual clock amplitude separately; minK is not clock optimization.
+Do not claim global continuous optimum. Any rational refinement separately
+declared after this frozen run, never changed in flight.
+Linux reviewedsharedlease600s;cutoff1793074031;no manuscript/inventoryedit.

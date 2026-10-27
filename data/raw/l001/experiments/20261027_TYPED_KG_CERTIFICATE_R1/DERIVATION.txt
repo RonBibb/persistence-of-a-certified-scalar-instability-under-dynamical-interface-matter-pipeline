@@ -1,0 +1,23 @@
+Prospective typed Klein-Gordon bulk source comparison, fixed283grid.
+Exact scalar residual S6:
+-E^2 exp(-2p)[D^2 f+(3h+2Dp+Db)Df]
++exp(-2b)[T'+L^2 f+(4H+4Lp-Lb)(T+Lf)]-m(Phi+f).
+With same inherited d,dd,l,ll,G and aggregate argument x=B+X+C,
+replace only BK by E_j^2G[dd+(3/32+3d)d]
++G[TP+ll+(4H_j+5l)(T_j+l)]+Phi_j+x.
+All other raw sources and derivative/Euler payments unchanged.
+Field_jets imported from sealed endpoint source; TP=26+1320x+37600x^2
++64(4x/gap)^3/(1-4x/gap). Existing |T'|<=26,|T''|<=330,
+|T'''|<=4700 and composition |X|<=4x give first3coefficients;
+the inherited common analytic Cauchy tail supplies remaining coefficients.
+h<=1/32,m<=1; source index2n+2 and transport payments unchanged.
+Typed fields and TP are coefficientwise<=old genericZ,3/32<=3,
+so new positive expression is coefficientwise dominated by oldBK.
+Subtract each own constant/linear jet, not old jets from new source.
+Perpoint gates assert onlyBK nonlinear mass changes and decreases;
+all other6masses identical. No background-source cancellation assumed.
+Exact replay all283parentrows and fullcertificate, then fulltypedcertificate.
+Same responseweights,seed,chart,normgrid,aggregategeometry and observable
+gates. Separate gain attribution to typedBK only. No new physical model.
+Linux-only oldsinglecore lease,600s cap,no-new-test cutoff1793074031.
+No manuscript/inventory edits,no ODE/endpoint/child claims.

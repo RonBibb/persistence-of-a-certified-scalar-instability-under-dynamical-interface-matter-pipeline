@@ -1,0 +1,5 @@
+Independent terminal audit PASS, /root/jet_bound_review,2026-10-27. 3074 hash/arithmetic checks. Audited Euler payment, finite recurrence, geometric domination, exponential distance coefficients, L4/F4/F5 intervals, all four full certificates and first-passing dyadics. Raw source coefficients were source-reviewed; saved values and routing were independently audited, not independently regenerated from a second source-map implementation.
+Terminal SHA256:9af3aa73fa2fb0720b63139e445088abed9c3bc9de81b2c24adbf0ff5251d248
+Result SHA256:1ca408f71dc6c58b7b80b8304a885b0fd64e0704a64f1221592df946d9cc1198
+Amplitude2.908721691679122e-31,4x parent. Normalized clock costs: quartic0.00547283,quintic5.19e-11,unknown degree>=6 0.36555630. Next dyadic ratio5.87079 fails. Other gates pass.
+An initial reviewer script used an incorrect schema key before numerical checks; auditor corrected, producer unchanged. Final audit passed.

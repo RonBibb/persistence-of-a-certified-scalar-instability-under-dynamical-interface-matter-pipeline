@@ -1,0 +1,39 @@
+Isolated actual-d5 full-clock readout — independently audited PASS
+
+The accepted amplitude is 1.1914124049117683e-27, exactly twice the
+inherited F9 certificate's amplitude. Producer runtime: 31.73 seconds.
+Independent exact-rational audit: 6,604 checks, PASS, 21.35 seconds.
+
+Only the d5 enclosure inside F5 changed. The old F5 intervals and complete
+baseline certificate were reproduced exactly before accepting the change.
+All other coefficient bounds, analytic radius and admission criteria remain
+unchanged. This is a cleaner sufficient bound, not a new physical evolution.
+
+At the accepted amplitude, fractions of each gate's allowance are:
+  clock:             0.36564556561629075
+  distance:          0.8560699243071664
+  scalar:            0.001417381770589561
+  scalar derivative: 0.005669700123717124
+The unknown degree-10-and-higher tail contributes 0.3656455517002327
+of the clock allowance; the retained quintic contributes 7.963266772643854e-22.
+The next larger dyadic amplitude fails BOTH clock and distance gates.
+Scalar, scalar-derivative and opening gates still pass there.
+
+Interpretation: the fifth-order bound is no longer the active obstruction.
+Further progress requires addressing both the distance remainder and the
+unknown clock tail. Improving only one cannot admit the next dyadic step.
+Any follow-on is prospective and requires its own reviewed numerical contract.
+
+Scope: the same selected neutral zero-current pure-growing analytic family,
+local sufficient certificate, inherited background/source/analytic premises.
+Eta is an amplitude, not elapsed time. This does not establish finite-amplitude
+nonlinear evolution, late-time fate, collapse, a horizon or child formation.
+
+Producer terminal SHA-256:
+9dac567ccea7866dafad7d96c1b7433d7f0926d446dfefe27138ba04aefca907
+Producer result SHA-256:
+19df7998e32d6c7f70c9ea4caa5aac044c741127bacc6d0315f5102c84ddc3c1
+Independent audit:
+../20261027_QUARTIC_REAL_SOURCE_AUDIT/ACTUAL_QUINTIC_CLOCK_AUDIT.json
+
+This documentary summary is outside the frozen mathematical source inventory.

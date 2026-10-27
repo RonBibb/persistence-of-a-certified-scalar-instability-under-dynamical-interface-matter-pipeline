@@ -1,0 +1,32 @@
+Predeclared coupled remainder test, same neutral pure-growing analytic family.
+Window: 2026-10-27 09:38:31 through 11:38:31 UTC. No extension.
+
+Let R=rho_D be the unchanged global amplitude radius. Inverse lapse<=128
+on that disk, |D-D0|<=MD, r<=1/32. For 0<theta<1 Cauchy gives
+|eta D'|<=theta MD/(1-theta) on |eta|<=theta R. Therefore
+MF(theta)=MD*(1+128theta/(1-theta))/32 bounds the same F.
+After degree9 its tail is MF(theta)*(a/(theta R))^10/(1-a/(theta R)).
+theta=1/2 exactly reproduces the old bound. No new analytic domain claimed.
+
+Use the fixed contours 1/2,2/3,3/4,4/5,9/10,10/11,15/16.
+Keep the physical grid a=R*2^(-j)/2, j=1..8192, unchanged. At each
+grid point select the smallest valid unknown clock tail (ties choose first).
+This certifies that amplitude and all smaller amplitudes using that fixed
+winning contour, since each normalized positive term is increasing in a.
+
+Distance remainder: sum Bdn*a^n for n=2..9 plus MD*(a/R)^10/(1-a/R).
+Bdn is the maximum absolute bound across both engines for actual d2,d3,
+actual quartic d4 and actual quintic d5; n6..9 retain the F9 finite distance
+majorants. Bounds refer to the same pulled observable by inherited qualified
+pullback/homological identity. Take min(old valid tail,new valid tail).
+This controls both signs; no signed cancellation claimed.
+
+Four arms: unchanged baseline, distance only, contour only, both.
+Replay baseline exact certificate, costs, ratios and first passing dyadic.
+Keep F3..9, scalar and derivative gates and opening condition unchanged.
+Report first passing dyadic, next-larger failure gates and winning contour.
+No finite-amplitude physical evolution or new ODE computation.
+
+Linux exact rational arithmetic, 1core exclusive shared lease, 2GiB,
+600second cap and absolute cutoff. Source/parent binding before and after.
+Independent prospective review and independent post-run audit required.

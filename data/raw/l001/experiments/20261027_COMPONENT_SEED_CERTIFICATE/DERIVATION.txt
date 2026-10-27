@@ -1,0 +1,24 @@
+Component-wise selected neutral first-mode seed certificate.
+No new ODE. Authenticate both original whole-cell archives, exact coverage,
+native state chain, checkpoints and all bindings. Extract separate maxima
+of absolute canonical box slots5:8=(p1,f1,g1); each enclosed by old localM.
+Replay original globalM,300M/(1-104rho),and integerseed16444 exactly.
+
+Original first-mode linear system and certified complex background imply
+absolute matrixM=[[6,2/3,0],[0,0,1],[80,9+289/256,12]].
+The last middle entry bounds m-mu1E^2+2T^2 withm<=1,
+|mu1|<=1/256,|E|<=17,|T|<=2. Other entries use |H|<=3,B0<=80.
+Along closest-real segments length<=rho,exp(rhoM)mreal is bounded by
+(I-rhoM)^-1mreal. Verify positive matrixinverse, exactidentity and
+rho*maxrowsum(M)<1. This is continuation at resonant firstmode, not
+a scalar BVP inverse there. Original normalization/fullintervals retained.
+P'=6P+2F/3;P''=4P+6P'+26F/3+2G/3 from|H'|<=2,|T'|<=26.
+F'=G;F''=80P+(9+289/256)F+12G. Weightednorms<=these uniformbounds.
+Sincec1=0,b1=-2p1,bulkseed=3(P+P'+P'')+F+G+F''.
+Round upward to exactinteger. Graphseed0; retain independently certified
+summedwallseed1/8. Selectedrayseed=max(bulkseed,(1/8)/kappa).
+Same inherited selectedK,normweights,aggregatebound andcoefficients.
+Fully replay oldcertificate then certify improvedseed including tails.
+Do not claim normgrid reoptimization or new trajectory from seedchange.
+600s bounded Linux-only oldlease; cutoff1793074031 before/afteradmission.
+No manuscript/inventory edits. Immutable outputs; no resumedfailedpacket.

@@ -1,0 +1,9 @@
+Actual fifth coefficient using global bulk bounds and fifth moving-wall sources.
+Follows corrected../20261027_FIFTH_REAL_SOURCE_DESIGN/GLOBAL_HULL_SUCCESSOR.txt. Independently qualified polynomials/walls and audited global hull are inherited; source identity/whole-cell propagation is not re-proved here.
+Use directed512-bit rational interval arithmetic from audited globalprobe. No newODE. Global sourceforcing uses Sg5+B Sc5/D5. J5=-3(mu5+4k)E²>0, D5=J5+2T²>0 checked separately using explicit squareinterval. Each endpoint reconstructed from authenticated actualcubic wall data plus endpointPhi and actualquarticuniformp4/f4/g4,xi4/o4. Extra jets use qualifiedreducedequations, never derivativesofunsignedbounds. Reconstruct c4 and d4_wall=2-mu4E² rather than confusingthem withdistance d4 or radialD4.
+Evaluate full fifthwall lowerloads, derive xi5 and originalRobinforcing, then reducedoutwardRobin=-D5R5/(2J5)+2sigmaTSc5/J5.
+Source norm S5=sup|forcing|+5G, Cf5=finiteorder5constant*samebackgroundtransfer. f5<=Cf5S5/25,g5<=Cf5S5/5,p5<=(|Sc5|+|T|g5+|Tp|f5)/D5lower.
+Known density c5+b1b4+b2b3+(b1²b3+b1b2²)/2+b1³b2/6+b1^5/120 integrates by signed interval multiplication withpositiveuncertainlength. Addmetricremainder +/-2Lupper*p5.
+Endpointdifference of xi5+xi4b1+xi3(b2+b1²/2)+xi2(b3+b1b2+b1³/6)+xi2²b1prime/2 retained.
+Bothrepresentationsmustcomplete; enclosinghull is reported, notfavorableintersection. Overlapiscompatibilityonly,notaccuracy. Probe allsamecalculations +serialization/hash/leasecost; production repeatsfrozeninputs andrequires exact intervalrecordreproduction. Resourcecaps600seconds,productionadmissionprobe<120seconds. Independentauditmustcheckwallconstruction,intervalarithmetic,inverseanddistance reductions. Broad/no-gain resultsvalid.
+

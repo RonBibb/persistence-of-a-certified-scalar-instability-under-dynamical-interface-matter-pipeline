@@ -1,0 +1,19 @@
+Fixed-input diagnostic: identify the positive source estimates feeding the
+bulk component of the sealed NORMALIZED_COUPLED_MAJORANT selected ray.
+No search, changed weights, altered source, new radius, or physical evolution.
+
+Compute linear bulk-response weights for TRACE, GRAPH, BM, BK, BR, BJ, BO.
+Remove each primitive's constant and first-order coefficients, consistently
+with the parent. Record exact finite-evaluation masses, quadratic masses,
+and shares. Require their exact sum to equal the parent's selected B mass.
+Check the reconstructed finite response and degree-two jet against parent
+response(), and positivity of each mass and its higher-order remainder.
+
+Run on Linux with original L001 lease, one core, 2 GiB, 300-second ceiling.
+Authenticate predecessor terminal, sources, inherited files and runtime.
+Keep failed output; do not adjust a scientific criterion after execution.
+
+Interpretation: shares describe the sufficient proof estimate, not physical
+energy, flux or actual nonlinear forcing. A dominant source estimate is a
+candidate for analytic sharpening; it cannot be removed from the equations.
+Independent source review precedes execution; post-run review follows.

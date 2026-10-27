@@ -1,0 +1,4 @@
+Independent prospective and terminal audit PASS by /root/jet_bound_review. 3060 integrity/exact arithmetic checks,2026-10-27. Audited saved positive-source coefficient recurrence, degree6 distance convolution, L5/F6 intervals, all remainder gates and first passing dyadic. Raw source Taylor generation is inherited/source-reviewed, not independently regenerated.
+Terminal SHA256:d27583c253cb25cc9aad8fba81c391e7590caf93879ded528714d27abbf2eb30
+Result SHA256:ae7a5dd9e8a078751fda0cca22e329e11a02f3647112d7db4792c6ce5b449a82
+Clock amplitude2.3269773533432975e-30,8x parent. Normalized costs: quartic0.3502614142,quintic2.656e-8,sixth2.025e-19,unknown7 0.00071397746,total0.3509754182. Nextdyadic1.42389316fails. Other gatespass. Quartic enclosure again dominates.

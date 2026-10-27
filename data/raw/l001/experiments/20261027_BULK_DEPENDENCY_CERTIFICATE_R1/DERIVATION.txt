@@ -1,0 +1,15 @@
+Prospective explicit bulk-source dependency comparison.
+Same physical family, seed1215, joint denominator weights, 283 norm rays.
+Baseline replays every joint DENOMINATOR_CERTIFICATE row and full certificate.
+Changed lane: W=B+X instead of Y=B+X+C only for TRACE, BM, BK, BR.
+Exact pulled bulk equations and trace transport depend on bulk fields and
+graph displacement, not the independent wall oscillator explicitly.
+Preserve indirect oscillator feedback through solved bulk/graph fields.
+GRAPH retains its C-squared source; BJ and BO retain Y. Final contraction,
+chart, lapse and observable envelopes retain full aggregate Y=B+X+C.
+Subtract each lane's own constant and linear jets before comparing loads.
+Verify unchanged GRAPH/BJ/BO loads and non-increase of four changed loads,
+then all masses. Recompute both complete certificates on same grid.
+No physical oscillator decoupling claim. No new ODE or finite trajectory.
+Linux old lease; 600s cap; fixed cutoff1793074031 before/after admission.
+No manuscript/inventory edits. Parent audit must pass before launch.

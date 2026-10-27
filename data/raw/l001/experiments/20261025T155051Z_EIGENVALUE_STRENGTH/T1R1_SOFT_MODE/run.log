@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T155051Z_EIGENVALUE_STRENGTH/T1R1_SOFT_MODE/producer.py", line 158, in <module>
+    try:main()
+        ^^^^^^
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T155051Z_EIGENVALUE_STRENGTH/T1R1_SOFT_MODE/producer.py", line 136, in main
+    low=lower(n);result=search(low,n,cfg);save('LEVEL_'+str(n)+'.json',result);results.append(result)
+                        ^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261025T155051Z_EIGENVALUE_STRENGTH/T1R1_SOFT_MODE/producer.py", line 122, in search
+    assert ambiguous<=3,'AMBIGUITY_LIMIT'
+           ^^^^^^^^^^^^
+AssertionError: AMBIGUITY_LIMIT

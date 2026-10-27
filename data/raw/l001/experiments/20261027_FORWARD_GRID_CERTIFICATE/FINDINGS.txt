@@ -1,0 +1,6 @@
+Samejointcomplexbackgroundbounds,larger grid only. Gain3.246366963078143
+in both amplitude ranges. Radius3.017590975698296e-24; clock-control
+eta2.6801591840970715e-39. This eta is not elapsed proper time.
+Selected a2^-58,lambda1/256,kappa1,seed1215. Mass/(1/a)=1.2321465950994266.
+Ccontrols;B/C=.7245239944. Numericalnormparameters changed,not physics.
+Direct original-field F-only barrier is next prospective estimate to test.

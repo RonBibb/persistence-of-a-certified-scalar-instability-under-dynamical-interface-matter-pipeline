@@ -1,0 +1,23 @@
+Traceback (most recent call last):
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261008T133803Z_C6_PREPARATION_CERTIFICATE/run.py", line 236, in <module>
+    worker(job,args.bits,args.which,g)
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261008T133803Z_C6_PREPARATION_CERTIFICATE/run.py", line 60, in worker
+    publish_progress(job,'RUNNING',st,bits=bits,phase='VALIDATED_FLOW')
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261008T133803Z_C6_PREPARATION_CERTIFICATE/run.py", line 19, in publish_progress
+    d.update(extra);rec.atomic(ROOT/'progress'/f'{job}.json',d)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/research_repositories/lin/lines/L001-static-theorems-causal-extension/experiments/20261008T133803Z_C6_PREPARATION_CERTIFICATE/inherited/records.py", line 41, in atomic
+    json.dump(pack(x),f,sort_keys=True,indent=2,allow_nan=False);f.write('\n');f.flush();os.fsync(f.fileno())
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 179, in dump
+    for chunk in iterable:
+  File "/usr/lib/python3.12/json/encoder.py", line 432, in _iterencode
+    yield from _iterencode_dict(o, _current_indent_level)
+  File "/usr/lib/python3.12/json/encoder.py", line 406, in _iterencode_dict
+    yield from chunks
+  File "/usr/lib/python3.12/json/encoder.py", line 439, in _iterencode
+    o = _default(o)
+        ^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type fmpz is not JSON serializable

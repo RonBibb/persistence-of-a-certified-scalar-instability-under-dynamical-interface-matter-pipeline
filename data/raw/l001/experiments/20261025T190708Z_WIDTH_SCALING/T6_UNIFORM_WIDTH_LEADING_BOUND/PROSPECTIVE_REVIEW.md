@@ -1,0 +1,7 @@
+# Independent prospective review — admitted
+
+Independently derived every scaled equation from r=d*x, T=d*tau, f=d^2 F, L=dG and lambda=d^2 alpha. The psi derivative contains d^4, the G derivative and normalized constraint have no division by d, and W=G-2tau psi obeys the independently implemented transformed system. At d=0 the exact residual is -6alpha-4. The physical-rescaling, chain-rule and jet controls are consistent with those derivations.
+
+Sixteen exact contiguous d intervals cover [0,.01]. Strict residual signs at alpha=-4/5,-8/15 in both representations and levels imply a root for every positive d, not just samples. The fresh scaled positive warp, negative H, positive U and opposite endpoint tau signs establish the single-turn hypotheses on each positive-width restriction; the inherited negative-shift count therefore identifies the unique persistent branch with the mathematical DD traces. The formal d=0 system is not a physical zero-size eigenmode.
+
+New scaled boxes and derivative rates are used consistently; qualified Taylor remainder handling is retained behind strict tube and U gates. Normalized constraints and Hamiltonian are checked without singular division. A noncertified scientific sign stays false; technical failures remain preserved. The candidate bounds become claims only when every bin certifies signs. No fourth-order uniform remainder follows. No numerical execution was performed for review. Bind current sources, qualified method, primary count/equations and authority; original cutoff/resources remain.

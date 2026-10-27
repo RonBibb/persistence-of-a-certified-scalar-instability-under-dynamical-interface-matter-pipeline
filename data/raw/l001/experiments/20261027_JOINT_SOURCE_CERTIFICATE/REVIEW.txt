@@ -1,0 +1,9 @@
+Independent postrun review: PASS, jet_bound_review, Linux exact arithmetic.
+Verified 2903 bindings/source/terminal; independently recomputed 2x7x128
+B/C harmonic transfer pairs, suprema/ties, baseline weights, all 243 saved
+K ceilings/selections, exact81-row/full-parent replay, all three complete
+certificates and first-admissible tails, effects and active branches.
+Source budget sums and source-wise B/C inferred primitive masses agree.
+Did not regenerate all nonlinear envelope maps independently.
+RESULT SHA256 f241a7f718da7b300c9b11b4e3f8dfd0f9b9752a9a3bc8c0917a2a3635dbbd78
+TERMINAL SHA256 5e3e0216a2322a111c1eb00db471076340b6c5dc51b65b26f7fa219382015652

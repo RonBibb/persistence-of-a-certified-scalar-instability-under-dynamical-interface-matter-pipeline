@@ -1,0 +1,34 @@
+Bounded positive-majorant tail feasibility at fixed eta/R=1/16 and1/8,
+after independently verified actual seventh coefficient/full certificate.
+No actual eighth coefficient, no new field solve and no domain extension.
+
+Use the authenticated norm, seed s, route weights lambda,kappa, K and
+positive H_m,z_m,d_m through24. For all higher source orders use the
+already certified H_m <=(m-1)K^(m-1). Define the positive majorizing source
+Hhat(y)=sum_{m2..24}H_m*y^m+y*(K*y)^24*(24-23*K*y)/(1-K*y)^2.
+Its implicit solution zhat=s*t+Hhat(zhat) coefficientwise dominates the
+existing positive majorant and has the same first24 coefficients.
+P=sum_{n1..24}z_n*t^n. With fixed ystar=2*s*t, require ystar<=Y,
+K*ystar<1, P<=ystar, s*t+Hhat(ystar)<=ystar, L=Hhat'(ystar)<1.
+Then residual e=s*t+Hhat(P)-P is nonnegative by exact coefficient matching,
+and delta=e_upper/(1-L_upper) bounds zhat-P, provided P+delta<=ystar.
+All expressions use authenticated512-bit outward rational intervals;
+independent unrounded interval audit required. No adaptation of ystar.
+
+Weighted norm gives Btail<=delta/25^2, EulerBtail<=delta/25,
+Xtail<=2*lambda*delta/25^3, EulerXtail<=2*lambda*delta/25^2;
+chi tail<=kappa*delta/25^3, Eulerchi tail<=kappa*delta/25^2.
+Use positive distance envelope3*exp(B)*(1+X). Subtract its ORIGINAL
+degree24 coefficients (constant3 removed), never actual substituted ones.
+Value tail and Euler tail are upper-bounded by separate outward interval
+differences. Retained actual coefficients can be used only separately in a
+later full-certificate calculation. Exp(B) enclosed by32 Taylor terms plus
+the positive first-omitted/geometric remainder, B<1.
+Euler distance tail safely pays sum(n-1)*|d_n|*t^n, losing a harmless
+nonnegative value subtraction; do not subtract two upper bounds.
+
+Both fixed points must pass positivity/supersolution/contraction gates.
+Failure is a preserved feasibility failure, not evidence against dynamics.
+No full amplitude claim in this prerequisite; later full certificate must
+retain scalar/distance/opening/clock gates and be independently audited.
+Linux exclusive1CPU2GiB,600second cap, no restart, deadline13:42:44UTC.

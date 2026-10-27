@@ -1,0 +1,7 @@
+# Independent prospective review — T5
+
+ADMISSIBLE as a parameter-free approximate-model prediction, not an exact spectral certificate. Independently expanded (mu+1-w)(mu+12)=2/3 to mu^2+(13-w)mu+12(1-w)-2/3=0. Its discriminant is (11+w)^2+8/3, and the supplied two roots, sum/product controls and excluded-pole check are correct. The source reads known masses only after computing predictions and never adjusts coefficients or the fixed 0.002 window.
+
+The leading reduction is justified as a formal short-interval approximation with wall Hessians of order D: take f approximately constant and retain D*C plus the endpoint Hessian sum. It omits the initial-L drift and warp/profile changes. It cannot reproduce the next-order lower/upper asymmetry and is nonuniform as mu approaches -12. The plan states these limitations. No rigorous error bound, exact root count, or proof of applicability to the persistent branch is implied.
+
+The soft and 0.018 comparisons are explicitly retrospective. Equal 0.009 is a genuinely uncomputed held-out boundary setting in this packet; its prospective classification requires a separately accepted exact-ODE bracket contained in the prepublished window, with disjointness contradicting and partial overlap inconclusive. Reviewed full source, outward square-root bounds and absolute-relative error arithmetic. The original physical convention and accepted source/runtime/resource constraints remain bound. No ODE test is authorized by this approximate-model calculation itself.

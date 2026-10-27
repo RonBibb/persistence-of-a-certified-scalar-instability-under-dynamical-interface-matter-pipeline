@@ -1,0 +1,17 @@
+PASS: producer145.89seconds; independent7001-check audit180.77seconds.
+Uniform positive-tail certificate, unchanged R=9.760050421037206e-24.
+Passing eta3.2325997076268554e-24, q0.331207275390625.
+Failing eta3.2326369392645087e-24, q0.3312110900878906.
+Gain over this goal entryR/32:10.5986328125.
+Lower clock0.9999652439123287; upper1.0000350207706612.
+Lower distance2.06731e-22, scalar1.42083e-6, scalar derivative5.76781e-6.
+Lower clock budget: F8=0.9416299556872375,F9=0.05833299587932972,
+remaining tail2.292328828812725e-6 (essentially finite orders10..24).
+Actual F7 cost8.70039e-18. Unresolved>=25 distance and inverse-clock
+costs1.02116e-48 and1.58170e-66. Further tail tightening has negligible
+effect on this boundary; retained F8/F9 bounds are now the issue.
+All16 predecessor-bound checkpoints independently reproduced.
+This brackets only a sufficient certificate, not physical breakdown,
+maximal existence amplitude, a trajectory or a new analytic radius.
+Terminal50ddb33ca4c0e0b8288cd444f5f80e7673dc8f9a31f3be620ab6c97c932ae11e
+Auditdb4e02fa3fa966ed440bca1da1907d23becdd39212fcda35a3bb3abf980bfe46

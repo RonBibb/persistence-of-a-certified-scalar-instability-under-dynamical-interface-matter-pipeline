@@ -1,0 +1,7 @@
+Independent review PASS, /root/jet_bound_review, 2026-10-27.
+Literal original runner prefix through observed(); only semantic admission
+change is occupied affinity union plus chosen CPU ceiling2 ->10.
+Original frozen runner untouched. Exclusive line lock keeps L001 at1core,
+within current authorized3. All other locks/memory/affinity checks retained.
+New lease SHA0dbc81af7a01cee5b1108105a95b5247b4553a14dc62df9f3e4efbe67c7d5862.
+First independent audit admitted CPU0, occupied[1,3], and released normally.

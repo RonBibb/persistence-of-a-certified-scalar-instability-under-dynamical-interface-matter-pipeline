@@ -1,0 +1,18 @@
+Prospective direct original-field G-only value bound; F=0 and S=nGmax.
+Same originalV>=cV_n*n^2, outwardbeta>=betaLB_n as DirectF certificate.
+Finite n2..64: ifbothpositive, constantw=Gmax/betaLB is supersolution,
+so Cv_G<=n/betaLB. Otherwise retainold.
+Tail>=65: requirecV65>0,beta65>0. Bridge65..127 is bounded by127/beta65
+becausecV,beta lowerboundsincrease andn<=127.
+For n>=128 setN128,lambda1/128,w=2Gmax/(lambda*n) times sumofexp
+boundarylayers exp(-lambda*n*(s-a))+exp(-lambda*n*(b-s)).
+Requirebeta128>=0,lambda*N*Lmin>=1,and
+cV128-lambda^2-Areal128*lambda/N>=0.
+Then (-d2-A*d+V)w>=0 andoutwardRobin(w)>=Gmax atbothends.
+Thus Cv_G<=4/lambda. Uniformoldtail65 boundmax(127/beta65,4/lambda).
+UseperengineauthenticatedLmin; ifanytailgatefails retainoldtail.
+Only realCv_G becomesmin(old,direct); allF andallrealCg retained.
+Rebuildsamecomplex2x2/sourceweights and1123-gridfullcertificates.
+Exactparentreplay mandatory. AuxiliaryG-only state isnot independently
+compatible physicalEinsteinstate. NoODE orphysicalcouplingchange.
+Linuxsharedlease600s,cutoff1793074031;no manuscript/inventoryedits.

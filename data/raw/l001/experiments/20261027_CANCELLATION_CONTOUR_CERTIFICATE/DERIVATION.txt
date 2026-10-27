@@ -1,0 +1,32 @@
+Same neutral family, fixed global R, no physical evolution. Window cutoff
+2026-10-27T11:38:31Z. Preserve every existing acceptance gate.
+
+Use exact identity F/r=(eta D'-(D-D0))+eta D'*(J-1), J=1/ell.
+This cancels the linear term algebraically before taking absolute values.
+For x=theta R:
+A=sum n2..9 (n-1) Bdn x^n + MD theta^10(9-8theta)/(1-theta)^2.
+W=sum n1..9 n Bdn x^n + MD theta^10(10-9theta)/(1-theta)^2.
+E=sum n1..8 Ben x^n +128 theta^9/(1-theta).
+Then |F|<=(A+W E)/32 on that contour, since r<=1/32.
+All tails follow from the inherited full-disk MD and inverse-lapse sup128.
+No favorable sign of an uncertain coefficient is assumed.
+
+Log lapse L1=1; L2..5 from SIXTH.sixth_coefficients, L6 from SEVENTH,
+L7 from EIGHTH, L8 from NINTH. Independently valid same-family intervals.
+e0=1, en=-(1/n)sum(j=1..n) j Lj e(n-j). Absolute max over both engines.
+Keep min of new and previous valid full-F sups. Cauchy unknown>=10 clock
+tail remains M(theta)*(a/(theta R))^10/(1-a/(theta R)).
+
+Four arms: exact finite-contour-R1 baseline; cancellation same11contours;
+cancellation additional small contours1/128,1/64,1/32,1/16;
+same small-contour cancellation with retained scalar coefficients.
+Scalar bounds n2,3 unchanged actual; n4..9=kappa*z_n/n^3 from authenticated
+NINTH.majorant and FINAL_FIXED_GRID.selected.refined.oscillator_weight.
+Retain only degree>=10 via Y(a/R)^10/(1-a/R); derivative tail multiplies
+by (10-9q)/(1-q). Take min with old scalar/derivative remainders separately.
+Same physical grid R*2^(-j)/2, first passing point. Fixed chosen contour
+and monotone positive bounds validate every smaller amplitude of both signs.
+
+Linux exact rationals, authenticated runtime warmed before binding,
+exclusive1core2GiB lease,600second cap, pre/post source hashes. Independent
+preflight and post-run audit. Report all no-gain outcomes and failed gates.

@@ -1,0 +1,2 @@
+slot_run: line 02_lin_static priority 5 token 1 slot 2 start 2026-10-07T05:58:15Z avail_kib 29151768 load 6.35
+{"case": null, "classification": "REPREPARED__A_DOMINATED_BY_STATE_RADIUS__PHI_DOMINATED_BY_STATE_RADIUS", "checks_passed": 78, "checks_total": 78, "failed": [], "own_checks": 78}

@@ -1,0 +1,9 @@
+# Independent terminal review — T1R2
+
+ACCEPTED: CERTIFIED_UNIQUE_EXTRA_MODE_BRACKET under the inherited regular-sector/action and uniqueness hypotheses. All 23 frozen bindings match; no FAILURE artifact exists. Execution began 16:01:17.420157Z, completed in 81.324 seconds with exit 0, and reaped child 1689245. One core and the prescribed caps were retained.
+
+The authoritative fine bracket is exactly [-963/1024, -7697/8192] = [-0.9404296875, -0.9395751953125], width 7/8192 < 0.001. Its reduced endpoint signs are strictly positive then negative. The coarse bracket [-15415/16384,-15401/16384] overlaps it and has equal width. Coarse/fine brackets need not be nested to be valid independent enclosures; neither is being silently intersected or preferred by its midpoint.
+
+The independently represented full-system n=16384 audit at those same fine endpoints has respective residual intervals approximately [1.221e-6,2.532e-6] and [-1.741e-5,-1.610e-5]. Both strict signs agree, each overlaps the corresponding reduced enclosure, and the recorded constraints contain zero. Independently recomputed these sign, width, overlap and constraint predicates using exact rational endpoints, without rerunning scientific propagation. Source review establishes that strict whole-step tubes, background rectangle, Hamiltonian containment, runtime identity and zero-mass anchor were required before RESULT publication. The preserved controls and completed RESULT indicate all admitted gates passed.
+
+This establishes the strength/location of the unique extra mode, not merely a negative residual of an arbitrary trial solution. Identity relies explicitly on the previously accepted at-most-one remaining-band theorem plus the certified sign change. The separate mode below -12 remains. No growth-time, nonlinear stability or arbitrary initial-data dynamical completeness claim follows. Failed T1 and T1R1 remain technical incompleteness and are not rescored.

@@ -1,0 +1,5 @@
+Independent reviewer jet_bound_review: PASS. Closing Linux audit reverified2918 distinct hashes;22 launched producer records,21 review files,one preserved original-background-seed audit exception;two date-prefix preSTART holds;exact cumulative radius and clock-controlled-amplitude ratios. Accepted and next-coarser four-gate comparisons reproduced. Clock0.3655562828 accepted;doubling amplitude clock1.4622251311 fails while distance/scalar/derivative pass. Report claim boundaries approved. No new ODE or physical evolution inferred.
+Closing JSON SHA2564203a0806724ad71e0b5a4975fccc4ded4ada85bc67430d81a352e0a4db8ff41
+Report SHA256eb708f307aef3fac6de1071ac6251acab06967917801f6432036ae9de2fa6ef1
+Accounting source SHA256bb0eec9fcfc956d946f453724b01cda7a30a0178009a9fe3952ac7fe30b9a64a
+Lease released after audit. Goal closing remains subject to fixed04:07:11UTC window cutoff; no new experiment planned. Next coefficient/tail investigation is prospective only.

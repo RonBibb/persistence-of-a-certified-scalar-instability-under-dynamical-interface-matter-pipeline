@@ -1,0 +1,16 @@
+User authorized a new two-hour goal: run seventh-order wall qualification,
+then continue to the coefficient enclosure if it passes.
+Window: 2026-10-27 11:42:44--13:42:44 UTC (07:42:44--09:42:44 ET).
+Hard deadline epoch1793108564; new 600second tasks stop admission600seconds
+before deadline. No extension. At most6 CPUs; inherited exclusive single-core
+L001 lease remains stricter. Exact scientific work on Linux only.
+Frozen scientific parents, arithmetic and acceptance gates unchanged.
+Unrun wall launcher and its unrun audit are prospectively updated only for
+this new deadline. Their former source hashes are preserved below; neither
+had START/BINDING/RESULT/TERMINAL or audit output before this change.
+Old run.py:5ebc82491a5f06b41e7f65a83ac85a33f012f3d0b05cd0ebf381365cdc921801
+Old DERIVATION.txt:faf5fb346a7f54fb0e6b36f9dce3aeaf1621c2e5a93e7f4044cbdb790fee7a05
+Old seventh_wall_audit.py:d221d3b904f0fcf7788fae3ac8a77f12ade0f0eb224c626cd16aa82eb7de41e4
+Require successful qualified wall identities plus independent audit before
+actual seventh coefficient execution. Preserve any failed cases. No model,
+manuscript, release or physical finite-amplitude claim is authorized here.

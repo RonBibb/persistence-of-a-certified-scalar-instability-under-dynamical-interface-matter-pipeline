@@ -1,0 +1,12 @@
+PASS: fixed16-step rational bracket of the unchanged sufficient certificate.
+Independent ordinary-Fraction audit6921checks,233.62seconds.
+Passing eta6.435209331123822e-25; failing eta6.435302410217955e-25.
+Gain over accepted dyadic R/16:1.0549468994140625.
+Lower clock ratio0.9996853686473726; upper1.0000190414850736.
+Lower scalar0.0196436401; derivative0.1978229489; distance3.94834e-23.
+Unknown distance tail dominates lower clock budget at0.9996260395.
+This brackets a sufficient-certificate boundary, not a physical threshold,
+maximum amplitude, exact analytic radius or optimal possible bound.
+All16 immutable checkpoints and predecessor chain authenticated.
+Terminal ae79a3f615683fed0501a4fa11d37152e2da0d47e8b736b79bb43ebdb62cc188
+Audit a483723153d055d67619ea1d9ced49bda5ce953a391154981872b5be377dcfa6

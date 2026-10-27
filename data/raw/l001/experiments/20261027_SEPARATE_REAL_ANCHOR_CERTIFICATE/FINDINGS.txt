@@ -1,0 +1,34 @@
+Paired separate-real-anchor local certificate: producer PASS.
+Runtime22.085 seconds;205 gates;81 parent and81 new grid points.
+All81 parent records and full selected parent constants reproduce exactly.
+No source-envelope, physical-equation, collar or grid change. No ODE solve.
+
+Certified local amplitude radius7.117315542461743e-31:7.9797846381x parent.
+Protected proper-clock amplitude1.5433217946803737e-49:31.9191385525x parent.
+Both selected-map contraction,chart,lapse,timelike and observable remainder
+checks pass. Clock amplitude gain includes a fresh dyadic remainder selection.
+
+Selected lambda1/256,kappa1/16,a=2^-72, unchanged from parent.
+K is mass-controlled, with mass branch/(1/a)=23.558921419.
+Relative scaled masses B/X/C:1,6.995172966e-19,0.0997628825.
+These are sufficient-bound ratios, not physical energy or force shares.
+
+Separate real value and gradient constants were propagated through the
+complex inverse, metric anchor and oscillator endpoint with distinct weights.
+No smaller value-only constant was used where gradient control was required.
+The inherited C0 field is historical; real_component_constants records
+operative Cv and Cg and Cscalar records the recomputed complex full norm.
+
+This strengthens the same local neutral nonlinear-family certificate.
+The amplitude remains extremely small: practical finite-amplitude evolution,
+global endpoints and horizon/child-formation claims remain unestablished.
+
+Next bounded diagnostic: harmonic-matched constants. Current separate real
+maxima come from the n>=65 tail, whereas the complex A/B estimates use their
+worst n=2 harmonic payments. Investigate taking joint bounds per finite n
+and per certified high range before taking a common supremum.
+Candidate inherited formulas are A_n<=12+160/(dc*n^2), and
+B_n<=9/n^2+(5/2048)*289+2080/(dc*n^4). They require review and must be
+combined with real bounds for the SAME harmonic/range, not favorable
+extrema from different orders. No benefit is presumed or certified here.
+No successor launched.

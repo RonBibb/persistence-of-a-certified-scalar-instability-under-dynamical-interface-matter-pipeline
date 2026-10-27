@@ -1,0 +1,7 @@
+# Independent prospective review — admitted
+
+Reviewed full precision producer, plan and configuration. Frozen Taylor/core/interval bytes equal the accepted T2 method. Fresh signed backgrounds and full interval steps consistently use the specified width; parent spectral brackets are asserted exactly, rather than used as approximate guesses. Initial signs are recomputed by the new method. The independent g audit, direct versus jet RHS controls, strict tube and constraint gates remain. The 24-iteration cap permits ordinary bisection to the requested width from either specified initial bracket but does not guarantee contraction near interval ambiguity.
+
+The source computes c4=(gap-D^2/6)/D^4 and compares the whole enclosure with [-1/6,-1/9], correctly distinguishing containment, disjointness and partial overlap. This scientific outcome is independent of technical acceptance. The later ratio window is prepublished here before precision results; a subsequent ratio calculation still requires strictly positive correction denominators. No finite-width remainder or asymptotic-order proof follows from two widths.
+
+The target1e-12 at n16/32 and independent g64, exact parent bindings, fixed physical equations and mathematical DD boundary contract are admissible. No parent is modified or rescored. No numerical execution was performed in review. Original one-core resource and20:07:08Z cutoff apply.

@@ -1,0 +1,10 @@
+Independent audit passes. All2122 producer gates pass.
+Split inverse radius3.784920895167225e-27,clock_eta5.252632905249389e-44.
+Both gain1.7434819270034105 relative matched-metric parent.
+Same selectedlambda1/256,kappa1/16,a2^-64. Mass-controlled with
+mass/(1/a)=1.1341089615650555;oscillator/bulk=.25459978267980266.
+Bulk budgets BM31.7167%,TRACE28.2112%,BJ20.8814%,BR15.7208%.
+Oscillator budget BK69.2913%. Auxiliary inverse channel splitting removes
+an avoidable proof cost; these are not separate physical Einstein systems.
+Prospective successor keeps weights fixed and explores predeclared norm grid,
+with old81 replay and separately attributed optimization gain.

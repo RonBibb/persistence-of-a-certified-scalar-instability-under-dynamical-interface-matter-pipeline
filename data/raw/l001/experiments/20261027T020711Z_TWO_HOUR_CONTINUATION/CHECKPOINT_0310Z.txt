@@ -1,0 +1,30 @@
+Two-hour continuation progress checkpoint, 2026-10-27 03:10 UTC.
+Goal remains active. Fixed no-new-test cutoff04:07:11UTC unchanged.
+
+Current independently audited best certificate:
+20261027_DENOMINATOR_CERTIFICATE
+radius4.647643057636765e-25, proper-clock eta2.06396813313104e-40.
+Joint real/complex denominator improvement:8x radius,16x clock vs
+BACKGROUND_SEED_CERTIFICATE_R1. Same physical family, seed1215.
+Reviewer /root/jet_bound_review independently regenerated all1132 records,
+four full certificates and first dyadic remainder gates. PASS saved in REVIEW.
+Terminal dcb00a0a9718566b4a6143502703f2de0db4b04d0a379f9665816bf480ba1e1d.
+
+Follow-up completed, postrun audit in progress:
+20261027_BULK_DEPENDENCY_CERTIFICATE_R1
+Four explicit bulk envelopes use B+X, not B+X+C. GRAPH/BJ/BO and all final
+aggregate readout/admissibility bounds unchanged. Baseline283/full replay.
+Both certificates identical to denominator best. Nonlinear mass/floor drops
+from0.766491 to0.674134, but selected inverse-a floor prevents a grid gain.
+Selected a2^-61, lambda1/256,kappa1/16, seed1215 unchanged.
+Terminal fb9cb967eb884ea6434ca3f249ef33c5b70561fb0065f9169761acf7c2e9dfc1.
+Result 5d331de17c4669c6df8b095a185cf1c3f3bc1d23baa3a2aa9e3bb485f6f399a4.
+Original withoutR1 preserved RESOURCE_HOLD beforeSTART/science.
+R1 check.py/DERIVATION byte-identical (cmpPASS), unchanged lease admitted.
+No producer currently running; independent reviewer audit is in progress.
+
+Prospective next: finer rational a-grid only, same maps/weights/seed/physics.
+Suggested baseline283 plus each weight pair's best old a times
+1+j/16 and1-j/32 forj1..15. Await reviewer design feedback.
+No next source created or launched at this checkpoint.
+Do not claim physical amplitude growth from proof-bound gains.

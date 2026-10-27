@@ -1,0 +1,9 @@
+Independent Linux audit PASS, /root/jet_bound_review, 2026-10-27.
+Verified2,962 bindings and7,099 gates; alpha against inherited whole-cell
+inverse,2/alpha factor and response weights; all1,766 candidateK records,
+883 exact parent transformations; selections, full certificates, first
+admissible tails and active branches. Regenerated selected nonlinear loads
+and budgets; full883 parent loads were independently regenerated in the
+preceding audit, not duplicated here. Shared lease released normally.
+Terminal f750653610e451ec50ed2a4f655e3445bfbfe7165d2fb943e7eed53e22a758ab
+Result 4614150d813d3f575e8c373ec0e70415dba7e8bd5704d1a51b2cbb6d9690f52f

@@ -1,0 +1,49 @@
+{
+  "N": 65,
+  "method": "undivided two-field Chebyshev generalized pencil",
+  "k": 0.0003268413384542497,
+  "L": 6.38029536996215,
+  "finite_count": 63,
+  "infinite_count": 67,
+  "modes": [
+    {
+      "momentum": 3.018907167947383e-13,
+      "constraint": 1.3861896361567822e-10,
+      "scalar_kg": 6.00086853465659e-06,
+      "wall_absolute": [
+        -6.633623229716779e-17,
+        -4.993770154337884e-13
+      ],
+      "kinetic_Z": 0.10706012564178637,
+      "delta_D": -0.9774332813076484,
+      "delta_D_over_sqrt_Z": -2.9872615445790425,
+      "scalar_gradient_turn_brackets": [
+        692
+      ],
+      "mu": -0.0013122306809316413,
+      "lambda_shifted": -4.865327114642612e-06,
+      "mu_over_k": -4.014885898881863,
+      "pencil_residual": 2.2476721869505435e-11
+    },
+    {
+      "momentum": 2.8604749450146915e-11,
+      "constraint": 9.859397413110252e-09,
+      "scalar_kg": 1.5945115826549422e-05,
+      "wall_absolute": [
+        -4.839684208945982e-12,
+        -2.646629582159221e-10
+      ],
+      "kinetic_Z": 5546.682173902596,
+      "delta_D": -0.9217086696040209,
+      "delta_D_over_sqrt_Z": -0.01237590684677979,
+      "scalar_gradient_turn_brackets": [
+        692
+      ],
+      "mu": 0.4348455176501436,
+      "lambda_shifted": 0.4361528830039606,
+      "mu_over_k": 1330.4483444679445,
+      "pencil_residual": 2.8714997477251486e-11
+    }
+  ],
+  "elapsed_seconds": 0.022447416791692376
+}

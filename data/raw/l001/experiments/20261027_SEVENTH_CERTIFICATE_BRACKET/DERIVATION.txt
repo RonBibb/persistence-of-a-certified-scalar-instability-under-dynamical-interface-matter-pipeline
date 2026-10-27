@@ -1,0 +1,18 @@
+Same-certificate boundary localization, conditional on independently
+audited actual7 full-certificate result. This is not another field solve.
+Freeze the both-arm distance16/24, inverse8/24, retained F3..9, scalar2..9,
+contours, global radius, bounds and all five acceptance gates unchanged.
+Replay accepted and next-larger failed dyadic endpoints exactly.
+Exactly16 rational midpoint evaluations, preserving lower-pass/upper-fail.
+General q=p/d polynomial evaluation uses homogeneous integer Horner with
+common coefficient denominator; exact rational controls and separate
+ordinary Fraction audit required. No floating arithmetic in decisions.
+Each midpoint publishes an atomic immutable checkpoint; no automatic resume.
+No post-result threshold choice. All nonnegative normalized series and
+geometric remainder candidates are nondecreasing on the bracket, as are
+their minima. Opening holds downward on this small domain and remains an
+explicit gate; verify R<1/512 and R<25/3840.
+Bracket describes only this fixed sufficient certificate, not a physical
+threshold, true maximal amplitude, optimal proof or exact convergence radius.
+Linux exclusive1CPU2GiB,600second cap, no restart, source/input/runtime
+bindings. Deadline2026-10-27T13:42:44UTC, admission600seconds earlier.

@@ -1,0 +1,5 @@
+# Archived numerical records are large; sources and proof text remain normal Git files.
+data/raw/l001/**/*.json filter=lfs diff=lfs merge=lfs -text
+data/raw/l001/**/*.jsonl filter=lfs diff=lfs merge=lfs -text
+data/raw/l001/**/*.f64 filter=lfs diff=lfs merge=lfs -text
+data/raw/l001/**/*.npz filter=lfs diff=lfs merge=lfs -text

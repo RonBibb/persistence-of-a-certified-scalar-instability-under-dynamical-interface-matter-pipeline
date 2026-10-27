@@ -1,0 +1,37 @@
+L001 TWO-HOUR CONTINUATION — RESULT REPORT
+Window:2026-10-27 02:07:11–04:07:11UTC. Final test completed before cutoff; closing review follows. This report does not extend execution authority.
+
+GIST
+The same selected neutral, zero-current, pure-growing analytic family now has a substantially larger sufficient local convergence certificate and proper-clock remainder-controlled amplitude. Starting radius1.3913273001736354e-28 became9.760050421037206e-24:70149.20514978156 times larger. Starting clock-controlled amplitude4.827136260757271e-46 became1.7337332318300735e-38:35916393.03668816 times larger. These are exact-rational certificate comparisons displayed decimally, not measured physical growth factors. The absolute neighborhoods remain extremely small. No nonlinear trajectory, collapse, horizon, or child-universe development was computed.
+
+WHAT CHANGED
+The physical equations, selected action/family, background lineage and proper-clock normalization did not change. The work reduced avoidable losses in sufficient estimates: harmonic-consistent source/response transfers; field-specific background and seed bounds; denominator/oscillator estimates; original-field scalar barriers; correct dependency of nonlinear scalar wall load; and fixed norm/grid refinements. Complete parent replays and finite-plus-uniform-tail coverage were retained. No ODE solves were added by this campaign.
+
+FINAL VERIFIED PACKET
+20261027_FINAL_FIXED_GRID_CERTIFICATE
+Terminal SHA256:756dc6f08f005cc7dc25648ee367e7e7cd546137a9f9b64d50f79e35a10f066d
+Result SHA256:ae0c2773509cdc4052546c2a4e86885451bae605868cb446df5b093dbe4bd08d
+Independent review regenerated1723 candidates and complete certificates. Final seed1215; selected a=21/2305843009213693952, graph norm weight1/256, oscillator norm weight1. Radius9.760050421037206e-24; clock_eta1.7337332318300735e-38. Clock_eta is an amplitude range with proper-clock remainder control, NOT elapsed proper time.
+
+POSITIVE FINDINGS
+1. The nonlinear junction source was paying for an independent oscillator contribution that is only linear in the normalized selected quadratic-wall residual. Removing that higher-order overcount, while retaining all linear coupling, oscillator equation, graph feedback and geometry gates, doubled both certificates.
+2. The final fixed rational grid recovered another21/16 factor in both certificates. It retained all1123 parent points and added600 predeclared points, without iterative adaptation.
+3. The original-field F barrier helped the overall certificate. Retaining a positive mass contribution subsequently reduced its proof cost further, though not enough to change the certificate on the old grid.
+4. The closing diagnostic identifies a specific remaining restriction: the proper-clock remainder gate. At accepted amplitude its ratio to allowed error is0.3655563. At the next coarser dyadic amplitude it is1.4622251 and fails, while distance, scalar value and scalar derivative gates still pass comfortably. This is a limitation of this sufficient proof estimate, not demonstrated physical breakdown at that amplitude.
+
+NULL FINDINGS MATTER
+Direct gradient and G-bound refinements improved individual estimates without enlarging the full certificate. G improvements did not address the controlling F-only C/BK coefficient (primary n23). Bulk-dependency and background-complex refinements also include null full-certificate comparisons. These outcomes are retained, not rescored as gains.
+
+CURRENT PROOF-COST BOTTLENECKS
+At final selected point, nonlinear mass is0.9677608751 of inverse-a floor; bulk/oscillator normalized mass is0.8953672514. Within bulk budget, BJ contributes0.8394975 and BO0.1459882; within oscillator budget, BJ contributes0.7951645 and BO0.1384423. These are separate majorant budgets, not physical energy fractions and not additive across channels. Scalar-junction and oscillator-source estimates remain the dominant costs; physical causation cannot be inferred from that allocation.
+
+INVENTORY AND ADVERSE RECORDS
+Closing accounting lists22 launched producer-terminal packets in the window.21 have independent-review records, including diagnostic/null results. The remaining original BACKGROUND_SEED_CERTIFICATE is expressly unqualified: its output metadata field h was overwritten by a digest-loop variable. Its sealed artifacts and AUDIT_EXCEPTION remain; corrected independent R1 was audited and is the authoritative successor. Never use the original as qualified evidence.
+The date-prefix inventory separately preserves pre-START resource holds for TYPED_KG_CERTIFICATE and BULK_DEPENDENCY_CERTIFICATE; R1 successors passed. Other transient audit admission holds were retried without modifying the resource guard. A terminal producer PASS alone is not independent certification. REVIEW.txt presence in the machine inventory is only presence; verdicts are in individual review records.
+The complete per-packet inventory, exact endpoint values/ratios, binding checks and gate ratios are in CLOSING_INTEGRITY_AND_ACCOUNTING.json. It authenticated2918 distinct bound files, including runtime/source/ancestor records. Independent audits reuse disclosed authenticated primitive/envelope helpers; they are not fresh integrations or a wholly independent derivation of every inherited theorem.
+
+RESOURCE AND CLAIM BOUNDARIES
+Scientific arithmetic ran on Linux, under exclusive L001 single-core leases (within the authorized3-core line ceiling and10-core VM ceiling). No other jobs were stopped. The separately reviewed admission wrapper permitted the authorized VM occupancy while retaining affinity, locks and memory limits; original frozen runner remains unchanged. No manuscript/inventory edits, charged-family splicing, changed scientific acceptance gate, or physical parameter tuning.
+
+HIGHEST-VALUE NEXT TEST — PROSPECTIVE ONLY
+Compute and independently validate the next proper-clock coefficient(s) for the SAME family, normalization and clock. Keep each explicit new term with its certified interval/sign, then move only the genuinely unknown Cauchy remainder to the next degree. Recompute all four remainder gates and the full certificate; no gain is assumed. This targets the now-measured clock-tail bottleneck more directly than another small norm-grid tweak. It does not by itself produce a finite nonlinear trajectory. Further boundary-source estimate sharpening is a separate possible line, not an interpretation of BJ/BO shares as physics.

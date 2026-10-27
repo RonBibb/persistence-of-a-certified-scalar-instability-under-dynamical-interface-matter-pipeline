@@ -1,0 +1,5 @@
+# Independent prospective review
+
+Admissible after prospective case-specific bracket correction. Independently checked exact compact coordinates 1/4,1/11,1/31,1/101 against lower kappa 3,10,30,100, all upper kappa zero. Lower search endpoints are respectively -12.02,-12.01,-12.003,-12.001; every upper endpoint is -12.000001. Source merges each case into shared configuration before search. No numerical results informed this review or change.
+
+Compared with accepted T15, only declared domain/configuration and removal of prediction comparison change; strict sign, width, cross-level, independent g audit, constraint, source binding and case-preserving publication gates remain. The original broad-bracket off-root launch would exceed fixed rates at large stiffness; the declared narrower brackets address this without changing rates or allowing in-run adaptation. Actual endpoint signs and tube containment still decide success. Preserve any case-prefixed failure and never rescore. Roots provide prospective monotonic envelope anchors only. Original cutoff and resource limits remain.

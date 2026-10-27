@@ -1,0 +1,9 @@
+# Independent prospective review — fixed production admitted
+
+The successful qualification and measured runtime support one production attempt under the unchanged root PLAN, DERIVATION and CONFIG. All shared numerical modules are byte-identical to the qualified modules, verified on academic-linux. The producer and wrapper are also unchanged from their prequalification versions. The original no-start attempt and its hold remain preserved.
+
+The producer covers sixteen contiguous closed parameter intervals whose union is [0,.01], both frozen beta endpoints and both G/W representations at n16. All background/constraint/whole-tube gates are retained. Fourth derivative coefficients are divided only by the fixed positive scale to the fourth power. G/W intervals must overlap and are combined by hull, not intersection. Strict expected signs over every continuous bin are sufficient through the positive-weight integral identity and exact zero jet. Failure to certify a sign produces an inconclusive derivative bound, not a counterexample; technical failures remain incomplete.
+
+The alpha endpoints are required to remain inside the inherited root bracket. Fresh background and single-turn endpoint checks retain the hypotheses for identifying the same DD branch. Binding the accepted leading-envelope count evidence does not turn the formal zero-width limit into a physical mode. A pass establishes the stated uniform sixth-order envelope, not an eighth-order remainder about the exact coefficient.
+
+Read the entire production loop and resource wrapper. One CPU, 1 GiB, fixed 2690/2700-second limits, shared nonblocking leases and HOLD checks remain mandatory. The measured forecast is approximately 34–36 minutes, not a guaranteed upper bound. No grid, interval subdivision, tube radius, precision, cap change, automatic restart or successor is admitted. All execution and computational auditing must occur on academic-linux. This review launches nothing.

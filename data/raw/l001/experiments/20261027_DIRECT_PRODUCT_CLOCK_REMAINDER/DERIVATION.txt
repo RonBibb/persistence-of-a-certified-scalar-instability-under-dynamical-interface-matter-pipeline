@@ -1,0 +1,30 @@
+Same fixed-family readout, cutoff2026-10-27T11:38:31Z. No gate changes.
+Let D-D0=D16+RD and J-1=E8+RJ, with audited |dn| bounds1..16,
+|en| bounds1..8, global distance supMD and coefficient tail supJC.
+For q=a/R<1, RD and its Euler derivative have bounds MDq^17/(1-q)
+and MDq^17(17-16q)/(1-q)^2. RJ<=JCq^9/(1-q).
+
+F/r=(etaD'-(D-D0))+etaD'(J-1). Its unknown degrees>=10 are bounded by:
+sum(n10..16)(n-1)Bd_n a^n
++sum(n1..16,m1..8,n+m>=10)n Bd_n Be_m a^(n+m)
++MDq^17(16-15q)/(1-q)^2
++MDq^17(17-16q)/(1-q)^2 * [sum(m1..8)Be_m a^m+JCq^9/(1-q)]
++[sum(n1..16)n Bd_n a^n]*JCq^9/(1-q).
+Divide by32, using the same bound on r. Partition is disjoint: finite
+product high degrees, finiteD' times RJ, and RD' times full J departure.
+All powers>=10; no subtraction of uncertain suprema. Minimum with prior
+valid contour tail preserves its certificate. No signed F10 is computed.
+
+Separate retained-coefficient arm: re-evaluate F6..9 with actual d4,d5,
+unchanged dn>=6 and inverse-lapse coefficients. Exact old interval replay
+required for each engine/order: SIXTH used generic d4,d5; SEVENTH onward
+already used actual d4. Formula Fn=r[(n-1)dn+sum(j1..n-1)j dj e(n-j)].
+Use min of old and new absolute bounds. Record individual unsigned proof
+terms only as estimates of bound contributions, not physical mechanisms.
+
+Four arms: baseline, direct-tail only, coefficient update only, both.
+Same amplitude grid, distance16 and scalar9 gates, no changed R or physics.
+Baseline exact full-record replay except explicit gain reset to1; new tail
+evidence is kept separately. On direct arms theta/contour_sup describe the
+best fallback contour, not a contour needed by the direct bound.
+Linux exact rationals,1core2GiB,600s cap,pre/post bindings,independent audits.

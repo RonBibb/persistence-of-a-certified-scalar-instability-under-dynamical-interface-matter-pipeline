@@ -1,0 +1,41 @@
+Prospective complete paired certificate with finite inverse-lapse bounds.
+Baseline exactly replays the audited DISTANCE24_CLOCK_READOUT degree24
+arm. No physical solution, analytic radius, retained clock3..9 coefficient,
+distance bound, scalar gate, opening gate or dyadic search is changed.
+
+The sole new candidate uses distance degrees1..24 and inverse-lapse
+degrees1..24. Retained inverse1..8 are identical to baseline;9..24 come
+from the separately audited FINITE_INVERSE_LAPSE24 positive majorant.
+The high-order clock remainder starts at total degree10. Partition it as
+(1) distance polynomial terms(n-1)d_n, n>=10;
+(2) finite convolution n*d_n*e_m for n+m>=10;
+(3) distance tail MD*q25*(24-23q)/(1-q)^2;
+(4) unknown distance Euler tail MD*q25*(25-24q)/(1-q)^2 times the full
+inverse departure (retained1..24 plus JC*q25/(1-q)); and
+(5) finite distance Euler polynomial times JC*q25/(1-q).
+This includes unknown-distance times unknown-inverse exactly once.
+Multiply their sum by the unchanged rate ceiling1/32. The new certificate
+takes the minimum of this candidate and ALL old direct/contour options.
+
+Predeclare baseline and finite_inverse24 arms, original fixed dyadic
+search, full gate replay and accepted/next-larger budget partitions. No
+gain is assumed. The independent reviewer must use an independent
+convolution and reproduce the full first-admitted dyadic and all gates.
+These are sufficient proof-budget costs, not measured physical fluxes.
+Linux exact arithmetic, unchanged exclusive1CPU2GiB lease,600second cap,
+immutable terminal publication, no restart, hard deadline11:38:31UTC.
+
+R1 correction: the original run failed at Python integer-string conversion
+of an exact rational with more than100000digits, before any scientific
+classification. Preserve and bind that source and failure. Remove only
+that serialization cap, not arithmetic precision or numerical gates.
+To avoid repeating hundreds of large-fraction products at every dyadic,
+precompute each fixed polynomial exactly once. For coefficients c_n,
+use a common integer denominator L and evaluate sum(c_n*q^n) at q=1/d
+as the exact integer numerator sum((L*c_n)*d^(N-n)) over L*d^N.
+One final Fraction reduction returns the same rational value. Original
+all-point search, minima, gates, full records and partition remain unchanged.
+Independent audit uses separately grouped convolution and conventional
+Fraction evaluation, not this integer polynomial evaluator. Runtime freeze,
+600second cap and hard deadline unchanged. This is a separately versioned
+implementation revision, not a relabeling of the failed original run.

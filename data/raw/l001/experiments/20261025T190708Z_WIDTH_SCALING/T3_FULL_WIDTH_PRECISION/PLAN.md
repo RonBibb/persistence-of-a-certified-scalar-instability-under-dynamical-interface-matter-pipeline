@@ -1,0 +1,9 @@
+# Precision Dirichlet gap at width 1/50
+
+A new numerical contract using the separately qualified order8 interval Taylor module. Refine within the independently accepted Euler root bracket, without modifying that parent. Fresh background integration to both cuts at every resolution, singleturnboxcheck, physicalf=0 endpoint conditions, regular constrainedL/g fullsystems, Hamiltonian/constraint inclusion and endpointbackgroundoverlap retained. Mathematical restriction only, not physical wallmotion.
+
+FrozenfullL n16/32, independentg n64, targetrootwidth1e-12 atbothlevels, existingfixedtube rates andbackgroundbox. Source-bound T2 method proof/controls required. Jetconstantcoefficient RHS comparedagainst separatelyexpressedL/g RHS at regularcentral andoffturn values. Strictoppositeendpoint signs, representation/resolutionoverlap, nonzerozero-shiftresidualdiagnostic, and finitepositive-norm normalizedlaunch. Searchinitialendpoints exactlymatch the acceptedparentbracket inCONFIG. No stale masscount is silently used for a newcutinterval.
+
+Scientificmeasure: c4(D)=(gap-D²/6)/D4. Predeclare descriptive20% approximation window[-1/6,-1/9] aroundanalytic-5/36. Wholeinterval contained=SUPPORTED, disjoint=CONTRADICTED,partialoverlap=INCONCLUSIVE; scientificoutcome is not technicalgate. The analytic expansion lacks a certified uniformfiniteDremainder. Once bothwidths areaccepted, a separateexactcomparison may test ratio of positive leading-minus-actualgap against[12.8,19.2] around16; this window is published before eitherprecisionrun. Nofittedparameters. Twofinitewidths cannotproveasymptoticorder.
+
+Onecore1GiB590s/600scaps, estimatedunder5minutes perpacket, originalcutoff20:07:08Z, leasedsharedadmission/noqueue/nooverwrite andpreservedfailure. Independentprospective andterminalreview. Onlyrun afterT2qualified andthe appropriateEulerparentaccepted.

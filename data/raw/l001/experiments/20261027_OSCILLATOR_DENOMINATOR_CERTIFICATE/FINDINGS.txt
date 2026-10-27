@@ -1,0 +1,10 @@
+Exact oscillator denominator data improve both certified ranges by1.469869.
+Radius8.333644310581496e-25; proper-clock-control amplitude eta7.401763034115212e-40.
+The latter is an amplitude range where the clock remainder is controlled,
+not an elapsed proper-time duration.
+Selected a29/36893488147419103232,lambda1/65536,kappa1/16,seed1215.
+The bulk mass now controls K; C/B=0.38755041628211273.
+At selected point B proof costs: BJ82.5117%,BM5.24283%,TRACE4.66332%,
+BK2.92475%,BR2.59849%,BO2.05888%. These are not physical force fractions.
+Next isolated candidate: authenticated T,Tprime in the real metric anchor,
+leaving direct Sc/d0 and all complex continuation estimates unchanged.

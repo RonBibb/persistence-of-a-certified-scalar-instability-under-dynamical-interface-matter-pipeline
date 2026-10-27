@@ -1,0 +1,16 @@
+Prospective direct original-field gradient estimate, same1123grid.
+At every realpoint choose a one-sided interval oflength1/n when nL>=2.
+Taylor gives M1<=2nM0+M2/(2n). Original ODE gives
+M2<=Areal*M1+n^2*Breal*M0+flag*S, withflag1 forF,0 forG.
+Hence Cg<=[(2+Breal/2)Cv+flag/2]/[1-Areal/(2n)] ifdenominatorpositive.
+Use existing same-solution Cv from DIRECT_F parent; independently bound
+Cg byminimumofoldandnew, leavingrealCvfixed. ApplybothF/G separately.
+Areal=4H+B0T/(d0*n^2), Breal=(m+2T^2)/n^2+5E^2/2048+B0Tp/(d0*n^4).
+REALd0=3alpha, notcomplexdc; allfieldboundsalsovalidonrealinterval.
+Use perengine authenticated INITIAL_engine.json D[0] forLmin.
+Finite rows failinglength/absorptionretainold. Tail>=65 uniformCv,
+decreasingA/Bandincreasingdenominator make65uniform;Lconditionpreserved.
+Rebuildunchangedcomplex2x2transfer,sourceweights andfullcertificates.
+Exactbaselineinverse/weights1123rows/certificate replay mandatory.
+Samegeometry,seed1215,sources,responseequations;noODE/physicaltrajectory.
+Linuxsharedlease600s,cutoff1793074031;no manuscript/inventoryedits.

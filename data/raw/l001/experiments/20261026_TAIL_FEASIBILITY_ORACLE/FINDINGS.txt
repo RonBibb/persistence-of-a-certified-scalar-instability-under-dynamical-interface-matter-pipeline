@@ -1,0 +1,76 @@
+Tail feasibility and the next estimate to sharpen
+
+The bounded Linux calculation completed in 25.68 seconds with no ODE solve.
+It tested all 15 predeclared engineering targets using exact rational
+arithmetic. The actual low-order analytic norms were not substituted:
+these are optimistic fixed-bound feasibility outcomes, not new physical
+amplitude certificates.
+
+Oracle outcome
+--------------
+Gain targets 1, 2, 4, 8, 16, 24 and 32 passed the optimistic scalar test.
+Gain 40 has no scalar self-map under the fixed estimate, certified by a
+convex tangent lower bound. Gains 44, 48, 64 and 128 fail the necessary
+strict contraction condition. Gain 1000 and physical engineering probes
+1e-12 and 1e-8 fail its domain condition. No arm was dropped or rescored.
+The gain 32 result does NOT certify a 32-fold larger physical interval:
+the oracle sets the unknown second/third norm bounds optimistically to 0.
+
+Estimate budget
+---------------
+The wall graph row BI contributes 99.156704524% of the quadratic positive
+source-response budget. The final scalar K divided by twice that total
+quadratic mass is approximately 1.0000000000000004. Thus simply repeating
+the scalar evaluation-point optimization cannot remove the dominant
+loss: it is already present in the underlying source-response bound.
+
+These shares describe a sufficient proof estimate, not the relative
+physical importance of forces or fluxes. Even hypothetical deletion of
+the entire BI quadratic contribution would improve that budget only
+about 118.58-fold with the other estimates held fixed. No term is deleted.
+
+Derived sharpening candidate
+----------------------------
+The exact neutral tracefree Israel equation can be normalized before
+taking absolute values. Its lapse/warp prefactors cancel, leaving them
+only through the wall velocity. The normalized graph inverse has divisor
+nr(nr-h), with the inherited lower bound n^2/8192. This normalization was
+independently checked algebraically for both wall orientations.
+
+In addition, the selected branch has xi1=0. Its quadratic wall forcing
+is the oscillator kinetic term, with exact relation
+  xi_i,2 = sigma_i*r*chi_i,1^2/[4*(2r-h)].
+It is therefore wasteful to assign the graph the same first-order scalar
+envelope as every bulk variable. The two oscillators also need distinct
+wall-specific bounds; the upper-wall first coefficient is not as small
+as the lower-wall one.
+
+NORMALIZED_GRAPH_CANDIDATE.txt contains the complete equation, retained
+terms, derivation and qualification requirements. This is a derived
+route to a sharper estimate, not a replacement numerical certificate.
+
+Next bounded test
+-----------------
+Qualify the normalized graph identity against the existing exact rows
+through cubic order, then build a coupled positive graph/oscillator/bulk
+envelope with the graph starting at order 2. Rebuild its propagation into
+all other response channels; do not reuse the old raw BI source weight
+after changing the row normalization. Recompute the optimistic tail
+gate before cubic replay. Failure to close that all-order envelope is an
+estimate-design obstruction, not evidence against the nonlinear family.
+
+The existing local convergence theorem and protected motion interval are
+unchanged. No physical endpoint, new solution, new radius or cubic export
+was produced. All parent sources/results and manuscripts remain unchanged.
+
+Provenance
+----------
+TERMINAL.json SHA256:
+cb18ff625e7727f3c4425d80c90d96018c0675c51c283daab8582748e3628988
+RESULT.json SHA256:
+6f5db68a30b9aa83fa6022aa802f60894d74b164afa83b7c774152d89dff507e
+
+The immutable machine records bind the source, frozen targets and parent
+inputs. This explanatory note and NORMALIZED_GRAPH_CANDIDATE.txt are
+subsequent interpretation/design records. Review scope is recorded in
+review.txt; it is distinct from a second full production execution.

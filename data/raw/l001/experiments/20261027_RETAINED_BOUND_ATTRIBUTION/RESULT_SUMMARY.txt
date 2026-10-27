@@ -1,0 +1,11 @@
+PASS: independent exact saved-record audit6955 checks,24.66seconds.
+AtR/2 primary F8 leading bound11.145539203472705 versus all lower
+products6.673322628211808e-18; F9 leading1.0423299950323832 versus
+lower products2.0083277625483752e-22. Independent input engine agrees.
+Shares display1.0 only after float rounding; exact rational shares retained.
+All four distributed interval sums exactly equal stored grouped intervals.
+Attribution concerns interval triangle bounds, not physical coefficient
+shares or cancellations. No new amplitude or field coefficient admitted.
+The generic leading d8 and d9 bounds are the remaining proof bottlenecks.
+Terminalb55c9f52dd7f110db4d5180a1a9c5c6d4a91f46eaae7be33e1a40e08bb800350
+Auditb58b2d6b761c79f61a6247bd3d8d6482f84ab02c6e41d8b8e02aca78992676df

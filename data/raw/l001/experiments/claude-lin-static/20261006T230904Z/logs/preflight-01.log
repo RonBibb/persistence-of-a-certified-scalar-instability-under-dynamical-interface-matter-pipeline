@@ -1,0 +1,23 @@
+slot_run: line 02_lin_static priority 5 token 1 slot 4 start 2026-10-06T23:15:09Z avail_kib 29760480 load 3.04
+Traceback (most recent call last):
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T230904Z/code/preflight3.py", line 277, in <module>
+    sys.exit(0 if run_all() else 3)
+                  ^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T230904Z/code/preflight3.py", line 252, in run_all
+    res = {'seam': one_fixture(root, 'seam', Fraction(2)),
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T230904Z/code/preflight3.py", line 161, in one_fixture
+    ckdirs[f], finals[f] = generate(base, f, lam, Dn)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T230904Z/code/preflight3.py", line 145, in generate
+    P = {'profile': profile(name, Dn), 'Dlo': DLO, 'Dhi': DHI, 'step': STEP}
+                    ^^^^^^^^^^^^^^^^^
+  File "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T230904Z/code/preflight3.py", line 97, in profile
+    eps = mp.mpf(EPS[name].p) / EPS[name].q
+          ^^^^^^^^^^^^^^^^^^^
+  File "/home/parallels/codex-precision-noble-py312-20260830/lib/python3.12/site-packages/mpmath/ctx_mp_python.py", line 79, in __new__
+    v._mpf_ = mpf_pos(cls.mpf_convert_arg(val, prec, rounding), prec, rounding)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/parallels/codex-precision-noble-py312-20260830/lib/python3.12/site-packages/mpmath/ctx_mp_python.py", line 98, in mpf_convert_arg
+    raise TypeError("cannot create mpf from " + repr(x))
+TypeError: cannot create mpf from 1

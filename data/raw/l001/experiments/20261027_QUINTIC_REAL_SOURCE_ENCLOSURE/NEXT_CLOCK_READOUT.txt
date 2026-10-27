@@ -1,0 +1,14 @@
+PROSPECTIVE FULL-CLOCK READOUT — not launched, not frozen.
+Bind accepted fifthproductionand independentaudit, F9 and itsaudits, actualquartic andclock/cubicarchives. Verify samefamily/clock/normalization.
+For eachengine useactuald1..d3 fromclockreadout,d4 fromacceptedquartic, andnewd5. Derive (or independentlyreproduce) inverse-lapseseries e_n fromqualifiedlogcoefficients. Throughn4:
+e0=1; e_n=-(1/n)sum_{j=1..n}j*L_j*e_{n-j}.
+L1=1; existingL2/L3 inherited. Candidate actualL4 fromEulerianquarticfieldbound:
+L4=p4+xi3*u1+xi2*u2+H*xi4+Hp*xi2^2/2-v2^2/2,
+v2=2rE*xi2.
+p4,xi4 and neededjets exist in fifthproductionlowerwallinputs, but qualifyformula/conventions independentlybeforeuse.
+F5=r*(4d5+4d4e1+3d3e2+2d2e3+d1e4).
+Use maxabsolute perengineinterval, and retainsharperindependentlyvalid oldbound ifneeded. ExistingF6..F9bounds remainvalid evenwithoutupdatingtheircomponentestimates; keep them forisolatedfirstreadout.
+Unknown degree10tail andanalyticradius unchanged. ReproducebaselineF9exactly, thencompute firstpassingdyadic underALLoriginalclock/distance/scalar/scalarderivative/openingsigngates.
+No assumedamplitudegainfrom2.69e63coefficientboundimprovement. Othergatesmaytakeover. Ifdistancegate thenlimits, prospectivelydesignknown-coefficientdistance-tail refinement asaseparatesuccessor; donotchangefrozengateinplace.
+Thisfileis preparationonly; no newlaunch or timedwindowcreated.
+

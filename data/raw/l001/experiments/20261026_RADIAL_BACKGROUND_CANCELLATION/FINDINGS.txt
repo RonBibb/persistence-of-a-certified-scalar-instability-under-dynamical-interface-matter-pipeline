@@ -1,0 +1,42 @@
+Background-subtracted radial local certificate
+
+Producer outcome: PASS. Runtime20.5631 seconds; zero ODE solves.
+All45 declared candidates retained; all125 recorded gates passed.
+
+Only BR was changed, by taking the exact composed-background first
+integral out of the exact radial equation BEFORE taking absolute bounds.
+The polynomial identity original-rewritten-background=0 passed. The old
+and new positive envelopes differ exactly by13Z^2+6; this equality was
+checked at each finite/Jet evaluation in the unchanged coupled scan.
+No physical source, transport term, or composed-background difference
+coupled to a perturbation was removed.
+
+Certified physical amplitude radius:2.8674127057401725e-39
+Protected proper-clock amplitude:3.7949891174023846e-62
+Scalar departure threshold:9.487472793505962e-67
+Radius gain over normalized coupled parent:10.016791474393187
+Clock-amplitude gain over normalized coupled parent:40.06716589757275
+Combined gains relative to the earlier joint certificate:
+radius1071.6170378484878; clock-amplitude34291.74521115161.
+The selected ray remains lambda1/256,kappa1/16,a2^-104.
+
+Meaning: a demonstrable part of the restrictive proof estimate was
+background overestimation, not extra physics or failed evolution. The
+same local neutral family now has a larger certified neighborhood, with
+the inherited geometry and signed observable-tail checks retained.
+The neighborhood remains extremely small. No useful-amplitude evolution,
+nonlinear endpoint, generic-data flow, charged extension, horizon or
+child formation follows. The pre-existing physical solution and low-order
+coefficients were not modified.
+
+Next bounded question: which terms now dominate the improved estimate,
+and can already-certified field-specific background bounds replace the
+single common Z without losing all-order validity? That is prospective;
+no successor computation was launched in this packet.
+
+Primary post-run check:2831 bound input/source/runtime entries verified,
+all terminal links verified. Independent review scope is in REVIEW.txt.
+Terminal SHA-256:
+1eb85e96938043ca51820e70274579fdc85d9c0bac7882b33e8118f67c1c73bf
+Result SHA-256:
+41419be0946495df158ec613416b59be36d50e4db8753fb38c1cc406fa5cb797

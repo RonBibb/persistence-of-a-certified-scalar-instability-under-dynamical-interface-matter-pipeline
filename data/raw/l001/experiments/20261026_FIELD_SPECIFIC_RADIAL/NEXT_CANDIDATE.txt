@@ -1,0 +1,15 @@
+Prospective next bounded test; not an execution authorization or certificate.
+
+The S6 mixed row is L(Dp)-(Db)(H+Lp)+(Df)(T+Lf)/3=0.
+Keep the existing G*x*(1+wu+w) bound for L(Dp), including all graph
+transport. Replace ONLY the common background coefficient term with
+the already-certified separate H/T composition envelopes:
+ BMtyped=G*x*(1+wu+w)+d*(Hj+l)+(1/3)*d*(Tj+l).
+This replaces BMold=G*x*(1+wu+w)+(4/3)*d*(Z+l).
+
+Check exact source correspondence and unchanged radial-index allocation,
+the all-order coefficientwise comparison to BMold, and retention of all
+composed-background/transport terms. Use the current BRtyped unchanged.
+Then independent executable review and the same45grid/full physical and
+observable gates in a separate bound packet. Any gain is in a sufficient
+estimate, not a change in the physical equations or the nonlinear solution.

@@ -1,0 +1,4 @@
+Producer PASS48checks25.10seconds. Independent dictionary-polynomial witness audit PASS6750checks21.65seconds. Exact source equations through degree6 qualified, lower0..5 reproduced, compatibility pseudo-elimination witnesses checked without physical division by T. Selected analytic-background scope inherited.
+Terminal3062a60486383a88113a6d80847f52af27668bac277d5ccb3acecbb57c92abd3
+Audit ecc538aab67953d3e99e3c6011670436d9bb87ce69aeab221cbc8a210daa20ae
+This is bulk algebra, not a sixth-order field solution, signed coefficient or trajectory.

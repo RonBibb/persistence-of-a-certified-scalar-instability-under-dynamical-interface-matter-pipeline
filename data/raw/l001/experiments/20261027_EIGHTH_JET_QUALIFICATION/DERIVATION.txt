@@ -1,0 +1,16 @@
+User's continue after successful eighth wall qualification authorizes next
+bounded spatial-derivative qualification and audit. Keep remaining existing
+window ending2026-10-27 14:15:16UTC,600second cap per calculation,1CPU2GiB.
+No automatic coefficient-enclosure launch.
+
+Use authenticated seventh derivative map unchanged; extend with sixth-order
+reduced p/f/g equations and radially constant N6. Authenticate sixth bulk and
+seventh jet audits explicitly. Reconstruct c4 from qualified quartic record.
+Differentiate exact rational polynomials for11 required wall inputs:
+u6,g6prime,c6prime,u4prime,g4second,c4second,u2second,g2third,c2third,Hppp,Tpppp.
+Check direct derivatives against coefficient-level Leibniz differentiation.
+Independent audit reconstructs dictionaries without importing jets.py, anchors
+inherited map, sixth equations and background H/T equations, then differentiates
+every target. No floating-point approximations or numerical differences.
+This establishes exact derivative formulas, not interval enclosures, coefficient
+sign, nonlinear trajectory, a larger amplitude certificate or physical fate.

@@ -1,0 +1,99 @@
+NINTH-ORDER CAMPAIGN — COMPLETED AND AUDITED
+2026-10-27, final arithmetic audit complete before16:10:18UTC.
+
+Outcome
+The full certified amplitude increases from4.851141972255318e-24 to
+7.320037815777903e-24, a factor1.5089308574440226 (+50.8930857444%).
+Exact gain1610612736/1067386705. The new endpoint is q=eta/R=3/4,
+with the SAME analytic radius R=1/102458487083689624677120.
+Classification: PREDECLARED_THREE_QUARTER_ENDPOINT_ADMITTED.
+All five gates pass: clock, distance, scalar, scalar_derivative, opening.
+No bisection was needed: the predeclared endpoint passed. The equal lower
+and upper fields denote endpoint admission, NOT a bracket around failure,
+maximal amplitude, a physical threshold, or an enlarged analytic radius.
+
+What changed
+The actual unsigned ninth-distance coefficient is enclosed by
+[-6.148081161221728e44,+6.148081161221728e44]. Its large raw magnitude
+must not be interpreted apart from its amplitude power and normalization.
+At the OLD accepted amplitude, the retained ninth clock-cost ratio drops
+from0.9999048380333941 to1.3302792312810331e-22. The isolated half-domain
+control has total clock ratio6.041508738080469e-5; the same eighth
+contribution6.439818638439277e-18 is retained. Thus the former bottleneck
+was the ninth estimate, not evidence of physical breakdown.
+
+At the NEW endpoint, allowance-normalized ratios are:
+clock                0.001683018131458348 (0.1683018131458348% used)
+distance             4.452480147751774e-22
+scalar               1.7738344208729646e-5
+scalar_derivative    7.31750302072931e-5
+opening              PASS
+
+New endpoint clock contributions (fractions of allowance):
+actual ninth         2.369344384512857e-21
+actual eighth        7.601331556197513e-17
+quintic              1.8469063993227564e-10
+sixth                2.699380317779954e-11
+finite higher-order distance 0.001683017919772377
+finite cross terms   9.340182627400489e-16
+unknown distance tail1.4901622286703267e-40
+unknown lapse tail   5.226703637468248e-58
+The record's aggregate label "unknown_tail" includes finite retained
+distance/cross terms. It must NOT be described as entirely an infinite
+tail. The largest remaining cost is finite higher-order distance estimates,
+but no gate is near failure at the chosen endpoint.
+
+Completed producer / independent-audit stages
+Bulk R2: 133.323s,63checks /97.705s,7207checks.
+Wall:20.562s,210checks /34.910s,7092checks.
+Spatial jets:33.388s,11checks /32.718s,74567checks.
+Actual ninth enclosure:151.039s /553.117s,2279342checks.
+Three-quarter positive tail:41.520s /47.662s,7325checks.
+Three-quarter inverse tail:55.003s /31.047s,7257checks.
+Full budget:170.927s /207.913s,7264checks.
+Every successful calculation and audit finished within600seconds.
+Independent source review preceded execution; the final full-budget auditor
+uses independent exact interval F9 convolution and ordinary Fraction finite
+convolution, not producer arithmetic. Audits retain inherited analytic-family
+premises and qualified PDE/wall formulas; they are not a second PDE oracle.
+
+Preserved engineering failures
+Original bulk packet:TECHNICAL_INCOMPLETE at inherited50000term cap.
+R1 bulk packet:TECHNICAL_INCOMPLETE at600second denominator-clearing timeout.
+R2 binds both histories; reviewed exact-equivalent accumulation optimization
+and200000term numerical-control contract are explicit. Neither failure was
+overwritten or counted as a failed mathematical identity. No audit-source
+optimization was needed: the enclosure audit passed at553.117seconds.
+
+Provenance (relative to this folder's parent)
+20261027_NINTH_REAL_SOURCE_ENCLOSURE/TERMINAL.json
+SHA256397ddbe11ce3d59b3e6b48053f1c0104db19b203a3c283020f12ba809a41d01d
+20261027_QUARTIC_REAL_SOURCE_AUDIT/NINTH_REAL_AUDIT.json
+SHA256de198b751e39830a6ab2b320707c5af52a9b38bf94d9bf77f9d0f237a915faab
+20261027_ACTUAL_NINTH_FULL_BUDGET/RESULT.json
+SHA256f42c5d1cfd8ce5f3617e700faf6a6c3269a0eaa3d9909959ef737d35338f8b73
+20261027_ACTUAL_NINTH_FULL_BUDGET/TERMINAL.json
+SHA2562a0f983f7ac60e5359c48b5a3219136347935b1ac6d5bcd0c26fb96fbd0d9642
+20261027_QUARTIC_REAL_SOURCE_AUDIT/ACTUAL_NINTH_FULL_BUDGET_AUDIT.json
+SHA256b0ca36700c6455864b3ae1d2a82b067a4b284ffe52a5cd7175da9ae4c60e8306
+All prerequisite hashes and runtime bindings are recorded in the packets.
+
+Scope and next decision
+This is a sufficient local certificate for the same neutral zero-current,
+pure-growing analytic family in its fixed homogeneous slicing. It is not
+arbitrary-data evolution, a simulated nonlinear trajectory, saturation,
+collision, horizon/child formation, or a statement about ultimate fate.
+It strengthens a certificate by improving estimates; it does not change
+the physical solution. No tenth-order calculation or additional endpoint
+was launched. A prospective next step is a separately specified extension
+of the uniform tail/readout endpoint within the existing analytic radius;
+the current result alone does not certify that extension. Alternatively,
+identify the dominant finite distance coefficient before ordering another
+expensive coefficient enclosure. Neither successor is automatically needed
+to regard the present authorized goal as complete.
+
+Execution closure
+Authorized window15:10:42–17:10:42UTC. Requested work finished in about
+one hour, without consuming unused time on unrelated work. Fixed lease:
+Linux1CPU/2GiB,600seconds per calculation. Process inspection at16:10:18UTC
+found no remaining campaign calculation or audit (only inspection commands).

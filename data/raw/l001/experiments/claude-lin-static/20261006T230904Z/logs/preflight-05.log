@@ -1,0 +1,55 @@
+slot_run: line 02_lin_static priority 5 token 1 slot 7 start 2026-10-06T23:38:41Z avail_kib 29409580 load 5.54
+{
+ "passed": true,
+ "path": "/media/psf/Home/Research/ClaudeCode/lines/02_lin_static/runs/20261006T230904Z/preflight/20261006T233841Z/PREFLIGHT.json",
+ "fixtures": {
+  "seam": {
+   "s_star": "2",
+   "s_true": "2.0",
+   "positive_separation_contains_reference": true,
+   "positive_lower_wall_ell_bound": "1.966e-236",
+   "positive_walls_finite": true,
+   "negative_separation_contains_reference": true,
+   "negative_lower_wall_ell_bound": "1.966e-236",
+   "negative_walls_finite": true,
+   "narrowed_contains_true_crossing": true,
+   "narrowed_width_pieces": 2.0,
+   "narrowed_width_at_most_4_pieces": true,
+   "same_interval_all_jobs": true,
+   "all_blocks_bitwise": true,
+   "accepted_running_max_reproduced": true,
+   "closure_and_coverage": true,
+   "e_I_monotone_reported": true,
+   "verifier_resolved": true,
+   "verifier_failed": [],
+   "verifier_checks": 85,
+   "A_bound": "2.300e-6",
+   "A_dominant": "COMPARISON_STEP"
+  },
+  "interior": {
+   "s_star": "204763/102400",
+   "s_true": "1.999638671875",
+   "positive_separation_contains_reference": true,
+   "positive_lower_wall_ell_bound": "1.966e-236",
+   "positive_walls_finite": true,
+   "negative_separation_contains_reference": true,
+   "negative_lower_wall_ell_bound": "1.966e-236",
+   "negative_walls_finite": true,
+   "narrowed_contains_true_crossing": true,
+   "narrowed_width_pieces": 1.0,
+   "narrowed_width_at_most_4_pieces": true,
+   "same_interval_all_jobs": true,
+   "all_blocks_bitwise": true,
+   "accepted_running_max_reproduced": true,
+   "closure_and_coverage": true,
+   "e_I_monotone_reported": true,
+   "verifier_resolved": true,
+   "verifier_failed": [],
+   "verifier_checks": 85,
+   "A_bound": "2.295e-6",
+   "A_dominant": "COMPARISON_STEP"
+  },
+  "inconsistent_event_detected": true,
+  "tamper_detected": true
+ }
+}

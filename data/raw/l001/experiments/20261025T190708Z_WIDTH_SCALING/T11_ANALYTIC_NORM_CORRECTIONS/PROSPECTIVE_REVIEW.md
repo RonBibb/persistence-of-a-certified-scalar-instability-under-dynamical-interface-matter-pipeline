@@ -1,0 +1,5 @@
+# Independent prospective review — admitted
+
+Reviewed full source/plan and verified jet.py is byte-identical to accepted T7's module; its main is not invoked on import. Products are formed before radial-even integration and degree stripping. The integrated a^2 f^2 series is complete through d6, hence its d4-stripped coefficients through d2 are complete. Denominator Fint+6IP is the correct central-normalized total kinetic expression, and normalization cancels in both ratios.
+
+Only constant and d2 coefficients are published, with conversion to D2 by division by four. Missing higher coefficients generated after zero-padding the stripped series are not claimed. Exact endpoint cancellation, leading coefficients1/45 and1/3 and odd-parity controls are appropriate. Retrospective measured D2 coefficient and post-D2 remainder formulas are correct and introduce no fitted acceptance window. No finite-width remainder or held-out status is asserted. No execution was performed for review; original resource/cutoff remain.

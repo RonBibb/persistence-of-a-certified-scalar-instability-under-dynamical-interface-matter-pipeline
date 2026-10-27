@@ -1,0 +1,2 @@
+slot_run: line 02_lin_static priority 5 token 2 slot 2 start 2026-10-06T21:01:43Z avail_kib 30039640 load 1.85
+{"flow": "negative", "bitwise": true, "equal_inherited": true, "seconds": 317.7}

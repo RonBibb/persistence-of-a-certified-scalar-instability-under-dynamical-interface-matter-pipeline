@@ -1,0 +1,33 @@
+Independent warped-product route to the neutral wall identity
+
+This review does not import or replay the wall producer's Ricci algorithm.
+Use the two-dimensional base q=-N²dt²+B²ds² and three-dimensional flat
+fiber with scale R. The standard warped-product curvature identity gives
+Ric5(n,U)=Ric2(n,U)-3 Hess_q(R)(n,U)/R.
+In two dimensions Ric2=(Scal2/2)q and q(n,U)=0, so the first term vanishes.
+This standard geometric identity is a premise of this independent route;
+the production computation separately derived full five-dimensional Ricci.
+
+Let k=Ktau=n.acceleration and l=Kx=n(R)/R. The orthonormal moving pair
+satisfies nabla_U n=k U. Therefore
+ dot(l)=Hess(R)(U,n)/R+k U(R)/R-n(R)U(R)/R².
+With Hwall=U(R)/R,
+ -3 dot(l)+3Hwall(k-l)=-3 Hess(R)(U,n)/R=Ric5(n,U).
+This proves the Codazzi temporal component with the actual sign and all
+velocity factors, independently of the producer's component contractions.
+
+The auditor uses the six explicit two-dimensional Christoffels to build
+Hess(R), projects it onto n,U, and compares its exact Laurent polynomial
+to the moving-frame divergence expression. It also independently checks
+the neutral canonical oscillator energy exchange and junction half-factor,
+the nonzero-harmonic implication, and actual substitutions Ns=N A0,
+Rs=R A0, Bt=B bt, Rt=R(h+pt) for S7. Q5 friction is verified after
+clearing 1-v². Mutation checks reject the opposite Codazzi sign and an
+incorrect material factor.
+
+Disposition on success: the formerly unqualified wall-compatibility
+premise is qualified for this same homogeneous neutral, timelike,
+canonical-wall-oscillator ansatz. This is not a general junction theorem,
+nonzero-current exchange certificate, zero-harmonic uniqueness result,
+large-amplitude statement, or independent rederivation of every action
+and spectral premise. No ODE or production artifact is changed.

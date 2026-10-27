@@ -1,0 +1,44 @@
+Known-cubic proper-clock remainder refinement
+
+This successor changes only a sufficient observable tail estimate for the
+same certified neutral analytic family. No new differential equation is
+solved and no physical parameter, source envelope or predecessor changes.
+
+Write D-D0=d1 eta+d2 eta²+d3 eta³+..., log ell_a=eta+L2 eta²+...
+with ell_a the actual lower-wall lapse. Then
+ ell_a^-1=1-eta+(1/2-L2)eta²+...
+and F=r eta D'/ell_a-r(D-D0) has F0=F1=0,
+ F2=r(d2-d1), F3=r[2d3-2d2+(1/2-L2)d1].
+The same authenticated quadratic lower-wall state gives
+ L2=p2(a)+H(a)xi2_a. The graph begins at degree2, so the velocity-square
+term in log lapse begins at degree4 and is absent from L2.
+Recompute L2 from both sealed quadratic representations and require exact
+agreement with the already published clock-readout interval, rather than
+merely copying a decimal or inheriting an unexamined formal coefficient.
+
+The broad coefficient gates are |d1|<54, |d2|<1600, |d3|<70000,
+|L2|<2, 0<r<1/32. They imply |F3|<10000 by the triangle inequality.
+Keep the independently established -50<F2<-21. This F3 is in eta,
+not the cubic coefficient after replacing eta by separation; no claim
+about the unresolved proper-clock normal-form cubic sign is made.
+
+On rho_F=rho_D/2 the prior full-function bound remains |F|<=MF.
+For q=|eta|/rho_F, Cauchy therefore bounds the tail AFTER CUBIC by
+ MF q^4/(1-q). Select the first dyadic q for which
+ 10000 |eta|^3 + MF q^4/(1-q) <= 10 |eta|²,
+ MD(q/2)²/(1-q/2) <= 25 |eta|,
+and the previous scalar value and Euler-derivative tails are each at most
+ |eta|/40000. Also require |eta|<1/512 and strict improvement of the
+preceding certified clock amplitude. All ratios to their comparison
+powers increase with |eta|, so these gates hold throughout the smaller
+punctured interval, not only at its endpoint.
+
+Then -60 eta²<=F<=-11 eta² for either sign, while separation has opposite
+sign to eta and 25|eta|<=|D-D0|<=79|eta|. The positive branch shortens
+faster than its linear proper-clock law; the negative branch opens more
+slowly but continues opening. The wall scalar retains its same nonzero
+sign and proper-time derivative sign, and its guaranteed departure
+threshold at the selected amplitude is |eta|/40000.
+
+This improves a conservative local certificate only. It establishes no
+generic-data flow, finite-amplitude endpoint or physical transition scale.

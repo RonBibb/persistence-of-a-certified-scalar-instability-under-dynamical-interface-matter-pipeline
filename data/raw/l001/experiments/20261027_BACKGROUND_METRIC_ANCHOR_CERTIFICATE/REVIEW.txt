@@ -1,0 +1,7 @@
+Independent Linux audit PASS, /root/jet_bound_review,2026-10-27.
+Recomputed128x7 old/new harmonicpairs,maxima/ties,T/Tp frombackground,
+unchanged scaledC inheritance; regenerated all883 nonlinearloads,both1766
+masses/K records,selections,fullcertificates,tails,budgets andbranches.
+Verified2967bindings and8908gates. Reviewedsharedlease released normally.
+Terminal c39ee8f246461753c9693c3527a54091ee0a5dfa91b663688826f6f4e539d64d
+Result e78e944fa4131ada939ea0a1e2afb49ef1c92d5bb433e2eed84f6bb7d5589846

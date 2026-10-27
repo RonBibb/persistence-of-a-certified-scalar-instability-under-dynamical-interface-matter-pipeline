@@ -1,0 +1,8 @@
+User authorization: run wall qualification and audit in a fresh30minute window,
+keeping ten minutes per calculation. Window starts2026-10-27 13:45:16UTC and
+ends14:15:16UTC (10:15:16America/New_York). No deadline extension.
+Scope only eighth wall qualification and its source-reviewed exact-replay and
+binding audit. Each calculation retains600second alarm, one CPU,2GiB lease.
+No downstream jets, coefficient enclosure, or new physical tests authorized.
+Unrun source cutoff updated before launch; scientific wall.py unchanged.
+Bulk parent is successful EIGHTH_BULK_QUALIFICATION_R1, pinned in PINS.json.

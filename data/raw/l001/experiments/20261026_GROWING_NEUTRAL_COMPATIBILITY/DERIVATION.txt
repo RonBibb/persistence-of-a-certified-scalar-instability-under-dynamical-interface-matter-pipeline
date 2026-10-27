@@ -1,0 +1,146 @@
+ALL-ORDER NEUTRAL BULK SOURCE COMPATIBILITY
+Analytic induction with a separately qualified bulk component map. This
+packet's own execution status is determined only by its terminal artifacts.
+
+1. Scope and inspected sources
+
+Governing manuscript: papers/interface-instability/
+20261024_physica_scripta_revision_5/MANUSCRIPT.md, lines 593-636
+(Q1-Q4 and temporal/radial Bianchi argument), and lines 680-699 (S6).
+Inspected exact implementation: experiments/20261026_GROWING_MODE_CUBIC_BULK/
+bulk.py, direct(), setup(), qualify(). This implementation qualifies finite
+orders only; the proof below is not an extrapolation of those tests.
+The separate GROWING_NEUTRAL_COMPONENT_MAP packet has now passed 13 exact
+off-shell Christoffel/Ricci/KG/divergence checks. Its terminal SHA-256 is
+a189065e25d7f9eb386ca71ee4baf8d99c5a99a78cd60884e37afe7c40d48753.
+That result independently qualifies the component identification below;
+the standard contracted Bianchi theorem itself remains inherited.
+The metric-response packet's independently qualified linear constraint identity
+is used with its recorded sign convention. The source maps are exactly Q2-Q3.
+
+2. Exact residual identification in Eulerian coordinates
+
+Write ds^2=-N^2 dt^2+R^2 dx_3^2+B^2 ds^2, with
+N=a(s) exp(p), R=a(s) exp(ht+p), B=exp(b),
+Phi=Phi0(s)+f, H=a'/a, T=Phi0', E=1/a, k=h^2.
+Let E^A_B denote the mixed Einstein residual G^A_B-6 delta^A_B-T^A_B
+for the canonical scalar with potential m Phi^2/2. This E^A_B is distinct
+from the scalar background function E=1/a.
+
+The four S6 residuals obey
+ E^t_t-E^x_x = N^(-2) R_T,
+ E^s_t       = -3 B^(-2) R_M,
+ E^s_s       = R_R,
+ box(Phi)-m Phi = R_K.
+The isotropic spatial directions have the same E^x_x.
+For example, setting alpha=p_t, beta=b_t, v=Phi_t, the temporal
+part of N^2(E^t_t-E^x_x) is
+ 2 alpha_t+beta_t-h(2alpha+beta)+beta^2-2alpha beta-2alpha^2+v^2.
+The radial parts cancel because N_s/N=R_s/R=H+p_s.
+The mixed covariant residual is -3 p_ts+3 b_t(H+p_s)-Phi_t Phi_s.
+The ss Einstein component is
+ 6(H+p_s)^2/B^2-3[alpha_t+(h+alpha)(2h+alpha)]/N^2;
+subtracting scalar stress and the cosmological term gives precisely R_R.
+
+3. Exact divergence, before coefficient extraction
+
+The contracted Bianchi identity and canonical scalar identity give
+ nabla_A E^A_B = -R_K partial_B Phi.
+If R_M=R_K=0, diagonality and homogeneity imply
+ partial_t E^t_t+3(h+p_t)(E^t_t-E^x_x)
+                 +b_t(E^t_t-E^s_s)=0,
+ partial_s E^s_s+(H+p_s)(4E^s_s-E^t_t-3E^x_x)=0.
+If the rows vanish only through degree n, these identities hold through
+degree n. Derivatives preserve formal degree, and all coefficients are
+analytic formal series with no negative powers.
+
+4. Inductive order-n argument; no radial constraint assumed at this step
+
+Use eta=epsilon exp(r t), r>h>0, and a stationary exact degree-zero
+background. Suppose every lower-order field equation has been solved.
+For the new degree n solve only tracefree, mixed and Klein-Gordon rows:
+ c_n=-qT_n/[lambda(lambda-h)],
+ Sp_n=H c_n-qM_n/lambda, lambda=n r,
+ p_n'=-2H p_n-T f_n/3+Sp_n,
+ f_n''=-4H f_n'+(m-mu_n E^2+2T^2)f_n+B0 p_n+Sg_n,
+ mu_n=-lambda(lambda+3h), B0=12HT-4mPhi0.
+Local solutions of these linear ODEs exist for arbitrary local initial
+values; do not impose the radial constraint to obtain this existence.
+
+All Einstein residual coefficients below n vanish by the induction
+hypothesis. Tracefree equality makes E^t_t,n=E^x_x,n. Since b_t has
+strictly positive degree, its product with an order-n residual first
+occurs above degree n. The temporal divergence therefore reduces to
+ lambda E^t_t,n=0.
+As lambda is nonzero, E^t_t,n=E^x_x,n=0. The radial divergence becomes
+ R_R,n'+4H R_R,n=0.
+
+5. Source compatibility, not merely constraint propagation
+
+Exact Q3 coefficient extraction after the mixed row gives
+ R_R,n=-C_n,
+ C_n=T f_n'-T' f_n+D_n p_n-Sc_n,
+ D_n=2T^2-3(mu_n+4k)E^2.
+For the locally solved mixed/KG rows the independently qualified identity is
+ C_n'+4H C_n=T Sg_n+D_n Sp_n-Sc_n'-4H Sc_n.
+The Bianchi deduction makes its left side zero, hence
+ Sc_n'+4H Sc_n-T Sg_n-D_n Sp_n=0.
+These sources depend only on solved lower orders and the determined c_n,
+so their compatibility does not depend on the arbitrary local initial data
+used in this proof. A global constrained solution may then be constructed
+using the scalar inverse and metric reconstruction; no circular assumption
+of its radial constraint was needed to prove source compatibility.
+
+6. Separate wall compatibility induction: inherited geometric identities
+
+The additional inspected source is the paragraph immediately following Q7
+in the governing manuscript (before C.3/S6). Define the wall junction
+residual J^a_b=K^a_b-K delta^a_b+S^a_b/2, with the manuscript's orientation
+and reflected-wall normalization. Inherit the exact Codazzi identity and
+the action-derived material exchange identity with their consistent signs.
+Once bulk equations, the scalar normal law, and the material equations
+(including the oscillator and, when present, conserved-current/phase rows)
+hold, those identities imply D_a J^a_b=0. The present neutral sector has
+zero currents. These geometric/exchange identities have NOT been
+independently rederived by this packet or by COMPONENT_MAP.
+
+Suppose all lower wall residuals vanish and impose the new tracefree Israel
+row. In the homogeneous isotropic wall ansatz this makes the order-n
+junction residual a pure mixed-index trace: J^a_b,n=j_n delta^a_b.
+In the covariant divergence, background connection contributions cancel
+for this identity tensor. Positive-order connection corrections multiply
+lower residuals, which vanish. Thus its temporal component at degree n is
+ partial_t j_n=lambda j_n=0, lambda=n r.
+Since lambda!=0, j_n=0. This removes the remaining Israel residual, not
+the independently imposed scalar or oscillator equations. Each wall is
+treated separately. A background wall proper-clock factor is nonzero and
+does not change this conclusion if proper time replaces the coordinate t.
+No statement is made about an additional zero-frequency wall residual.
+
+This wall induction is an all-order conditional algebraic consequence of
+the inherited Codazzi/material-exchange identities, not an independent
+off-shell validation of those identities. It is deliberately distinguished
+from the separately qualified bulk component map.
+
+7. Boundaries
+
+This is an all-order formal source identity for the same Einstein-scalar
+action, not a nonlinear convergence theorem. The background and lower-order
+equations must genuinely vanish. The selected first mode supplies the n=1
+solution; inversion/response estimates discussed elsewhere concern n>=2.
+The argument uses lambda!=0 and trace reconstruction also lambda!=h.
+It does not dispose of an independent zero-frequency harmonic, arbitrary
+incompatible external source loads, or other actions. No division by T is
+used. Pulled-coordinate graph formulations inherit this tensor identity
+only with consistent pullback of all fields and differential operators;
+the present calculation explicitly uses the Eulerian representation.
+Independent off-shell wall/Codazzi/material-exchange qualification,
+analytic source norms, a common complex collar,
+majorant contraction/convergence, initial-data realization, finite-amplitude
+error control, and the nonlinear endpoint remain separate obligations.
+
+check.py is a small exact algebraic consistency check of the displayed
+component reductions, leading homogeneous extraction, and the pure-trace
+wall divergence cancellation. It does NOT
+compute the full Einstein tensor from Christoffel symbols, reprove the
+contracted Bianchi theorem, or replace the analytic induction above.

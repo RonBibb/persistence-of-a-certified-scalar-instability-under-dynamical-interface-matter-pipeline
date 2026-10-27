@@ -1,0 +1,75 @@
+Exact moving-wall geometric and material residual identity
+
+Purpose: remove the previously explicit but independently unverified wall
+Codazzi/material-exchange premise from the neutral formal recursion.
+This test does not recompute an ODE or enlarge any convergence radius.
+
+Take the general five-dimensional metric diag(-N²,R²,R²,R²,B²), where
+N,R,B depend on t,s and are positive. Let a timelike homogeneous wall be
+s=S(t), v=B S_t/N, gamma=(1-v²)^(-1/2), |v|<1. Its unit tangent and
+inward oriented normal are U=gamma(N^-1,0,0,0,v/B) and
+n=sigma gamma(v/N,0,0,0,B^-1), sigma=+1 or-1. Define
+A=N_s/(NB), C=B_t/(NB), D=R_s/(BR), F=R_t/(NR),
+along=partial_t+vN/B partial_s, and dot=gamma/N along.
+The orientation is factored out of every geometric check.
+
+1. Independent extrinsic geometry
+Compute the full five-dimensional Christoffel and Ricci tensors from
+the diagonal metric, using arbitrary first and second jets. No bulk
+equation or background identity is substituted.
+The normal acceleration and spatial extrinsic eigenvalue must give
+ Ktau=sigma gamma[gamma² v_t/N+A+vC],
+ Kx=sigma gamma[D+vF], Hwall=gamma(F+vD),
+where v_t is the total along-wall coordinate derivative.
+The acceleration check divides by sigma gamma³, so its result is
+ v_t/N+(1-v²)(A+vC). This avoids an assumed square-root simplification.
+
+2. Exact Codazzi component in this ansatz
+For K^a_b=diag(Ktau,Kx,Kx,Kx), the temporal proper-time component of
+the covariant divergence of K^a_b-K delta^a_b is
+ -3 dot Kx+3 Hwall(Ktau-Kx).
+Using the expressions above, its v_t contributions cancel exactly by
+gamma²(1-v²)=1. Dividing by sigma gamma² leaves
+ 3[-(along D+v along F)/N+(F+vD)(A-D+v(C-F))].
+The independently computed Ricci projection, divided by sigma gamma²,
+is v Ric_tt/N²+(1+v²)Ric_ts/(NB)+v Ric_ss/B².
+The test compares these as exact Laurent polynomials. This verifies
+the Codazzi sign and moving-wall factors for the actual homogeneous
+ansatz without using a bulk field equation or sampled numerical data.
+
+3. Material identity, including off-shell residual
+For zero current, Vwall=tau(Phi)+W(Phi,chi),
+ rho=chi_dot²/2+Vwall, P=chi_dot²/2-Vwall.
+Let O=chi_ddot+3Hwall chi_dot+W_chi. Differentiating rho gives
+ rho_dot+3Hwall(rho+P)=chi_dot O+Vwall_Phi Phi_dot.
+Thus D_a S^a_tau=-chi_dot O-Vwall_Phi Phi_dot.
+For the scalar normal residual Jphi=2 nPhi-Vwall_Phi and bulk Einstein
+residual E_nU=Ric_nU-(nPhi)(UPhi), with all metric-proportional terms
+dropping out by n.U=0, the junction residual
+ J^a_b=K^a_b-K delta^a_b+S^a_b/2
+satisfies exactly
+ D_a J^a_tau=E_nU+(Jphi/2)Phi_dot-(chi_dot/2)O.
+This is an off-shell identity. On solved bulk/scalar/oscillator rows
+it gives zero divergence. At positive harmonic n the tracefree Israel
+row and lower solved wall rows make J_n a pure identity tensor. Its
+divergence is lambda_n j_n, lambda_n=nr!=0, hence j_n=0 separately
+on each wall. A zero harmonic is not removed by this argument.
+
+4. Exact coordinate checks against the source envelopes
+For N=a(S)exp(pwall), R=a(S)exp(ht+pwall), B=exp(bwall),
+ ell=N sqrt(1-v²), logarithmic wall derivatives satisfy
+ (log R)_t=h+H S_t+pwall_t,
+ (log ell)_t=H S_t+pwall_t-v v_t/(1-v²).
+Therefore the coordinate oscillator friction 3(log R)_t-(log ell)_t
+is 3h+2H S_t+2pwall_t+v v_t/(1-v²), precisely Q5.
+For fixed-position derivatives, N_s/N=R_s/R gives A=D, while
+C=b_t/N and F=(h+p_t)/N. Consequently Ktau-Kx is exactly S7,
+sigma gamma/N[gamma² v_t+v(b_t-h-p_t)].
+The scalar normal nPhi=sigma gamma[B^-1 Phi_s+v N^-1 Phi_t]
+is the normal row used in Q5 after the consistent pullback.
+
+The polynomial checks qualify this geometry and material exchange for
+the neutral homogeneous timelike-wall ansatz. They do not claim a
+general junction theorem outside that ansatz, nor generic-data evolution,
+or a large-amplitude endpoint. All other action/background/mode premises
+remain the already authenticated ones.

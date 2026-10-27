@@ -1,0 +1,5 @@
+# Independent prospective review — T8
+
+ADMISSIBLE following accepted T7. Read plan/config and all changes from T7: same negative-lambda solver, psi(a)=1 constrained launch, rate/precision/resolution/cap contracts and independent full-system endpoint audit; equal Hessians are now 9/500. Postprocessing computes interval persistent and extra mass-squared shifts and their ratio without midpoint substitution. Both extra-mode brackets are already separated enough that their shift denominator is strictly positive; a persistent shift enclosing zero would retain that uncertainty.
+
+The inherited exactly-one below-minus-twelve theorem retains root identity. The comparison measures different responses to the same wall change, not excitation or dynamical dominance. T5 prediction containment remains separate from solver acceptance. Bind accepted T7 RESULT/review and both extra RESULT/reviews, all current sources/plan/config/review and inherited authority/proof dependencies. Source adds a postcomparison binding check before RESULT. No additional equation changes or physical action are introduced.

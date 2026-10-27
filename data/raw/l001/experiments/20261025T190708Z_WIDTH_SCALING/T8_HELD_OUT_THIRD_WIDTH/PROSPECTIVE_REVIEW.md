@@ -1,0 +1,5 @@
+# Independent prospective review — admitted
+
+Reviewed source delta against accepted precision T3, full plan and exact configuration. Width .015 uses fresh endpoints and initial bracket [-12-.000045,-12-.00003] derived from the accepted uniform leading envelope, not the sixth-order prediction. No previous root at this width is used. New target1e-15, n32/64 and g128 plus forty bounded iterations are explicit prospective controls; all strict tube, sign, constraint and source gates remain.
+
+The diagnostic (gap-D^2/6+5D^4/36)/D^6 and exact twenty-percent coefficient window [383/1200,383/800] around383/960 are correct. Whole-interval outcomes are independent of technical acceptance. The source verifies the bound analytic coefficient before comparison and preserves an adverse or inconclusive outcome. This is a held-out root/prediction test despite prior uniform bracket coverage at this width, not a fitted or uniform eighth-order remainder claim. No numerical execution was performed by reviewer. Original cutoff/resources apply.

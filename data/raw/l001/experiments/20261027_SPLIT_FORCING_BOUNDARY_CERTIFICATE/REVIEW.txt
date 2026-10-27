@@ -1,0 +1,8 @@
+Independent Linux postrun audit PASS, jet_bound_review.
+Verified2913 binding entries,2122 gates,128xF/G real/complex inverse rows
+from authenticated extrema/INITIAL lengths,original real-row replay,
+all7x128 composedB/C pairs/suprema/ties,162savedK/selectors,
+81parentrows/fullconstant replay,both fullcertificates/firstdyadic tails,
+budget sums and effects. Did not regenerate all nonlinear envelope maps.
+TERMINALe377bfb33f97493eb98880a5a0bac91150fde00aa9b4265e0cf83417a27a8f7e
+RESULTb14ba7290b7fdc1a33e7f26819a060f2db4294bfabcd8846c0adabc50e88fbb2
