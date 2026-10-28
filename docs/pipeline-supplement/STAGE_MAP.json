@@ -159,7 +159,7 @@
       ],
       "locations": [
         "data/raw/l001/experiments/20261026_NEUTRAL_ANALYTIC_SEED",
-        "data/raw/l001/experiments/20261027_COMPONENT_SEED_CERTIFICATE",
+        "data/raw/l001/experiments/20261027_BACKGROUND_SEED_CERTIFICATE_R1",
         "data/raw/l001/experiments/20261027_FINAL_FIXED_GRID_CERTIFICATE"
       ]
     },
@@ -233,7 +233,7 @@
         "Uniform local departure inequalities and Figure3; public figure-render assets remain to deposit"
       ],
       "locations": [
-        "manuscript/revisions/20261027_revision_6/output/pdf/manuscript.pdf"
+        "manuscript/paper.pdf"
       ]
     },
     {
@@ -284,6 +284,24 @@
         "tests/check_local_algebra.py",
         "src/check_pipeline_documentation.py",
         "src/build_pipeline_catalog.py"
+      ]
+    },
+    {
+      "id": "V4",
+      "purpose": "Qualified exact-Fraction saved-cell verification",
+      "inputs": [
+        "Explicit104-file bundle and pinned manifest"
+      ],
+      "gates": [
+        "All16365 Picard/Taylor cells,64chunks,seven coarse gates;nine rejection controls"
+      ],
+      "outputs": [
+        "New portable execution and controls;no IVP"
+      ],
+      "locations": [
+        "src/export_kinetic_verifier_bundle.py",
+        "src/verify_kinetic_cells.py",
+        "data/processed/kinetic-verifier/20261027_portable_v1"
       ]
     }
   ]

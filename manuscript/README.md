@@ -1,5 +1,8 @@
-# Generated manuscript PDF
+# Current reading copies
 
-`paper.pdf` is the byte-preserved generated PDF of the current combined A–AB paper, revision 5. It currently retains its anonymous journal-review format. This organization pass does not create a new scientific revision or journal-independent edition.
+- [Article](paper.pdf).
+- [Pipeline supplement](pipeline-supplement.pdf).
 
-TeX, editable text, bibliography and image sources live in the private workspace. Build privately and copy an approved generated PDF here. No editable manuscript source is stored in this public directory.
+These are the current generated double-anonymous reading copies. Editable manuscript text, TeX, bibliography and image sources are held in the private parent project. Earlier PDFs are retained by Git history; the working tree contains one current copy of each document.
+
+Supporting evidence and its anonymous guide are available to the editor and referees on request through the editorial office.
