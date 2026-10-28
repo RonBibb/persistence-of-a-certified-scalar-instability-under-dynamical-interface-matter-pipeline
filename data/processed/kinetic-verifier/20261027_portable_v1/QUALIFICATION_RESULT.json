@@ -1,0 +1,38 @@
+{
+  "finished_utc": "2026-10-27T22:52:02.411250+00:00",
+  "status": "PASS_PORTABLE_SAVED_CELL_QUALIFICATION_V1",
+  "new_full_positive_runs": 1,
+  "negative_controls_passed": 9,
+  "verified_cells": 16365,
+  "verified_chunks": 64,
+  "bound_input_files": 104,
+  "bound_input_bytes": 13914197,
+  "manifest_sha256": "e69a740d23951c794231330c5d53e0e432a493ef0b43179ce53d427dbcdd9c19",
+  "elapsed_worker_seconds": 232.7015264590009,
+  "full_run_timeout_seconds": 600,
+  "numerical_gates": {
+    "Ewarp_below_8": true,
+    "k_below_1_over_3000": true,
+    "mPhi_squared_below_1": true,
+    "negative_H": true,
+    "positive_event_width": true,
+    "positive_k": true,
+    "positive_warp_reciprocal": true
+  },
+  "strict_Delta_upper_rational": "12091872/47265625",
+  "input_files_readonly_and_unchanged": true,
+  "preexisting_files_unchanged": 403,
+  "historical_result_comparison_fields_equal": [
+    "verified_cells",
+    "total_cells",
+    "gates",
+    "verified_chunks",
+    "pointer_sha256",
+    "payload_sha256",
+    "producer_result_sha256"
+  ],
+  "outside_scientific_input_reads": 0,
+  "new_ivp_or_root_solves": 0,
+  "independent_scientific_review_performed": false,
+  "scope": "Fresh execution of unchanged historical Fraction mathematics under a new pinned portable launcher; saved enclosure verification and coarse gates only. Root existence, analytical kinetic theorem, nonlinear source/inverse and anonymous referee access remain separate."
+}

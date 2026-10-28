@@ -1,0 +1,7 @@
+{
+  "deadline_utc": "2026-10-27T22:47:38.641774+00:00",
+  "manifest_sha256": "399c9f8e672c4471f0a5c27965812ae689824d1b1880a9a611159e1fbdc13c92",
+  "new_execution": true,
+  "started_utc": "2026-10-27T22:47:08.641879+00:00",
+  "timeout_seconds": 30
+}

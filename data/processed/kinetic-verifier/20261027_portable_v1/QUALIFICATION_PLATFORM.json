@@ -1,0 +1,10 @@
+{
+  "recorded_utc": "2026-10-27T22:53:37.392644+00:00",
+  "sys_platform": "darwin",
+  "system": "Darwin",
+  "release": "24.6.0",
+  "machine": "arm64",
+  "python": "3.14.4 (main, Apr  7 2026, 13:13:20) [Clang 17.0.0 (clang-1700.6.4.2)]",
+  "python_executable_sha256": "b874063062531b7ac73b400141e9ce95184945f86fa1bda91bab5c6671a55149",
+  "scope": "Qualification host metadata; no claim of a second platform execution."
+}

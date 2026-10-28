@@ -1,0 +1,7 @@
+{
+  "error": "Portable worker rejected inputs or failed; see worker records",
+  "scientific_acceptance": false,
+  "status": "REJECTED_OR_HELD",
+  "traceback": "Traceback (most recent call last):\n  File \"/private/tmp/paper-kinetic-qualification-v1/negative-controls/spurious_event/inputs/verify_kinetic_cells.py\", line 206, in main\n    raise RuntimeError('Portable worker rejected inputs or failed; see worker records')\nRuntimeError: Portable worker rejected inputs or failed; see worker records\n",
+  "type": "RuntimeError"
+}

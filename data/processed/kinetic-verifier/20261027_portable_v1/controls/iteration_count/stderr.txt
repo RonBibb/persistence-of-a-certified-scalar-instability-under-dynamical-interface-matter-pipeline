@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/private/tmp/paper-kinetic-qualification-v1/negative-controls/iteration_count/inputs/verify_kinetic_cells.py", line 218, in <module>
+    main()
+    ~~~~^^
+  File "/private/tmp/paper-kinetic-qualification-v1/negative-controls/iteration_count/inputs/verify_kinetic_cells.py", line 206, in main
+    raise RuntimeError('Portable worker rejected inputs or failed; see worker records')
+RuntimeError: Portable worker rejected inputs or failed; see worker records

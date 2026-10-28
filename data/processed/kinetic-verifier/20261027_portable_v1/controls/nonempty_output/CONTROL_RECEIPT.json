@@ -1,0 +1,12 @@
+{
+  "case": "nonempty_output",
+  "pass": true,
+  "expected_rejection": "FileExistsError",
+  "returncode": 1,
+  "elapsed_seconds": 0.06977641700359527,
+  "input_files_unchanged": true,
+  "manifest_sha256": "e69a740d23951c794231330c5d53e0e432a493ef0b43179ce53d427dbcdd9c19",
+  "rebound_fixture": false,
+  "worker_failure": null,
+  "supervisor_failure": null
+}

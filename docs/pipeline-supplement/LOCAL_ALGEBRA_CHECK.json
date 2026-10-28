@@ -1,0 +1,26 @@
+{
+  "scope": "Local exact algebra and homogeneity checks only; not a proof of nonlinear source estimates, inherited inverse, numerical premises or independent scientific review.",
+  "checks": {
+    "Q7_constraint_substitution_outward_Robin": true,
+    "Q3_reduced_scalar_source_sign": true,
+    "Q2_tracefree_divisor": true,
+    "G2_true_density_to_bar_density": true,
+    "G2_mean_width_constraint": true,
+    "G3_all_form_terms_common_weight": true,
+    "G2_radial_gap_and_h_ratio": true
+  },
+  "passed": true,
+  "form_scaling_exponents": {
+    "bulk_square": 3,
+    "wall_square": 3,
+    "bulk_remainder": 3,
+    "pressure_endpoint": 3
+  },
+  "radial_energy_exponents": {
+    "E_u": 3.0,
+    "mathscr_A": 5.0
+  },
+  "source_audit": "The article Lemma C.1 gives the analytical factorwise argument; these checks do not prove its estimates.",
+  "producer_imports": 0,
+  "new_integrations": 0
+}

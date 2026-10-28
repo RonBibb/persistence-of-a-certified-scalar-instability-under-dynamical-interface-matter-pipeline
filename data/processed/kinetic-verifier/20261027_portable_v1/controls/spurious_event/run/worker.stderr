@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/private/tmp/paper-kinetic-qualification-v1/negative-controls/spurious_event/inputs/verify_kinetic_cells.py", line 218, in <module>
+    main()
+    ~~~~^^
+  File "/private/tmp/paper-kinetic-qualification-v1/negative-controls/spurious_event/inputs/verify_kinetic_cells.py", line 188, in main
+    worker(args,bundle,output)
+    ~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/private/tmp/paper-kinetic-qualification-v1/negative-controls/spurious_event/inputs/verify_kinetic_cells.py", line 142, in worker
+    result = module.check_saved(safe(bundle, data['certificate']), data['pointer_sha256'], output)
+  File "/private/tmp/paper-kinetic-qualification-v1/negative-controls/spurious_event/inputs/packet/action_review/fraction_verifier/verify_saved_certificate.py", line 305, in check_saved
+    raise RuntimeError('Spurious saved event cell')
+RuntimeError: Spurious saved event cell

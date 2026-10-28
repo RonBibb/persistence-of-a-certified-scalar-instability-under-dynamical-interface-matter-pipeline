@@ -37,6 +37,10 @@ __pycache__/
 /manuscript/*
 !/manuscript/*.pdf
 !/manuscript/README.md
+!/manuscript/revisions/
+/manuscript/revisions/**
+!/manuscript/revisions/**/
+!/manuscript/revisions/**/*.pdf
 
 # Scientific evidence logs and outputs are data, not build products.
 !/data/**/*.log

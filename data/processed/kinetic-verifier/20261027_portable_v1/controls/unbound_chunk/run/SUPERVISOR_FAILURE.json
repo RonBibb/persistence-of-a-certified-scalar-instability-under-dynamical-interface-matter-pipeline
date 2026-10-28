@@ -1,0 +1,7 @@
+{
+  "error": "Bundle file digest mismatch: packet/certificate/cells/chunk_00000_00256.json.gz",
+  "scientific_acceptance": false,
+  "status": "REJECTED_OR_HELD",
+  "traceback": "Traceback (most recent call last):\n  File \"/private/tmp/paper-kinetic-qualification-v1/negative-controls/unbound_chunk/inputs/verify_kinetic_cells.py\", line 194, in main\n    checked_manifest(bundle,args.expected_manifest_sha256)\n    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/private/tmp/paper-kinetic-qualification-v1/negative-controls/unbound_chunk/inputs/verify_kinetic_cells.py\", line 61, in checked_manifest\n    raise RuntimeError('Bundle file digest mismatch: '+name)\nRuntimeError: Bundle file digest mismatch: packet/certificate/cells/chunk_00000_00256.json.gz\n",
+  "type": "RuntimeError"
+}

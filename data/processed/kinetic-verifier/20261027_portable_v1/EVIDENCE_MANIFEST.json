@@ -1,0 +1,498 @@
+{
+  "created_utc": "2026-10-27T22:52:02.428137+00:00",
+  "files": {
+    "data/processed/kinetic-verifier/20261027_portable_v1/RECOVERY_RECEIPT.json": {
+      "sha256": "85f414758ac046d6f275e22d67937d3c130c0887d05b323c3f81b43e59db4b5a",
+      "bytes": 1035
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/PROVENANCE_CLOSURE_RECOVERY.json": {
+      "sha256": "1a756621cf54e2598c225446cc89f3a9661e2ec2cd75e8fc6a80a6b71d7c61e3",
+      "bytes": 722
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/BUNDLE_MANIFEST.sha256": {
+      "sha256": "a349adaf77ac533dca6e913b4b8c3108858ee992597094096ba84da88e8b4993",
+      "bytes": 87
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/QUALIFICATION_FREEZE_v1.json": {
+      "sha256": "4d16fc1e47b1f1a949bcadccdcda58df5bf53effcaa6a71370ec9d6bb4619ca0",
+      "bytes": 1187
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/CONTROLS_RESULT.json": {
+      "sha256": "da31211f7bc93cbc9e45294f0a9bafee56a76b7d361a0381e352e5ebfdbca609",
+      "bytes": 62158
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/QUALIFICATION_RESULT.json": {
+      "sha256": "f58efd60c2dbcddf45f407b2e298a9d894dc17e00dbb832ee4c9e917cfe17c36",
+      "bytes": 1447
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/QUALIFICATION_REPORT.md": {
+      "sha256": "667958e3770d976f4388d67922841c7b7772f6700e9cdbdc067915d3c53c5c0a",
+      "bytes": 5072
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/BUNDLE_MANIFEST.json": {
+      "sha256": "e69a740d23951c794231330c5d53e0e432a493ef0b43179ce53d427dbcdd9c19",
+      "bytes": 23674
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/frozen_v1/verify_kinetic_cells.py": {
+      "sha256": "04b2058b706ac653e0ff65d03cf32262c418836b443320431ed48b54c86c34a7",
+      "bytes": 10530
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/frozen_v1/QUALIFICATION_PLAN.md": {
+      "sha256": "ee11bc69f7ea995e6f4f4f62918c4ff66630986275c1c5e5ba1b9ce8c621588d",
+      "bytes": 3651
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/frozen_v1/export_kinetic_verifier_bundle.py": {
+      "sha256": "72e208ec5211fff55a35e7cc89edfba0db4f444717027fc5adc7fa4dc95a312a",
+      "bytes": 3621
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/frozen_v1/BUNDLE_MANIFEST.json": {
+      "sha256": "e69a740d23951c794231330c5d53e0e432a493ef0b43179ce53d427dbcdd9c19",
+      "bytes": 23674
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/frozen_v1/check_kinetic_verifier_controls.py": {
+      "sha256": "81f8697e1523c36b3a136786c4cad29f0cc315bd91fd85721c35ea0ce1f7c789",
+      "bytes": 6011
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/positive-run/PORTABLE_RUN.json": {
+      "sha256": "0eef787afd59905fd5fc6e756de4bfb0ac6dddca2b287821f62ee86caaf9edfb",
+      "bytes": 7473
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/positive-run/VERIFICATION_RESULT.json": {
+      "sha256": "6e99b2a3f523fdf63f2c4a744a7d19c45820bb1326539556465f2a35b42ffdec",
+      "bytes": 10505
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/positive-run/worker.stdout": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/positive-run/PROGRESS.json": {
+      "sha256": "d422ac24b2188ba1dcaf627a10debb00b681c6a3612105895769b041daecb98c",
+      "bytes": 210
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/positive-run/LAUNCH.json": {
+      "sha256": "71e48c70238a89b0a759f726667ebd2b96c5bcb7a94a4d9a240028c1b8340314",
+      "bytes": 250
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/positive-run/worker.stderr": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/nonempty_output/stdout.txt": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/nonempty_output/stderr.txt": {
+      "sha256": "d8d3b63987e8f42b1250f1d1cf4647f9455dacc7312a137e5a3eff5c14ea8c18",
+      "bytes": 749
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/nonempty_output/CONTROL_RECEIPT.json": {
+      "sha256": "db50a470ce32941c0bb2228f681e6780e62ce2fea97fc496b99056afaf496bca",
+      "bytes": 358
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/picard_box/stdout.txt": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/picard_box/stderr.txt": {
+      "sha256": "411720e743c55375d97af5412e9bf9ea664e28f4814e7846b6a6887957dfabe4",
+      "bytes": 489
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/picard_box/CONTROL_RECEIPT.json": {
+      "sha256": "0d813babeb53c28d96c61729f6243fadd7145a754bfdea0b622183f3da5da6c9",
+      "bytes": 8103
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/cell_index/stdout.txt": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/cell_index/stderr.txt": {
+      "sha256": "df7cc5f294e4a60ecfcc2102bf3f279127ef65943d5929939a27d4620d158570",
+      "bytes": 489
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/cell_index/CONTROL_RECEIPT.json": {
+      "sha256": "8b7dd8580f7cf73595d348ee876ec9a890233e3745e1ec7b0a9df3a195e8ace3",
+      "bytes": 8015
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/endpoint/stdout.txt": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/endpoint/stderr.txt": {
+      "sha256": "3ea164a72fbf8c8d5847d977b0fbc3dc5e931fc316cc2cbd2d6123e8451ca9a8",
+      "bytes": 485
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/endpoint/CONTROL_RECEIPT.json": {
+      "sha256": "c1548f4c5e1185524539b6a6185b6f37cf0c375cf4a0e92bf040532c6650709d",
+      "bytes": 8095
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/iteration_count/stdout.txt": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/iteration_count/stderr.txt": {
+      "sha256": "8060a61105f3f80c7c023004647b31f48053690881e6144e8bd0e93ed7b0eb58",
+      "bytes": 499
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/iteration_count/CONTROL_RECEIPT.json": {
+      "sha256": "ad595c9307c97f595d6e9ffed9ef5381c395db126094a2c313b46c768f306c2a",
+      "bytes": 8063
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/spurious_event/stdout.txt": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/spurious_event/stderr.txt": {
+      "sha256": "1ec91cf9ddd6fa14e77413e7e44a599e5c63a3318598f2f1dd60f769f94aef86",
+      "bytes": 497
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/spurious_event/CONTROL_RECEIPT.json": {
+      "sha256": "0d983ef714c3b02ed71eb4be70282db652ec7b0b82eac9197b32a94ac645fb17",
+      "bytes": 7991
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/protocol_bits/stdout.txt": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/protocol_bits/stderr.txt": {
+      "sha256": "416fc72760e5ebf22e3cc3ed0a1c0731e960e74bebb7486fba53ece75ffe87bc",
+      "bytes": 495
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/protocol_bits/CONTROL_RECEIPT.json": {
+      "sha256": "5cad8b3adf0a290d7f5034d325084e047b338840303872c0b55ddd19562a5b64",
+      "bytes": 7981
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/whole_cell/stdout.txt": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/whole_cell/stderr.txt": {
+      "sha256": "a90e07fcae30cb64407f1cf46d56712f62407a6f79b9975594903177e2c77a40",
+      "bytes": 489
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/whole_cell/CONTROL_RECEIPT.json": {
+      "sha256": "1a7ab8fb7706f3cc096993d92b59570710b7a5bc371f4af8e2d5670db91c4a71",
+      "bytes": 8103
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/unbound_chunk/stdout.txt": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/unbound_chunk/stderr.txt": {
+      "sha256": "8edc75652b0b295f09e8eb750179804ad4012812f870bc58e7138d133339309c",
+      "bytes": 750
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/unbound_chunk/CONTROL_RECEIPT.json": {
+      "sha256": "b81e77594f37b18640182646fe4c0fcf98b7cb3625a9c0714c1d3dbac8b50db2",
+      "bytes": 1183
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/unbound_chunk/fixture_delta/BUNDLE_MANIFEST.sha256": {
+      "sha256": "a349adaf77ac533dca6e913b4b8c3108858ee992597094096ba84da88e8b4993",
+      "bytes": 87
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/unbound_chunk/fixture_delta/BUNDLE_MANIFEST.json": {
+      "sha256": "e69a740d23951c794231330c5d53e0e432a493ef0b43179ce53d427dbcdd9c19",
+      "bytes": 23674
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/unbound_chunk/run/SUPERVISOR_FAILURE.json": {
+      "sha256": "3ec25014ae3bddf90c3383206c34ec1bbf58c63326f5b42961b79e4b449cbc0e",
+      "bytes": 808
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/unbound_chunk/fixture_delta/packet/certificate/cells/chunk_00000_00256.json.gz": {
+      "sha256": "f9eb9274592dd5e41ae4e343a55eef5b1923eaa9f02d899e4d617878ae99b663",
+      "bytes": 206996
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/whole_cell/fixture_delta/BUNDLE_MANIFEST.sha256": {
+      "sha256": "f701fa05ff068dbd9ba81395a287a67e7276dd6646b8bd3c5f25964fa5f14f5e",
+      "bytes": 87
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/whole_cell/fixture_delta/BUNDLE_MANIFEST.json": {
+      "sha256": "f8e9cc7cddec9046df8df2623f8ad324f2f5fcb704e4f33ebc7bd162dcd8c9d9",
+      "bytes": 23674
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/whole_cell/run/worker.stdout": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/whole_cell/run/SUPERVISOR_FAILURE.json": {
+      "sha256": "0a5c49fe4a1da85974dbb86281cf10413a6249d3c28b810677035e449230f09f",
+      "bytes": 527
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/whole_cell/run/LAUNCH.json": {
+      "sha256": "8dfdd9ebf64deba51ed66f87f4568ae0d7db32e40cdabf765a0b5597575a143c",
+      "bytes": 249
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/whole_cell/run/worker.stderr": {
+      "sha256": "2059bc1ea15ef97faae9b4a0313f4182a9c334c365ff0d08b5b4b93a927eda89",
+      "bytes": 958
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/whole_cell/run/WORKER_FAILURE.json": {
+      "sha256": "8c9a6a49371f006a29611634dabcc7baf5a46b8ea33f895a51d5e2073bb72bd0",
+      "bytes": 6934
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/whole_cell/fixture_delta/packet/certificate/LATEST.json": {
+      "sha256": "13d83090e990aadeaba47dc5706e9852deefef898578165689dbe5e5c0857a58",
+      "bytes": 116
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/whole_cell/fixture_delta/packet/certificate/cells/chunk_00000_00256.json.gz": {
+      "sha256": "04d4b8939b8b55db884e13ee4ff7baf409aaaffd40a16e3d3e3ac4372f89f287",
+      "bytes": 206989
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/whole_cell/fixture_delta/packet/certificate/checkpoints/state_16365.json": {
+      "sha256": "a45d99812eb1624c7f46cee1d6da5987cc2297823546315d167c149cade8256c",
+      "bytes": 12884
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/protocol_bits/fixture_delta/BUNDLE_MANIFEST.sha256": {
+      "sha256": "078a9887b5479d5910fde2e6e26f8729b15167bc53e8327687627bccc67ad21a",
+      "bytes": 87
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/protocol_bits/fixture_delta/BUNDLE_MANIFEST.json": {
+      "sha256": "4120dd7acdd26b878a295f619be34798a39ae1c0655f722f2be82c94975eb0ae",
+      "bytes": 23674
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/protocol_bits/run/worker.stdout": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/protocol_bits/run/SUPERVISOR_FAILURE.json": {
+      "sha256": "7a833027458ab82b37acf2101b02f195c1ccdb2f544b350e77bda68b35482388",
+      "bytes": 530
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/protocol_bits/run/LAUNCH.json": {
+      "sha256": "6f7e98d1dae2d13b366c8aca5dde5509d48e03d1e5d993938657f591d3da04d1",
+      "bytes": 249
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/protocol_bits/run/worker.stderr": {
+      "sha256": "d8163bec5c7e85b754497517dcd9cc9f6abd2af90bd724641efcd0c74778db6e",
+      "bytes": 918
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/protocol_bits/run/WORKER_FAILURE.json": {
+      "sha256": "61cf58cee7dd17240efc4c344d0e3db87ccf9a7347a96e10bae3284bd4de4010",
+      "bytes": 6836
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/protocol_bits/fixture_delta/packet/certificate/LATEST.json": {
+      "sha256": "b714cd06f1264dff16034eaea9b35624bf3564cc227eeb317cbed008466ca449",
+      "bytes": 116
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/protocol_bits/fixture_delta/packet/certificate/checkpoints/state_16365.json": {
+      "sha256": "088daa7fb92037dc663f66e0bcd0e0e7dbdda62657586547bc2e5b8a3922a929",
+      "bytes": 12884
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/spurious_event/fixture_delta/BUNDLE_MANIFEST.sha256": {
+      "sha256": "42905dcc7372b88ba5eeb17efb010173236045341c06017858c2df979db2c99d",
+      "bytes": 87
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/spurious_event/fixture_delta/BUNDLE_MANIFEST.json": {
+      "sha256": "5e30459384d682b022eb2a7269aaaed394f458035321e36fa15d1d62da75de29",
+      "bytes": 23674
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/spurious_event/run/worker.stdout": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/spurious_event/run/SUPERVISOR_FAILURE.json": {
+      "sha256": "15768a3d7a86a341e867b35c1c123ff05f51bf6c6e52f12a3617fb27434b6d2d",
+      "bytes": 531
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/spurious_event/run/LAUNCH.json": {
+      "sha256": "2c95bf13a936670b24ed8d1731645abca3db53a22b63ee6786b2f45348f4382c",
+      "bytes": 249
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/spurious_event/run/worker.stderr": {
+      "sha256": "45b56a08602d2b346f4cbfeeeca2bf4e1c8419c71452d9bbab63f846a48b980e",
+      "bytes": 910
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/spurious_event/run/WORKER_FAILURE.json": {
+      "sha256": "ae7ba9932daab41bb86900f87ed95d81bc11971d87caee0b8eb2abf564177cb2",
+      "bytes": 6846
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/spurious_event/fixture_delta/packet/certificate/LATEST.json": {
+      "sha256": "cc6e3f12644190764e91b15947def803656f42111d01c12cdf2782a4573504cb",
+      "bytes": 116
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/spurious_event/fixture_delta/packet/certificate/cells/chunk_00000_00256.json.gz": {
+      "sha256": "fee549ce90d1d47799474508c411dc43e61294c78bab3adef8beea210f46df41",
+      "bytes": 207018
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/spurious_event/fixture_delta/packet/certificate/checkpoints/state_16365.json": {
+      "sha256": "7bd18ccd16e73c51db1745433a4a12079683ea1f62f401994d1cf1eb215a7dae",
+      "bytes": 12884
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/iteration_count/fixture_delta/BUNDLE_MANIFEST.sha256": {
+      "sha256": "d3d7a1ab5754ecf50823112a5879a2663a8cd3b664e00c55e692b338d1690b58",
+      "bytes": 87
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/iteration_count/fixture_delta/BUNDLE_MANIFEST.json": {
+      "sha256": "399c9f8e672c4471f0a5c27965812ae689824d1b1880a9a611159e1fbdc13c92",
+      "bytes": 23674
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/iteration_count/run/worker.stdout": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/iteration_count/run/SUPERVISOR_FAILURE.json": {
+      "sha256": "3dd2e116229ad7f744514bfc8faccd9a564c5504001355cf562f824049771c82",
+      "bytes": 532
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/iteration_count/run/LAUNCH.json": {
+      "sha256": "fbfc86bcceb5fdcbcd74360479d2b96363dcf73f2308949bdbacf2b9965cbbac",
+      "bytes": 249
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/iteration_count/run/worker.stderr": {
+      "sha256": "9765a26bc76dac954a20c8c15d9eb4c9c9c6794b75683264bb55ea4e87d609ed",
+      "bytes": 948
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/iteration_count/run/WORKER_FAILURE.json": {
+      "sha256": "b812038e54d95e36661660aca6c7b7977aa029349a3c9e71e55bbd0fec691e83",
+      "bytes": 6899
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/iteration_count/fixture_delta/packet/certificate/LATEST.json": {
+      "sha256": "e9f6a13b81cf640be9cd0f4b29b4015e4a195408abf814a38100ba56292fd20f",
+      "bytes": 116
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/iteration_count/fixture_delta/packet/certificate/cells/chunk_00000_00256.json.gz": {
+      "sha256": "0c5d578cc0e1aba906a91fcf4288afa8e3a7d258bd658bbded69dd1fb24022ed",
+      "bytes": 206986
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/iteration_count/fixture_delta/packet/certificate/checkpoints/state_16365.json": {
+      "sha256": "a4116aef97f45e35b20440e32fea64a7ed43f0e08ad7feb6af9cafdf0ed81425",
+      "bytes": 12884
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/endpoint/fixture_delta/BUNDLE_MANIFEST.sha256": {
+      "sha256": "36f19b4cc9dfc5c0fb2702b501eb0f03a9abf0b6c12275589d330473452373d2",
+      "bytes": 87
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/endpoint/fixture_delta/BUNDLE_MANIFEST.json": {
+      "sha256": "ebacf4947cebe551bc6d3a3ce881afb1a51f807049896648752139b91edf04bd",
+      "bytes": 23674
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/endpoint/run/worker.stdout": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/endpoint/run/SUPERVISOR_FAILURE.json": {
+      "sha256": "d9ada78720b4e8e18191db2b42d3ee1e38fca2e93881ef92ceb4303362f83ef7",
+      "bytes": 525
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/endpoint/run/LAUNCH.json": {
+      "sha256": "78ba635aef89fae191ab8234b47f40c75a548ef7f88ab997a6550b8271ddca79",
+      "bytes": 249
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/endpoint/run/worker.stderr": {
+      "sha256": "394e48fbcb303125e62350298b443055760450e210bde393f4ccb91a165a5c2f",
+      "bytes": 950
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/endpoint/run/WORKER_FAILURE.json": {
+      "sha256": "2a8567836feb88a41ee8c8c927b97dd22a0262754bed7e9ce30d6b46b029b2fb",
+      "bytes": 6930
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/endpoint/fixture_delta/packet/certificate/LATEST.json": {
+      "sha256": "48135e3f974b82e2203768ddae6cd630e37a96005bcc8d94ad190048be1c87a5",
+      "bytes": 116
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/endpoint/fixture_delta/packet/certificate/cells/chunk_00000_00256.json.gz": {
+      "sha256": "be45d81c60538c6ae7a7bdab0f892159db6a93a006076ff798645b3b8fe903dc",
+      "bytes": 206992
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/endpoint/fixture_delta/packet/certificate/checkpoints/state_16365.json": {
+      "sha256": "da83cca6d6a4c71865a8338614d37a977fe9fbfce7d9a1b60e92fd85263753a8",
+      "bytes": 12884
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/cell_index/fixture_delta/BUNDLE_MANIFEST.sha256": {
+      "sha256": "6ccb923874d2eff46a44cfa900f2709f090cdd2cd7052a6babd04f40381b068d",
+      "bytes": 87
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/cell_index/fixture_delta/BUNDLE_MANIFEST.json": {
+      "sha256": "e378ed8abdf78e6bbfc70d85b3480c6cc2776b7d8ace402eea8d36ce363b06b5",
+      "bytes": 23674
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/cell_index/run/worker.stdout": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/cell_index/run/SUPERVISOR_FAILURE.json": {
+      "sha256": "05c3e3c49551b414d9f8dca7b05d592e86f48135c6958306e971961c8c7ce199",
+      "bytes": 527
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/cell_index/run/LAUNCH.json": {
+      "sha256": "39f080c3b82f336ad1433b3c3360d1cf8f8c9c49503b424204e74aaf87f8d577",
+      "bytes": 249
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/cell_index/run/worker.stderr": {
+      "sha256": "b18f69c405b722e1fa0c86df0b0f3acb0e2c7f4edc8337a4bdd6d5fe2ff73cc8",
+      "bytes": 914
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/cell_index/run/WORKER_FAILURE.json": {
+      "sha256": "b1a571323b824144206dc875bb6eeb9b1bfe6f95790f1a434f547ad1027925f3",
+      "bytes": 6868
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/cell_index/fixture_delta/packet/certificate/LATEST.json": {
+      "sha256": "8c3052534dca26f05e9ea66d8ef99bb75db6d72da634b9cf00b20806c0592841",
+      "bytes": 116
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/cell_index/fixture_delta/packet/certificate/cells/chunk_00000_00256.json.gz": {
+      "sha256": "be111ea1f9318b1d0e29a3bddc2e669b67e87e609a69414b250c5564ecf72657",
+      "bytes": 206980
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/cell_index/fixture_delta/packet/certificate/checkpoints/state_16365.json": {
+      "sha256": "509da3fd204a3782374917b2930255e3ed336ecf7ff33f0f0aad06942a1816d0",
+      "bytes": 12884
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/picard_box/fixture_delta/BUNDLE_MANIFEST.sha256": {
+      "sha256": "0b1c136eb38895081055b662c39ff220c3827f50f5418962c06393d55590dd48",
+      "bytes": 87
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/picard_box/fixture_delta/BUNDLE_MANIFEST.json": {
+      "sha256": "8d6fc5ff827680e043de8c694b0e4b1d0391daf33bb81a96d605b64cad1a58c6",
+      "bytes": 23674
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/picard_box/run/worker.stdout": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/picard_box/run/SUPERVISOR_FAILURE.json": {
+      "sha256": "1c28c17c3915664ed7d881159d504f248e007304c16a2785fc2c312f2a748224",
+      "bytes": 527
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/picard_box/run/LAUNCH.json": {
+      "sha256": "43cb56f58989767b509a1d18489db847fad4a6e6a00a272f7f68c085ec991dc0",
+      "bytes": 249
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/picard_box/run/worker.stderr": {
+      "sha256": "1535d5fe19e9addc40f43d81832e18de6a122172900ffd622d8c7cec2a6d591b",
+      "bytes": 958
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/picard_box/run/WORKER_FAILURE.json": {
+      "sha256": "7bc2821f86fc24f9edb891551d702dc3f70bb5472cf4ebbb667ae235fc02c002",
+      "bytes": 6934
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/picard_box/fixture_delta/packet/certificate/LATEST.json": {
+      "sha256": "071894b2d25c01739a6a63c21427863e70fa90753ee3df542c8833a4e9346caa",
+      "bytes": 116
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/picard_box/fixture_delta/packet/certificate/cells/chunk_00000_00256.json.gz": {
+      "sha256": "53e0c3b6f7e7133dfb7978131fbaeddf5837effca557e25d9eeade0c4aa7462e",
+      "bytes": 206641
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/picard_box/fixture_delta/packet/certificate/checkpoints/state_16365.json": {
+      "sha256": "f9677914020ff8ce35f01c3498e304b26c0a05129698eef575108e5beb0aec4f",
+      "bytes": 12884
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/nonempty_output/fixture_delta/BUNDLE_MANIFEST.sha256": {
+      "sha256": "a349adaf77ac533dca6e913b4b8c3108858ee992597094096ba84da88e8b4993",
+      "bytes": 87
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/nonempty_output/fixture_delta/BUNDLE_MANIFEST.json": {
+      "sha256": "e69a740d23951c794231330c5d53e0e432a493ef0b43179ce53d427dbcdd9c19",
+      "bytes": 23674
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/controls/nonempty_output/run/sentinel.txt": {
+      "sha256": "9229f82f4b8494030bf877976803967befa3df6de5076526a34bd6ad7d9b4daf",
+      "bytes": 27
+    },
+    "data/processed/kinetic-verifier/20261027_portable_v1/QUALIFICATION_PLATFORM.json": {
+      "sha256": "a7906957511b3db2e8e9247a4ad5794c8d04b90bcdea22f43ece725de7da587f",
+      "bytes": 420
+    }
+  },
+  "scope": "New qualification evidence bindings; historical records keep their original scopes."
+}

@@ -1,0 +1,12 @@
+{
+  "pass_status": true,
+  "files_checked": 19416,
+  "bytes_checked": 14040303990,
+  "manifest_sha256": "1f3aee718f6fc50284af9ea840a83061f38ef1c7d9f90440b12044bc2860e82f",
+  "failures": [],
+  "unexpected_files": [],
+  "missing_directories": [],
+  "unrepresented_empty_directories": [],
+  "scientific_producers_executed": 0,
+  "scope": "Relocated record identity only; no mathematical or interval-trajectory regeneration."
+}

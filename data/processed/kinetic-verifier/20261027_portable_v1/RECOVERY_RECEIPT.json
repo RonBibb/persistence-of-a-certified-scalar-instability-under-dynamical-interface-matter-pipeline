@@ -1,0 +1,24 @@
+{
+  "created_utc": "2026-10-27T22:44:05.477272+00:00",
+  "restored": [
+    {
+      "path": "data/raw/neutral-certificates/kinetic/action_review/fraction_verifier/verify_saved_certificate.py",
+      "sha256": "4fb8bad4ef5f197074f6fc5709fe023753a523185c26f26546de64c62d7284f7",
+      "bytes": 21936
+    },
+    {
+      "path": "data/raw/neutral-certificates/kinetic/action_review/fraction_verifier/VERIFIER_PLAN_v1.md",
+      "sha256": "cbd71ebc2ff0a97e15a33888e39a020e3d3c9d2b02a98b3209f9c19c3dfe6e18",
+      "bytes": 5337
+    },
+    {
+      "path": "data/raw/neutral-certificates/kinetic/action_review/fraction_verifier/FRACTION_VERIFIER_CANDIDATE_v1.json",
+      "sha256": "9dd49f179d069b7df7cbdfc3628ff23320a637875628e8d5cb2c21ebf5698364",
+      "bytes": 3056
+    }
+  ],
+  "candidate_files_matched": 23,
+  "live_original_snapshot_pairs_matched": 17,
+  "scientific_executions": 0,
+  "scope": "Exact source/plan/candidate recovery and identity checks only. Original deadline/admission is historical, not present execution authority."
+}

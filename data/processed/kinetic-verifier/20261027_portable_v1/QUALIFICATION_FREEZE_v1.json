@@ -1,0 +1,33 @@
+{
+  "created_utc": "2026-10-27T22:47:06.424786+00:00",
+  "scope": "Prospective author freeze for a new portable saved-check qualification; not an independent scientific admission.",
+  "files": {
+    "verify_kinetic_cells.py": {
+      "sha256": "04b2058b706ac653e0ff65d03cf32262c418836b443320431ed48b54c86c34a7",
+      "bytes": 10530
+    },
+    "export_kinetic_verifier_bundle.py": {
+      "sha256": "72e208ec5211fff55a35e7cc89edfba0db4f444717027fc5adc7fa4dc95a312a",
+      "bytes": 3621
+    },
+    "check_kinetic_verifier_controls.py": {
+      "sha256": "81f8697e1523c36b3a136786c4cad29f0cc315bd91fd85721c35ea0ce1f7c789",
+      "bytes": 6011
+    },
+    "QUALIFICATION_PLAN.md": {
+      "sha256": "ee11bc69f7ea995e6f4f4f62918c4ff66630986275c1c5e5ba1b9ce8c621588d",
+      "bytes": 3651
+    },
+    "BUNDLE_MANIFEST.json": {
+      "sha256": "e69a740d23951c794231330c5d53e0e432a493ef0b43179ce53d427dbcdd9c19",
+      "bytes": 23674
+    }
+  },
+  "full_run_timeout_seconds": 600,
+  "negative_case_timeout_seconds": 30,
+  "positive_runs_per_version": 1,
+  "cells_required": 16365,
+  "chunks_required": 64,
+  "negative_controls_required": 9,
+  "checker_arithmetic_executed_before_freeze": false
+}

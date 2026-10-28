@@ -1,0 +1,15 @@
+{
+  "created_utc": "2026-10-27T22:46:39.133250+00:00",
+  "preparation_finding": "Initial exporter preflight found two absent admission-linked review receipts; no checker arithmetic had run and no bundle was created.",
+  "restored": [
+    {
+      "path": "data/raw/neutral-certificates/kinetic/adversarial_review/checker_prelaunch/PRELAUNCH_RECEIPT.json",
+      "sha256": "e4e72d4c937f9d8f01728cfc72a58e676abb38e01f6a829a447918ddb4eb65b1"
+    },
+    {
+      "path": "data/raw/neutral-certificates/kinetic/independent_review/checker_prelaunch/CHECKER_PRELAUNCH_RECEIPT.json",
+      "sha256": "819840bd1a0c9bf636ca9531c40b1503b3b8c774c8c1d85ed220c0792f1e2e1a"
+    }
+  ],
+  "historical_receipts_retain_original_scope": true
+}
