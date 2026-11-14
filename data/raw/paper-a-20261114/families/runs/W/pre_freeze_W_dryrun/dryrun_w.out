@@ -1,0 +1,10 @@
+W family jobs 360 unique 360 first ['bgp_W_02', 'bgi_W_02', 'ph_W_02'] W control jobs 5
+{
+  "controls_pass": true,
+  "gate_count": 39,
+  "failed": []
+}
+W controls exit=0
+W synthetic family exit=0
+FAMILY_CERTIFIED_CELL_COMPONENT ['W_00', 'W_01', 'W_02'] contacts checked 3 untied [] branch True {'CERTIFIED': 3, 'NOT_RUN': 1} ['W_03']
+run_production_w.sh syntax ok

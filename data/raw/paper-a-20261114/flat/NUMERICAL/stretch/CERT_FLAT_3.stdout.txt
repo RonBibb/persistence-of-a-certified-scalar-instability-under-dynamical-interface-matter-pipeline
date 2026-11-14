@@ -1,0 +1,1 @@
+{"T_a_negative_exact": true, "Tprime_a_positive_exact": true, "positive_E_all_cells": true, "constraint_contained_all_cells": true, "T_D_positive": true, "Tprime_D_positive": true, "convex_potential": true}

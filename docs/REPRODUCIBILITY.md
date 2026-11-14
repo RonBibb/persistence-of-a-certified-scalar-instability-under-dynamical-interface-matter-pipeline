@@ -1,5 +1,22 @@
 # Imported pipeline and verification
 
+## Current JMP evidence collection
+
+The [14 November collection](../data/raw/paper-a-20261114/README.md) adds the
+family and flat-slice producers, their saved outputs and all 450 full family
+phase traces. `python3 src/verify_paper_a_20261114.py` checks their byte identities
+and the current JMP reading copies. It imports no numerical producer. Historical
+launchers still carry their original platform/path assumptions; this collection
+does not claim unrestricted portable regeneration. The historical neutral
+package's `article.pdf` now matches its unchanged manifest.
+
+The current JMP PDFs are `manuscript/JMP_scalar_instability_article.pdf` and
+`manuscript/JMP_scalar_instability_supplement.pdf`. References below to
+`manuscript/paper.pdf` and `manuscript/pipeline-supplement.pdf` concern the preserved
+earlier submission and its pipeline guide.
+
+## Historical collection and qualification
+
 This repository contains the generated combined-paper PDF, saved-record verification, bounded symbolic checks and historical numerical source. Raw data, processed evidence and run records are now under `data/` in this public-side working tree. These selected records are versioned with the pipeline repository.
 
 From this public repository:
