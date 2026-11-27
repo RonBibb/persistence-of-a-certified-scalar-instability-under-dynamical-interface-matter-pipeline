@@ -1,5 +1,0 @@
-Transcribed verbatim from the console output of diag/g6_fix_dry.py (redacted dry run of post-freeze fix 1, run at about 06:52Z on linux.vm, flatcount.py 754bcf7c...). Flags only, no counts.
-DRY(redacted) F1 t=(0,0): G6 failures 0; max per-step(>=2) 0.7801; refined steps 147; max refine discrepancy 6.53e-14; max depth 11; 7.3s
-DRY(redacted) F3 t=(0.1,1): G6 failures 0; max per-step(>=2) 0.7700; refined steps 177; max refine discrepancy 6.37e-12; max depth 12; 8.5s
-DRY(redacted) F3 t=(0,0): G6 failures 0; max per-step(>=2) 0.7806; refined steps 177; max refine discrepancy 1.97e-11; max depth 12; 8.5s
-DRY(redacted) F1b t=(0.1,1): G6 failures 0; max per-step(>=2) 0.7771; refined steps 183; max refine discrepancy 1.43e-13; max depth 12; 8.5s
