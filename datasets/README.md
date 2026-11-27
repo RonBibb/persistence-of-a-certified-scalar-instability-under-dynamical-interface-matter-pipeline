@@ -19,3 +19,7 @@ git submodule update --init datasets/flat-background-numerics
 ```
 
 The historical `data/raw/paper-a-20261114/flat/NUMERICAL` path links to this pinned checkout. All 113 original files and collection-manifest identities are preserved. See the dataset README for Linux/Python and python-flint runtime requirements and the distinction between exploratory outputs and certificates. Initialize both dataset submodules before full collection verification.
+
+## Kinetic verifier qualification evidence
+
+Historical qualification receipts: https://github.com/RonBibb/paper-A-kinetic-verifier-evidence. Initialize `datasets/kinetic-verifier-evidence` with `git submodule update --init datasets/kinetic-verifier-evidence`. The old `data/processed/kinetic-verifier` path is preserved by a relative symlink. Inputs and executable verification tools remain in the main pipeline; see `docs/kinetic-verifier/README.md`. The dataset is an evidence archive, not a complete reproduction bundle. All original platform disclosures and failures are preserved.

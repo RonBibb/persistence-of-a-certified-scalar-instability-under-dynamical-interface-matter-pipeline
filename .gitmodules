@@ -4,3 +4,6 @@
 [submodule "datasets/flat-background-numerics"]
 	path = datasets/flat-background-numerics
 	url = https://github.com/RonBibb/paper-A-flat-background-numerics.git
+[submodule "datasets/kinetic-verifier-evidence"]
+	path = datasets/kinetic-verifier-evidence
+	url = https://github.com/RonBibb/paper-A-kinetic-verifier-evidence.git
