@@ -23,3 +23,15 @@ The historical `data/raw/paper-a-20261114/flat/NUMERICAL` path links to this pin
 ## Kinetic verifier qualification evidence
 
 Historical qualification receipts: https://github.com/RonBibb/paper-A-kinetic-verifier-evidence. Initialize `datasets/kinetic-verifier-evidence` with `git submodule update --init datasets/kinetic-verifier-evidence`. The old `data/processed/kinetic-verifier` path is preserved by a relative symlink. Inputs and executable verification tools remain in the main pipeline; see `docs/kinetic-verifier/README.md`. The dataset is an evidence archive, not a complete reproduction bundle. All original platform disclosures and failures are preserved.
+
+## L001 research archive
+
+Repository: https://github.com/RonBibb/paper-A-l001-research-data. This dataset preserves the full historical experiment archive, including adverse results, together with its processed manifest and result index.
+
+```sh
+git submodule update --init datasets/l001-research-data
+git -C datasets/l001-research-data lfs pull
+python3 src/verify_l001_archive.py --data-dir data/raw/l001 --manifest data/processed/l001/ARCHIVE_MANIFEST.json
+```
+
+The old raw and processed L001 paths are relative compatibility links into the submodule. Its data remain optional for a lightweight checkout; archive and full catalog checks require initialization. Scientific producer portability and claim limits are unchanged. Published Git/LFS history is retained.

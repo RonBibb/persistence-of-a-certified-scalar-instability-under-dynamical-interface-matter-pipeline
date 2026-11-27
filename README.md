@@ -14,6 +14,19 @@ The JMP files are unsubmitted author working copies, not anonymous submission fi
 
 Scientific source/data remain intact under `data/`, including all failed and superseded L001 runs. `src/l001/experiments/` is a relative entry into `data/raw/l001/experiments/`, not a second dataset. Numerical JSON/arrays use Git LFS: retrieve those objects before checking the data. The historical scientific archive is pinned at `f135faa390af8cf7f497e96407a03cae052662e7`; publication commits identify subsequent documents and qualified checking routes.
 
+## Optional L001 archive
+
+The full L001 archive (approximately 14.04 GB, plus its processed index) is now versioned independently in [paper-A-l001-research-data](https://github.com/RonBibb/paper-A-l001-research-data) and pinned at `datasets/l001-research-data`. A normal clone does not initialize this dataset. Initialize it when using L001 source/data, the archive verifier or the full pipeline catalog checks:
+
+```sh
+git submodule update --init datasets/l001-research-data
+git -C datasets/l001-research-data lfs pull
+```
+
+`data/raw/l001`, `data/processed/l001` and `src/l001/experiments` remain compatible local paths after initialization. Existing release tags and Git history are retained; this separation does not shrink historical objects automatically. Recursive initialization downloads all nested datasets, including L001.
+
+Other extracted packages and their initialization instructions are listed in [datasets/README.md](datasets/README.md). Initialize the required packages before running a verifier that references them.
+
 ```sh
 python3 src/verify_saved_records.py --data-dir data/processed/neutral-certificates
 python3 src/verify_paper_a_20261114.py

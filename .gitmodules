@@ -7,3 +7,6 @@
 [submodule "datasets/kinetic-verifier-evidence"]
 	path = datasets/kinetic-verifier-evidence
 	url = https://github.com/RonBibb/paper-A-kinetic-verifier-evidence.git
+[submodule "datasets/l001-research-data"]
+	path = datasets/l001-research-data
+	url = https://github.com/RonBibb/paper-A-l001-research-data.git
